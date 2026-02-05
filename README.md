@@ -25,7 +25,7 @@
 |  | Utorak 05.05.2026 | 9:00 – 12:15 | UX/UI Design | [Synopsis](./synopsis/ux-ui-w7-tue2.md) |  |
 | **Tjedan 8** | Četvrtak 07.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w8-thu.md) |  |
 |  | Petak 08.05.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w8-fri.md) |  |
-|  | Utorak 12.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w8-tue.md) | <span style="color:red">Zamijeniti sa agilnim metodama 15.05 </span>  |
+|  | Utorak 12.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w8-tue.md) | Zamijeniti sa agilnim metodama 15.05  |
 | **Tjedan 9** | Četvrtak 14.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w9-thu.md) |  |
 |  | Petak 15.05.2026 | 9:00 – 10:30 | Agilne metode | [Synopsis](./synopsis/agile-w9-fri.md) |  |
 |  | Petak 15.05.2026 | 10:45 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w9-fri.md) |  |
