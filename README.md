@@ -42,10 +42,10 @@
 
 | Dan | Datum | Tema | PDF Materijali | Udemy Dopuna | Trajanje |
 |-----|-------|------|----------------|--------------|----------|
-| **Dan 1** | 17.03.2026 | Introduction to UX | 1.Intro UXorange.pdf | ✅ Figma Intro (15-20 min) | 3h 15min |
-| **Dan 2** | 19.03.2026 | Principles of Design (Dio 1) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
-| **Dan 3** | 24.03.2026 | Principles of Design (Dio 2) + Ergonomics | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
-| **Dan 4** | 26.03.2026 | Information Architecture | 4.Information Architecture...pdf | 💡 Napredne Wireframing vježbe (30 min) | 3h 15min |
+| **Dan 1** | 17.03.2026 | Introduction to UX/UI | 1.Intro UXorange.pdf | ✅ Figma Intro (15-20 min) | 3h 15min |
+| **Dan 2** | 19.03.2026 | Principles of Design (Typography, Colors & Core Principles) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
+| **Dan 3** | 24.03.2026 | Psychology Principles in Design (UX Laws & Gestalt) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
+| **Dan 4** | 26.03.2026 | Usability Heuristics (Bastien & Scapin) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
 | **Dan 5** | 31.03.2026 | User Research & Testing (Dio 1) | 6.User Research & Testing.pdf | ❓ (za pregledati) | 3h 15min |
 | **Dan 6** | 02.04.2026 | User Research & Testing (Dio 2) | 6.User Research & Testing.pdf | ❓ (za pregledati) | 3h 15min |
 | **Dan 7** | 07.04.2026 | Design Thinking (Dio 1) | 7.Introduction To Design Thinking.pdf | ❓ (za pregledati) | 3h 15min |
