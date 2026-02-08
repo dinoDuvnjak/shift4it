@@ -35,6 +35,8 @@ Vaš zadatak je kreirati **detaljan, facilitator-ready sinopsis** za predavanje 
 3. **Udemy External Resources PDF** - Reference resursi (uploadan u ovaj chat)
 4. **Raspored predavanja** - Koliko sati traje svaki dan (možda uploadan)
 
+VAŽNO: Procijeni prema količini sadržaja, vježbama i tempu rada ima li dovoljno materijala za cijeli dan; ako ne, predloži podjelu na više dana ili dopunu sadržaja iz drugog PDF-a.
+
 ---
 
 ## KRITIČNA PRAVILA - MORA SE POŠTOVATI
@@ -77,6 +79,65 @@ Vaš zadatak je kreirati **detaljan, facilitator-ready sinopsis** za predavanje 
 - Detaljne upute za svaku (Cilj, Upute, Facilitator notes)
 - Različita trajanja (5 min, 10 min, 15 min aktivnosti)
 - Svrha: Punjenje rupa ako ostane vrijeme
+
+---
+
+## ⏰ REALNA PROCJENA TIMINGA
+
+### **PRIJE NEGO POČNEŠ GENERIRATI:**
+
+**1. Analiziraj PDF:**
+- Koliko slajdova ima ukupno?
+- Koji slajdovi su detaljni (trebaju više vremena)?
+- Koji slajdovi su primjeri/screenshots (mogu biti brži)?
+- Koji slajdovi su resources (mogu biti handout)?
+
+**2. Izračunaj realno vrijeme za 3h predavanje:**
+```
+9:00-10:00   (60 min)  Sekcija 1
+10:00-10:15  (15 min)  PAUZA ☕
+10:15-11:00  (45 min)  Sekcija 2
+11:00-11:15  (15 min)  PAUZA ☕
+11:15-12:00  (45 min)  Sekcija 3
+12:00-12:30  (30 min)  Sekcija 4 / Recap
+```
+**Ukupno efektivno vrijeme: 3h (180 min)**
+
+**3. Prioritiziraj slajdove:**
+- **MUST COVER (prioritet 1):** Ključni koncepti, vježbe
+- **NICE TO HAVE (prioritet 2):** Dodatni primjeri, details
+- **HANDOUT (prioritet 3):** Resources, advanced topics
+
+**4. Strategic selection:**
+- NE pokušavaj pokriti sve slajdove detaljno
+- Odaberi slajdove koji su najvažniji za learning outcomes
+- Ostale slajdove tretirati kao:
+  * Brzi overview (5 min)
+  * Handout za self-study
+  * Backup materijal
+
+**5. Napiši jasno u sinopsisu:**
+```markdown
+**PDF sadrži X slajdova organiziranih u sekcije:**
+
+**PRIORITET 1 - MUST COVER (3h):**
+- Slajdovi X-Y: [Tema] ✅
+- Slajdovi A-B: [Tema] ✅
+
+**PRIORITET 2 - NICE TO HAVE (ako ima vremena):**
+- Slajdovi C-D: [Tema] (brzi overview)
+
+**PRIORITET 3 - SELF-STUDY/HANDOUT:**
+- Slajdovi E-F: [Tema] (dati kao PDF)
+```
+
+**6. Validiraj timing:**
+- Zbroji sve minute u sinopsisu
+- Rezultat = ~180 min efektivnog rada?
+- Ako ne, skrati ili produži sekcije
+
+**⚠️ PRAVILO:**
+**Bolje je pokriti MANJE slajdova DETALJNO nego SVE slajdove POVRŠNO.**
 
 ---
 
