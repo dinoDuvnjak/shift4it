@@ -80,6 +80,17 @@ VAŽNO: Procijeni prema količini sadržaja, vježbama i tempu rada ima li dovol
 - Različita trajanja (5 min, 10 min, 15 min aktivnosti)
 - Svrha: Punjenje rupa ako ostane vrijeme
 
+### ⚠️ PRAVILO #6: FORMAT NAZIVA FAJLA
+- Naziv fajla mora biti u lowercase formatu
+- Format: `[broj]-[tema]-[podnaslov].md`
+- Primjer: `8-design-thinking-empathize.md`
+- Struktura:
+  - `[broj]` = redni broj dana/sekcije
+  - `[tema]` = glavna tema (npr. design-thinking, user-research)
+  - `[podnaslov]` = specifični aspekt (npr. empathize, wireframing)
+- Koristi crtice (-) između riječi, NE razmake ili underscores
+- Sve riječi lowercase (mala slova)
+
 ---
 
 ## ⏰ REALNA PROCJENA TIMINGA
