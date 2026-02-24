@@ -83,7 +83,10 @@ VAŽNO: Procijeni prema količini sadržaja, vježbama i tempu rada ima li dovol
 ### ⚠️ PRAVILO #6: FORMAT NAZIVA FAJLA
 - Naziv fajla mora biti u lowercase formatu
 - Format: `[broj]-[tema]-[podnaslov].md`
-- Primjer: `8-design-thinking-empathize.md`
+- Primjeri postojećih fajlova: 
+  - `9-design-thinking-empathize.md`
+  - `8-usability-testing-protocol.md`
+  - `7-user-research-methods.md`
 - Struktura:
   - `[broj]` = redni broj dana/sekcije
   - `[tema]` = glavna tema (npr. design-thinking, user-research)
@@ -153,6 +156,9 @@ VAŽNO: Procijeni prema količini sadržaja, vježbama i tempu rada ima li dovol
 ---
 
 ## STRUKTURA SINOPSISA
+
+**📋 Za referentni primjer potpune strukture, vidi:**
+`0-ux-ui/0-synopsis/9-design-thinking-empathize.md`
 
 ```markdown
 # 📘 DAN X - [NAZIV TEME]
