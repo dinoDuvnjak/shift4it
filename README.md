@@ -40,23 +40,23 @@
 
 ## 🗺️ Mapiranje UX/UI Sadržaja (Dan po Dan)
 
-| Dan | Datum | Tema | PDF Materijali | Udemy Dopuna | Trajanje |
-|-----|-------|------|----------------|--------------|----------|
-| **Dan 1** | 17.03.2026 | Introduction to UX/UI | 1.Intro UXorange.pdf | ✅ Figma Intro (15-20 min) | 3h 15min |
-| **Dan 2** | 19.03.2026 | Principles of Design (Typography, Colors & Core Principles) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
-| **Dan 3** | 24.03.2026 | Psychology Principles in Design (UX Laws & Gestalt) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
-| **Dan 4** | 26.03.2026 | Usability Heuristics (Bastien & Scapin) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
-| **Dan 5** | 31.03.2026 | User Research & Testing (Dio 1) | 6.User Research & Testing.pdf | ❓ (za pregledati) | 3h 15min |
-| **Dan 6** | 02.04.2026 | User Research & Testing (Dio 2) | 6.User Research & Testing.pdf | ❓ (za pregledati) | 3h 15min |
-| **Dan 7** | 07.04.2026 | Design Thinking (Dio 1) | 7.Introduction To Design Thinking.pdf | ❓ (za pregledati) | 3h 15min |
-| **Dan 8** | 09.04.2026 | Design Thinking (Dio 2) | 7.Introduction To Design Thinking.pdf | ❓ (za pregledati) | 3h 15min |
-| **Dan 9** | 14.04.2026 | Design Systems (Dio 1) | 5.Design System Prototyping.pdf | ✅ Napredni Figma (Components, Variants) | 3h 15min |
-| **Dan 10** | 16.04.2026 | Design Systems (Dio 2) + Prototyping | 5.Design System Prototyping.pdf | ✅ Napredni Figma (Components, Variants) | 3h 15min |
-| **Dan 11** | 21.04.2026 | Accessibility | 8.Accessibility.pdf | ❓ (za pregledati) | 3h 15min |
-| **Dan 12** | 23.04.2026 | Design Patterns & Inspiration | ❌ NEMA PDF | ✅ TREBA Udemy + External Resources | 3h 15min |
-| **Dan 13** | 28.04.2026 | Metrics & Analytics | 9.Metrics.pdf | ❓ (za pregledati) | 3h 15min |
-| **Dan 14** | 30.04.2026 | Final Project - Rad na projektu | 10.Projectorange.pdf | ❌ NE | 3h 15min |
-| **Dan 15** | 05.05.2026 | Final Project - Prezentacije | 10.Projectorange.pdf | ❌ NE | 3h 15min |
+| Dan | Datum | Tema | Synopsis | PDF Materijali | Udemy Dopuna | Trajanje |
+|-----|-------|------|----------|----------------|--------------|----------|
+| **Dan 1** | 17.03.2026 | Introduction to UX/UI | [📖](./0-ux-ui/0-synopsis/1-introduction-ui-ux.md) | 1.Intro UXorange.pdf | ✅ Figma Intro (15-20 min) | 3h 15min |
+| **Dan 2** | 19.03.2026 | Principles of Design (Typography, Colors & Core Principles) | [📖](./0-ux-ui/0-synopsis/2-principles-of-design.md) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
+| **Dan 3** | 24.03.2026 | Psychology Principles in Design (UX Laws & Gestalt) | [📖](./0-ux-ui/0-synopsis/3-psychology-principles-in-design.md) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
+| **Dan 4** | 26.03.2026 | Usability Heuristics (Bastien & Scapin) | [📖](./0-ux-ui/0-synopsis/4-usability-heuristics-bastien-scapin.md) | 2 & 3.Principles...pdf | ❌ NE (ima sve) | 3h 15min |
+| **Dan 5** | 31.03.2026 | Information Architecture | [📖](./0-ux-ui/0-synopsis/5-information-arhitecture.md) | 4.Information Architectureorange.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 6** | 02.04.2026 | Design Systems & Prototyping | [📖](./0-ux-ui/0-synopsis/6-design-systems-and-prototyping.md) | 5.Design System Prototyping.pdf | ✅ Napredni Figma (Components, Variants) | 3h 15min |
+| **Dan 7** | 07.04.2026 | User Research Methods | [📖](./0-ux-ui/0-synopsis/7-user-research-methods.md) | 6.User Research Testing.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 8** | 09.04.2026 | Usability Testing Protocol & Analiza | [📖](./0-ux-ui/0-synopsis/8-usability-testing-protocol.md) | 6.User Research Testing.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 9** | 14.04.2026 | Design Thinking — Empathize | [📖](./0-ux-ui/0-synopsis/9-design-thinking-empathize.md) | 7.Introduction To Design Thinking.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 10** | 16.04.2026 | Design Thinking — Ideate, Prototype & Test | [📖](./0-ux-ui/0-synopsis/10-ideate-prototype-test.md) | 7.Introduction To Design Thinking.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 11** | 21.04.2026 | Accessibility — Osnove & ROI | [📖](./0-ux-ui/0-synopsis/11-accessibility-basics.md) | 8.Accessibility.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 12** | 23.04.2026 | Accessibility — Testiranje & Primjena | [📖](./0-ux-ui/0-synopsis/12-accessibility-implementation.md) | 8.Accessibility.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 13** | 28.04.2026 | Metrics & Analytics — Uvod | [📖](./0-ux-ui/0-synopsis/13-metrics-uvod.md) | 9.Metrics.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 14** | 30.04.2026 | Metrics & GA4 — Napredne Funkcije | [📖](./0-ux-ui/0-synopsis/14-metrics-praksa.md) | 9.Metrics.pdf | ❓ (za pregledati) | 3h 15min |
+| **Dan 15** | 05.05.2026 | Završni Projekt — Brief & Istraživanje | [📖](./0-ux-ui/0-synopsis/15-final-project-day1-intro-research.md) | 10.Projectorange.pdf | ❌ NE | 3h 15min |
 
 **Ukupno:** 15 sesija × 3h 15min = **48h 45min** (≈ 50 sati modula)
 
