@@ -6,35 +6,36 @@
 |--------|-------|---------|---------|----------|----------|
 | **Tjedan 1** | Utorak 17.03.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 1 – Introduction to UX/UI](./0-ux-ui/0-synopsis/1-introduction-ui-ux.md) | `1.Intro UX-orange.pptx` |
 |  | Četvrtak 19.03.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 2 – Principles of Design](./0-ux-ui/0-synopsis/2-principles-of-design.md) | `2 & 3.Principles of design and ergonomics.pptx` |
-|  | Petak 20.03.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w1-fri.md) |  |
+|  | Petak 20.03.2026 | 9:00 – 12:15 | Agilne metode | [Dan 1 – Agile Fundamentals](./1-agile/0-synopsis/1-agile-fundamentals.md) | `AGILE_1_v2.pptx` |
 | **Tjedan 2** | Utorak 24.03.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 3 – Psychology Principles](./0-ux-ui/0-synopsis/3-psychology-principles-in-design.md) | `2 & 3.Principles of design and ergonomics.pptx` |
 |  | Četvrtak 26.03.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 4 – Usability Heuristics](./0-ux-ui/0-synopsis/4-usability-heuristics-bastien-scapin.md) | `2 & 3.Principles of design and ergonomics.pptx` |
-|  | Petak 27.03.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w2-fri.md) |  |
+|  | Petak 27.03.2026 | 9:00 – 12:15 | Agilne metode | [Dan 2 – Kanban vs Scrum](./1-agile/0-synopsis/2-kanban-vs-scrum.md) | `AGILE_2_v2.pptx` |
 | **Tjedan 3** | Utorak 31.03.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 5 – Information Architecture](./0-ux-ui/0-synopsis/5-information-arhitecture.md) | `4.Information Architecture-orange.pptx` |
 |  | Četvrtak 02.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 6 – Design Systems & Prototyping](./0-ux-ui/0-synopsis/6-design-systems-and-prototyping.md) | `5.Design System  Prototyping.pptx` |
-|  | Petak 03.04.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w3-fri.md) |  |
+|  | Petak 03.04.2026 | 9:00 – 12:15 | Agilne metode | [Dan 3 – Scrum Uloge, Rituali & Certifikacije](./1-agile/0-synopsis/3-scrum-roles-rituals-certifications.md) | `AGILE_2_v2.pptx` |
 | **Tjedan 4** | Utorak 07.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 7 – User Research Methods](./0-ux-ui/0-synopsis/7-user-research-methods.md) | `6.User Research & Testing.pptx` |
 |  | Četvrtak 09.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 8 – Usability Testing Protocol](./0-ux-ui/0-synopsis/8-usability-testing-protocol.md) | `6.User Research & Testing.pptx` |
-|  | Petak 10.04.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w4-fri.md) |  |
+|  | Petak 10.04.2026 | 9:00 – 12:15 | Agilne metode | [Dan 4 – Product Backlog: Kreiranje](./1-agile/0-synopsis/4-product-backlog-kreiranje.md) | `AGILE_3_v2.pptx` |
 | **Tjedan 5** | Utorak 14.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 9 – Design Thinking: Empathize](./0-ux-ui/0-synopsis/9-design-thinking-empathize.md) | `7.Introduction To Design Thinking.pptx` |
 |  | Četvrtak 16.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 10 – Ideate, Prototype & Test](./0-ux-ui/0-synopsis/10-ideate-prototype-test.md) | `7.Introduction To Design Thinking.pptx` |
-|  | Petak 17.04.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w5-fri.md) |  |
+|  | Petak 17.04.2026 | 9:00 – 12:15 | Agilne metode | [Dan 5 – Capacity Planning & Workshop](./1-agile/0-synopsis/5-capacity-planning-workshop.md) | `AGILE_3_v2.pptx` |
 | **Tjedan 6** | Utorak 21.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 11 – Accessibility: Osnove & ROI](./0-ux-ui/0-synopsis/11-accessibility-basics.md) | `8.Accessibility.pptx` |
 |  | Četvrtak 23.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 12 – Accessibility: Testiranje & Primjena](./0-ux-ui/0-synopsis/12-accessibility-implementation.md) | `8.Accessibility.pptx` |
-|  | Petak 24.04.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w6-fri.md) |  |
+|  | Petak 24.04.2026 | 9:00 – 12:15 | Agilne metode | [Dan 6 – Mjerenje Performansi](./1-agile/0-synopsis/6-mjerenje-performansi.md) | `AGILE_4_v2.pptx` |
 | **Tjedan 7** | Utorak 28.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 13 – Metrics & Analytics: Uvod](./0-ux-ui/0-synopsis/13-metrics-uvod.md) | `9.Metrics.pptx` |
 |  | Četvrtak 30.04.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 14 – Metrics & GA4: Napredne Funkcije](./0-ux-ui/0-synopsis/14-metrics-praksa.md) | `9.Metrics.pptx` |
 |  | Utorak 05.05.2026 | 9:00 – 12:15 | UX/UI Design | [Dan 15 – Završni Projekt: Brief & Istraživanje](./0-ux-ui/0-synopsis/15-final-project-day1-intro-research.md) | `10.Project-orange.pptx` |
-| **Tjedan 8** | Četvrtak 07.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w8-thu.md) |  |
-|  | Petak 08.05.2026 | 9:00 – 12:15 | Agilne metode | [Synopsis](./synopsis/agile-w8-fri.md) |  |
-|  | Utorak 12.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w8-tue.md) | Zamijeniti sa agilnim metodama 15.05  |
-| **Tjedan 9** | Četvrtak 14.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w9-thu.md) |  |
-|  | Petak 15.05.2026 | 9:00 – 10:30 | Agilne metode | [Synopsis](./synopsis/agile-w9-fri.md) |  |
-|  | Petak 15.05.2026 | 10:45 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w9-fri.md) |  |
-| **Tjedan 10** | Utorak 19.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w10-tue.md) |  |
-|  | Četvrtak 21.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w10-thu.md) |  |
-|  | Petak 22.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w10-fri.md) |  |
-| **Tjedan 11** | Utorak 26.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Synopsis](./synopsis/pm-w11-tue.md) |  |
+| **Tjedan 8** | Četvrtak 07.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 1 – Životni Ciklus Projekta & Metodologije](./2-project-managment/0-synopsis/PM_M1_Day1_Synopsis.md) | `M1_PROJECT MANAGEMENT FUNDAMENTALS_7 hours.pptx` |
+|  | Petak 08.05.2026 | 9:00 – 12:15 | Agilne metode | [Dan 7 – Izbjegavanje Neuspjeha](./1-agile/0-synopsis/7-izbjegavanje-neuspjeha.md) | `AGILE_4_v2.pptx` |
+|  | Utorak 12.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 2 – Leadership i Komunikacija u Projektima](./2-project-managment/0-synopsis/PM_M1_Day2_Synopsis.md) | `M1_PROJECT MANAGEMENT FUNDAMENTALS_7 hours.pptx` |
+| **Tjedan 9** | Četvrtak 14.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 3 – Project Charter & Uvod u Stakeholdere](./2-project-managment/0-synopsis/PM_M2_Day1_Synopsis.md) | `M2_STARTING THE PROJECT_6 hours.pptx` |
+|  | Petak 15.05.2026 | 9:00 – 10:30 | Agilne metode | [Dan 8 – Pomirenje Waterfall & Agile](./1-agile/0-synopsis/8-pomirenje-waterfall-agile.md) | `AGILE_4_v2.pptx` |
+|  | Petak 15.05.2026 | 10:45 – 12:15 | Projektni menadžment | [Dan 4 – Stakeholder Management & Donošenje Odluka](./2-project-managment/0-synopsis/PM_M2_Day2_Synopsis.md) | `M2_STARTING THE PROJECT_6 hours.pptx` |
+| **Tjedan 10** | Utorak 19.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 5 – Project Management Plan & Scope Statement](./2-project-managment/0-synopsis/PM_M3_Day1_Synopsis.md) | `M3_PLANNING THE WORK_7 hours.pptx` |
+|  | Četvrtak 21.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 6 – WBS, Scheduling & Budget Development](./2-project-managment/0-synopsis/PM_M3_Day2_Synopsis.md) | `M3_PLANNING THE WORK_7 hours.pptx` |
+|  | Petak 22.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 7 – Project Execution Monitoring](./2-project-managment/0-synopsis/PM_M4_Day1_Synopsis.md) | `M4_COMPLETING THE WORK_6 hours.pptx` |
+| **Tjedan 11** | Utorak 26.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 8 – Quality, Change & Risk Management](./2-project-managment/0-synopsis/PM_M4_Day2_Synopsis.md) | `M4_COMPLETING THE WORK_6 hours.pptx` |
+|  | Četvrtak 28.05.2026 | 9:00 – 12:15 | Projektni menadžment | [Dan 9 – Ending the Project (Završni dan programa)](./2-project-managment/0-synopsis/PM_M5_Day1_Synopsis.md) | `M5_ENDING THE PROJECT_4 hours.pptx` |
 
 ---
 
