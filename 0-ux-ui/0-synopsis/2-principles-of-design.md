@@ -36,7 +36,7 @@ Na kraju ovog predavanja, studentice će moći:
 
 ## ⏰ **9:00-9:05 (5 min) - UVOD I PREGLED DANA**
 
-### **Slajd 1: Principles of design & ergonomics**
+### **Slajd 3: Principles of design & ergonomics**
 
 **Notes iz PDF-a:**
 _"Introduce the overall theme: the core principles of usability (sometimes called ergonomics) in digital product design. Good usability significantly impacts project success and user satisfaction."_
@@ -126,7 +126,7 @@ Otvori Apple.com i random loše dizajniran website side-by-side. Pitaj studentic
 
 ## ⏰ **9:10-9:45 (35 min) - TYPOGRAPHY**
 
-### **Slajd 4: Principles of Design**
+### **Slajd 5: Principles of Design**
 
 **Notes iz PDF-a:**
 _"Let's start with typography and color. Then, we will explore a lot of Core Design Principles."_
@@ -146,7 +146,7 @@ Typography = izbor i aranžman teksta. Uključuje: tip fonta, veličinu, razmak,
 
 ---
 
-### **Slajd 5: But first... Let's test your attention to details!**
+### **Slajd 6: But first... Let's test your attention to details!**
 
 **Notes iz PDF-a:**
 _"Link to cantunsee.space"_
@@ -185,7 +185,7 @@ Cilj: Naučiti primjećivati male detalje koji čine veliku razliku u dizajnu."
 
 ---
 
-### **Slajd 6: Typography**
+### **Slajd 7: Typography**
 
 **Notes iz PDF-a:**
 _"Typography is a core component of user interface (UI) design. It's the art and technique of arranging text to be both visually appealing and easy to read."_
@@ -206,7 +206,7 @@ Dobar tipografija = korisnik može lako i brzo pročitati sadržaj bez napora.
 
 **Primjeri:**
 - **Dobar primjer:** Medium.com - jasna hijerarhija, čitljivo
-- **Loš primjer:** Website s Comic Sans fontom za cijeli body text
+- **Loš primjer:** Website s Comic Sans fontom za cijeli body text - https://www.art.yale.edu/
 
 📖 **Reference:**
 - [Typography in UI Design - Material Design](https://material.io/design/typography)
@@ -256,7 +256,7 @@ _"Attract users, set visual hierarchy, build brand recognition, support content 
 
 ---
 
-### **Slajd 8: Font types - Typography**
+### **Slajd 9: Font types - Typography**
 
 **Notes iz PDF-a:**
 _"Serif: Traditional and formal. Sans-serif: Modern and clean. Script: Flowing, cursive. Monospace: Fixed-width. Display: Decorative."_
@@ -325,7 +325,7 @@ A: "Da! To je zapravo česta kombinacija - npr. serif za headinge, sans-serif za
 
 ---
 
-### **Slajd 9: Font types - Font family**
+### **Slajd 10: Font types - Font family**
 
 **Notes iz PDF-a:**
 _"A font family is a group of related fonts. Example: Clash Display Thin, Light, Regular, Medium, Semi-Bold, Bold."_
@@ -363,7 +363,7 @@ A: "2-3 je optimalno. Primjer: Regular za body, Bold za headinge, Light za capti
 
 ---
 
-### **Slajd 10: Text Aligned - Typography**
+### **Slajd 11: Text Aligned - Typography**
 
 **Notes iz PDF-a:**
 _"Left-aligned text is the most common for left-to-right languages. Centered text is best for short elements. Right-aligned for right-to-left languages."_
@@ -403,7 +403,7 @@ A: "Kada je tekst centriran, svaka linija počinje na drugoj poziciji. Vaše oč
 
 ---
 
-### **Slajd 11: Line & Letter Spacing and Kerning - Typography**
+### **Slajd 12: Line & Letter Spacing and Kerning - Typography**
 
 **Notes iz PDF-a:**
 _"Line Spacing (Leading): Adjust space between lines. Aim for 140-180% for readability. Letter Spacing (Tracking): Space between all characters. Kerning: Space between individual character pairs."_
@@ -468,7 +468,7 @@ _"Do you want to try?"_
 
 "Idemo vježbati kerning! Postoji game gdje trebate adjustati spacing između slova.
 
-Idite na **kerntype.com** ili **type.method.ac** - probajte!
+Idite **type.method.ac** - probajte!
 
 Ne brinite ako nije savršeno - cilj je razviti 'osjećaj' za spacing."
 
@@ -494,7 +494,7 @@ Ovo je težak task i profesionalci troše godine perfekcionirajući kerning. Cil
 
 ## ⏰ **9:45-10:00 (15 min) - TYPOGRAPHY HIERARCHY I PAIRING**
 
-### **Slajd 13: Hierarchy - Typography**
+### **Slajd 15: Hierarchy - Typography**
 
 **Notes iz PDF-a:**
 _"Hierarchy is arranging text based on the importance of information. Headings are largest, subheadings smaller, body text standard, captions smallest."_
@@ -598,7 +598,7 @@ A: "Test - napravi mockup s oba fonta i pitaj: 'Čini li ovo cohesive?' Ako ne z
 
 ---
 
-### **Slajd 15: Tools - Typography**
+### **Slajd 17: Tools - Typography**
 
 **Notes iz PDF-a:**
 _"Free web licensed fonts, font inspector tools, pairing tools."_
@@ -633,7 +633,7 @@ Otvori Google Fonts na projektoru - pokažite kako pretraživati, filtrirati, i 
 
 ## ⏰ **10:15-10:50 (35 min) - COLORS**
 
-### **Slajd 16: Colors**
+### **Slajd 18: Colors**
 
 **Notes iz PDF-a:**
 _"Color is a power which directly influences the soul. Colors attract emotion."_
