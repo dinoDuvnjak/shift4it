@@ -69,16 +69,16 @@ Na kraju ovog predavanja, studentice će moći:
 
 Pregled cijelog modula (kratko prođi kroz listu):
 
-- Hello world! (danas - upoznavanje)
-- Introduction to UX & UI (danas)
-- Principles of ergonomics and design
-- Information Architecture
-- Design system & Prototyping
-- User research / Testing
-- Design thinking
-- Accessibility
-- Metrics
-- Project (završni projekt)
+- Uvod u UX & UI
+- Principi ergonomije i dizajna
+- Informacijska arhitektura
+- Sustav dizajna i izrada prototipa
+- Istraživanje korisnika/ Testiranje
+- Design thinking (dizajnersko razmišljanje)
+- Pristupačnost
+- Metrike
+- Projekt
+
 
 📚 **FACILITATOR NOTES:**
 
@@ -102,7 +102,7 @@ _"Priprema: Svaki sudionik razmišlja o tri izjave o sebi: dvije istinite i jedn
 - Zapiši ih na papir
 
 **Primjer:**
-- Sviram didgeridoo
+- Sviram gitaru
 - Govorim 4 jezika tečno
 - Nikad u životu nisam pila alkohol
 
@@ -907,21 +907,6 @@ Ovo je primjer tipa projekta koji možete raditi. Ne morate raditi točno ovaj p
 **Rezultat:**
 - Trgovina postaje više od "točke prodaje" → postaje DIY destinacija!
 
-**VAŠI PROJEKTI:**
-
-**Opseg:**
-- Web aplikacija (možete i mobilnu aplikaciju ako preferirate)
-- Mora rješavati stvarni problem
-- Ciljani korisnici: Jasno definirani
-
-**Primjeri tema koje MOŽETE raditi:**
-- **E-commerce:** Online trgovina (odjeća, knjige, lokalni proizvodi...)
-- **Obrazovanje:** Platforma za učenje (učenje jezika, dijeljenje vještina...)
-- **Zdravlje i wellness:** Fitness tracker, planer obroka, dnevnik mentalnog zdravlja...
-- **Putovanja:** Planiranje putovanja, lokalna iskustva, budget travel...
-- **Zajednica:** Društvena mreža temeljena na hobijima, planiranje događaja...
-- **Vaša ideja!** Nešto što VAS zanima i želite riješiti
-
 **ŠTO ĆETE RADITI NA PROJEKTU:**
 
 **Tjedan 1-3: ISTRAŽIVANJE I STRATEGIJA**
@@ -954,67 +939,6 @@ Ovo je primjer tipa projekta koji možete raditi. Ne morate raditi točno ovaj p
 - Kreiranje case studyja
 - Priprema prezentacije
 - Isporuka: Projekt spreman za portfolio + prezentacija
-
-**ZAHTJEVI (što mora biti u konačnom projektu):**
-
-✅ Dokumentacija istraživanja: Persone, journey mape  
-✅ Informacijska arhitektura: Sitemap, user flows  
-✅ Wireframi: Low-fidelity (min 8-10 ekrana)  
-✅ Prototip: Interaktivni Figma prototip  
-✅ High-Fidelity UI: Konačni dizajn (5-8 ključnih ekrana minimum)  
-✅ Design rationale: Objašnjenje vaših odluka  
-✅ Case study prezentacija: 10-15 slajdova
-
-**EVALUACIJA:**
-
-- **30%** - Istraživanje i proces
-  - Dubina istraživanja korisnika
-  - Jasnoća UX procesa
-  - Dokumentacija
-
-- **30%** - Upotrebljivost i funkcionalnost
-  - Rješava li dizajn problem?
-  - Je li intuitivno?
-  - Uvidi testiranja korisnika
-
-- **20%** - Vizualni dizajn
-  - UI uglađenost i konzistentnost
-  - Tipografija, boje, razmaci
-  - Pažnja na detalje
-
-- **20%** - Prezentacija
-  - Kako prezentirate rad?
-  - Storytelling
-  - Komunikacijske vještine
-
-**Diskusija (3 min):**
-
-"Počnite razmišljati - koji problem želite riješiti? Što vas frustrira u digitalnim proizvodima koje koristite?"
-
-📚 **FACILITATOR NOTES:**
-
-**Pomozite studentima s opsegom:**
-- ❌ Ne preambiciozno ("društvena mreža za cijeli svijet")
-- ❌ Ne presuženo ("aplikacija za biranje boje čarapa")
-- ✅ Sweet spot: Specifičan problem, jasna ciljna grupa, realan opseg
-
-**Primjeri dobrog opsega:**
-- ✅ "Platforma za pronalaženje pick-up nogometnih utakmica u Zagrebu"
-- ✅ "Aplikacija za local food delivery od malih restorana"
-- ✅ "Community platforma za ljubitelje knjiga koji žele razmjenjivati knjige"
-
-**Motiviraj ih:**
-- "Ovo će biti VAŠA priča za intervju za posao!"
-- "Recruiteri žele vidjeti proces, ne samo konačni proizvod"
-- "Svaka od vas će imati jedinstven projekt koji pokazuje vaše vještine"
-
-**Domaća zadaća za sljedeće predavanje:**
-
-"Do sljedećeg dana, razmislite o 2-3 ideje za projekt. Ne mora biti konačno, ali dobro je imati smjer!"
-
-📖 **Reference:**
-- [Inspiracija za projekte - Dribbble](https://dribbble.com/)
-- [Inspiracija za projekte - Behance](https://behance.net/)
 
 ---
 
