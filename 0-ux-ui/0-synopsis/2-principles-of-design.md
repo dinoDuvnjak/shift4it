@@ -658,7 +658,7 @@ Studije pokazuju da boja može povećati brand recognition za 80%. Fast food lan
 
 ---
 
-### **Slajd 17: Colour Pairing**
+### **Slajd 19: Colour Pairing**
 
 **Notes iz PDF-a:**
 _"Monochrome: Different values of the same color. Analogous: 3 adjacent colors on color wheel. Complementary: 2 opposite colors. Split complementary: One color + two adjacents of opposite."_
@@ -713,7 +713,7 @@ A: "Ovisi o brandu i svrhi. Complementary = bold i energična. Analogous = smire
 
 ---
 
-### **Slajd 18: Colour Formats**
+### **Slajd 20: Colour Formats**
 
 **Notes iz PDF-a:**
 _"HEX: Hexadecimal format. RGB: Red, Green, Blue (0-255). HSL: Hue, Saturation, Lightness. CMYK: Cyan, Magenta, Yellow, Black (for printing)."_
@@ -755,7 +755,7 @@ A: "HEX je najčešći za web dizajn. RGB ako trebaš transparency (RGBA). HSL a
 
 ---
 
-### **Slajd 19: 60/30/10 Rule**
+### **Slajd 21: 60/30/10 Rule**
 
 **Notes iz PDF-a:**
 _"60% neutral/base color (background), 30% secondary color (supporting elements), 10% accent color (call-to-actions, highlights)."_
@@ -807,7 +807,7 @@ A: "Možeš imati shades (nijanse) svake boje, ali ostani u 3 glavne kategorije.
 
 ---
 
-### **Slajd 20: The Psychology of Colors**
+### **Slajd 23: The Psychology of Colors**
 
 **Notes iz PDF-a:**
 _"Red: passion or danger. Orange: energy, adventure. Yellow: happy, cheerful. Green: nature, growth. Blue: calm, intelligent. Purple: luxury, creativity. Black: power, elegance. White: minimalist, innocent. Gray: serious, sophisticated. Brown: warm, friendly, natural."_
@@ -896,7 +896,7 @@ A: "Može, ali ovisi o kontekstu. Crvena je agresivna - dobra za 'Buy Now' ili '
 
 ---
 
-### **Slajd 21: Don't forget accessibility!**
+### **Slajd 24: Don't forget accessibility!**
 
 **Notes iz PDF-a:**
 _"Check contrast between colors. Not everyone sees colors the same way (color blindness, visual limitations)."_
@@ -1014,7 +1014,7 @@ Ovo je brza vježba prije pauze da zadrže fokus i primijene ono što su naučil
 
 ## ⏰ **11:15-11:45 (30 min) - INTUITIVE DESIGN & CTA**
 
-### **Slajd 23: Intuitive design Definition**
+### **Slajd 25: Intuitive design Definition**
 
 **Notes iz PDF-a:**
 _"Designing digital experiences that target users find easy to use. Includes visual and functional design like iconography and buttons."_
@@ -1041,11 +1041,11 @@ _"Designing digital experiences that target users find easy to use. Includes vis
 📚 **FACILITATOR NOTES:**
 
 **Demonstracija:**
-Otvori dva websitea - jedan intuitivni (Apple.com) i jedan konfuzan. Pitaj: "Na kojem možete brže naći što tražite?"
+Otvori dva websitea - jedan intuitivni (Apple.com) i jedan konfuzan - https://arngren.net/. Pitaj: "Na kojem možete brže naći što tražite?"
 
 ---
 
-### **Slajd 24: Intuitive design Basic principles**
+### **Slajd 26: Intuitive design Basic principles**
 
 **Notes iz PDF-a:**
 _"Discoverability, Affordance, Comprehensibility, Responsive feedback, Predictability, Efficiency, Forgiveness, Explorability."_
@@ -1104,7 +1104,7 @@ A: "User testing! Daj nekome tko nikad nije vidio tvoj dizajn da proba koristiti
 
 ---
 
-### **Slajd 25: Intuitive design Basic principles - Rules of thumb**
+### **Slajd 27: Intuitive design Basic principles - Rules of thumb**
 
 **Notes iz PDF-a:**
 _"Logo in upper left clickable. Contact accessible on every page. Consistent headers & footers. Accessibility considerations. Plain language. Device consistency."_
@@ -1137,7 +1137,7 @@ Ovo su convention-based rules - ne izmišljajte toplu vodu. Korisnici očekuju o
 
 ---
 
-### **Slajd 26: What is affordance in UX design?**
+### **Slajd 28: What is affordance in UX design?**
 
 **Notes iz PDF-a:**
 _"Affordance refers to how design communicates possible actions. Buttons and links have visual appearance indicating they can be clicked."_
@@ -1186,7 +1186,7 @@ A: "Možeš, ali onda koristi MOTION (hover effects) i BOJU (consistent color za
 
 ---
 
-### **Slajd 27: Benefits of applying UI design principles**
+### **Slajd 29: Benefits of applying UI design principles**
 
 **Notes iz PDF-a:**
 _"Enhances usability, increases efficiency, improves decision-making, decreases cognitive load."_
@@ -1208,7 +1208,7 @@ _"Enhances usability, increases efficiency, improves decision-making, decreases 
 
 ---
 
-### **Slajd 28-32: Usability, Efficiency, Decision-making, Cognitive Load**
+### **Slajd 30-34: Usability, Efficiency, Decision-making, Cognitive Load**
 
 _[Ovi slajdovi objašnjavaju svaki benefit detaljnije - možete ih kombinirati u jedno objašnjenje ako je timing tight]_
 
@@ -1239,7 +1239,7 @@ Ovi slajdovi se mogu compressati u kraći overview ako je potrebno ubrzati.
 
 ---
 
-### **Slajd 33: Before going on... CTA**
+### **Slajd 35: Before going on... CTA**
 
 **Notes iz PDF-a:**
 _"Calls to action (CTA) are buttons that guide users towards a specific goal. Visual prominence, negative spacing, action-oriented text."_
@@ -1289,7 +1289,7 @@ A: "Može, ali jedan mora biti PRIMARY (najistaknutiji), ostali secondary. Ne mo
 
 ---
 
-### **Slajd 34: CTA Design**
+### **Slajd 36: CTA Design**
 
 **Notes iz PDF-a:**
 _"Make clickable elements look clickable. Label buttons according to action. Design buttons consistently. Size: 5-second test. Material Design examples."_
@@ -1331,7 +1331,7 @@ Material Design buttons su excellent primjeri - pokažite različite styles (con
 
 ## ⏰ **11:45-12:15 (30 min) - CORE DESIGN PRINCIPLES**
 
-### **Slajd 35: A lot of principles (but not all)**
+### **Slajd 38: A lot of principles (but not all)**
 
 **Notes iz PDF-a:**
 _"Design principles serve as guidelines. Not formally documented, learned through observation and practice."_
@@ -1358,7 +1358,7 @@ Ovih 8 principa su temelj vizualnog dizajna. Primjenjuju se ne samo u UI, već i
 
 ---
 
-### **Slajd 36: Alignment**
+### **Slajd 39: Alignment**
 
 **Notes iz PDF-a:**
 _"Alignment is one of the most important factors in creating good design. Creates sense of unity and order."_
@@ -1413,7 +1413,7 @@ A: "Uglavnom da. Ali ponekad namjerno 'breakaš' alignment za emphasis. Primjer:
 
 ---
 
-### **Slajd 37: Emphasis**
+### **Slajd 42: Emphasis**
 
 **Notes iz PDF-a:**
 _"Emphasis means highlighting certain design elements so they stand out."_
@@ -1453,7 +1453,7 @@ Prikaži primjer gdje je jedan krug različite boje među 20 istih krugova - ins
 
 ---
 
-### **Slajd 38: Balance**
+### **Slajd 46: Balance**
 
 **Notes iz PDF-a:**
 _"A satisfying arrangement or proportion of design elements. Balance occurs when visual weight is equally distributed."_
@@ -1490,7 +1490,7 @@ Zamislite vagu - s lijeve strane imate veliki taman kvadrat, s desne strane neko
 
 ---
 
-### **Slajd 39: Contrast**
+### **Slajd 49: Contrast**
 
 **Notes iz PDF-a:**
 _"Contrast is key principle that helps set apart important elements. Color, size, space, shape contrasts."_
@@ -1531,7 +1531,7 @@ WebAIM preporučuje minimum 4.5:1 ratio za normal text, 3:1 za large text.
 
 ---
 
-### **Slajd 40: Repetition**
+### **Slajd 52: Repetition**
 
 **Notes iz PDF-a:**
 _"Repetition is using the same or similar elements multiple times. Creates consistency and familiarity."_
@@ -1561,7 +1561,7 @@ Repetition je temelj Design Systems. Companies kao što je Google, Apple, IBM im
 
 ---
 
-### **Slajd 41: Proportion**
+### **Slajd 55: Proportion**
 
 **Notes iz PDF-a:**
 _"Proportion is harmonious relationship between parts. Size vs Scale vs Proportion."_
@@ -1588,7 +1588,7 @@ Golden ratio je zanimljiv koncept ali ne mora biti primjenjivan u svakom dizajnu
 
 ---
 
-### **Slajd 42: White Space**
+### **Slajd 58: White Space**
 
 **Notes iz PDF-a:**
 _"Whitespace (negative space) is empty space between elements. Essential element in design. Improves legibility, organization, hierarchy, attention."_
@@ -1629,7 +1629,7 @@ A: "Kada sadržaj postaje težak pronaći ili kada se čini 'lost'. Ali to je ri
 
 ---
 
-### **Slajd 43: Visual Hierarchy**
+### **Slajd 61: Visual Hierarchy**
 
 **Notes iz PDF-a:**
 _"Visual hierarchy is how your interface uses contrast, size, color to give some elements more importance."_
@@ -1670,7 +1670,7 @@ _"Visual hierarchy is how your interface uses contrast, size, color to give some
 
 ---
 
-### **Slajd 44: Above the fold**
+### **Slajd 65: Above the fold**
 
 **Notes iz PDF-a:**
 _"Above the fold (ATF) is the part of webpage you can see without scrolling down."_
