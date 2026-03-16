@@ -36,7 +36,7 @@ Na kraju ovog predavanja, studentice će moći:
 
 ## ⏰ **9:00-9:05 (5 min) - UVOD I PREGLED DANA**
 
-### **Slajd 1: Principles of design & ergonomics**
+### **Slajd 3: Principles of design & ergonomics**
 
 **Notes iz PDF-a:**
 _"Introduce the overall theme: the core principles of usability (sometimes called ergonomics) in digital product design. Good usability significantly impacts project success and user satisfaction."_
@@ -126,7 +126,7 @@ Otvori Apple.com i random loše dizajniran website side-by-side. Pitaj studentic
 
 ## ⏰ **9:10-9:45 (35 min) - TYPOGRAPHY**
 
-### **Slajd 4: Principles of Design**
+### **Slajd 5: Principles of Design**
 
 **Notes iz PDF-a:**
 _"Let's start with typography and color. Then, we will explore a lot of Core Design Principles."_
@@ -146,7 +146,7 @@ Typography = izbor i aranžman teksta. Uključuje: tip fonta, veličinu, razmak,
 
 ---
 
-### **Slajd 5: But first... Let's test your attention to details!**
+### **Slajd 6: But first... Let's test your attention to details!**
 
 **Notes iz PDF-a:**
 _"Link to cantunsee.space"_
@@ -185,7 +185,7 @@ Cilj: Naučiti primjećivati male detalje koji čine veliku razliku u dizajnu."
 
 ---
 
-### **Slajd 6: Typography**
+### **Slajd 7: Typography**
 
 **Notes iz PDF-a:**
 _"Typography is a core component of user interface (UI) design. It's the art and technique of arranging text to be both visually appealing and easy to read."_
@@ -206,7 +206,7 @@ Dobar tipografija = korisnik može lako i brzo pročitati sadržaj bez napora.
 
 **Primjeri:**
 - **Dobar primjer:** Medium.com - jasna hijerarhija, čitljivo
-- **Loš primjer:** Website s Comic Sans fontom za cijeli body text
+- **Loš primjer:** Website s Comic Sans fontom za cijeli body text - https://www.art.yale.edu/
 
 📖 **Reference:**
 - [Typography in UI Design - Material Design](https://material.io/design/typography)
@@ -256,7 +256,7 @@ _"Attract users, set visual hierarchy, build brand recognition, support content 
 
 ---
 
-### **Slajd 8: Font types - Typography**
+### **Slajd 9: Font types - Typography**
 
 **Notes iz PDF-a:**
 _"Serif: Traditional and formal. Sans-serif: Modern and clean. Script: Flowing, cursive. Monospace: Fixed-width. Display: Decorative."_
@@ -325,7 +325,7 @@ A: "Da! To je zapravo česta kombinacija - npr. serif za headinge, sans-serif za
 
 ---
 
-### **Slajd 9: Font types - Font family**
+### **Slajd 10: Font types - Font family**
 
 **Notes iz PDF-a:**
 _"A font family is a group of related fonts. Example: Clash Display Thin, Light, Regular, Medium, Semi-Bold, Bold."_
@@ -363,7 +363,7 @@ A: "2-3 je optimalno. Primjer: Regular za body, Bold za headinge, Light za capti
 
 ---
 
-### **Slajd 10: Text Aligned - Typography**
+### **Slajd 11: Text Aligned - Typography**
 
 **Notes iz PDF-a:**
 _"Left-aligned text is the most common for left-to-right languages. Centered text is best for short elements. Right-aligned for right-to-left languages."_
@@ -403,7 +403,7 @@ A: "Kada je tekst centriran, svaka linija počinje na drugoj poziciji. Vaše oč
 
 ---
 
-### **Slajd 11: Line & Letter Spacing and Kerning - Typography**
+### **Slajd 12: Line & Letter Spacing and Kerning - Typography**
 
 **Notes iz PDF-a:**
 _"Line Spacing (Leading): Adjust space between lines. Aim for 140-180% for readability. Letter Spacing (Tracking): Space between all characters. Kerning: Space between individual character pairs."_
@@ -468,7 +468,7 @@ _"Do you want to try?"_
 
 "Idemo vježbati kerning! Postoji game gdje trebate adjustati spacing između slova.
 
-Idite na **kerntype.com** ili **type.method.ac** - probajte!
+Idite **type.method.ac** - probajte!
 
 Ne brinite ako nije savršeno - cilj je razviti 'osjećaj' za spacing."
 
@@ -494,7 +494,7 @@ Ovo je težak task i profesionalci troše godine perfekcionirajući kerning. Cil
 
 ## ⏰ **9:45-10:00 (15 min) - TYPOGRAPHY HIERARCHY I PAIRING**
 
-### **Slajd 13: Hierarchy - Typography**
+### **Slajd 15: Hierarchy - Typography**
 
 **Notes iz PDF-a:**
 _"Hierarchy is arranging text based on the importance of information. Headings are largest, subheadings smaller, body text standard, captions smallest."_
@@ -598,7 +598,7 @@ A: "Test - napravi mockup s oba fonta i pitaj: 'Čini li ovo cohesive?' Ako ne z
 
 ---
 
-### **Slajd 15: Tools - Typography**
+### **Slajd 17: Tools - Typography**
 
 **Notes iz PDF-a:**
 _"Free web licensed fonts, font inspector tools, pairing tools."_
@@ -633,7 +633,7 @@ Otvori Google Fonts na projektoru - pokažite kako pretraživati, filtrirati, i 
 
 ## ⏰ **10:15-10:50 (35 min) - COLORS**
 
-### **Slajd 16: Colors**
+### **Slajd 18: Colors**
 
 **Notes iz PDF-a:**
 _"Color is a power which directly influences the soul. Colors attract emotion."_
@@ -658,7 +658,7 @@ Studije pokazuju da boja može povećati brand recognition za 80%. Fast food lan
 
 ---
 
-### **Slajd 17: Colour Pairing**
+### **Slajd 19: Colour Pairing**
 
 **Notes iz PDF-a:**
 _"Monochrome: Different values of the same color. Analogous: 3 adjacent colors on color wheel. Complementary: 2 opposite colors. Split complementary: One color + two adjacents of opposite."_
@@ -713,7 +713,7 @@ A: "Ovisi o brandu i svrhi. Complementary = bold i energična. Analogous = smire
 
 ---
 
-### **Slajd 18: Colour Formats**
+### **Slajd 20: Colour Formats**
 
 **Notes iz PDF-a:**
 _"HEX: Hexadecimal format. RGB: Red, Green, Blue (0-255). HSL: Hue, Saturation, Lightness. CMYK: Cyan, Magenta, Yellow, Black (for printing)."_
@@ -755,7 +755,7 @@ A: "HEX je najčešći za web dizajn. RGB ako trebaš transparency (RGBA). HSL a
 
 ---
 
-### **Slajd 19: 60/30/10 Rule**
+### **Slajd 21: 60/30/10 Rule**
 
 **Notes iz PDF-a:**
 _"60% neutral/base color (background), 30% secondary color (supporting elements), 10% accent color (call-to-actions, highlights)."_
@@ -807,7 +807,7 @@ A: "Možeš imati shades (nijanse) svake boje, ali ostani u 3 glavne kategorije.
 
 ---
 
-### **Slajd 20: The Psychology of Colors**
+### **Slajd 23: The Psychology of Colors**
 
 **Notes iz PDF-a:**
 _"Red: passion or danger. Orange: energy, adventure. Yellow: happy, cheerful. Green: nature, growth. Blue: calm, intelligent. Purple: luxury, creativity. Black: power, elegance. White: minimalist, innocent. Gray: serious, sophisticated. Brown: warm, friendly, natural."_
@@ -896,7 +896,7 @@ A: "Može, ali ovisi o kontekstu. Crvena je agresivna - dobra za 'Buy Now' ili '
 
 ---
 
-### **Slajd 21: Don't forget accessibility!**
+### **Slajd 24: Don't forget accessibility!**
 
 **Notes iz PDF-a:**
 _"Check contrast between colors. Not everyone sees colors the same way (color blindness, visual limitations)."_
@@ -1014,7 +1014,7 @@ Ovo je brza vježba prije pauze da zadrže fokus i primijene ono što su naučil
 
 ## ⏰ **11:15-11:45 (30 min) - INTUITIVE DESIGN & CTA**
 
-### **Slajd 23: Intuitive design Definition**
+### **Slajd 25: Intuitive design Definition**
 
 **Notes iz PDF-a:**
 _"Designing digital experiences that target users find easy to use. Includes visual and functional design like iconography and buttons."_
@@ -1041,11 +1041,11 @@ _"Designing digital experiences that target users find easy to use. Includes vis
 📚 **FACILITATOR NOTES:**
 
 **Demonstracija:**
-Otvori dva websitea - jedan intuitivni (Apple.com) i jedan konfuzan. Pitaj: "Na kojem možete brže naći što tražite?"
+Otvori dva websitea - jedan intuitivni (Apple.com) i jedan konfuzan - https://arngren.net/. Pitaj: "Na kojem možete brže naći što tražite?"
 
 ---
 
-### **Slajd 24: Intuitive design Basic principles**
+### **Slajd 26: Intuitive design Basic principles**
 
 **Notes iz PDF-a:**
 _"Discoverability, Affordance, Comprehensibility, Responsive feedback, Predictability, Efficiency, Forgiveness, Explorability."_
@@ -1104,7 +1104,7 @@ A: "User testing! Daj nekome tko nikad nije vidio tvoj dizajn da proba koristiti
 
 ---
 
-### **Slajd 25: Intuitive design Basic principles - Rules of thumb**
+### **Slajd 27: Intuitive design Basic principles - Rules of thumb**
 
 **Notes iz PDF-a:**
 _"Logo in upper left clickable. Contact accessible on every page. Consistent headers & footers. Accessibility considerations. Plain language. Device consistency."_
@@ -1137,7 +1137,7 @@ Ovo su convention-based rules - ne izmišljajte toplu vodu. Korisnici očekuju o
 
 ---
 
-### **Slajd 26: What is affordance in UX design?**
+### **Slajd 28: What is affordance in UX design?**
 
 **Notes iz PDF-a:**
 _"Affordance refers to how design communicates possible actions. Buttons and links have visual appearance indicating they can be clicked."_
@@ -1186,7 +1186,7 @@ A: "Možeš, ali onda koristi MOTION (hover effects) i BOJU (consistent color za
 
 ---
 
-### **Slajd 27: Benefits of applying UI design principles**
+### **Slajd 29: Benefits of applying UI design principles**
 
 **Notes iz PDF-a:**
 _"Enhances usability, increases efficiency, improves decision-making, decreases cognitive load."_
@@ -1208,7 +1208,7 @@ _"Enhances usability, increases efficiency, improves decision-making, decreases 
 
 ---
 
-### **Slajd 28-32: Usability, Efficiency, Decision-making, Cognitive Load**
+### **Slajd 30-34: Usability, Efficiency, Decision-making, Cognitive Load**
 
 _[Ovi slajdovi objašnjavaju svaki benefit detaljnije - možete ih kombinirati u jedno objašnjenje ako je timing tight]_
 
@@ -1239,7 +1239,7 @@ Ovi slajdovi se mogu compressati u kraći overview ako je potrebno ubrzati.
 
 ---
 
-### **Slajd 33: Before going on... CTA**
+### **Slajd 35: Before going on... CTA**
 
 **Notes iz PDF-a:**
 _"Calls to action (CTA) are buttons that guide users towards a specific goal. Visual prominence, negative spacing, action-oriented text."_
@@ -1289,7 +1289,7 @@ A: "Može, ali jedan mora biti PRIMARY (najistaknutiji), ostali secondary. Ne mo
 
 ---
 
-### **Slajd 34: CTA Design**
+### **Slajd 36: CTA Design**
 
 **Notes iz PDF-a:**
 _"Make clickable elements look clickable. Label buttons according to action. Design buttons consistently. Size: 5-second test. Material Design examples."_
@@ -1331,7 +1331,7 @@ Material Design buttons su excellent primjeri - pokažite različite styles (con
 
 ## ⏰ **11:45-12:15 (30 min) - CORE DESIGN PRINCIPLES**
 
-### **Slajd 35: A lot of principles (but not all)**
+### **Slajd 38: A lot of principles (but not all)**
 
 **Notes iz PDF-a:**
 _"Design principles serve as guidelines. Not formally documented, learned through observation and practice."_
@@ -1358,7 +1358,7 @@ Ovih 8 principa su temelj vizualnog dizajna. Primjenjuju se ne samo u UI, već i
 
 ---
 
-### **Slajd 36: Alignment**
+### **Slajd 39: Alignment**
 
 **Notes iz PDF-a:**
 _"Alignment is one of the most important factors in creating good design. Creates sense of unity and order."_
@@ -1413,7 +1413,7 @@ A: "Uglavnom da. Ali ponekad namjerno 'breakaš' alignment za emphasis. Primjer:
 
 ---
 
-### **Slajd 37: Emphasis**
+### **Slajd 42: Emphasis**
 
 **Notes iz PDF-a:**
 _"Emphasis means highlighting certain design elements so they stand out."_
@@ -1453,7 +1453,7 @@ Prikaži primjer gdje je jedan krug različite boje među 20 istih krugova - ins
 
 ---
 
-### **Slajd 38: Balance**
+### **Slajd 46: Balance**
 
 **Notes iz PDF-a:**
 _"A satisfying arrangement or proportion of design elements. Balance occurs when visual weight is equally distributed."_
@@ -1490,7 +1490,7 @@ Zamislite vagu - s lijeve strane imate veliki taman kvadrat, s desne strane neko
 
 ---
 
-### **Slajd 39: Contrast**
+### **Slajd 49: Contrast**
 
 **Notes iz PDF-a:**
 _"Contrast is key principle that helps set apart important elements. Color, size, space, shape contrasts."_
@@ -1531,7 +1531,7 @@ WebAIM preporučuje minimum 4.5:1 ratio za normal text, 3:1 za large text.
 
 ---
 
-### **Slajd 40: Repetition**
+### **Slajd 52: Repetition**
 
 **Notes iz PDF-a:**
 _"Repetition is using the same or similar elements multiple times. Creates consistency and familiarity."_
@@ -1561,7 +1561,7 @@ Repetition je temelj Design Systems. Companies kao što je Google, Apple, IBM im
 
 ---
 
-### **Slajd 41: Proportion**
+### **Slajd 55: Proportion**
 
 **Notes iz PDF-a:**
 _"Proportion is harmonious relationship between parts. Size vs Scale vs Proportion."_
@@ -1588,7 +1588,7 @@ Golden ratio je zanimljiv koncept ali ne mora biti primjenjivan u svakom dizajnu
 
 ---
 
-### **Slajd 42: White Space**
+### **Slajd 58: White Space**
 
 **Notes iz PDF-a:**
 _"Whitespace (negative space) is empty space between elements. Essential element in design. Improves legibility, organization, hierarchy, attention."_
@@ -1629,7 +1629,7 @@ A: "Kada sadržaj postaje težak pronaći ili kada se čini 'lost'. Ali to je ri
 
 ---
 
-### **Slajd 43: Visual Hierarchy**
+### **Slajd 61: Visual Hierarchy**
 
 **Notes iz PDF-a:**
 _"Visual hierarchy is how your interface uses contrast, size, color to give some elements more importance."_
@@ -1670,7 +1670,7 @@ _"Visual hierarchy is how your interface uses contrast, size, color to give some
 
 ---
 
-### **Slajd 44: Above the fold**
+### **Slajd 65: Above the fold**
 
 **Notes iz PDF-a:**
 _"Above the fold (ATF) is the part of webpage you can see without scrolling down."_
