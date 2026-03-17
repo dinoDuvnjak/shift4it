@@ -1,5 +1,74 @@
 # 📘 DAN 2 - PRINCIPLES OF DESIGN (DIO 1)
 
+## 📋 Table of Contents
+
+- [PREDAVANJE: Typography, Colors & Core Design Principles](#predavanje-typography-colors--core-design-principles)
+- [🎯 CILJEVI UČENJA](#-ciljevi-učenja)
+- [⏰ RASPORED PREDAVANJA](#-raspored-predavanja)
+- [⏰ 9:00-9:05 - UVOD I PREGLED DANA](#-900-905-5-min---uvod-i-pregled-dana)
+  - [Slajd 3: Principles of design & ergonomics](#slajd-3-principles-of-design--ergonomics)
+  - [Slajd 2: What's on the menu?](#slajd-2-whats-on-the-menu)
+  - [Slajd 3: Summary](#slajd-3-summary)
+- [⏰ 9:10-9:45 - TYPOGRAPHY](#-910-945-35-min---typography)
+  - [Slajd 5: Principles of Design](#slajd-5-principles-of-design)
+  - [Slajd 6: But first... Let's test your attention to details!](#slajd-6-but-first-lets-test-your-attention-to-details)
+  - [Slajd 7: Typography](#slajd-7-typography)
+  - [Slajd 7: Typography helps to](#slajd-7-typography-helps-to)
+  - [Slajd 9: Font types - Typography](#slajd-9-font-types---typography)
+  - [Slajd 10: Font types - Font family](#slajd-10-font-types---font-family)
+  - [Slajd 11: Text Aligned - Typography](#slajd-11-text-aligned---typography)
+  - [Slajd 12: Line & Letter Spacing and Kerning - Typography](#slajd-12-line--letter-spacing-and-kerning---typography)
+  - [Slajd 12: EXERCISE - Kerning Game](#slajd-12-exercise---kerning-game)
+- [⏰ 9:45-10:00 - TYPOGRAPHY HIERARCHY I PAIRING](#-945-1000-15-min---typography-hierarchy-i-pairing)
+  - [Slajd 15: Hierarchy - Typography](#slajd-15-hierarchy---typography)
+  - [Slajd 14: Pairing Fonts - Typography](#slajd-14-pairing-fonts---typography)
+  - [Slajd 17: Tools - Typography](#slajd-17-tools---typography)
+- [⏰ 10:00-10:15 - PAUZA ☕](#-1000-1015-15-min---pauza-)
+- [⏰ 10:15-10:50 - COLORS](#-1015-1050-35-min---colors)
+  - [Slajd 18: Colors](#slajd-18-colors)
+  - [Slajd 19: Colour Pairing](#slajd-19-colour-pairing)
+  - [Slajd 20: Colour Formats](#slajd-20-colour-formats)
+  - [Slajd 21: 60/30/10 Rule](#slajd-21-603010-rule)
+  - [Slajd 23: The Psychology of Colors](#slajd-23-the-psychology-of-colors)
+  - [Slajd 24: Don't forget accessibility!](#slajd-24-dont-forget-accessibility)
+  - [Slajd 22: A brilliant infographic & Tools](#slajd-22-a-brilliant-infographic--tools)
+- [⏰ 10:50-11:00 - RECAP & TRANSITION](#-1050-1100-10-min---recap--transition)
+- [⏰ 11:00-11:15 - PAUZA ☕](#-1100-1115-15-min---pauza-)
+- [⏰ 11:15-11:45 - INTUITIVE DESIGN & CTA](#-1115-1145-30-min---intuitive-design--cta)
+  - [Slajd 25: Intuitive design Definition](#slajd-25-intuitive-design-definition)
+  - [Slajd 26: Intuitive design Basic principles](#slajd-26-intuitive-design-basic-principles)
+  - [Slajd 27: Rules of thumb](#slajd-27-intuitive-design-basic-principles---rules-of-thumb)
+  - [Slajd 28: What is affordance in UX design?](#slajd-28-what-is-affordance-in-ux-design)
+  - [Slajd 29: Benefits of applying UI design principles](#slajd-29-benefits-of-applying-ui-design-principles)
+  - [Slajd 30-34: Usability, Efficiency, Decision-making, Cognitive Load](#slajd-30-34-usability-efficiency-decision-making-cognitive-load)
+  - [Slajd 35: Before going on... CTA](#slajd-35-before-going-on-cta)
+  - [Slajd 36: CTA Design](#slajd-36-cta-design)
+- [⏰ 11:45-12:15 - CORE DESIGN PRINCIPLES](#-1145-1215-30-min---core-design-principles)
+  - [Slajd 38: A lot of principles (but not all)](#slajd-38-a-lot-of-principles-but-not-all)
+  - [Slajd 39: Alignment](#slajd-39-alignment)
+  - [Slajd 42: Emphasis](#slajd-42-emphasis)
+  - [Slajd 46: Balance](#slajd-46-balance)
+  - [Slajd 49: Contrast](#slajd-49-contrast)
+  - [Slajd 52: Repetition](#slajd-52-repetition)
+  - [Slajd 55: Proportion](#slajd-55-proportion)
+  - [Slajd 58: White Space](#slajd-58-white-space)
+  - [Slajd 61: Visual Hierarchy](#slajd-61-visual-hierarchy)
+  - [Slajd 65: Above the fold](#slajd-65-above-the-fold)
+- [⏰ 12:15-12:30 - RECAP, PITANJA & CLOSURE](#-1215-1230-15-min---recap-pitanja--closure)
+  - [EXERCISE: Design Critique](#exercise-design-critique)
+  - [RECAP & PITANJA](#recap--pitanja)
+- [🔄 BACKUP AKTIVNOSTI](#-backup-aktivnosti)
+  - [BACKUP AKTIVNOST 1: Font Pairing Challenge (10 min)](#backup-aktivnost-1-font-pairing-challenge-10-min)
+  - [BACKUP AKTIVNOST 2: Color Palette from Image (10 min)](#backup-aktivnost-2-color-palette-from-image-10-min)
+  - [BACKUP AKTIVNOST 3: CTA Button Redesign (15 min)](#backup-aktivnost-3-cta-button-redesign-15-min)
+  - [BACKUP AKTIVNOST 4: Alignment Grid Exercise (10 min)](#backup-aktivnost-4-alignment-grid-exercise-10-min)
+  - [BACKUP AKTIVNOST 5: Visual Hierarchy Sorting (10 min)](#backup-aktivnost-5-visual-hierarchy-sorting-10-min)
+  - [BACKUP AKTIVNOST 6: Contrast Checker Practice (5 min)](#backup-aktivnost-6-contrast-checker-practice-5-min)
+  - [BACKUP AKTIVNOST 7: Quick Design Fixes (15 min)](#backup-aktivnost-7-quick-design-fixes-15-min)
+- [📚 DODATNI RESURSI ZA FACILITATORA](#-dodatni-resursi-za-facilitatora)
+
+---
+
 ## **PREDAVANJE: Typography, Colors & Core Design Principles**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)
 **PDF MATERIJAL:** 2 & 3.Principles of design and ergonomics-1.pdf
@@ -625,6 +694,8 @@ Bookmarkajte ove linkove - koristit ćete ih konstantno u projektima!"
 **Demonstracija:**
 Otvori Google Fonts na projektoru - pokažite kako pretraživati, filtrirati, i downloadati fontove. Ovo će im trebati za projekte.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Font Pairing Challenge](#backup-aktivnost-1-font-pairing-challenge-10-min) — Studenti biraju font par u Google Fonts i kreiraju mini mockup u Figmi; direktna primjena pairing sekcije.
+
 ---
 
 ## ⏰ **10:00-10:15 (15 min) - PAUZA ☕**
@@ -940,6 +1011,8 @@ Otvori WebAIM Contrast Checker. Testiraj nekoliko kombinacija:
 Q: "Mogu li koristiti svijetlo sivi text?"
 A: "Možeš, ali provjeri kontrast. Mnogi dizajneri koriste previše svijetao sivi jer im se čini 'elegantno', ali je teško čitati."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Contrast Checker Practice](#backup-aktivnost-6-contrast-checker-practice-5-min) — Studenti testiraju 5 kombinacija boja na WebAIM alatku; naturalni nastavak upravo naučenih WCAG pravila.
+
 ---
 
 ### **Slajd 22: A brilliant infographic & Tools**
@@ -969,6 +1042,8 @@ Bookmarkajte ove! Koristit ćete ih za svaki projekt!"
 
 **Demonstracija:**
 Otvori Coolors.co - pritišči spacebar i generiraj random palete. Neka studentice vide koliko je brzo mogu dobiti inspiraciju.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Color Palette from Image](#backup-aktivnost-2-color-palette-from-image-10-min) — Studenti uploadaju sliku na Coolors Image Picker i izvlače paletu; direktna veza s alatima koje smo upravo pokazali.
 
 ---
 
@@ -1327,6 +1402,8 @@ _"Make clickable elements look clickable. Label buttons according to action. Des
 
 Material Design buttons su excellent primjeri - pokažite različite styles (contained, outlined, text buttons).
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: CTA Button Redesign](#backup-aktivnost-3-cta-button-redesign-15-min) — Studenti pronalaze realan loš CTA button i redesignaju ga u Figmi; savršen hands-on nastavak CTA sekcije.
+
 ---
 
 ## ⏰ **11:45-12:15 (30 min) - CORE DESIGN PRINCIPLES**
@@ -1410,6 +1487,8 @@ A: "Uglavnom da. Ali ponekad namjerno 'breakaš' alignment za emphasis. Primjer:
 
 **Troubleshooting:**
 - **Dizajn izgleda 'off'**: Provjeri alignment. Često je problem što je nešto 2-3px misaligned.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Alignment Grid Exercise](#backup-aktivnost-4-alignment-grid-exercise-10-min) — Studenti ispravljaju misaligned elemente na Figma templateu; vizualno učvršćivanje alignment principa.
 
 ---
 
@@ -1698,6 +1777,8 @@ Termin dolazi iz novina - 'fold' je gdje se novine presavinaju.
 
 Mit: "Korisnici ne scrollaju". To je zastarjela ideja. Moderna studies pokazuju da ljudi scrollaju jako puno, posebno na mobile. Ali first impression je i dalje kritičan.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Visual Hierarchy Sorting](#backup-aktivnost-5-visual-hierarchy-sorting-10-min) — Grupa sortira elemente realnog interfacea po hijerarhiji; direktna primjena Visual Hierarchy i Above the Fold koncepta.
+
 ---
 
 ## ⏰ **12:15-12:30 (15 min) - RECAP, PITANJA & CLOSURE**
@@ -1772,6 +1853,8 @@ Studentice možda imaju pitanja o specifičnim situacijama. Budi spreman improvi
 - [ ] Provjeri da li sve studentice imaju Figma pristup
 - [ ] Pripremi primjere dizajna za sljedeću sesiju
 - [ ] Upload template files u chat
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Quick Design Fixes](#backup-aktivnost-7-quick-design-fixes-15-min) — Parovi identificiraju i predlažu popravke na primjeru lošeg dizajna; idealan wrap-up koji sintetizira sve principe dana.
 
 ---
 
