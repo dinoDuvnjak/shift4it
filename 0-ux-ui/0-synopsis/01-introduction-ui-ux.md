@@ -395,6 +395,8 @@ Studentice misle da je UI samo "kako izgleda" i manje važno. NIJE TOČNO!
 📖 **Reference:**
 - [UX vs UI grafika](https://anmadesign.com/differences-entre-ui-ux/)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: UX Fails - Show & Tell](#backup-aktivnost-4-ux-fails---show--tell-10-min) — Studenti pokazuju aplikacije koje ih frustriraju; direktno se veže na razliku UX/UI definicija.
+
 ---
 
 ### **9:50-10:00 (10 min) - Slajd 9: Benefits of UI/UX Design**
@@ -478,6 +480,8 @@ _"Benefiti UI/UX Designa: Privlačenje i zadržavanje kupaca – Dobro dizajnira
 
 📖 **Reference:**
 - [ROI of UX studija - Forrester](https://www.forrester.com/blogs/the-six-steps-for-justifying-better-ux/)
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Design Critique Game](#backup-aktivnost-1-design-critique-game-15-min) — Analiza stvarnih web stranica direktno primjenjuje benefite dobrog/lošeg UX/UI-ja.
 
 ---
 
@@ -915,6 +919,8 @@ Odgovor: Jeftinije i brže mijenjati dizajn nego kod!
 - [UX Mastery proces](https://uxmastery.com/)
 - [Lean UX - IxDF](https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: "Before & After" Challenge](#backup-aktivnost-5-before--after-challenge-15-min) — Primjena UX procesa na konkretan primjer lošeg dizajna; prirodan nastavak iterativnog razmišljanja.
+
 ---
 
 ## ⏰ **11:00-11:15 - PAUZA ☕**
@@ -990,6 +996,10 @@ Ovo je primjer tipa projekta koji možete raditi. Ne morate raditi točno ovaj p
 - Kreiranje case studyja
 - Priprema prezentacije
 - Isporuka: Projekt spreman za portfolio + prezentacija
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Project Brainstorming Session](#backup-aktivnost-3-project-brainstorming-session-10-15-min) — Studenti u grupama brainstormaju ideje za vlastiti finalni projekt; prirodan nastavak nakon što su čuli što projekt podrazumijeva.
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 7: "Elevator Pitch" Your App](#backup-aktivnost-7-elevator-pitch-your-app-10-min) — Studenti vježbaju artikulirati svoju app ideju u 30 sekundi — dobra provjera jesu li razumjeli User Value.
 
 ---
 
@@ -1171,6 +1181,8 @@ Pokaži na svom ekranu (projektor):
 📖 **Reference:**
 - [Figma Help Center](https://help.figma.com/)
 - [Figma keyboard shortcuts](https://help.figma.com/hc/en-us/articles/360040328653)
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Figma Exploration Challenge](#backup-aktivnost-2-figma-exploration-challenge-15-min) — Parovi igraju pogađanje Figma alata; zabavan način učvršćivanja upravo naučene navigacije.
 
 ---
 
@@ -1410,6 +1422,8 @@ Najvažnije što trebate zapamtiti danas:
 Vidimo se sljedeći put za Principles of Design!"
 
 **Pitanja? (Otvori prostor za bilo kakva pitanja)**
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: UX Terminology Pictionary](#backup-aktivnost-6-ux-terminology-pictionary-10-min) — Crtanje UX pojmova na ploči; savršen energizer za kraj dana i učvršćivanje terminologije.
 
 ---
 
