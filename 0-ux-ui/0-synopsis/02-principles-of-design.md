@@ -385,7 +385,7 @@ A: "Kada je tekst centriran, svaka linija počinje na drugoj poziciji. Vaše oč
 
 ---
 
-### **Slajd 12: Line & Letter Spacing and Kerning - Typography**
+### **Slajd 13: Line & Letter Spacing and Kerning - Typography**
 
 **Notes iz PDF-a:**
 _"Line Spacing (Leading): Adjust space between lines. Aim for 140-180% for readability. Letter Spacing (Tracking): Space between all characters. Kerning: Space between individual character pairs."_
@@ -441,7 +441,7 @@ A: "Skoro nikad ručno. Samo ako radiš logo ili vrlo velike headinge gdje primj
 
 ---
 
-### **Slajd 12: EXERCISE - Kerning Game**
+### **Slajd 14: EXERCISE - Kerning Game**
 
 **Notes iz PDF-a:**
 _"Do you want to try?"_
@@ -477,9 +477,6 @@ Ovo je težak task i profesionalci troše godine perfekcionirajući kerning. Cil
 ## ⏰ **9:45-10:00 (15 min) - TYPOGRAPHY HIERARCHY I PAIRING**
 
 ### **Slajd 15: Hierarchy - Typography**
-
-**Notes iz PDF-a:**
-_"Hierarchy is arranging text based on the importance of information. Headings are largest, subheadings smaller, body text standard, captions smallest."_
 
 **Što reći studentima (5 min):**
 
@@ -517,10 +514,7 @@ A: "4-5 je dovoljno: H1, H2, H3, Body, Caption. Više od toga postaje zbunjujuć
 
 ---
 
-### **Slajd 14: Pairing Fonts - Typography**
-
-**Notes iz PDF-a:**
-_"Contrast but Complement. Limit to two or three fonts. Use hierarchy. Match mood & purpose. Check readability."_
+### **Slajd 16: Pairing Fonts - Typography**
 
 **Što reći studentima (7 min):**
 
@@ -553,7 +547,7 @@ _"Contrast but Complement. Limit to two or three fonts. Use hierarchy. Match moo
 
 📖 **Reference:**
 - [Font Pair](https://www.fontpair.co/)
-- [Google Fonts Pairing Tool](https://fonts.google.com/)
+- [Google Fonts Pairing Tool](https://fonts.google.com/knowledge/choosing_type/pairing_typefaces)
 
 📚 **FACILITATOR NOTES:**
 
@@ -580,12 +574,9 @@ A: "Test - napravi mockup s oba fonta i pitaj: 'Čini li ovo cohesive?' Ako ne z
 
 ---
 
+-- VJEZBA PARIVOANJE FONTOVA
+
 ### **Slajd 17: Tools - Typography**
-
-**Notes iz PDF-a:**
-_"Free web licensed fonts, font inspector tools, pairing tools."_
-
-**Što reći studentima (3 min):**
 
 "**Alati za tipografiju:**
 
@@ -618,11 +609,6 @@ Otvori Google Fonts na projektoru - pokažite kako pretraživati, filtrirati, i 
 ## ⏰ **10:15-10:50 (35 min) - COLORS**
 
 ### **Slajd 18: Colors**
-
-**Notes iz PDF-a:**
-_"Color is a power which directly influences the soul. Colors attract emotion."_
-
-**Što reći studentima (3 min):**
 
 "Wassily Kandinsky: 'Color is a power which directly influences the soul.'
 
@@ -695,14 +681,11 @@ A: "Ovisi o brandu i svrhi. Complementary = bold i energična. Analogous = smire
 **Troubleshooting:**
 - **Studentice se muče vidjeti razlike**: Koristi Coolors.co ili Adobe Color - generiraj palete uživo i neka vide instant.
 
+- VJEZBA: neka napravi svaka svoju paletu u adobe color.
+
 ---
 
 ### **Slajd 20: Colour Formats**
-
-**Notes iz PDF-a:**
-_"HEX: Hexadecimal format. RGB: Red, Green, Blue (0-255). HSL: Hue, Saturation, Lightness. CMYK: Cyan, Magenta, Yellow, Black (for printing)."_
-
-**Što reći studentima (5 min):**
 
 "Boje se mogu prikazati u različitim formatima:
 
@@ -741,11 +724,6 @@ A: "HEX je najčešći za web dizajn. RGB ako trebaš transparency (RGBA). HSL a
 
 ### **Slajd 21: 60/30/10 Rule**
 
-**Notes iz PDF-a:**
-_"60% neutral/base color (background), 30% secondary color (supporting elements), 10% accent color (call-to-actions, highlights)."_
-
-**Što reći studentima (7 min):**
-
 "**60/30/10 PRAVILO** = Formula za balansiranje boja u dizajnu.
 
 **60% - BAZA (Neutral)**
@@ -770,7 +748,7 @@ _"60% neutral/base color (background), 30% secondary color (supporting elements)
 
 **PRAVILO: Ne koristite visoko saturirane boje za 60% - prenaporno je za oči!**"
 
-**Primjeri:**
+**Primjeri:** --- VJEZBA -----
 Otvori Apple.com ili Airbnb - analizirajte zajedno: koja boja pokriva 60%? 30%? 10%?
 
 📚 **FACILITATOR NOTES:**
@@ -791,12 +769,7 @@ A: "Možeš imati shades (nijanse) svake boje, ali ostani u 3 glavne kategorije.
 
 ---
 
-### **Slajd 23: The Psychology of Colors**
-
-**Notes iz PDF-a:**
-_"Red: passion or danger. Orange: energy, adventure. Yellow: happy, cheerful. Green: nature, growth. Blue: calm, intelligent. Purple: luxury, creativity. Black: power, elegance. White: minimalist, innocent. Gray: serious, sophisticated. Brown: warm, friendly, natural."_
-
-**Što reći studentima (10 min):**
+### **Slajd 22: The Psychology of Colors**
 
 "Svaka boja nosi **psihološko značenje** i izaziva specifične emocije:
 
@@ -1004,11 +977,6 @@ Ovo je brza vježba prije pauze da zadrže fokus i primijene ono što su naučil
 
 ### **Slajd 25: Intuitive design Definition**
 
-**Notes iz PDF-a:**
-_"Designing digital experiences that target users find easy to use. Includes visual and functional design like iconography and buttons."_
-
-**Što reći studentima (5 min):**
-
 "**Intuitivni dizajn** = Dizajn koji je odmah jasan i lak za korištenje.
 
 **Cilj:** Korisnik dolazi na website/app i ODMAH zna:
@@ -1176,11 +1144,6 @@ A: "Možeš, ali onda koristi MOTION (hover effects) i BOJU (consistent color za
 
 ### **Slajd 29: Benefits of applying UI design principles**
 
-**Notes iz PDF-a:**
-_"Enhances usability, increases efficiency, improves decision-making, decreases cognitive load."_
-
-**Što reći studentima (3 min):**
-
 "Zašto su design principi važni?
 
 **1. USABILITY** - Lakše je koristiti
@@ -1279,11 +1242,6 @@ A: "Može, ali jedan mora biti PRIMARY (najistaknutiji), ostali secondary. Ne mo
 
 ### **Slajd 36: CTA Design**
 
-**Notes iz PDF-a:**
-_"Make clickable elements look clickable. Label buttons according to action. Design buttons consistently. Size: 5-second test. Material Design examples."_
-
-**Što reći studentima (5 min):**
-
 "**CTA Design Best Practices:**
 
 **1. Make it LOOK clickable**
@@ -1322,11 +1280,6 @@ Material Design buttons su excellent primjeri - pokažite različite styles (con
 ## ⏰ **11:45-12:15 (30 min) - CORE DESIGN PRINCIPLES**
 
 ### **Slajd 38: A lot of principles (but not all)**
-
-**Notes iz PDF-a:**
-_"Design principles serve as guidelines. Not formally documented, learned through observation and practice."_
-
-**Što reći studentima (3 min):**
 
 "Idemo u core design principles!
 
@@ -1406,11 +1359,6 @@ A: "Uglavnom da. Ali ponekad namjerno 'breakaš' alignment za emphasis. Primjer:
 ---
 
 ### **Slajd 42: Emphasis**
-
-**Notes iz PDF-a:**
-_"Emphasis means highlighting certain design elements so they stand out."_
-
-**Što reći studentima (5 min):**
 
 "**EMPHASIS (Naglasak)** = Isticanje važnih elemenata.
 
@@ -1582,11 +1530,6 @@ Golden ratio je zanimljiv koncept ali ne mora biti primjenjivan u svakom dizajnu
 
 ### **Slajd 58: White Space**
 
-**Notes iz PDF-a:**
-_"Whitespace (negative space) is empty space between elements. Essential element in design. Improves legibility, organization, hierarchy, attention."_
-
-**Što reći studentima (5 min):**
-
 "**WHITE SPACE (Prazan prostor)** = Prostor između i oko elemenata.
 
 **2 TIPA:**
@@ -1622,11 +1565,6 @@ A: "Kada sadržaj postaje težak pronaći ili kada se čini 'lost'. Ali to je ri
 ---
 
 ### **Slajd 61: Visual Hierarchy**
-
-**Notes iz PDF-a:**
-_"Visual hierarchy is how your interface uses contrast, size, color to give some elements more importance."_
-
-**Što reći studentima (5 min):**
 
 "**VISUAL HIERARCHY (Vizualna hijerarhija)** = Organizacija elemenata po važnosti.
 
