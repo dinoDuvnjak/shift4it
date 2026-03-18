@@ -385,7 +385,7 @@ A: "Kada je tekst centriran, svaka linija počinje na drugoj poziciji. Vaše oč
 
 ---
 
-### **Slajd 12: Line & Letter Spacing and Kerning - Typography**
+### **Slajd 13: Line & Letter Spacing and Kerning - Typography**
 
 **Notes iz PDF-a:**
 _"Line Spacing (Leading): Adjust space between lines. Aim for 140-180% for readability. Letter Spacing (Tracking): Space between all characters. Kerning: Space between individual character pairs."_
@@ -441,7 +441,7 @@ A: "Skoro nikad ručno. Samo ako radiš logo ili vrlo velike headinge gdje primj
 
 ---
 
-### **Slajd 12: EXERCISE - Kerning Game**
+### **Slajd 14: EXERCISE - Kerning Game**
 
 **Notes iz PDF-a:**
 _"Do you want to try?"_
@@ -477,9 +477,6 @@ Ovo je težak task i profesionalci troše godine perfekcionirajući kerning. Cil
 ## ⏰ **9:45-10:00 (15 min) - TYPOGRAPHY HIERARCHY I PAIRING**
 
 ### **Slajd 15: Hierarchy - Typography**
-
-**Notes iz PDF-a:**
-_"Hierarchy is arranging text based on the importance of information. Headings are largest, subheadings smaller, body text standard, captions smallest."_
 
 **Što reći studentima (5 min):**
 
@@ -517,10 +514,7 @@ A: "4-5 je dovoljno: H1, H2, H3, Body, Caption. Više od toga postaje zbunjujuć
 
 ---
 
-### **Slajd 14: Pairing Fonts - Typography**
-
-**Notes iz PDF-a:**
-_"Contrast but Complement. Limit to two or three fonts. Use hierarchy. Match mood & purpose. Check readability."_
+### **Slajd 16: Pairing Fonts - Typography**
 
 **Što reći studentima (7 min):**
 
@@ -553,7 +547,7 @@ _"Contrast but Complement. Limit to two or three fonts. Use hierarchy. Match moo
 
 📖 **Reference:**
 - [Font Pair](https://www.fontpair.co/)
-- [Google Fonts Pairing Tool](https://fonts.google.com/)
+- [Google Fonts Pairing Tool](https://fonts.google.com/knowledge/choosing_type/pairing_typefaces)
 
 📚 **FACILITATOR NOTES:**
 
@@ -580,12 +574,9 @@ A: "Test - napravi mockup s oba fonta i pitaj: 'Čini li ovo cohesive?' Ako ne z
 
 ---
 
+-- VJEZBA PARIVOANJE FONTOVA
+
 ### **Slajd 17: Tools - Typography**
-
-**Notes iz PDF-a:**
-_"Free web licensed fonts, font inspector tools, pairing tools."_
-
-**Što reći studentima (3 min):**
 
 "**Alati za tipografiju:**
 
