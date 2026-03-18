@@ -977,11 +977,6 @@ Ovo je brza vježba prije pauze da zadrže fokus i primijene ono što su naučil
 
 ### **Slajd 25: Intuitive design Definition**
 
-**Notes iz PDF-a:**
-_"Designing digital experiences that target users find easy to use. Includes visual and functional design like iconography and buttons."_
-
-**Što reći studentima (5 min):**
-
 "**Intuitivni dizajn** = Dizajn koji je odmah jasan i lak za korištenje.
 
 **Cilj:** Korisnik dolazi na website/app i ODMAH zna:
@@ -1149,11 +1144,6 @@ A: "Možeš, ali onda koristi MOTION (hover effects) i BOJU (consistent color za
 
 ### **Slajd 29: Benefits of applying UI design principles**
 
-**Notes iz PDF-a:**
-_"Enhances usability, increases efficiency, improves decision-making, decreases cognitive load."_
-
-**Što reći studentima (3 min):**
-
 "Zašto su design principi važni?
 
 **1. USABILITY** - Lakše je koristiti
@@ -1252,11 +1242,6 @@ A: "Može, ali jedan mora biti PRIMARY (najistaknutiji), ostali secondary. Ne mo
 
 ### **Slajd 36: CTA Design**
 
-**Notes iz PDF-a:**
-_"Make clickable elements look clickable. Label buttons according to action. Design buttons consistently. Size: 5-second test. Material Design examples."_
-
-**Što reći studentima (5 min):**
-
 "**CTA Design Best Practices:**
 
 **1. Make it LOOK clickable**
@@ -1295,11 +1280,6 @@ Material Design buttons su excellent primjeri - pokažite različite styles (con
 ## ⏰ **11:45-12:15 (30 min) - CORE DESIGN PRINCIPLES**
 
 ### **Slajd 38: A lot of principles (but not all)**
-
-**Notes iz PDF-a:**
-_"Design principles serve as guidelines. Not formally documented, learned through observation and practice."_
-
-**Što reći studentima (3 min):**
 
 "Idemo u core design principles!
 
@@ -1379,11 +1359,6 @@ A: "Uglavnom da. Ali ponekad namjerno 'breakaš' alignment za emphasis. Primjer:
 ---
 
 ### **Slajd 42: Emphasis**
-
-**Notes iz PDF-a:**
-_"Emphasis means highlighting certain design elements so they stand out."_
-
-**Što reći studentima (5 min):**
 
 "**EMPHASIS (Naglasak)** = Isticanje važnih elemenata.
 
@@ -1555,11 +1530,6 @@ Golden ratio je zanimljiv koncept ali ne mora biti primjenjivan u svakom dizajnu
 
 ### **Slajd 58: White Space**
 
-**Notes iz PDF-a:**
-_"Whitespace (negative space) is empty space between elements. Essential element in design. Improves legibility, organization, hierarchy, attention."_
-
-**Što reći studentima (5 min):**
-
 "**WHITE SPACE (Prazan prostor)** = Prostor između i oko elemenata.
 
 **2 TIPA:**
@@ -1595,11 +1565,6 @@ A: "Kada sadržaj postaje težak pronaći ili kada se čini 'lost'. Ali to je ri
 ---
 
 ### **Slajd 61: Visual Hierarchy**
-
-**Notes iz PDF-a:**
-_"Visual hierarchy is how your interface uses contrast, size, color to give some elements more importance."_
-
-**Što reći studentima (5 min):**
 
 "**VISUAL HIERARCHY (Vizualna hijerarhija)** = Organizacija elemenata po važnosti.
 
