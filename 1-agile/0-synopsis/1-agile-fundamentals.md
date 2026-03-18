@@ -2,103 +2,50 @@
 
 ## 📋 Table of Contents
 
-- [PREDAVANJE: Fundamentals of Agile Project Management Methodology](#predavanje-fundamentals-of-agile-project-management-methodology)
-- [📊 ANALIZA PDF MATERIJALA](#-analiza-pdf-materijala)
-- [🎯 CILJEVI UČENJA](#-ciljevi-učenja)
-- [⏰ RASPORED PREDAVANJA](#-raspored-predavanja)
-- [⏰ 9:00-9:15 - UVOD I UPOZNAVANJE S MODULOM](#-900-915---uvod-i-upoznavanje-s-modulom)
-  - [Slajd 1: Naslovnica](#slajd-1-naslovnica---fundamentals-of-agile-project-management)
-  - [Slajd 2: Summary - Pregled sadržaja](#slajd-2-summary---pregled-sadržaja)
-- [⏰ 9:15-10:00 - SEKCIJA 1: POVIJEST I NASTANAK AGILE-A](#-915-1000---sekcija-1-povijest-i-nastanak-agile-a)
-  - [Slajd 3: The Birth of Agile Methodology - Graf adopcije](#slajd-3-the-birth-of-agile-methodology---graf-adopcije)
-  - [Slajd 4-6: The Birth of Agile - Snowbird sastanak](#slajd-4-6-the-birth-of-agile-methodology---snowbird-sastanak)
-  - [Slajd 7: Agile Manifest](#slajd-7-the-birth-of-agile-methodology---agile-manifest)
-  - [Slajd 8: Key Principles - Waterfall vs Agile dijagram](#slajd-8-key-principles---waterfall-vs-agile-dijagram)
-  - [Slajd 9-10: Key Principles of Agile Project Management](#slajd-9-10-key-principles-of-agile-project-management)
-- [☕ 10:00-10:15 - PAUZA](#-1000-1015---pauza)
-- [⏰ 10:15-11:00 - SEKCIJA 2: MVP, ITERACIJE I ADAPTACIJA](#-1015-1100---sekcija-2-mvp-iteracije-i-adaptacija)
-  - [Slajd 11: Where to Start? - Waterfall vs Agile ilustracija](#slajd-11-where-to-start---waterfall-vs-agile-ilustracija)
-  - [Slajd 12-13: Minimum Viable Product (MVP)](#slajd-12-13-minimum-viable-product-mvp)
-  - [Slajd 14: Iterations - Waterfall vs Agile model](#slajd-14-iterations---waterfall-vs-agile-model)
-  - [Slajd 15: Adaptation - Waterfall vs Agile trokuti](#slajd-15-adaptation---waterfall-vs-agile-trokuti)
-  - [Slajd 16-17: So Abandoning Traditional Logic?](#slajd-16-17-so-abandoning-traditional-logic---agile-vs-waterfall-usporedba)
-  - [Slajd 18: Agile or Lean? - Matrica](#slajd-18-agile-or-lean---matrica)
-- [☕ 11:00-11:15 - PAUZA](#-1100-1115---pauza)
-- [⏰ 11:15-12:00 - SEKCIJA 3: UPRAVLJANJE PROJEKTOM AGILE PRISTUPOM](#-1115-1200---sekcija-3-upravljanje-projektom-agile-pristupom)
-  - [Slajd 19-20: Introduction to the Agile Approach](#slajd-19-20-introduction-to-the-agile-approach)
-  - [Slajd 21-22: 12 Principles of Agile Manifesto](#slajd-21-22-12-principles-of-agile-manifesto)
-  - [Slajd 23-25: Managing a Project with Agile Approach](#slajd-23-25-managing-a-project-with-agile-approach)
-  - [Slajd 26-27: Benefits and Challenges](#slajd-26-27-benefits-and-challenges)
-- [⏰ 12:00-12:30 - SEKCIJA 4: CASE STUDY + RECAP](#-1200-1230---sekcija-4-case-study--recap)
-  - [Slajd 28-35: Case Study - Croatian Marketing Agency](#slajd-28-35-case-study---croatian-marketing-agency)
-  - [RECAP - Što smo danas naučili?](#recap---što-smo-danas-naučili-5-min)
-- [❓ PITANJA ZA PROVJERU RAZUMIJEVANJA](#-pitanja-za-provjeru-razumijevanja)
-- [🔄 BACKUP AKTIVNOSTI](#-backup-aktivnosti)
-  - [BACKUP AKTIVNOST 1: Agile Manifest Memory Game (10 min)](#backup-aktivnost-1-agile-manifest-memory-game-10-min)
-  - [BACKUP AKTIVNOST 2: MVP Challenge (15 min)](#backup-aktivnost-2-mvp-challenge-15-min)
-  - [BACKUP AKTIVNOST 3: Waterfall vs Agile Debate (10 min)](#backup-aktivnost-3-waterfall-vs-agile-debate-10-min)
-  - [BACKUP AKTIVNOST 4: Daily Stand-up Simulacija (10 min)](#backup-aktivnost-4-daily-stand-up-simulacija-10-min)
-  - [BACKUP AKTIVNOST 5: Agile Principles Ranking (10 min)](#backup-aktivnost-5-agile-principles-ranking-10-min)
-  - [BACKUP AKTIVNOST 6: Case Study Analysis (15 min)](#backup-aktivnost-6-case-study-analysis-15-min)
-  - [BACKUP AKTIVNOST 7: Agile Vocabulary Quiz (5 min)](#backup-aktivnost-7-agile-vocabulary-quiz-5-min)
-- [📚 DODATNI RESURSI ZA FACILITATORA](#-dodatni-resursi-za-facilitatora)
-- [🎓 UDEMY RESURSI ZA OVAJ DAN](#-udemy-resursi-za-ovaj-dan)
-- [📋 SAŽETAK ZA FACILITATORA](#-sažetak-za-facilitatora)
-
----
-
-## **PREDAVANJE: Fundamentals of Agile Project Management Methodology**
-**TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
-**PDF MATERIJAL:** AGILE_1_v2.pdf  
-**BROJ STUDENTICA:** 8-30  
-**MODUL:** AGILE METHODOLOGIES (Novi modul)
-
----
-
-## 📊 **ANALIZA PDF MATERIJALA**
-
-**PDF sadrži ~40 slajdova organiziranih u dvije glavne sekcije:**
-
-### **PRIORITET 1 - MUST COVER (180 min):**
-- Slajdovi 1-19: Agile Taxonomy (povijest, manifest, principi, MVP, iteracije) ✅
-- Slajdovi 20-32: Managing a Project with Agile Approach (uvod, vrijednosti, principi, best practices) ✅
-
-### **PRIORITET 2 - NICE TO HAVE (ako ima vremena):**
-- Slajdovi 33-40: Case Study (praktični primjer iz Hrvatske) - koristiti kao diskusiju
-
-### **PROCJENA:**
-PDF sadržaj je **optimalan za 1 dan** (3h efektivnog rada). Sadržaj je teorijski s jednim case study-em na kraju. Preporučujem dodati interaktivne aktivnosti za bolje razumijevanje.
-
----
-
-## 🎯 **CILJEVI UČENJA:**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Objasniti** što je Agile metodologija i zašto je nastala
-2. **Navesti** 4 ključne vrijednosti Agile Manifesta
-3. **Razlikovati** Waterfall i Agile pristup upravljanju projektima
-4. **Definirati** što je MVP (Minimum Viable Product) i zašto je važan
-5. **Opisati** koncept iteracija u Agile razvoju
-6. **Identificirati** 12 principa Agile Manifesta
-7. **Prepoznati** kada koristiti Agile, a kada tradicionalni pristup
-8. **Primijeniti** osnovne Agile koncepte na jednostavnom primjeru
-
----
-
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-9:15    Uvod i upoznavanje s modulom (15 min)
-9:15-10:00   SEKCIJA 1: Povijest i nastanak Agile-a (45 min)
-10:00-10:15  ☕ PAUZA
-10:15-11:00  SEKCIJA 2: Agile vs Waterfall, MVP, Iteracije (45 min)
-11:00-11:15  ☕ PAUZA
-11:15-12:00  SEKCIJA 3: Upravljanje projektom Agile pristupom (45 min)
-12:00-12:30  SEKCIJA 4: Case Study + Recap (30 min)
-```
-
-**Ukupno efektivno vrijeme: 180 min (3h)**
+- [📘 DAN 1 - UVOD U AGILE METODOLOGIJE](#-dan-1---uvod-u-agile-metodologije)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [⏰ **9:00-9:15 - UVOD I UPOZNAVANJE S MODULOM**](#-900-915---uvod-i-upoznavanje-s-modulom)
+    - [**Slajd 1: Naslovnica - Fundamentals of Agile Project Management**](#slajd-1-naslovnica---fundamentals-of-agile-project-management)
+  - [⏰ **9:15-10:00 - SEKCIJA 1: POVIJEST I NASTANAK AGILE-A**](#-915-1000---sekcija-1-povijest-i-nastanak-agile-a)
+    - [**Slajd 11: The Birth of Agile Methodology - Snowbird sastanak**](#slajd-11-the-birth-of-agile-methodology---snowbird-sastanak)
+    - [**Slajd 12: The Birth of Agile Methodology - Agile Manifest**](#slajd-12-the-birth-of-agile-methodology---agile-manifest)
+    - [**Slajd 13: Key Principles - Waterfall vs Agile dijagram**](#slajd-13-key-principles---waterfall-vs-agile-dijagram)
+    - [**Slajd 9-10: Key Principles of Agile Project Management**](#slajd-9-10-key-principles-of-agile-project-management)
+  - [☕ **10:00-10:15 - PAUZA**](#-1000-1015---pauza)
+  - [⏰ **10:15-11:00 - SEKCIJA 2: MVP, ITERACIJE I ADAPTACIJA**](#-1015-1100---sekcija-2-mvp-iteracije-i-adaptacija)
+    - [**Slajd 18-19: Minimum Viable Product (MVP)**](#slajd-18-19-minimum-viable-product-mvp)
+    - [**Slajd 20: Iterations - Waterfall vs Agile model**](#slajd-20-iterations---waterfall-vs-agile-model)
+    - [**Slajd 21: Adaptation - Waterfall vs Agile trokuti**](#slajd-21-adaptation---waterfall-vs-agile-trokuti)
+    - [**Slajd 22-23: So Abandoning Traditional Logic? - Agile vs Waterfall usporedba**](#slajd-22-23-so-abandoning-traditional-logic---agile-vs-waterfall-usporedba)
+    - [**Slajd 18: Agile or Lean? - Matrica**](#slajd-18-agile-or-lean---matrica)
+  - [☕ **11:00-11:15 - PAUZA**](#-1100-1115---pauza)
+  - [⏰ **11:15-12:00 - SEKCIJA 3: UPRAVLJANJE PROJEKTOM AGILE PRISTUPOM**](#-1115-1200---sekcija-3-upravljanje-projektom-agile-pristupom)
+    - [**Slajd 26-27: Introduction to the Agile Approach**](#slajd-26-27-introduction-to-the-agile-approach)
+    - [**Slajd 27: 12 Principles of Agile Manifesto**](#slajd-27-12-principles-of-agile-manifesto)
+    - [**Slajd 29-25: Managing a Project with Agile Approach**](#slajd-29-25-managing-a-project-with-agile-approach)
+    - [**Slajd 32-33: Benefits and Challenges**](#slajd-32-33-benefits-and-challenges)
+  - [⏰ **12:00-12:30 - SEKCIJA 4: CASE STUDY + RECAP**](#-1200-1230---sekcija-4-case-study--recap)
+    - [**Slajd 34-41: Case Study - Croatian Marketing Agency**](#slajd-34-41-case-study---croatian-marketing-agency)
+    - [**RECAP - Što smo danas naučili? (5 min)**](#recap---što-smo-danas-naučili-5-min)
+  - [❓ **PITANJA ZA PROVJERU RAZUMIJEVANJA**](#-pitanja-za-provjeru-razumijevanja)
+    - [**Osnovni level:**](#osnovni-level)
+    - [**Srednji level:**](#srednji-level)
+    - [**Viši level:**](#viši-level)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: Agile Manifest Memory Game (10 min)**](#backup-aktivnost-1-agile-manifest-memory-game-10-min)
+    - [**BACKUP AKTIVNOST 2: MVP Challenge (15 min)**](#backup-aktivnost-2-mvp-challenge-15-min)
+    - [**BACKUP AKTIVNOST 3: Waterfall vs Agile Debate (10 min)**](#backup-aktivnost-3-waterfall-vs-agile-debate-10-min)
+    - [**BACKUP AKTIVNOST 4: Daily Stand-up Simulacija (10 min)**](#backup-aktivnost-4-daily-stand-up-simulacija-10-min)
+    - [**BACKUP AKTIVNOST 5: Agile Principles Ranking (10 min)**](#backup-aktivnost-5-agile-principles-ranking-10-min)
+    - [**BACKUP AKTIVNOST 6: Case Study Analysis (15 min)**](#backup-aktivnost-6-case-study-analysis-15-min)
+    - [**BACKUP AKTIVNOST 7: Agile Vocabulary Quiz (5 min)**](#backup-aktivnost-7-agile-vocabulary-quiz-5-min)
+  - [📚 **DODATNI RESURSI ZA FACILITATORA**](#-dodatni-resursi-za-facilitatora)
+    - [**Prije predavanja, pregledaj:**](#prije-predavanja-pregledaj)
+    - [**Za tvoje dalje učenje:**](#za-tvoje-dalje-učenje)
+    - [**Video resursi:**](#video-resursi)
+    - [**Pripremna lista:**](#pripremna-lista)
+  - [🎓 **UDEMY RESURSI ZA OVAJ DAN**](#-udemy-resursi-za-ovaj-dan)
+  - [📋 **SAŽETAK ZA FACILITATORA**](#-sažetak-za-facilitatora)
 
 ---
 
@@ -142,74 +89,9 @@ A: "Ne! Agile se koristi u marketingu, HR-u, čak i u obrazovanju. Mi ćemo se f
 
 ---
 
-### **Slajd 2: Summary - Pregled sadržaja**
-
-**Notes iz PDF-a:**
-_"1.1 Agile taxonomy (1.5 hours) / 1.2 Managing a project with an Agile approach (2.5 hours)"_
-
-**Što reći studentima (5 min):**
-
-"Pogledajmo strukturu današnjeg predavanja:
-
-**Prvi dio - Agile Taxonomy (do pauze):**
-- Povijest nastanka Agile-a
-- Agile Manifest - 'biblija' Agile-a
-- Ključni principi
-
-**Drugi dio - Upravljanje projektom (nakon pauze):**
-- Kako se Agile primjenjuje u praksi
-- MVP koncept
-- Iteracije i adaptacija
-- Stvarni primjer iz Hrvatske
-
-Imat ćemo dvije pauze po 15 minuta i nekoliko praktičnih vježbi."
-
-📚 **FACILITATOR NOTES:**
-
-**Napomena o timingu:**
-PDF predviđa 1.5h za taxonomy i 2.5h za managing - mi ćemo to prilagoditi na 3h ukupno, fokusirajući se na ključne koncepte.
-
----
-
 ## ⏰ **9:15-10:00 - SEKCIJA 1: POVIJEST I NASTANAK AGILE-A**
 
-### **Slajd 3: The Birth of Agile Methodology - Graf adopcije**
-
-**Notes iz PDF-a:**
-_"[Nema notesa - graf pokazuje rast adopcije Agile-a od 2004. do 2014.]"_
-
-**Što reći studentima (5 min):**
-
-"Ovaj graf pokazuje nešto fascinantno - kako je Agile eksplodirao u popularnosti.
-
-**Ključne točke:**
-- Do 2008. godine, Agile je bio relativno nepoznat
-- 2009-2010. dogodio se veliki skok u usvajanju
-- Danas, većina IT organizacija koristi neku formu Agile-a
-
-**Zašto taj skok 2009-2010?**
-- Ekonomska kriza 2008. natjerala je tvrtke da budu efikasnije
-- Tvrtke su tražile načine da brže isporuče proizvode
-- Uspješni primjeri (Spotify, Netflix) pokazali su da Agile funkcionira
-
-Danas, 25+ godina nakon nastanka, Agile je standard u industriji."
-
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-Graf pokazuje "S-krivulju" adopcije tehnologije - spor početak, zatim eksponencijalni rast, pa stabilizacija. Agile je prošao kroz sve te faze.
-
-**Zanimljivost za studentice:**
-Možeš spomenuti da su tvrtke poput Googlea, Amazona i Microsofta sve prešle na Agile načine rada.
-
----
-
-### **Slajd 4-6: The Birth of Agile Methodology - Snowbird sastanak**
-
-**Notes iz PDF-a:**
-_"Between 11 and 13 February 2001, 17 people stayed at a Utah resort. For what purpose? Finding a different way of working."_
-
-**Što reći studentima (8 min):**
+### **Slajd 11: The Birth of Agile Methodology - Snowbird sastanak**
 
 "Zamislite ovu scenu: veljača 2001., skijaško odmaralište Snowbird u Utahu, SAD. 
 
@@ -248,12 +130,7 @@ A: "Htjeli su mjesto daleko od ureda gdje mogu slobodno razmišljati. Plus, mogl
 
 ---
 
-### **Slajd 7: The Birth of Agile Methodology - Agile Manifest**
-
-**Notes iz PDF-a:**
-_"In computer engineering, 'agile software development' refers to a set of development methods that have emerged since the early 2000s and are based on the principles of the so-called 'Agile Manifesto'."_
-
-**Što reći studentima (10 min):**
+### **Slajd 12: The Birth of Agile Methodology - Agile Manifest**
 
 "Ovo je **Agile Manifest** - najvažniji dokument koji ćete danas vidjeti.
 
@@ -274,8 +151,6 @@ _"In computer engineering, 'agile software development' refers to a set of devel
 4️⃣ **Responding to change** over following a plan
    - *Prilagodba promjenama* je važnija od slijeđenja plana
    - Primjer: Ako klijent promijeni mišljenje, prilagodimo se
-
-**VAŽNO:** Manifest ne kaže da su stvari s desne strane loše - kaže da su stvari s lijeve strane VAŽNIJE."
 
 ✏️ **MINI AKTIVNOST: Razumijevanje vrijednosti (5 min)**
 
@@ -302,7 +177,7 @@ A: "Dokumentacija JE važna, ali ne smije biti cilj sama sebi. Cilj je funkciona
 
 ---
 
-### **Slajd 8: Key Principles - Waterfall vs Agile dijagram**
+### **Slajd 13: Key Principles - Waterfall vs Agile dijagram**
 
 **Notes iz PDF-a:**
 _"Agile methods, as opposed to traditional (waterfall) methods, propose a less structured approach aimed at releasing functioning and quality software quickly and frequently."_
@@ -358,11 +233,6 @@ A: "Ovisi o projektu! Za softver, Agile je često bolji. Za građevinu, Waterfal
 
 ### **Slajd 9-10: Key Principles of Agile Project Management**
 
-**Notes iz PDF-a:**
-_"1. Customer value first: making sure that the project, product and team values are aligned to release quality products faster and more cost-effectively. 2. Small functionalities: create a stream of complete functionalities, released to the customer incrementally over the life of the project."_
-
-**Što reći studentima (7 min):**
-
 "Pogledajmo 4 ključna principa Agile upravljanja projektima:
 
 **1️⃣ Customer Value First (Vrijednost za klijenta na prvom mjestu)**
@@ -401,51 +271,11 @@ Spotify koristi male timove zvane "Squads" - svaki squad ima 6-12 ljudi i radi n
 
 ## ☕ **10:00-10:15 - PAUZA**
 
-**Napomena za facilitatora:**
-- Podsjeti studentice da se vrate na vrijeme
-- Pripremi sljedeću sekciju
-- Provjeri ima li pitanja koja su ostala neodgovorena
-
----
-
 ## ⏰ **10:15-11:00 - SEKCIJA 2: MVP, ITERACIJE I ADAPTACIJA**
 
-### **Slajd 11: Where to Start? - Waterfall vs Agile ilustracija**
+### **Slajd 18-19: Minimum Viable Product (MVP)**
 
 **Notes iz PDF-a:**
-_"[Nema notesa - ilustracija pokazuje razliku u pristupu]"_
-
-**Što reći studentima (5 min):**
-
-"Ova ilustracija savršeno pokazuje razliku u razmišljanju.
-
-**Waterfall pristup (lijevo):**
-- Čovjek vuče OGROMAN blok
-- Misli: 'Ovaj projekt je postao tako velik, nisam siguran da ću ga moći isporučiti!'
-- Problem: Sve ili ništa
-
-**Agile pristup (desno):**
-- Čovjek slaže male blokove jedan po jedan
-- Misli: 'Puno je bolje isporučivati ovaj projekt u malim dijelovima!'
-- Prednost: Svaki dio je upravljiv
-
-**Pouka:**
-Veliki projekti su zastrašujući. Mali koraci su upravljivi. Agile nas uči da velike stvari razbijemo na male."
-
-📚 **FACILITATOR NOTES:**
-
-**Analogija:**
-"Zamislite da morate pojesti slona. Nemoguće, zar ne? Ali ako ga jedete zalogaj po zalogaj, s vremenom ćete uspjeti. Agile je 'jedenje slona zalogaj po zalogaj'."
-
----
-
-### **Slajd 12-13: Minimum Viable Product (MVP)**
-
-**Notes iz PDF-a:**
-_"When developing an innovative product, the Minimum Viable Product (MVP) is the product with the highest return on investment relative to the risk."_
-
-**Što reći studentima (12 min):**
-
 "MVP je jedan od najvažnijih koncepata koje ćete danas naučiti.
 
 **Što je MVP?**
@@ -523,12 +353,7 @@ A: "Jer ne znamo što korisnici stvarno žele dok ne testiramo. Bolje je napravi
 
 ---
 
-### **Slajd 14: Iterations - Waterfall vs Agile model**
-
-**Notes iz PDF-a:**
-_"[Nema notesa - dijagram pokazuje razliku u isporuci]"_
-
-**Što reći studentima (8 min):**
+### **Slajd 20: Iterations - Waterfall vs Agile model**
 
 "Sada ćemo detaljnije pogledati koncept ITERACIJA.
 
@@ -579,7 +404,7 @@ Iteracija je srce Agile-a. Umjesto da radimo 6 mjeseci i nadamo se da će sve bi
 
 ---
 
-### **Slajd 15: Adaptation - Waterfall vs Agile trokuti**
+### **Slajd 21: Adaptation - Waterfall vs Agile trokuti**
 
 **Notes iz PDF-a:**
 _"[Nema notesa - dijagram pokazuje razliku u pristupu planiranju]"_
@@ -637,33 +462,11 @@ A: "Tada razgovaramo o prioritetima. Što je NAJVAŽNIJE? To radimo prvo. Ostalo
 
 ---
 
-### **Slajd 16-17: So Abandoning Traditional Logic? - Agile vs Waterfall usporedba**
-
-**Notes iz PDF-a:**
-_"No, each approach has its own validity!"_
-
-**Što reći studentima (7 min):**
+### **Slajd 22-23: So Abandoning Traditional Logic? - Agile vs Waterfall usporedba**
 
 "Važno pitanje: Znači li Agile da je Waterfall loš?
 
 **NE!** Svaki pristup ima svoje mjesto.
-
-**Pogledajmo usporedbu:**
-
-| AGILE | WATERFALL |
-|-------|-----------|
-| Orijentiran na promjene | Pažljivo planiran |
-| Product mindset | Project mindset |
-| Minimalna dokumentacija | Opsežna dokumentacija |
-| Iteracije, svi procesi | Fiksne, odvojene faze |
-| Kratka petlja povratnih informacija | Nema feedbacka do testiranja |
-| Unit testing | Testiranje krajnjeg proizvoda |
-| Nejasni zahtjevi | Fiksni zahtjevi |
-| Suradnja | Timovi rade naizmjence |
-| Fokus na prihod | Fokus na troškove |
-| Potpuna transparentnost | Nedostatak transparentnosti |
-| Konstantno istraživanje | Preliminarno istraživanje |
-| Efikasno sprječavanje rizika | Izbjegavanje rizika |
 
 **Kada koristiti koji?**
 
@@ -690,11 +493,6 @@ Možete koristiti Waterfall za planiranje i Agile za izvršenje. Ili Waterfall z
 ---
 
 ### **Slajd 18: Agile or Lean? - Matrica**
-
-**Notes iz PDF-a:**
-_"LEAN: Processes are rather 'stable' and known, and developed in contexts of moderate variability. They should be optimised because the production volumes associated with them are high. AGILE: Processes are subject to less predictability and greater variability. E.g. new market entry, R&D, contract machining, etc."_
-
-**Što reći studentima (5 min):**
 
 "Možda ste čuli za 'Lean' metodologiju. Kako se razlikuje od Agile?
 
@@ -734,12 +532,7 @@ Lean dolazi iz Toyote i fokusira se na eliminaciju otpada i optimizaciju. Agile 
 
 ## ⏰ **11:15-12:00 - SEKCIJA 3: UPRAVLJANJE PROJEKTOM AGILE PRISTUPOM**
 
-### **Slajd 19-20: Introduction to the Agile Approach**
-
-**Notes iz PDF-a:**
-_"What is Agile? An iterative approach to project management and software development. Focuses on collaboration, customer feedback, and small, rapid releases. Why Agile? Adaptable to change, Increases stakeholder involvement, Delivers value early and often."_
-
-**Što reći studentima (8 min):**
+### **Slajd 26-27: Introduction to the Agile Approach**
 
 "Sada prelazimo na praktičnu primjenu - kako se Agile koristi u upravljanju projektima.
 
@@ -776,7 +569,7 @@ Ovo je sažetak svega što smo do sada naučili, ali sada u kontekstu upravljanj
 
 ---
 
-### **Slajd 21-22: 12 Principles of Agile Manifesto**
+### **Slajd 27: 12 Principles of Agile Manifesto**
 
 **Notes iz PDF-a:**
 _"[12 principa navedenih u tablici]"_
@@ -784,21 +577,6 @@ _"[12 principa navedenih u tablici]"_
 **Što reći studentima (10 min):**
 
 "Osim 4 vrijednosti, Agile Manifest ima i 12 principa. Ne morate ih sve zapamtiti, ali pogledajmo najvažnije:
-
-**12 principa Agile Manifesta:**
-
-1. 🤝 **Zadovoljstvo klijenta** kroz ranu i kontinuiranu isporuku
-2. 🔄 **Dobrodošle promjene** - čak i kasno u razvoju
-3. 📦 **Česta isporuka** - svaka 2 tjedna do 2 mjeseca
-4. 👥 **Dnevna suradnja** poslovnih ljudi i developera
-5. 💪 **Motivirani pojedinci** - dajte im podršku i povjerenje
-6. 🗣️ **Face-to-face komunikacija** je najefikasnija
-7. ✅ **Funkcionalan softver** je mjera napretka
-8. ⚖️ **Održivi tempo** - ne burnout!
-9. 🎯 **Tehnička izvrsnost** poboljšava agilnost
-10. 🧹 **Jednostavnost** - maksimizirati posao koji NE radimo
-11. 🏗️ **Samoorganizirani timovi** daju najbolje rezultate
-12. 🔍 **Redovita refleksija** - kako biti bolji?
 
 **Najvažniji za zapamtiti:**
 - #1: Zadovoljstvo klijenta je prioritet
@@ -826,12 +604,7 @@ Ovo je često krivo shvaćen. Ne znači "raditi manje" nego "ne raditi nepotrebn
 
 ---
 
-### **Slajd 23-25: Managing a Project with Agile Approach**
-
-**Notes iz PDF-a:**
-_"Agile project management involves breaking projects into smaller, manageable units. Each unit delivers a piece of working software or value."_
-
-**Što reći studentima (10 min):**
+### **Slajd 29-25: Managing a Project with Agile Approach**
 
 "Kako izgleda Agile projekt u praksi? Pogledajmo 5 faza:
 
@@ -885,12 +658,7 @@ Svaki član tima odgovara na 3 pitanja:
 
 ---
 
-### **Slajd 26-27: Benefits and Challenges**
-
-**Notes iz PDF-a:**
-_"Benefits: Faster time to market, Improved customer satisfaction, Better risk management, More engaged teams, Continuous improvement. Challenges: Scope creep without discipline, Misunderstanding Agile roles, Resistance to change, Lack of experienced leadership."_
-
-**Što reći studentima (7 min):**
+### **Slajd 32-33: Benefits and Challenges**
 
 "Kao i sve, Agile ima svoje prednosti i izazove.
 
@@ -949,7 +717,7 @@ A: "Stroga prioritizacija. Ako dodajemo nešto novo, nešto drugo mora izaći. P
 
 ## ⏰ **12:00-12:30 - SEKCIJA 4: CASE STUDY + RECAP**
 
-### **Slajd 28-35: Case Study - Croatian Marketing Agency**
+### **Slajd 34-41: Case Study - Croatian Marketing Agency**
 
 **Notes iz PDF-a:**
 _"Company: marketing agency based in Croatia, Industry: e-commerce, Technologies used: Asana, Shopify, JavaScript, PHP, C#, SQL, REST API, GraphQL"_
