@@ -610,11 +610,6 @@ Otvori Google Fonts na projektoru - pokažite kako pretraživati, filtrirati, i 
 
 ### **Slajd 18: Colors**
 
-**Notes iz PDF-a:**
-_"Color is a power which directly influences the soul. Colors attract emotion."_
-
-**Što reći studentima (3 min):**
-
 "Wassily Kandinsky: 'Color is a power which directly influences the soul.'
 
 Boje nisu samo dekoracija - **boje izazivaju emocije i utječu na ponašanje.**
@@ -686,14 +681,11 @@ A: "Ovisi o brandu i svrhi. Complementary = bold i energična. Analogous = smire
 **Troubleshooting:**
 - **Studentice se muče vidjeti razlike**: Koristi Coolors.co ili Adobe Color - generiraj palete uživo i neka vide instant.
 
+- VJEZBA: neka napravi svaka svoju paletu u adobe color.
+
 ---
 
 ### **Slajd 20: Colour Formats**
-
-**Notes iz PDF-a:**
-_"HEX: Hexadecimal format. RGB: Red, Green, Blue (0-255). HSL: Hue, Saturation, Lightness. CMYK: Cyan, Magenta, Yellow, Black (for printing)."_
-
-**Što reći studentima (5 min):**
 
 "Boje se mogu prikazati u različitim formatima:
 
@@ -732,11 +724,6 @@ A: "HEX je najčešći za web dizajn. RGB ako trebaš transparency (RGBA). HSL a
 
 ### **Slajd 21: 60/30/10 Rule**
 
-**Notes iz PDF-a:**
-_"60% neutral/base color (background), 30% secondary color (supporting elements), 10% accent color (call-to-actions, highlights)."_
-
-**Što reći studentima (7 min):**
-
 "**60/30/10 PRAVILO** = Formula za balansiranje boja u dizajnu.
 
 **60% - BAZA (Neutral)**
@@ -761,7 +748,7 @@ _"60% neutral/base color (background), 30% secondary color (supporting elements)
 
 **PRAVILO: Ne koristite visoko saturirane boje za 60% - prenaporno je za oči!**"
 
-**Primjeri:**
+**Primjeri:** --- VJEZBA -----
 Otvori Apple.com ili Airbnb - analizirajte zajedno: koja boja pokriva 60%? 30%? 10%?
 
 📚 **FACILITATOR NOTES:**
@@ -782,12 +769,7 @@ A: "Možeš imati shades (nijanse) svake boje, ali ostani u 3 glavne kategorije.
 
 ---
 
-### **Slajd 23: The Psychology of Colors**
-
-**Notes iz PDF-a:**
-_"Red: passion or danger. Orange: energy, adventure. Yellow: happy, cheerful. Green: nature, growth. Blue: calm, intelligent. Purple: luxury, creativity. Black: power, elegance. White: minimalist, innocent. Gray: serious, sophisticated. Brown: warm, friendly, natural."_
-
-**Što reći studentima (10 min):**
+### **Slajd 22: The Psychology of Colors**
 
 "Svaka boja nosi **psihološko značenje** i izaziva specifične emocije:
 
