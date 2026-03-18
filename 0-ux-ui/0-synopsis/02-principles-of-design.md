@@ -69,40 +69,6 @@
 
 ---
 
-## **PREDAVANJE: Typography, Colors & Core Design Principles**
-**TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)
-**PDF MATERIJAL:** 2 & 3.Principles of design and ergonomics-1.pdf
-**BROJ STUDENTICA:** 8-30
-
----
-
-## 🎯 **CILJEVI UČENJA:**
-
-Na kraju ovog predavanja, studentice će moći:
-1. Objasniti važnost tipografije u UI dizajnu i primijeniti osnovna pravila odabira fontova
-2. Kreirati efektivne palete boja koristeći teoriju boja i pravilo 60/30/10
-3. Razumjeti i primijeniti principe intuitivnog dizajna (affordance, discoverability)
-4. Dizajnirati jasne i efektivne call-to-action (CTA) elemente
-5. Primijeniti core design principe: alignment, emphasis, balance, contrast
-6. Koristiti repetition, proportion i white space za poboljšanje vizualne hijerarhije
-7. Evaluirati postojeće dizajne kroz prizmu naučenih principa
-8. Kreirati jednostavne UI elemente primjenjujući sve principe u Figmi
-
----
-
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   Typography & Colors
-10:00-10:15  PAUZA ☕
-10:15-11:00  Intuitive Design & CTA
-11:00-11:15  PAUZA ☕
-11:15-12:15  Core Design Principles
-12:15-12:30  Recap & Pitanja
-```
-
----
-
 ## ⏰ **9:00-9:05 (5 min) - UVOD I PREGLED DANA**
 
 ### **Slajd 3: Principles of design & ergonomics**
@@ -131,13 +97,6 @@ Ergonomija u digitalnom dizajnu znači dizajniranje sukladno s tim kako ljudi mi
 **Zašto je ovo važno:**
 Studije pokazuju da 94% prve impresije o websiteu dolazi od dizajna. Korisnici formiraju mišljenje u prvih 50 milisekundi. Dobar dizajn grade povjerenje i olakšava korištenje.
 
-**Česta pitanja:**
-Q: "Je li ovo više dizajn nego UX?"
-A: "UX i UI su povezani. UX se bavi iskustvom (što korisnik osjeća), UI se bavi interfaceom (kako izgleda). Princip dizajna utječu na oba - dobar vizualni dizajn poboljšava ukupno iskustvo."
-
-**Troubleshooting:**
-- **Studentice se plaše da nisu dovoljno "kreativne"**: Naglasi da design principi su pravila koja se mogu naučiti. Kreativnost dolazi s praksom.
-
 📖 **Linkovi za dublje razumijevanje:**
 - [Principles of Design - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/design-principles)
 - [UX Design Principles - Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
@@ -158,13 +117,6 @@ _"The principles of design and the principles of ergonomics are closely related.
 **3. Intuitive Design** - Kako dizajnirati da bude jasno i intuitivno
 **4. Core Design Principles** - Alignment, emphasis, balance, contrast...
 
-Svaki dio ima vježbe, pa ćete odmah primjenjivati ono što učimo. Spremne? Idemo!"
-
-📚 **FACILITATOR NOTES:**
-
-**Timing strategija:**
-Prvi dio (typography + colors) je više teorijski ali s praktičnim primjerima. Drugi dio (intuitive design + principles) ima više hands-on vježbi. Balans je namjerno postavljen tako da studentice ne budu overwhelmed na početku.
-
 ---
 
 ### **Slajd 3: Summary**
@@ -181,15 +133,10 @@ Postoje pravila koja funkcioniraju jer su bazirana na tome kako ljudski mozak pr
 Ne morate biti rođeni dizajner da biste kreirali dobre interface - trebate samo razumjeti principe!"
 
 **Primjeri:**
-Pokažite dva primjera: jedan dizajn koji poštuje principe (npr. Apple.com) i jedan koji ih krši (neki loše dizajniran website).
+Pokažite dva primjera: jedan dizajn koji poštuje principe (npr. Apple.com) i jedan koji ih krši (neki loše dizajniran website). [yale](https://www.art.yale.edu/) i spomeni zara.hr website
 
 📖 **Reference:**
 - [Good vs Bad Design Examples](https://www.awwwards.com/)
-
-📚 **FACILITATOR NOTES:**
-
-**Kako pokazati razliku:**
-Otvori Apple.com i random loše dizajniran website side-by-side. Pitaj studentice: "Što primjećujete? Koji je lakši za korištenje?" Neka same identifikuju razlike prije nego što objasniš tehnički zašto.
 
 ---
 
@@ -197,32 +144,13 @@ Otvori Apple.com i random loše dizajniran website side-by-side. Pitaj studentic
 
 ### **Slajd 5: Principles of Design**
 
-**Notes iz PDF-a:**
-_"Let's start with typography and color. Then, we will explore a lot of Core Design Principles."_
-
-**Što reći studentima (2 min):**
-
-"Počinjemo s tipografijom - umjetnošću i tehnikom raspoređivanja teksta.
-
 Zašto je ovo važno? Većina sadržaja na webu i u aplikacijama je tekst. Ako korisnici ne mogu pročitati ili razumjeti tekst, vaš dizajn ne funkcionira.
 
-Dobar tipografija nije samo o fancy fontovima - radi se o čitljivosti, hijerarhiji i tonu."
-
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-Typography = izbor i aranžman teksta. Uključuje: tip fonta, veličinu, razmak, boju, kontrast. Svaki od tih elemenata utječe na to koliko je lako čitati i razumjeti tekst.
+Dobar tipografija nije samo o fancy fontovima - radi se o čitljivosti, hijerarhiji i tonu." Uključuje: tip fonta, veličinu, razmak, boju, kontrast.
 
 ---
 
 ### **Slajd 6: But first... Let's test your attention to details!**
-
-**Notes iz PDF-a:**
-_"Link to cantunsee.space"_
-
-**Što reći studentima (5 min):**
-
-"Prije nego krenemo, hajmo testirati vaš 'design eye'!
 
 Idemo na **cantunsee.space** - to je game gdje trebate prepoznati koji dizajn je pravilno alignan, ima bolji kerning, itd.
 
@@ -256,11 +184,6 @@ Cilj: Naučiti primjećivati male detalje koji čine veliku razliku u dizajnu."
 
 ### **Slajd 7: Typography**
 
-**Notes iz PDF-a:**
-_"Typography is a core component of user interface (UI) design. It's the art and technique of arranging text to be both visually appealing and easy to read."_
-
-**Što reći studentima (5 min):**
-
 "Tipografija je CORE component dizajna. Nije samo o odabiru lijepog fonta.
 
 **Tipografija pomaže:**
@@ -275,7 +198,7 @@ Dobar tipografija = korisnik može lako i brzo pročitati sadržaj bez napora.
 
 **Primjeri:**
 - **Dobar primjer:** Medium.com - jasna hijerarhija, čitljivo
-- **Loš primjer:** Website s Comic Sans fontom za cijeli body text - https://www.art.yale.edu/
+- **Loš primjer:** Website s Comic Sans fontom za cijeli body text - https://www.art.yale.edu/, https://www2.pnwx.com/, https://www.lingscars.com/
 
 📖 **Reference:**
 - [Typography in UI Design - Material Design](https://material.io/design/typography)
@@ -293,16 +216,12 @@ Typography = SYSTEM. Ne birate samo "font koji vam se sviđa". Birate font koji:
 Q: "Mogu li koristiti bilo koji font?"
 A: "Tehnički da, ali mnogi fontovi nisu optimizirani za screen reading. Za UI dizajn, najbolje je koristiti Google Fonts ili system fonts koje su testirane za čitljivost."
 
-**Troubleshooting:**
-- **Studentice biraju fontove samo po izgledu**: Naglasi da moraju testirati kako izgleda u različitim veličinama i na različitim pozadinama.
-
 📖 **Linkovi za dublje razumijevanje:**
 - [Google Fonts](https://fonts.google.com/)
-- [Typography Handbook](https://typographyhandbook.com/)
 
 ---
 
-### **Slajd 7: Typography helps to**
+### **Slajd 8: Typography helps to**
 
 **Notes iz PDF-a:**
 _"Attract users, set visual hierarchy, build brand recognition, support content goals."_
@@ -399,8 +318,6 @@ A: "Da! To je zapravo česta kombinacija - npr. serif za headinge, sans-serif za
 **Notes iz PDF-a:**
 _"A font family is a group of related fonts. Example: Clash Display Thin, Light, Regular, Medium, Semi-Bold, Bold."_
 
-**Što reći studentima (4 min):**
-
 "**Font Family** = Grupa povezanih fontova.
 
 Primjer: **Roboto** family ima:
@@ -419,8 +336,6 @@ Kada dizajnirate, koristite JEDAN font family s različitim weights za hijerarhi
 - Regular za body text
 - Light za captions
 
-To stvara konzistentnost!"
-
 📚 **FACILITATOR NOTES:**
 
 **Praktični savjet:**
@@ -436,8 +351,6 @@ A: "2-3 je optimalno. Primjer: Regular za body, Bold za headinge, Light za capti
 
 **Notes iz PDF-a:**
 _"Left-aligned text is the most common for left-to-right languages. Centered text is best for short elements. Right-aligned for right-to-left languages."_
-
-**Što reći studentima (5 min):**
 
 "**Text Alignment** - Kako je tekst poravnat?
 
