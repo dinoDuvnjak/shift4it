@@ -231,7 +231,7 @@ A: "Ovisi o projektu! Za softver, Agile je često bolji. Za građevinu, Waterfal
 
 ---
 
-### **Slajd 9-10: Key Principles of Agile Project Management**
+### **Slajd 14: Key Principles of Agile Project Management**
 
 "Pogledajmo 4 ključna principa Agile upravljanja projektima:
 
@@ -492,7 +492,7 @@ Možete koristiti Waterfall za planiranje i Agile za izvršenje. Ili Waterfall z
 
 ---
 
-### **Slajd 18: Agile or Lean? - Matrica**
+### **Slajd 24: Agile or Lean? - Matrica**
 
 "Možda ste čuli za 'Lean' metodologiju. Kako se razlikuje od Agile?
 
