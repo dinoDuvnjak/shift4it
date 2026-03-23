@@ -66,50 +66,9 @@
 
 ---
 
-## **PREDAVANJE: UX Psychology Laws & Gestalt Principles**
-**TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)
-**PDF MATERIJAL:** 2 & 3.Principles of design and ergonomics-1.pdf (nastavak)
-**BROJ STUDENTICA:** 8-30
-
----
-
-## 🎯 **CILJEVI UČENJA:**
-
-Na kraju ovog predavanja, studentice će moći:
-1. Primijeniti Hick's Law za smanjenje cognitive loada u dizajnu (limitiranje izbora)
-2. Prepoznati i koristiti Gestalt principe za organiziranje vizualnih elemenata (proximity, similarity, closure, continuity)
-3. Koristiti Von Restorff Effect za isticanje ključnih elemenata u interfaceu
-4. Primijeniti Fitts' Law za optimizaciju veličine i pozicije interaktivnih elemenata
-5. Razumjeti F i Z reading patterns i dizajnirati sukladno s njima
-6. Evaluirati postojeće interfacee kroz prizmu psiholoških principa
-7. Identificirati loš UX dizajn i artikulirati zašto ne funkcionira
-8. Kreirati wireframe koji primjenjuje sve naučene psihološke principe
-
----
-
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   Psychology Laws (Hick, Fitts, Von Restorff)
-10:00-10:15  PAUZA ☕
-10:15-11:00  Gestalt Principles (Dio 1)
-11:00-11:15  PAUZA ☕
-11:15-12:15  Gestalt Principles (Dio 2) + Eye-tracking Patterns
-12:15-12:30  User Inyerface Game & Recap
-```
-
----
-
 ## ⏰ **9:00-9:10 (10 min) - UVOD U PSYCHOLOGY PRINCIPLES**
 
-### **Slajd 67: The Psychology Principles in UI/UX Design**
-
-**Notes iz PDF-a:**
-_"Psychology has an important role in designing the user experience. By understanding how different psychology principles influence human behaviour, you can design your products to elicit specific responses and actions from your users."_
-
-**Što reći studentima (10 min):**
-
-"Dobro jutro! Jučer smo učile o vizualnim principima dizajna - alignment, contrast, colors, typography.
+### **Slajd 68: The Psychology Principles in UI/UX Design**
 
 Danas idemo **dublje u PSIHOLOGIJU** - kako ljudski mozak procesira informacije i kako to utječe na dizajn.
 
@@ -159,11 +118,6 @@ A: "Ne, ako ih koristiš etički. Ovi principi pomažu korisnicima postići njih
 ## ⏰ **9:10-9:30 (20 min) - HICK'S LAW**
 
 ### **Slajd 68: Hick's Law**
-
-**Notes iz PDF-a:**
-_"Hick's Law states that the more stimuli (or choices) users face, the longer it will take them to make a decision. RT = a + b log2(n)"_
-
-**Što reći studentima (8 min):**
 
 "Počinjemo s **Hick's Law** - jedan od najvažnijih UX zakona.
 
@@ -235,12 +189,7 @@ A: "Psihologija kaže 7±2 itema je sweet spot za working memory. Za UI: 5-9 opc
 
 ---
 
-### **Slajd 69: Hick's Law in web design**
-
-**Notes iz PDF-a:**
-_"Visual showing on the left many options taking longer to decide, vs on the right fewer options. Best solution is to limit total number of options."_
-
-**Što reći studentima (4 min):**
+### **Slajd 70: Hick's Law in web design**
 
 "Vizualno - što se događa:
 
@@ -271,12 +220,7 @@ _"Visual showing on the left many options taking longer to decide, vs on the rig
 
 ---
 
-### **Slajd 70: How to apply this law in UI/UX design**
-
-**Notes iz PDF-a:**
-_"1. Minimize choices when response times are critical. 2. Break down complex tasks into smaller steps. 3. Use filters for large numbers of products. 4. Take care not to simplify to the point of abstraction."_
-
-**Što reći studentima (8 min):**
+### **Slajd 71: How to apply this law in UI/UX design**
 
 "Kako primijeniti Hick's Law u praksi:
 
