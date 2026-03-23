@@ -1,5 +1,71 @@
 # 📘 DAN 3 - PSYCHOLOGY PRINCIPLES IN DESIGN
 
+## 📋 Table of Contents
+
+- [PREDAVANJE: UX Psychology Laws & Gestalt Principles](#predavanje-ux-psychology-laws--gestalt-principles)
+- [🎯 Ciljevi učenja](#-ciljevi-učenja)
+- [⏰ Raspored predavanja](#-raspored-predavanja)
+- [9:00–9:10 · Uvod u Psychology Principles](#-900-910-10-min---uvod-u-psychology-principles)
+  - [Slajd 67: The Psychology Principles in UI/UX Design](#slajd-67-the-psychology-principles-in-uiux-design)
+- [9:10–9:30 · Hick's Law](#-910-930-20-min---hicks-law)
+  - [Slajd 68: Hick's Law](#slajd-68-hicks-law)
+  - [Slajd 69: Hick's Law in web design](#slajd-69-hicks-law-in-web-design)
+  - [Slajd 70: How to apply this law in UI/UX design](#slajd-70-how-to-apply-this-law-in-uiux-design)
+- [9:30–9:50 · Gestalt Principles (Intro + Proximity)](#-930-950-20-min---gestalt-principles-intro--proximity--similarity)
+  - [Slajd 71: Gestalt Principles of Visual Perception](#slajd-71-gestalt-principles-of-visual-perception)
+  - [Slajd 72: Why Are Gestalt Principles Important in Design?](#slajd-72-why-are-gestalt-principles-important-in-design)
+  - [Slajd 73: Law of Proximity](#slajd-73-law-of-proximity)
+  - [Slajd 74: Law of Proximity in web design](#slajd-74-law-of-proximity-in-web-design)
+  - [Slajd 75: How to apply Law of Proximity in UI/UX](#slajd-75-how-to-apply-law-of-proximity-in-uiux)
+- [9:50–10:00 · Law of Similarity](#-950-1000-10-min---law-of-similarity)
+  - [Slajd 76: Law of Similarity](#slajd-76-law-of-similarity)
+  - [Slajd 77: Law of Similarity in web design](#slajd-77-law-of-similarity-in-web-design)
+  - [Slajd 78: How to apply Law of Similarity](#slajd-78-how-to-apply-law-of-similarity)
+- [10:00–10:15 · Pauza ☕](#-1000-1015-15-min---pauza-)
+- [10:15–10:45 · Gestalt Principles (Dio 2)](#-1015-1045-30-min---gestalt-principles-dio-2)
+  - [Slajd 79: Law of Common Regions](#slajd-79-law-of-common-regions)
+  - [Slajd 80: Law of Common Regions in web design](#slajd-80-law-of-common-regions-in-web-design)
+  - [Slajd 81: How to apply Law of Common Regions](#slajd-81-how-to-apply-law-of-common-regions)
+  - [Slajd 82: Law of Symmetry](#slajd-82-law-of-symmetry)
+  - [Slajd 83: Law of Symmetry in web design](#slajd-83-law-of-symmetry-in-web-design)
+  - [Slajd 84: How to apply Law of Symmetry](#slajd-84-how-to-apply-law-of-symmetry)
+  - [Slajd 85: Figure and Ground](#slajd-85-figure-and-ground)
+- [10:45–11:00 · Closure, Continuity, Common Fate](#-1045-1100-15-min---closure-continuity-common-fate)
+  - [Slajd 88: Law of Closure](#slajd-88-law-of-closure)
+  - [Slajd 89: Law of Closure in web design](#slajd-89-law-of-closure-in-web-design)
+  - [Slajd 90: How to apply Law of Closure](#slajd-90-how-to-apply-law-of-closure)
+  - [Slajd 91: Law of Continuity](#slajd-91-law-of-continuity)
+  - [Slajd 92: Law of Continuity in web design](#slajd-92-law-of-continuity-in-web-design)
+  - [Slajd 93: How to apply Law of Continuity](#slajd-93-how-to-apply-law-of-continuity)
+  - [Slajd 94: Common Fate](#slajd-94-common-fate)
+- [11:00–11:15 · Pauza ☕](#-1100-1115-15-min---pauza-)
+- [11:15–11:45 · Von Restorff Effect & Fitts' Law](#-1115-1145-30-min---von-restorff-effect--fitts-law)
+  - [Slajd 97: The Von Restorff Effect](#slajd-97-the-von-restorff-effect)
+  - [Slajd 98: Von Restorff Effect in web design](#slajd-98-von-restorff-effect-in-web-design)
+  - [Slajd 99: How to apply Von Restorff Effect](#slajd-99-how-to-apply-von-restorff-effect)
+  - [Slajd 100: Fitts' Law](#slajd-100-fitts-law)
+  - [Slajd 101: Fitts' Law in web design](#slajd-101-fitts-law-in-web-design)
+  - [Slajd 102: How to apply Fitts' Law](#slajd-102-how-to-apply-fitts-law)
+- [11:45–12:05 · Eye-Tracking & Reading Patterns](#-1145-1205-20-min---eye-tracking--reading-patterns)
+  - [Slajd 103: What Eye-Tracking reveals](#slajd-103-what-eye-tracking-reveals)
+  - [Slajd 104: F Pattern](#slajd-104-f-pattern)
+  - [Slajd 105: F vs Z patterns](#slajd-105-f-vs-z-patterns)
+  - [Slajd 106: Heatmap - Attention Insight](#slajd-106-heatmap---attention-insight)
+- [12:05–12:25 · User Inyerface Game & Wrap-Up](#-1205-1225-20-min---user-inyerface-game--wrap-up)
+  - [Slajd 107: EXERCISE - User Inyerface](#slajd-107-exercise---user-inyerface)
+- [12:25–12:30 · Recap & Closure](#-1225-1230-5-min---recap--closure)
+- [🔄 Backup Aktivnosti](#-backup-aktivnosti)
+  - [BA1: Gestalt Scavenger Hunt](#backup-aktivnost-1-gestalt-scavenger-hunt-15-min)
+  - [BA2: CTA Button Comparison](#backup-aktivnost-2-cta-button-comparison-10-min)
+  - [BA3: Fitts' Law Mobile Test](#backup-aktivnost-3-fitts-law-mobile-test-15-min)
+  - [BA4: F-Pattern Analysis](#backup-aktivnost-4-f-pattern-analysis-10-min)
+  - [BA5: Bad Design Critique](#backup-aktivnost-5-bad-design-critique-15-min)
+  - [BA6: Quick Hick's Law Test](#backup-aktivnost-6-quick-hicks-law-test-5-min)
+  - [BA7: Design Psychology Kahoot](#backup-aktivnost-7-design-psychology-kahoot-10-min)
+- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+
+---
+
 ## **PREDAVANJE: UX Psychology Laws & Gestalt Principles**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)
 **PDF MATERIJAL:** 2 & 3.Principles of design and ergonomics-1.pdf (nastavak)
@@ -250,6 +316,8 @@ Ne želite eliminirati sve opcije - neki korisnici trebaju advanced features. Rj
 **Česta pitanja:**
 Q: "Što ako moji korisnici ŽELE sve opcije odmah?"
 A: "Pitaj ih! User research će pokazati. Ali obično 'wanting' i 'needing' nisu isto. Power users su manjina - dizajniraj za većinu, omogući advanced opcije za power users."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Quick Hick's Law Test](#backup-aktivnost-6-quick-hicks-law-test-5-min) — živa demonstracija Hick's Law: 5 vs 20 opcija, izmjeri razliku u brzini odlučivanja.
 
 ---
 
@@ -636,6 +704,8 @@ Reuse components = automatic consistency!"
 📚 **FACILITATOR NOTES:**
 
 Figma ima excellent component system - možete kreirati master component i reusati across cijeli file. Promjena master componenta = update svih instanci.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Gestalt Scavenger Hunt](#backup-aktivnost-1-gestalt-scavenger-hunt-15-min) — studentice pronalaze i annotiraju Gestalt principe na popularnim websiteima (Medium, Airbnb, Spotify).
 
 ---
 
@@ -1550,6 +1620,8 @@ Test različite varijante CTA buttona i mjeri koji ima highest conversion rate.
 Q: "Što ako imam 2 equally important actions?"
 A: "Razmisli jeste li SIGURNI da su equally important. Usually jedna akcija je important od druge. Ako stvarno jesu equal, koristi RAZLIČITE distinctive styles - ali rijetko je ovo best practice."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: CTA Button Comparison](#backup-aktivnost-2-cta-button-comparison-10-min) — analiziraj Von Restorff Effect na primary CTA gumbima Shopify, Stripe i Mailchimp.
+
 ---
 
 ### **Slajd 100: Fitts' Law**
@@ -1812,6 +1884,8 @@ Place important actions in GREEN ZONE.
 - Tiny social media icons (Instagram, Facebook) - often < 30px
 - Links with inadequate padding - text is clickable, but space around is not
 - Hamburger menu icon too small on mobile
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Fitts' Law Mobile Test](#backup-aktivnost-3-fitts-law-mobile-test-15-min) — testiraj thumb reachability na realnim mobilnim app-ovima i označi zelene/žute/crvene zone dosega.
 
 ---
 
@@ -2101,6 +2175,8 @@ AI-powered tool koji PREDVIĐA gdje će users gledati prije nego launcha design.
 
 Free trial available - studentice mogu testirat svoje dizajne. Korisno za projekte.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: F-Pattern Analysis](#backup-aktivnost-4-f-pattern-analysis-10-min) — identificiraj F-pattern na real article stranicama i procijeni je li content pravilno organiziran za prirodno čitanje.
+
 ---
 
 ## ⏰ **12:05-12:25 (20 min) - USER INYERFACE GAME & WRAP-UP**
@@ -2176,6 +2252,8 @@ Sve što je loše u User Inyerface = INVERSE of good UX principles. Zapamtite ov
 📖 **Reference:**
 - [User Inyerface - Official Site](https://userinyerface.com/)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Bad Design Critique](#backup-aktivnost-5-bad-design-critique-15-min) — pronađi intentionally loš dizajn (r/badUIbattles) i identificiraj sve violations psiholoških principa iz dana.
+
 ---
 
 ## ⏰ **12:25-12:30 (5 min) - RECAP & CLOSURE**
@@ -2229,6 +2307,8 @@ Donjeti insights sutra!"
 - [ ] Pripremi primjere websitea za heuristic evaluation
 - [ ] Print heuristic evaluation checkliste (optional)
 - [ ] Review Bastien & Scapin criteria
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Design Psychology Kahoot](#backup-aktivnost-7-design-psychology-kahoot-10-min) — fun quiz recap koji pokriva sve psihološke principe dana (Hick, Gestalt, Von Restorff, Fitts, F-Pattern).
 
 ---
 
