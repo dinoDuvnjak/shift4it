@@ -1432,11 +1432,6 @@ A: "Razmisli jeste li SIGURNI da su equally important. Usually jedna akcija je i
 
 ### **Slajd 101: Fitts' Law**
 
-**Notes iz PDF-a:**
-_"Fitts' Law proposes that the time taken to move to a target area is a function of the size of the target and distance to the target. T = k × log2(D/S + 0.5)"_
-
-**Što reći studentima (10 min):**
-
 "Sljedeći zakon: **FITTS' LAW**
 
 **FORMULA:** T = k × log2(D/S + 0.5)
@@ -1557,11 +1552,6 @@ A: "Red flag! Vjerojatno nisu equally important. Prioritize. Ako stvarno jesu, o
 
 ### **Slajd 101: Fitts' Law in web design**
 
-**Notes iz PDF-a:**
-_"Spotify example - Play button is much easier to press than any other button."_
-
-**Što reći studentima (2 min):**
-
 "**Spotify perfect primjer Fitts' Law:**
 
 - **Play button:** Huge, centered → easiest to click
@@ -1578,7 +1568,7 @@ Live demo - otvori Spotify web player i pokažite kako je Play button dominantan
 
 ---
 
-### **Slajd 102: How to apply Fitts' Law**
+### **Slajd 103: How to apply Fitts' Law**
 
 **Notes iz PDF-a:**
 _"Larger targets. Reduced distance. Edge & corner placement. Grouping. Feedback. Accessibility."_
@@ -1695,14 +1685,7 @@ Place important actions in GREEN ZONE.
 
 ---
 
-## ⏰ **11:45-12:05 (20 min) - EYE-TRACKING & READING PATTERNS**
-
-### **Slajd 103: What Eye-Tracking reveals**
-
-**Notes iz PDF-a:**
-_"Eye tracking is a technique to track and analyze where users look on digital interface and for how long. The Nielsen Norman group F-pattern heat maps from eye tracking studies."_
-
-**Što reći studentima (8 min):**
+### **Slajd 104: What Eye-Tracking reveals**
 
 "Sada: **EYE-TRACKING** - kako ljudi ZAPRAVO gledaju web stranice.
 
@@ -1798,12 +1781,7 @@ A: "Većinom. Iznimka: landing pages s minimal text (Z-pattern). Mobile također
 
 ---
 
-### **Slajd 104: F Pattern**
-
-**Notes iz PDF-a:**
-_"F Pattern describes the most common scanning patterns of user's eye when it comes to content blocks. F for fast. This is how users read your content."_
-
-**Što reći studentima (7 min):**
+### **Slajd 105: F Pattern**
 
 "Detaljnije o **F-PATTERN:**
 
@@ -1892,12 +1870,7 @@ A: "Ne! To je realnost. Prihvati ga i dizajniraj sukladno. Don't expect users da
 
 ---
 
-### **Slajd 105: F vs Z patterns**
-
-**Notes iz PDF-a:**
-_"Visual showing F-pattern for text-heavy content vs Z-pattern for minimal text pages."_
-
-**Što reći studentima (5 min):**
+### **Slajd 106: F vs Z patterns**
 
 "**Kada koristiti F vs Z?**
 
@@ -1948,12 +1921,7 @@ Real-world example:
 
 ---
 
-### **Slajd 106: Heatmap - Attention Insight**
-
-**Notes iz PDF-a:**
-_"Attention Insight is a predictive analytics tool that evaluates how users visually perceive design before it goes live using AI."_
-
-**Što reći studentima (3 min):**
+### **Slajd 107: Heatmap - Attention Insight**
 
 "Cool tool: **ATTENTION INSIGHT**
 
@@ -1987,12 +1955,7 @@ Free trial available - studentice mogu testirat svoje dizajne. Korisno za projek
 
 ## ⏰ **12:05-12:25 (20 min) - USER INYERFACE GAME & WRAP-UP**
 
-### **Slajd 107: EXERCISE - User Inyerface**
-
-**Notes iz PDF-a:**
-_"User Inyerface is a hardcore and funny game where you have to fight through incredibly dumb and complicated interface. You will forever remember these mistakes in design."_
-
-**Što reći studentima (3 min):**
+### **Slajd 108: EXERCISE - User Inyerface**
 
 "Vrijeme za **FUN (ali frustrirajući) EXERCISE!**
 
