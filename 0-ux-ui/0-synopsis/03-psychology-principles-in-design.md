@@ -267,12 +267,7 @@ A: "Pitaj ih! User research će pokazati. Ali obično 'wanting' i 'needing' nisu
 
 ## ⏰ **9:30-9:50 (20 min) - GESTALT PRINCIPLES (INTRO + PROXIMITY + SIMILARITY)**
 
-### **Slajd 71: Gestalt Principles of Visual Perception**
-
-**Notes iz PDF-a:**
-_"Gestalt psychology: 'the whole is greater than the sum of its parts.' Our brains naturally organize and interpret visual information to perceive meaningful patterns."_
-
-**Što reći studentima (8 min):**
+### **Slajd 73: Gestalt Principles of Visual Perception**
 
 "Sada idemo u **Gestalt Principles** - kako naš mozak organizira vizualne informacije.
 
@@ -318,12 +313,7 @@ A: "Ne! Ali znajući ih, možete SVJESNO odlučiti kako organizirati elemente. P
 
 ---
 
-### **Slajd 72: Why Are Gestalt Principles Important in Design?**
-
-**Notes iz PDF-a:**
-_"Improve UX by making interfaces more intuitive. Enhance visual hierarchy and readability. Guide users' attention. Create cohesive layouts."_
-
-**Što reći studentima (4 min):**
+### **Slajd 73: Why Are Gestalt Principles Important in Design?**
 
 "Zašto trebate znati Gestalt principe?
 
@@ -350,22 +340,11 @@ Gestalt je subset vizualnog dizajna - kombinira se sa svim ostalim principima (a
 
 ---
 
-### **Slajd 73: Law of Proximity**
-
-**Notes iz PDF-a:**
-_"Elements that are close to each other are perceived as related or grouped together."_
-
-**Što reći studentima (10 min):**
+### **Slajd 74: Law of Proximity**
 
 "Prvi Gestalt princip: **LAW OF PROXIMITY (Zakon blizine)**
 
 **PRAVILO:** Elementi koji su BLIZU jedni drugima percipiraju se kao POVEZANI.
-
-**VIZUALNO:**
-```
-●  ●  ●     ●  ●  ●
-```
-Vidite 2 grupe od 3, ne 6 individualnih točaka.
 
 **U UI DIZAJNU:**
 
@@ -429,18 +408,9 @@ Ako elementirate dizajn, squintajte ili blur view - vidite li jasne grupe? Ako d
 Q: "Koliko prostora treba između grupa?"
 A: "Minimum 1.5-2x više nego spacing UNUTAR grupe. Primjer: Ako je spacing unutar grupe 8px, između grupa treba biti barem 16-24px."
 
-**Troubleshooting:**
-- **Dizajn izgleda cluttered**: Vjerojatno nedovoljno spacinga između grupa.
-- **Ne zna se što ide zajedno**: Proximity nije jasan - povećaj spacing između, smanji spacing unutar.
-
 ---
 
-### **Slajd 74: Law of Proximity in web design**
-
-**Notes iz PDF-a:**
-_"Example showing grouped elements are perceived as related."_
-
-**Što reći studentima (3 min):**
+### **Slajd 75: Law of Proximity in web design**
 
 "Vizualni primjer:
 
@@ -458,12 +428,7 @@ Pokažite real website - analizirajte kako koriste proximity. Primjer: Airbnb ho
 
 ---
 
-### **Slajd 75: How to apply Law of Proximity in UI/UX**
-
-**Notes iz PDF-a:**
-_"Group related elements closely. Maintain consistent spacing between related elements. Avoid clutter. Group form fields by categories. Use proximity to create hierarchy."_
-
-**Što reći studentima (5 min):**
+### **Slajd 76: How to apply Law of Proximity in UI/UX**
 
 "Kako primijeniti Law of Proximity:
 
@@ -502,12 +467,7 @@ Manje je više - ne trebate border, background, shadow za svaku grupu. Samo doba
 
 ## ⏰ **9:50-10:00 (10 min) - LAW OF SIMILARITY**
 
-### **Slajd 76: Law of Similarity**
-
-**Notes iz PDF-a:**
-_"Objects that share similar characteristics (color, shape, size) are seen as belonging together."_
-
-**Što reći studentima (8 min):**
+### **Slajd 77: Law of Similarity**
 
 "Sljedeći princip: **LAW OF SIMILARITY (Zakon sličnosti)**
 
@@ -577,12 +537,7 @@ A: "Red flag! Obično trebate 2-3 tipa (primary, secondary, tertiary). Ako treba
 
 ---
 
-### **Slajd 77: Law of Similarity in web design**
-
-**Notes iz PDF-a:**
-_"When items share superficial characteristics, we perceive them as grouped. Seen in branding and design system guidelines."_
-
-**Što reći studentima (2 min):**
+### **Slajd 78: Law of Similarity in web design**
 
 "Primjeri gdje vidite Law of Similarity:
 
@@ -605,12 +560,7 @@ Design systems su practical application of Law of Similarity - kreiraš library 
 
 ---
 
-### **Slajd 78: How to apply Law of Similarity**
-
-**Notes iz PDF-a:**
-_"Style similar functions the same way. Use same typography for related text. Repeat visual styles. Highlight differences with contrasting styles. Use visual cues consistently."_
-
-**Što reći studentima (5 min):**
+### **Slajd 79: How to apply Law of Similarity**
 
 "Praktična primjena:
 
@@ -651,20 +601,7 @@ Figma ima excellent component system - možete kreirati master component i reusa
 
 > 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Gestalt Scavenger Hunt](#backup-aktivnost-1-gestalt-scavenger-hunt-15-min) — studentice pronalaze i annotiraju Gestalt principe na popularnim websiteima (Medium, Airbnb, Spotify).
 
----
-
-## ⏰ **10:00-10:15 (15 min) - PAUZA ☕**
-
----
-
-## ⏰ **10:15-10:45 (30 min) - GESTALT PRINCIPLES (DIO 2)**
-
-### **Slajd 79: Law of Common Regions**
-
-**Notes iz PDF-a:**
-_"The tendency of brains to group elements when they are located within a shared boundary or enclosure."_
-
-**Što reći studentima (8 min):**
+### **Slajd 80: Law of Common Regions**
 
 "Sljedeći princip: **LAW OF COMMON REGIONS (Zakon zajedničke regije)**
 
@@ -746,12 +683,7 @@ A: "Ovisi o context-u. Subtle background color je često dovoljno. Border dodaje
 
 ---
 
-### **Slajd 80: Law of Common Regions in web design**
-
-**Notes iz PDF-a:**
-_"Pinterest example - each pin separated in own region from others."_
-
-**Što reći studentima (3 min):**
+### **Slajd 81: Law of Common Regions in web design**
 
 "Pinterest je ODLIČAN primjer Common Regions:
 
@@ -774,12 +706,7 @@ Pinterest's Masonry layout - svaki pin je različite visine, ali svaki je u svoj
 
 ---
 
-### **Slajd 81: How to apply Law of Common Regions**
-
-**Notes iz PDF-a:**
-_"Use containers or boxes. Leverage background colors. Apply borders and shadows. Create distinct sections. Organize information visually."_
-
-**Što reći studentima (5 min):**
+### **Slajd 82: How to apply Law of Common Regions**
 
 "Praktična primjena:
 
@@ -817,11 +744,6 @@ Start s minimum styling (samo spacing), onda dodaj borders/shadows/colors ako tr
 ---
 
 ### **Slajd 82: Law of Symmetry**
-
-**Notes iz PDF-a:**
-_"Symmetrical elements are perceived as part of the same group."_
-
-**Što reći studentima (6 min):**
 
 "**LAW OF SYMMETRY (Zakon simetrije)**
 
@@ -874,12 +796,7 @@ A: "Ne! Visual symmetry je dovoljno - izgleda balanced, ne mora biti pixel-perfe
 
 ---
 
-### **Slajd 83: Law of Symmetry in web design**
-
-**Notes iz PDF-a:**
-_"Example showing symmetrical layouts."_
-
-**Što reći studentima (2 min):**
+### **Slajd 84: Law of Symmetry in web design**
 
 "Primjeri simetrije:
 
@@ -899,12 +816,7 @@ Pokažite usporedbu - Apple.com (symmetrical, stable) vs Awwwards winning site (
 
 ---
 
-### **Slajd 84: How to apply Law of Symmetry**
-
-**Notes iz PDF-a:**
-_"Align elements symmetrically. Mirror design across screens. Maintain visual balance. Use symmetrical icons. Introduce asymmetry with caution."_
-
-**Što reći studentima (4 min):**
+### **Slajd 85: How to apply Law of Symmetry**
 
 "Praktična primjena:
 
@@ -934,12 +846,7 @@ Responsive design često breaka desktop symmetry na mobile - to je OK! Što je v
 
 ---
 
-### **Slajd 85: Figure and Ground**
-
-**Notes iz PDF-a:**
-_"The brain distinguishes between foreground and background elements."_
-
-**Što reći studentima (8 min):**
+### **Slajd 86: Figure and Ground**
 
 "**FIGURE-GROUND PRINCIPLE (Figura i pozadina)**
 
@@ -1020,12 +927,7 @@ A: "Da - ovisi o focus-u. Primjer: Kad otvorite modal, modal je figura. Kad zatv
 
 ## ⏰ **10:45-11:00 (15 min) - CLOSURE, CONTINUITY, COMMON FATE**
 
-### **Slajd 88: Law of Closure**
-
-**Notes iz PDF-a:**
-_"The mind fills in gaps to complete a visual pattern or shape. Without this principle, we would only perceive discontinuous lines."_
-
-**Što reći studentima (8 min):**
+### **Slajd 89: Law of Closure**
 
 "**LAW OF CLOSURE (Zakon zatvaranja)**
 
@@ -1101,7 +1003,7 @@ A: "Test! Pokažite dizajn nekome tko ga nikad nije vidio. Ako vide što ste int
 
 ---
 
-### **Slajd 89: Law of Closure in web design**
+### **Slajd 90: Law of Closure in web design**
 
 **Notes iz PDF-a:**
 _"Examples of closure in icons and minimalist designs."_
@@ -1128,13 +1030,9 @@ Icon libraries (Material Icons, Font Awesome) often koriste closure - icons su s
 
 ---
 
-### **Slajd 90: How to apply Law of Closure**
+### **Slajd 91: How to apply Law of Closure**
 
 **Notes iz PDF-a:**
-_"Use implied shapes. Create minimalist icons. Simplify complex forms. Use in loading animations. Engage users' imagination."_
-
-**Što reći studentima (5 min):**
-
 "Praktična primjena:
 
 **1. IMPLIED SHAPES**
@@ -1166,12 +1064,7 @@ Start minimal, dodaj only ako users ne razumiju. Closure omogućava da manje je 
 
 ---
 
-### **Slajd 91: Law of Continuity**
-
-**Notes iz PDF-a:**
-_"The eye follows lines, curves, or patterns smoothly rather than seeing them as separate elements."_
-
-**Što reći studentima (6 min):**
+### **Slajd 92: Law of Continuity**
 
 "**LAW OF CONTINUITY (Zakon kontinuiteta)**
 
@@ -1231,11 +1124,6 @@ A: "Onda nemoj koristiti strong directional cues (arrows, lines). Ali većina ta
 
 ### **Slajd 92: Law of Continuity in web design**
 
-**Notes iz PDF-a:**
-_"Examples showing elements aligned along path creating smooth flow."_
-
-**Što reći studentima (2 min):**
-
 "Primjeri continuity:
 
 **VOLKSWAGEN CAROUSELS:**
@@ -1257,11 +1145,6 @@ Modern web često koristi parallax scrolling i animated transitions - sve to lev
 ---
 
 ### **Slajd 93: How to apply Law of Continuity**
-
-**Notes iz PDF-a:**
-_"Use visual cues. Align elements along path. Create seamless navigation. Use gradients. Maintain visual hierarchy."_
-
-**Što reći studentima (5 min):**
 
 "Praktična primjena:
 
@@ -1297,12 +1180,7 @@ Scroll-triggered animations (AOS - Animate On Scroll libraries) leverage continu
 
 ---
 
-### **Slajd 94: Common Fate**
-
-**Notes iz PDF-a:**
-_"Objects moving in the same direction or at the same speed are perceived as related."_
-
-**Što reći studentima (4 min):**
+### **Slajd 95: Common Fate**
 
 "**COMMON FATE (Zajednička sudbina)**
 
@@ -1345,18 +1223,7 @@ Common fate je najmanje korišten Gestalt princip u statičnom dizajnu, ali vrlo
 
 ---
 
-## ⏰ **11:00-11:15 (15 min) - PAUZA ☕**
-
----
-
-## ⏰ **11:15-11:45 (30 min) - VON RESTORFF EFFECT & FITTS' LAW**
-
-### **Slajd 97: The Von Restorff Effect**
-
-**Notes iz PDF-a:**
-_"When multiple similar objects are present, the one that differs from the rest is most likely to be remembered. This is the main reason why all CTAs look different from other buttons."_
-
-**Što reći studentima (10 min):**
+### **Slajd 98: The Von Restorff Effect**
 
 "Sada idemo na **VON RESTORFF EFFECT** - također poznat kao **ISOLATION EFFECT**.
 
@@ -1456,11 +1323,6 @@ A: "Ovisi o brand colorima. Trebate high contrast. Često: Ako je brand plavi, C
 
 ### **Slajd 98: Von Restorff Effect in web design**
 
-**Notes iz PDF-a:**
-_"Medium uses green CTA button contrasting with background to draw attention."_
-
-**Što reći studentima (3 min):**
-
 "**Medium.com primjer:**
 
 Većina stranice = white/black/gray (neutral)
@@ -1481,7 +1343,7 @@ Von Restorff je jedan od najlakših principa za implementirati - samo make CTA d
 
 ---
 
-### **Slajd 99: How to apply Von Restorff Effect**
+### **Slajd 100: How to apply Von Restorff Effect**
 
 **Notes iz PDF-a:**
 _"Use contrast wisely. The highlight should focus on one element. Test and optimize with A/B testing."_
@@ -1568,7 +1430,7 @@ A: "Razmisli jeste li SIGURNI da su equally important. Usually jedna akcija je i
 
 ---
 
-### **Slajd 100: Fitts' Law**
+### **Slajd 101: Fitts' Law**
 
 **Notes iz PDF-a:**
 _"Fitts' Law proposes that the time taken to move to a target area is a function of the size of the target and distance to the target. T = k × log2(D/S + 0.5)"_
