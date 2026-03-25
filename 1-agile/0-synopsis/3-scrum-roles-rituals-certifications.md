@@ -53,11 +53,6 @@ Na kraju ovog predavanja, studentice će moći:
 
 ### **Slajd 33: Naslov sekcije 2.3 - Roles and rituals**
 
-**Notes iz PDF-a:**
-_"[Nema notesa u PDF-u - naslovni slajd sekcije]"_
-
-**Što reći studentima (2 min):**
-
 "Dobro došle na treći i posljednji dan našeg Agile modula!
 
 Jučer smo usporedili Kanban i Scrum - vidjele ste razlike i kada koristiti koji pristup. Danas idemo **duboko u Scrum** - tko čini Scrum tim i kako taj tim funkcionira u praksi.
@@ -72,11 +67,6 @@ Na kraju dana ćete znati:
 ---
 
 ### **Slajd 34: Uloge - Definicija**
-
-**Notes iz PDF-a:**
-_"Role: set of behaviours, rights, duties, beliefs and norms related to and accepted by people in a certain social context. Product Owner, Scrum Master, Team members"_
-
-**Što reći studentima (5 min):**
 
 "Što je uopće **uloga**?
 
@@ -107,11 +97,6 @@ A: "Teoretski da, ali nije preporučeno. Product Owner i Scrum Master imaju pone
 ---
 
 ### **Slajd 35: Product Owner**
-
-**Notes iz PDF-a:**
-_"Is responsible for the product/project. Adds new activities. Has the final say on the priority and order of activities."_
-
-**Što reći studentima (10 min):**
 
 "Prva uloga - **Product Owner** (PO).
 
@@ -156,11 +141,6 @@ A: "Tim može dati mišljenje, ali konačna odluka je na PO-u. On snosi odgovorn
 ---
 
 ### **Slajd 36: Scrum Master**
-
-**Notes iz PDF-a:**
-_"Schedules meetings (rituals). Supervises their proper functioning. Reminds the team of the 'fundamentals' of the method."_
-
-**Što reći studentima (12 min):**
 
 "Druga uloga - **Scrum Master** (SM).
 
@@ -210,11 +190,6 @@ A: "Ne nužno! Mnogi SM dolaze iz ne-tehničkih pozadina. Važnije su soft skill
 
 ### **Slajd 37: Team Members**
 
-**Notes iz PDF-a:**
-_"Make up the working group. They carry out a portion of the project activities."_
-
-**Što reći studentima (8 min):**
-
 "Treća uloga - **Team Members** (članovi tima).
 
 **Tko su Team Members?**
@@ -263,11 +238,6 @@ A: "Dio tima! SM je punopravni član Scrum tima, samo ima specifičnu ulogu foku
 
 ### **Slajd 38: Product Owner VS Scrum Master**
 
-**Notes iz PDF-a:**
-_"Product Owner: product development manager. Product Manager: responsible for strategy, roadmap, budget. Given the substantial overlapping of roles it is better to use only the Product / Project Manager."_
-
-**Što reći studentima (8 min):**
-
 "Često se miješaju uloge Product Ownera i Product Managera. Razjasnimo!
 
 **Product Owner (u Scrum kontekstu):**
@@ -307,11 +277,6 @@ Zamislite restoran:
 
 ### **Slajd 39: Organizacijska struktura**
 
-**Notes iz PDF-a:**
-_"[Slajd prikazuje dijagram: Project Manager na vrhu, ispod Stakeholder, Analyst, Designer, Programmer, Tester]"_
-
-**Što reći studentima (5 min):**
-
 "Pogledajmo kako izgleda tipična **projektna organizacija**.
 
 Na slajdu vidite tradicionalni model:
@@ -330,11 +295,6 @@ Na slajdu vidite tradicionalni model:
 ---
 
 ### **Slajd 40: Uloge Scrum Mastera - Detaljno**
-
-**Notes iz PDF-a:**
-_"[Dijagram s 8 funkcija SM-a: Helps the team when needed, Removes impediments, Guides the product owner on the project, Facilitates the daily scrum and sprint planning, Helps teams to speed up the processes, Monitors the sprint progress, Promotes team discussions, Motivates the team, SM acts as a cement to bind the team together]"_
-
-**Što reći studentima (10 min):**
 
 "Pogledajmo detaljnije **što sve radi Scrum Master**.
 
@@ -439,11 +399,6 @@ _"[Dijagram pokazuje SM u centru s vezama: Stakeholder → Explain Agile, Produc
 
 ### **Slajd 42: Rituali - Definicija**
 
-**Notes iz PDF-a:**
-_"Ritual: sequence of activities involving gestures, words and objects, performed in a given place and according to a predetermined sequence. Sprint planning, Daily stand-up meeting, Sprint retrospective"_
-
-**Što reći studentima (5 min):**
-
 "Sada prelazimo na **Scrum rituale** (također zvani 'ceremonije' ili 'eventi').
 
 **Što je ritual?**
@@ -471,11 +426,6 @@ Ali fokusirat ćemo se na ova 3 glavna."
 ---
 
 ### **Slajd 43: Sprint Planning - Detalji**
-
-**Notes iz PDF-a:**
-_"The entire team participates. The product owner sets the highest project priorities. The team asks questions that help break down the entire project into detailed tasks. The team (not the product owner) determines the amount of work to be performed in the sprint (self-managed teams). The session ends only AFTER defining one or more sprint goals (a short description of the goals to be achieved) and a sprint backlog (list of tasks to be performed)."_
-
-**Što reći studentima (12 min):**
 
 "Prvi ritual - **Sprint Planning** (Planiranje sprinta).
 
@@ -551,118 +501,7 @@ Zamislite da imate veliku gomilu post-it papirića (Backlog). Na Sprint Planning
 
 ---
 
-### **Slajd 45: Daily Stand-up Meeting - Detalji**
-
-**Notes iz PDF-a:**
-_"The daily standup meeting (or daily scrum) is the daily practice at the heart of agile, to be carried out in the same place and at the same time every day, preferably in the morning. These meetings should last no longer than 15 minutes and are intended for all team members. It is important that the meeting is focused more on status updates than on problem solving (which should instead concern only certain team members). This practice dictates the pace of the project and keeps team members 'committed' to the goal."_
-
-**Što reći studentima (12 min):**
-
-"Drugi ritual - **Daily Stand-up** (Dnevni stojećki sastanak).
-
-**Kada:** Svaki dan, u isto vrijeme, na istom mjestu
-**Tko:** Cijeli tim
-**Trajanje:** Maksimalno 15 minuta!
-
-**Zašto 'stand-up'?**
-Stojite da bi sastanak bio kratak! Kad stojite, nitko ne želi pričati sat vremena.
-
-**Ključne karakteristike:**
-
-1. **Isto vrijeme, isto mjesto, svaki dan**
-   - Stvara ritam
-   - Nema 'kad imamo stand-up?' pitanja
-
-2. **Maksimalno 15 minuta**
-   - Ako traje dulje, nešto je krivo
-   - SM prekida dugačke monologe
-
-3. **Fokus na STATUS, ne na rješavanje problema**
-   - Ako netko ima problem, ne rješavamo ga tu
-   - 'Hajde da ti i ja nakon stand-upa porazgovaramo'
-
-4. **Svi sudjeluju**
-   - Svaki član odgovara na 3 pitanja
-   - Nitko ne smije 'šutjeti'
-
-**Svrha:**
-- Drži tempo projekta
-- Održava 'commitment' tima prema cilju
-- Omogućuje ranu identifikaciju problema"
-
-📚 **FACILITATOR NOTES:**
-
-**Praktični savjeti:**
-- Dobro vrijeme: 9:00 ili 10:00 ujutro
-- Loše vrijeme: Odmah na početku radnog dana (ljudi kasne), nakon ručka (tromi)
-- Remote timovi: Iste principe, video call
-
-**Česta pitanja:**
-Q: "Što ako netko ne može doći?"
-A: "Šalje update u chat prije stand-upa. Ali cilj je da svi budu prisutni."
-
----
-
-### **Slajd 46: Daily Stand-up - Vizualni elementi**
-
-**Notes iz PDF-a:**
-_"Time box: 15 min. Same place. Same time. Facilitated by Scrum Master. Full team presence. Focus on 3 questions: 1. What did I do yesterday? 2. What will I do today? 3. What's in my way?"_
-
-**Što reći studentima (8 min):**
-
-"Pogledajmo vizualno elemente Daily Stand-upa:
-
-**⏰ Time-box: 15 min**
-Striktno ograničenje vremena
-
-**📍 Isto mjesto**
-Uvijek isti prostor (ili isti video call)
-
-**🕐 Isto vrijeme**
-Svaki dan u isto vrijeme
-
-**🎯 Facilitira Scrum Master**
-SM vodi, drži tempo, prekida kad treba
-
-**👥 Cijeli tim prisutan**
-Svi članovi Development Tima + PO (opcionalno)
-
-**❓ Fokus na 3 pitanja:**
-
-Svaka osoba odgovara na:
-
-1. **Što sam napravila jučer?**
-   'Jučer sam završila dizajn login screena i počela header komponentu'
-
-2. **Što ću napraviti danas?**
-   'Danas ću dovršiti header i početi footer'
-
-3. **Što mi stoji na putu?**
-   'Čekam pristup API dokumentaciji od backend tima'
-
-**Primjer lošeg odgovora:**
-❌ 'Radio sam na nekim stvarima, danas ću raditi još, nema problema'
-
-**Primjer dobrog odgovora:**
-✅ 'Jučer: završio ticket ABC-123. Danas: počinjem ABC-456. Blocker: trebam help od Marije za database query'"
-
-✏️ **MINI VJEŽBA: Daily Stand-up simulacija (5 min)**
-
-**Upute:**
-1. Zamislite da radite na projektu izrade web stranice
-2. Svaka od vas odgovori na 3 pitanja (30 sekundi po osobi)
-3. Koristite primjer: "Jučer sam radila na X, danas ću raditi na Y, imam/nemam blockera"
-
-📚 **FACILITATOR NOTES:**
-
-**Tipične greške na Daily Stand-upu:**
-- Predugo pričanje (SM treba prekinuti!)
-- Izvještavanje Scrum Masteru umjesto timu (govorite kolegama, ne šefu)
-- Rješavanje problema umjesto samo imenovanja
-
----
-
-### **Slajd 47: Sprint Retrospective**
+### **Slajd 44: Sprint Retrospective**
 
 **Notes iz PDF-a:**
 _"In the retrospective, the team looks for ways to improve the work from what happened during the sprint. The whole team participates and it usually lasts one hour at the most. Three questions are answered during the retrospective: what the team should start doing, what the team should stop doing, what the team should continue to do. The Scrum Master facilitates this ritual."_
@@ -717,7 +556,7 @@ A: "SM mora stvoriti 'safe space'. Retrospektiva nije za kažnjavanje, nego za u
 
 ---
 
-## ⏰ **11:00-11:15 - PAUZA ☕**
+## ⏰ **11:00-11:15 - CASE STUDY ☕**
 
 ---
 
@@ -725,12 +564,7 @@ A: "SM mora stvoriti 'safe space'. Retrospektiva nije za kažnjavanje, nego za u
 
 ---
 
-### **Slajd 48: Naslov sekcije 2.4 - Focus on Scrum Master certifications**
-
-**Notes iz PDF-a:**
-_"[Nema notesa u PDF-u - naslovni slajd sekcije]"_
-
-**Što reći studentima (2 min):**
+### **Slajd 51: Naslov sekcije 2.4 - Focus on Scrum Master certifications**
 
 "Posljednja sekcija - **Scrum Master certifikacije**.
 
@@ -738,12 +572,7 @@ Ako vas zanima karijera Scrum Mastera, certifikacija je često tražena. Pogleda
 
 ---
 
-### **Slajd 49: Pregled certifikacija**
-
-**Notes iz PDF-a:**
-_"Here is a list of the most important and widely recognized Scrum Master certifications, including their issuing organizations, focus areas, and suitability for different levels of experience: 1. Certified ScrumMaster® (CSM) 2. Professional Scrum Master™ (PSM I, II, III) 3. SAFe® Scrum Master (SSM) 4. Scrum Master Certified (SMC®)"_
-
-**Što reći studentima (5 min):**
+### **Slajd 52: Pregled certifikacija**
 
 "Postoje **4 glavne** Scrum Master certifikacije:
 
@@ -766,12 +595,7 @@ Pogledajmo svaku detaljnije..."
 
 ---
 
-### **Slajd 50: 1. Certified ScrumMaster® (CSM)**
-
-**Notes iz PDF-a:**
-_"Issuing Organization: Scrum Alliance (scrumalliance.org). Level: Entry-level (ideal for beginners to Scrum or transitioning project managers). Duration: 2-day course + online exam. Renewal: Every 2 years (requires Scrum Education Units - credits - and a fee). Focus: Scrum basics (roles, events, artifacts), Facilitation, coaching, servant leadership, Responsibilities of a Scrum Master"_
-
-**Što reći studentima (7 min):**
+### **Slajd 53: 1. Certified ScrumMaster® (CSM)**
 
 "Prva certifikacija - **CSM (Certified ScrumMaster)**.
 
@@ -811,12 +635,7 @@ CSM je najstarija i najpoznatija certifikacija. Obavezan je tečaj, ne možete s
 
 ---
 
-### **Slajd 51: 2. Professional Scrum Master™ (PSM)**
-
-**Notes iz PDF-a:**
-_"Issuing Organization: Scrum.org (scrum.org). Levels: PSM I - Foundational (most popular), PSM II - Intermediate (focus on real-world application), PSM III - Advanced (difficult, essay-based). Duration: no course required, self-study possible. Renewal: Lifetime certification. Focus: Strong on Scrum theory and principles, Emphasizes deep understanding over rote memorization"_
-
-**Što reći studentima (8 min):**
+### **Slajd 54: 2. Professional Scrum Master™ (PSM)**
 
 "Druga certifikacija - **PSM (Professional Scrum Master)**.
 
@@ -865,12 +684,7 @@ A: "Oba su jednako priznata. PSM je jeftiniji i nema renewal, ali morate učiti 
 
 ---
 
-### **Slajd 52: 3. SAFe® Scrum Master (SSM)**
-
-**Notes iz PDF-a:**
-_"Issuing Organization: Scaled Agile, Inc. (scaledagile.com). Level: Intermediate. Ideal for Scrum Masters working in enterprises using SAFe. Duration: 2-day course + online exam. Renewal: Annual (with fee). Focus: Scrum Master role in Scaled Agile Framework (SAFe), PI (Program Increment) planning, agile at scale, Coordination across teams in larger organizations"_
-
-**Što reći studentima (6 min):**
+### **Slajd 55: 3. SAFe® Scrum Master (SSM)**
 
 "Treća certifikacija - **SSM (SAFe Scrum Master)**.
 
@@ -912,12 +726,7 @@ SAFe je 'enterprise' verzija Agilea. Ako radite u banci, telekom kompaniji, drž
 
 ---
 
-### **Slajd 53: 4. Scrum Master Certified (SMC®)**
-
-**Notes iz PDF-a:**
-_"Issuing Organization: SCRUMstudy (scrumstudy.com). Level: Beginner to intermediate. Duration: 2-day course + online exam. Renewal: Every 3 years (requires a fee). Focus: Scrum lifecycle, Roles and responsibilities, Real-world scenarios. Criticism: Less recognized compared to CSM and PSM"_
-
-**Što reći studentima (5 min):**
+### **Slajd 56: 4. Scrum Master Certified (SMC®)**
 
 "Četvrta certifikacija - **SMC (Scrum Master Certified)**.
 
@@ -947,12 +756,7 @@ Ako već ulažete vrijeme i novac, bolje uložite u CSM ili PSM - više su cijen
 
 ---
 
-### **Slajd 54: Usporedna tablica certifikacija**
-
-**Notes iz PDF-a:**
-_"[Tablica usporedbe: CSM, PSM I, PSM II/III, SSM, SMC - organizacija, level, renewal, exam required, highly recognized]"_
-
-**Što reći studentima (5 min):**
+### **Slajd 57: Usporedna tablica certifikacija**
 
 "Evo pregleda svih certifikacija:
 
@@ -972,12 +776,7 @@ _"[Tablica usporedbe: CSM, PSM I, PSM II/III, SSM, SMC - organizacija, level, re
 
 ---
 
-### **Slajd 55: Kako odabrati pravu certifikaciju**
-
-**Notes iz PDF-a:**
-_"New to Scrum? → Start with CSM or PSM I. Want a deep understanding + no renewal? → Choose PSM I. Working in enterprise/large teams? → Go for SSM. Interested in long-term Scrum career? → Progress to PSM II/III or SAFe"_
-
-**Što reći studentima (7 min):**
+### **Slajd 58: Kako odabrati pravu certifikaciju**
 
 "Konačno - **kako odabrati pravu certifikaciju za vas**:
 
