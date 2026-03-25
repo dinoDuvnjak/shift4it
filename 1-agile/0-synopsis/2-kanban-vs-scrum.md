@@ -37,33 +37,8 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
 
-```
-9:00-10:00   SEKCIJA 1: Uvod + Kanban VS Scrum - Sličnosti (60 min)
-10:00-10:15  PAUZA ☕
-10:15-11:00  SEKCIJA 2: Kanban VS Scrum - Razlike (45 min)
-11:00-11:15  PAUZA ☕
-11:15-12:00  SEKCIJA 3: Agile u ne-razvojnim procesima (45 min)
-12:00-12:30  SEKCIJA 4: Praktična vježba + Recap (30 min)
-```
-**Ukupno efektivno vrijeme: 180 min (3h)**
-
----
-
-# ⏰ **9:00-10:00 - SEKCIJA 1: UVOD + KANBAN VS SCRUM SLIČNOSTI**
-
----
-
-### **Slajd 1: Naslovni slajd**
-
-**Notes iz PDF-a:**
-_"[Nema notesa u PDF-u - naslovni slajd]"_
-
-**Što reći studentima (2 min):**
-
-"Dobro došle na drugi dan našeg Agile modula! 
-
+### **Slajd 6: Naslovni slajd**
 Jučer smo prošle temelje Agile pristupa - zašto je nastao, koja je filozofija iza njega, i zašto je tako važan u modernom IT svijetu.
 
 Danas idemo dublje - upoznat ćemo **dva najvažnija Agile frameworka**: **Kanban** i **Scrum**. Ovo su praktični alati koje koriste timovi diljem svijeta, od malih startupova do giganta poput Googlea i Spotifyja.
@@ -83,38 +58,7 @@ Većina IT pozicija danas traži poznavanje barem jednog od ova dva frameworka. 
 
 ---
 
-### **Slajd 2: Summary (Sažetak)**
-
-**Notes iz PDF-a:**
-_"[Nema notesa u PDF-u]"_
-
-**Što reći studentima (3 min):**
-
-"Pogledajmo što nas čeka danas i sutra:
-
-**DANAS (7 sati ukupno za ovaj PDF, ali mi radimo dio):**
-- **Sekcija 2.1:** Usporedba Kanban i Scrum (1.5h)
-- **Sekcija 2.2:** Agile u ne-razvojnim procesima (2.5h)
-
-**SUTRA:**
-- **Sekcija 2.3:** Uloge i rituali (2h)
-- **Sekcija 2.4:** Scrum Master certifikacije (1h)
-
-Danas se fokusiramo na **razumijevanje razlika** između dva pristupa i na **praktičnu primjenu** - jer Agile nije samo za programere!"
-
-📚 **FACILITATOR NOTES:**
-
-**Napomena o timingu:**
-PDF predviđa 7 sati za cijeli sadržaj. Mi imamo 3h efektivnog rada. Zato je ovo podijeljeno na 2 dana. Danas radimo sekcije 2.1 i 2.2, sutra 2.3 i 2.4.
-
----
-
-### **Slajd 3: Naslov sekcije 2.1 - Kanban and Scrum compared**
-
-**Notes iz PDF-a:**
-_"[Nema notesa u PDF-u - naslovni slajd sekcije]"_
-
-**Što reći studentima (1 min):**
+### **Slajd 7: Naslov sekcije 2.1 - Kanban and Scrum compared**
 
 "Krenimo s prvom sekcijom - **usporedba Kanbana i Scruma**.
 
@@ -122,7 +66,7 @@ Mnogi ljudi misle da su ovo dva potpuno različita pristupa. Istina je da imaju 
 
 ---
 
-### **Slajd 4: Kanban VS Scrum - Uvod**
+### **Slajd 8: Kanban VS Scrum - Uvod**
 
 **Notes iz PDF-a:**
 _"Within the Agile approach there are two different 'frameworks' (also called 'methods' or 'methodologies') that are fundamental: Kanban and Scrum"_
@@ -160,7 +104,7 @@ A: "Da! Kombinacija se zove 'Scrumban' i mnogi timovi je koriste."
 
 ---
 
-### **Slajd 5: Sličnost 1 - Ploča (Board)**
+### **Slajd 9: Sličnost 1 - Ploča (Board)**
 
 **Notes iz PDF-a:**
 _"Both are known for their material display: the 'Board'"_
@@ -205,12 +149,7 @@ A: "Remote timovi moraju koristiti digitalne. Ali fizičke ploče imaju psiholo�
 
 ---
 
-### **Slajd 6: Sličnost 2 - Post-it kartice**
-
-**Notes iz PDF-a:**
-_"Both Kanban Boards and Scrum Boards use the famous 'post-its' (cards) to communicate the progress of work"_
-
-**Što reći studentima (5 min):**
+### **Slajd 10: Sličnost 2 - Post-it kartice**
 
 "Druga sličnost - oboje koriste **kartice** (post-it papiriće) za prikaz zadataka.
 
@@ -251,12 +190,7 @@ A: "Dovoljno da bilo tko iz tima može preuzeti zadatak i razumjeti što treba n
 
 ---
 
-### **Slajd 7: Sličnost 3 - Stupci (Columns) i napredak**
-
-**Notes iz PDF-a:**
-_"Progress is indicated by 'Columns' through which the different cards pass, from left to right"_
-
-**Što reći studentima (5 min):**
+### **Slajd 11: Sličnost 3 - Stupci (Columns) i napredak**
 
 "Treća sličnost - kartice se kreću kroz **stupce** s lijeva na desno.
 
@@ -288,7 +222,7 @@ A: "Da! Ako se otkrije problem, kartica se vraća. Npr. iz 'Review' nazad u 'In 
 
 ---
 
-### **Slajd 8: Sličnost 4 - ToDo, Doing, Done stupci**
+### **Slajd 12: Sličnost 4 - ToDo, Doing, Done stupci**
 
 **Notes iz PDF-a:**
 _"ToDo - Doing - Done are the 'canonical' (Status) columns, but teams usually expand the number and type of statuses according to their needs."_
@@ -330,12 +264,7 @@ A: "Ako ne možete opisati svaki stupac u jednoj rečenici, vjerojatno ih imate 
 
 ---
 
-### **Slajd 9: Sličnost 5 - Različite kategorije kartica**
-
-**Notes iz PDF-a:**
-_"The cards that appear on the board can be of different categories"_
-
-**Što reći studentima (5 min):**
+### **Slajd 13: Sličnost 5 - Različite kategorije kartica**
 
 "Peta sličnost - kartice mogu biti **različitih kategorija** (tipova).
 
@@ -368,12 +297,7 @@ Npr: "Kao kupac, želim filtrirati proizvode po cijeni kako bih našao/la proizv
 
 ---
 
-### **Slajd 10: Anatomija Agile ploče**
-
-**Notes iz PDF-a:**
-_"[Slajd prikazuje 3 komponente: STATUS (Columns), CARD, CARD TYPE]"_
-
-**Što reći studentima (8 min):**
+### **Slajd 14: Anatomija Agile ploče**
 
 "Sada kad znamo sličnosti, pogledajmo **anatomiju** agilne ploče - od čega se sastoji:
 
@@ -416,12 +340,7 @@ _"[Slajd prikazuje 3 komponente: STATUS (Columns), CARD, CARD TYPE]"_
 
 ---
 
-### **Slajd 11: Karakteristike Kanban ploče**
-
-**Notes iz PDF-a:**
-_"A Kanban board monitors the flow of the process by limiting the number of ongoing work activities. The number of ongoing activities is small enough to avoid unimportant tasks, but large enough to reduce idle personnel. Kanban is like a basketball game: a completed activity equals one point and the team tries to minimise the time between shots."_
-
-**Što reći studentima (8 min):**
+### **Slajd 15: Karakteristike Kanban ploče**
 
 "Sada prelazimo na **RAZLIKE**. Počnimo s karakteristikama Kanban ploče.
 
@@ -465,12 +384,7 @@ A: "Onda prvo završite nešto drugo ili stavite nešto 'on hold'. WIP limit tje
 
 ---
 
-### **Slajd 12: Karakteristike Scrum ploče**
-
-**Notes iz PDF-a:**
-_"A Scrum board tracks the work done within fixed duration cycles, called 'Sprints'. A Sprint is a short, consistent and repetitive period of time. The length of the Sprint is short enough to keep the team focused, but long enough to provide an appreciable increment of work for the customer. Scrum is like an exam at university: you have to complete a series of exercises in a certain time period, within which no other activities are allowed."_
-
-**Što reći studentima (8 min):**
+### **Slajd 16: Karakteristike Scrum ploče**
 
 "Sada pogledajmo **Scrum ploču** i njene karakteristike.
 
@@ -526,12 +440,7 @@ A: "Nedovršeni zadaci vraćaju se u backlog. Tim analizira zašto nije stigao (
 
 ---
 
-### **Slajd 13: Kanban VS Scrum - WIP limiti**
-
-**Notes iz PDF-a:**
-_"Scrum limits the WIP per iteration. The team must commit to the number of tasks in the Sprint. Nothing prevents having all cards in the 'In Progress' status simultaneously. Kanban limits the WIP per status. The number '5' in the 'In Progress' column means that there should be no more than 5 cards in that workflow status."_
-
-**Što reći studentima (7 min):**
+### **Slajd 17: Kanban VS Scrum - WIP limiti**
 
 "Sada idemo u detalje razlika. Prva razlika - **kako ograničavaju rad u tijeku**.
 
@@ -568,12 +477,7 @@ A: "Ovisi o osobi. Neki ljudi preferiraju jasne rokove (Scrum), drugi kontinuira
 
 ---
 
-### **Slajd 14: Kanban VS Scrum - Vlasništvo (Owners)**
-
-**Notes iz PDF-a:**
-_"In Scrum, the board is always 'owned' by a single Scrum team (= cross-functional group of people with all the necessary skills to successfully complete each Sprint activity). Kanban board does not need to be owned by a specific team since it is mostly dedicated to a (monofunctional) workflow."_
-
-**Što reći studentima (6 min):**
+### **Slajd 18: Kanban VS Scrum - Vlasništvo (Owners)**
 
 "Druga razlika - **tko 'posjeduje' ploču**.
 
@@ -603,12 +507,7 @@ Nema jednog 'vlasnika' - svatko radi svoj dio kad kartica dođe do njega."
 
 ---
 
-### **Slajd 15: Kanban VS Scrum - Devotion zadacima**
-
-**Notes iz PDF-a:**
-_"In Scrum, the entire team converges on each task. In Kanban, each person is responsible for his or her own flow of work. However, Kanban has a culture of scarce resources to help solve the so-called 'bottlenecks' → If one person has completed his or her task but there is something complicated in a column of the board (a bottleneck, in fact), he or she can choose whether to help his or her partner complete the task or take another task from the queue."_
-
-**Što reći studentima (6 min):**
+### **Slajd 19: Kanban VS Scrum - Devotion zadacima**
 
 "Treća razlika - **kako tim pristupa zadacima**.
 
@@ -639,12 +538,7 @@ A: "To je česta situacija u monofunkcionalnim timovima. Tada uzimaš novi zadat
 
 ---
 
-### **Slajd 16: Kanban VS Scrum - Promjene tijekom iteracije**
-
-**Notes iz PDF-a:**
-_"In Scrum, the team should not add any new cards on the board during the Sprint. The number of cards is defined during the planning session, before the start of the iteration. On the other hand, a Kanban board can be changed at any time; the only limitation concerns ongoing activities → As soon as a card moves from 'In Progress' to 'Done', capacity is freed up to be used for a new activity/card (continuous flow)."_
-
-**Što reći studentima (7 min):**
+### **Slajd 20: Kanban VS Scrum - Promjene tijekom iteracije**
 
 "Četvrta razlika - **mogu li se dodavati novi zadaci**.
 
@@ -675,12 +569,7 @@ Kanban je odličan za support tim - ne znaš koji ticket će doći sljedeći.
 
 ---
 
-### **Slajd 17: Kanban VS Scrum - Hitnosti (Urgencies)**
-
-**Notes iz PDF-a:**
-_"Thanks to previous analysis, planning, sizing and prioritisation sessions, the Scrum team rarely has to deal with unforeseen urgencies. In Kanban, an 'Urgencies' line (also called Swim Lane) can be inserted → Cards that end up there identify an unpredictable urgent task or a task that arises to solve a 'bottleneck' card. They have the highest priority, so some team members converge on it to complete it as soon as possible."_
-
-**Što reći studentima (6 min):**
+### **Slajd 21: Kanban VS Scrum - Hitnosti (Urgencies)**
 
 "Peta razlika - **kako se nosi s hitnostima**.
 
@@ -710,12 +599,7 @@ A: "Onda ništa nije hitno. Swim lane za hitnosti treba koristiti štedljivo - z
 
 ---
 
-### **Slajd 18: Kanban VS Scrum - Uloge**
-
-**Notes iz PDF-a:**
-_"Scrum: Scrum master, Product Owner, Team Members. Kanban: Not predefined, Convergence when a member is in trouble"_
-
-**Što reći studentima (5 min):**
+### **Slajd 22: Kanban VS Scrum - Uloge**
 
 "Šesta razlika - **definirane uloge**.
 
@@ -738,12 +622,7 @@ Ovo je kratki pregled. Sutra na Dan 3 imamo 2 sata posvećena ulogama i ritualim
 
 ---
 
-### **Slajd 19: Kanban VS Scrum - Rokovi (Due Dates)**
-
-**Notes iz PDF-a:**
-_"Scrum: Sprint plan (time-box). Kanban: Continuous flow, Event-based"_
-
-**Što reći studentima (4 min):**
+### **Slajd 23: Kanban VS Scrum - Rokovi (Due Dates)**
 
 "Sedma razlika - **kako se definiraju rokovi**.
 
@@ -763,12 +642,7 @@ Kanban koristi metriku zvanu **Lead Time** - prosječno vrijeme od kad kartica u
 
 ---
 
-### **Slajd 20: Kanban VS Scrum - Prioriteti**
-
-**Notes iz PDF-a:**
-_"Scrum: New tasks only allowed when the entire 'batch' is completed. Kanban: New tasks only allowed when previous ones are completed"_
-
-**Što reći studentima (4 min):**
+### **Slajd 24: Kanban VS Scrum - Prioriteti**
 
 "Osma razlika - **kada dolaze novi prioriteti**.
 
@@ -786,12 +660,7 @@ _"Scrum: New tasks only allowed when the entire 'batch' is completed. Kanban: Ne
 
 ---
 
-### **Slajd 21: Kanban VS Scrum - Modifikacije**
-
-**Notes iz PDF-a:**
-_"Scrum: Strongly discouraged. Kanban: Permitted (encouraged)"_
-
-**Što reći studentima (3 min):**
+### **Slajd 25: Kanban VS Scrum - Modifikacije**
 
 "Deveta razlika - **modifikacije postojećih zadataka**.
 
@@ -805,12 +674,7 @@ _"Scrum: Strongly discouraged. Kanban: Permitted (encouraged)"_
 
 ---
 
-### **Slajd 22: Kanban VS Scrum - Best for... (Najbolje za...)**
-
-**Notes iz PDF-a:**
-_"Scrum: Stable priorities that vary less in the processing cycle. Kanban: More variable scope of work"_
-
-**Što reći studentima (5 min):**
+### **Slajd 26: Kanban VS Scrum - Best for... (Najbolje za...)**
 
 "Konačno - **kada koristiti što**.
 
@@ -840,46 +704,6 @@ Mnogi timovi koriste **Scrumban** - kombinaciju oba pristupa."
 
 ---
 
-### **Slajd 23: Skala 'preskriptivnosti' Agile frameworka**
-
-**Notes iz PDF-a:**
-_"RUP (Rational Unified Process): over 120 (including roles, rituals, artefacts and other rules). XP (eXtreme Programming): 13. SCRUM: 9. KANBAN: 3 (visualise workflow, limit Work In Process, continuously improve)"_
-
-**Što reći studentima (7 min):**
-
-"Završimo usporedbu s jednim zanimljivim pogledom - **koliko pravila ima svaki framework**.
-
-**Skala od 'više pravila' do 'manje pravila':**
-
-| Framework | Broj pravila | Opis |
-|-----------|-------------|------|
-| **RUP** | 120+ | Vrlo detaljan, formalan, enterprise |
-| **XP** | 13 | Fokus na tehničke prakse (pair programming, TDD) |
-| **Scrum** | 9 | Balansirano - dovoljno strukture, dovoljno fleksibilnosti |
-| **Kanban** | 3 | Minimalistički - samo osnovni principi |
-| **'Radi što hoćeš'** | 0 | Kaos 😅 |
-
-**Kanban ima samo 3 pravila:**
-1. **Vizualiziraj workflow** - Koristi ploču
-2. **Ograniči Work In Progress** - WIP limiti
-3. **Kontinuirano poboljšavaj** - Stalno tražite načine da budete bolji
-
-Manje pravila = više fleksibilnosti, ali i više odgovornosti na timu da sam odluči kako raditi."
-
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-'Preskriptivnost' = koliko je framework 'propisujući'. Više pravila = preskriptivnije.
-
-**XP (eXtreme Programming)** uključuje prakse kao:
-- Pair programming (dva programera, jedan računar)
-- Test-Driven Development (TDD)
-- Continuous Integration
-
-Ove prakse su česte u softverskim timovima, čak i ako ne koriste cijeli XP framework.
-
----
-
 ## ⏰ **11:00-11:15 - PAUZA ☕**
 
 ---
@@ -888,12 +712,7 @@ Ove prakse su česte u softverskim timovima, čak i ako ne koriste cijeli XP fra
 
 ---
 
-### **Slajd 24: Naslov sekcije 2.2 - Agile in 'non-development' processes**
-
-**Notes iz PDF-a:**
-_"[Nema notesa u PDF-u - naslovni slajd sekcije]"_
-
-**Što reći studentima (2 min):**
+### **Slajd 27: Naslov sekcije 2.2 - Agile in 'non-development' processes**
 
 "Sada dolazimo do jako uzbudljivog dijela - **Agile izvan softverskog razvoja**.
 
@@ -908,12 +727,7 @@ To može biti HR, marketing, prodaja, čak i osobna produktivnost!"
 
 ---
 
-### **Slajd 25-28: Klasifikacija procesa (Stalk i Hout)**
-
-**Notes iz PDF-a:**
-_"Processes, depending on their role within the organisation, can be classified in different ways. Starting from Stalk and Hout's definition, we can identify: 1) OPERATIONAL PROCESSES 2) SUPPORT PROCESSES 3) CONTROL PROCESSES"_
-
-**Što reći studentima (10 min):**
+### **Slajd 29-32: Klasifikacija procesa (Stalk i Hout)**
 
 "Prije nego pogledamo primjere, moramo razumjeti **tipove procesa** u organizaciji.
 
@@ -944,12 +758,7 @@ Stalk i Hout su autori knjige "Competing Against Time" (1990) koji su definirali
 
 ---
 
-### **Slajd 29: Primjeri procesa koji se mogu upravljati Agileom**
-
-**Notes iz PDF-a:**
-_"Ensuring the correct execution of a project (also in PA), Selling, Manage customer communications (marketing activities, etc.), Monitor customer satisfaction, Manage resources (manage financial transactions, process internal and external information reporting, fulfil legal obligations)"_
-
-**Što reći studentima (5 min):**
+### **Slajd 32: Primjeri procesa koji se mogu upravljati Agileom**
 
 "Evo konkretnih primjera gdje se Agile koristi izvan programiranja:
 
@@ -964,123 +773,6 @@ Ključ je **vizualizacija procesa** i **praćenje toka** kroz faze."
 
 ---
 
-### **Slajd 30: Agile board za after-sales management**
-
-**Notes iz PDF-a:**
-_"[Slajd prikazuje detaljan board za support tickete s stupcima: BACKLOG, ACKNOWLEDGED, VERIFIED, DECLINED, WAITING FOR INFO, WIP, WORKAROUND, ARCHIVE]"_
-
-**Što reći studentima (7 min):**
-
-"Pogledajmo stvarni primjer - **Agile board za korisničku podršku**.
-
-**Stupci na ovom boardu:**
-| Stupac | Značenje |
-|--------|----------|
-| BACKLOG | Novi, nepregledani zahtjevi |
-| ACKNOWLEDGED | Potvrđeno da smo primili |
-| VERIFIED | Provjereno da je legitiman problem |
-| DECLINED | Odbijeno (nije naš problem/nije bug) |
-| WAITING FOR INFO | Čekamo dodatne informacije od korisnika |
-| WIP | Radi se na rješenju |
-| WORKAROUND | Privremeno rješenje dok čekamo pravo |
-| ARCHIVE | Riješeno i arhivirano |
-
-**Svaka kartica predstavlja:**
-- Support ticket (zahtjev za pomoć)
-- Ima: ID, opis problema, prioritet (P1, P2...), SLA rok, assignee
-
-**Što je SLA?**
-Service Level Agreement - ugovoreni rok za rješavanje. Npr. P1 ticket mora biti riješen u 2h."
-
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-Ovo je primjer **Kanban** pristupa za support tim - kontinuirani tok ticketa, bez sprintova.
-
-**Česta pitanja:**
-Q: "Što ako korisnik nikad ne odgovori dok čekamo info?"
-A: "Obično postoji pravilo (npr. 3 dana) - ako korisnik ne odgovori, ticket se zatvara s napomenom da će se ponovno otvoriti kad korisnik odgovori."
-
----
-
-### **Slajd 31: Agile board za selekciju osoblja**
-
-**Notes iz PDF-a:**
-_"[Slajd prikazuje board s stupcima: SELECTED, PHONE INTERVIEW, IN-HOUSE INTERVIEW N°1, IN-HOUSE INTERVIEW N°2, SHORT-LIST]"_
-
-**Što reći studentima (7 min):**
-
-"Drugi primjer - **Agile board za HR - selekciju kandidata**.
-
-**Stupci predstavljaju faze selekcije:**
-| Stupac | Faza |
-|--------|------|
-| SELECTED | Odabrani za proces (prošli screening CV-a) |
-| PHONE INTERVIEW | Telefonski razgovor |
-| IN-HOUSE INTERVIEW #1 | Prvi osobni intervju (HR) |
-| IN-HOUSE INTERVIEW #2 | Drugi intervju (s timom/menadžerom) |
-| SHORT-LIST | Finalni kandidati za odluku |
-| ARCHIVE | Proces završen (zaposlen ili odbijen) |
-
-**Svaka kartica predstavlja:**
-- Jednog kandidata
-- Ima: ime, ID, interviewer, datum intervjua
-
-**Prednosti ovog pristupa:**
-- HR manager vidi status SVIH kandidata u jednom pogledu
-- Lako identificirati bottleneck (npr. svi čekaju drugi intervju)
-- Nijedan kandidat ne 'padne kroz pukotine'"
-
-📚 **FACILITATOR NOTES:**
-
-**Primjer iz prakse:**
-Veliki tech timovi (Google, Meta) koriste ovakve sustave za tisuće kandidata. Sustavi kao Greenhouse ili Lever imaju integrirane Kanban ploče.
-
----
-
-### **Slajd 32: Agile board za upravljanje prodajom**
-
-**Notes iz PDF-a:**
-_"[Slajd prikazuje sales pipeline board s stupcima: FIRST QUALIFICATION, BANT QUALIFICATION, PROPOSAL-QUOTE, NEGOCIATION, PURCHASING]"_
-
-**Što reći studentima (7 min):**
-
-"Treći primjer - **Agile board za prodaju** (Sales Pipeline).
-
-**Stupci predstavljaju faze prodajnog procesa:**
-| Stupac | Faza |
-|--------|------|
-| FIRST QUALIFICATION | Prva kvalifikacija (je li uopće potencijalni kupac?) |
-| BANT QUALIFICATION | BANT provjera |
-| PROPOSAL-QUOTE | Poslana ponuda |
-| NEGOCIATION | Pregovaranje o uvjetima |
-| PURCHASING | U procesu kupnje |
-| ARCHIVE | Zaključeno (kupljeno ili izgubljeno) |
-
-**Što je BANT?**
-Metoda kvalifikacije leada:
-- **B**udget - Ima li budžet?
-- **A**uthority - Je li odlučitelj?
-- **N**eed - Ima li stvarnu potrebu?
-- **T**imeline - Kad planira kupiti?
-
-Ako lead ne prođe BANT, ne trošite vrijeme na njega.
-
-**Zašto vizualizirati prodaju?**
-- Sales manager vidi pipeline u jednom pogledu
-- Može predvidjeti prihod (koliko je u 'Negotiation'?)
-- Identificira gdje gubite najviše dealova"
-
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-Sales pipeline je klasičan primjer Kanban pristupa - nema sprintova, leadovi kontinuirano prolaze kroz faze.
-
-**Česta pitanja:**
-Q: "Zar ne koriste prodavači CRM sustave za ovo?"
-A: "Da! CRM sustavi (Salesforce, HubSpot, Pipedrive) imaju integrirane Kanban ploče. Principi su isti, samo je digitalno."
-
----
 
 # ⏰ **12:00-12:30 - SEKCIJA 4: PRAKTIČNA VJEŽBA + RECAP**
 
