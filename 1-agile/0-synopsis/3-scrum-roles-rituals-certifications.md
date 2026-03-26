@@ -1,5 +1,54 @@
 # 📘 DAN 3 - SCRUM ULOGE, RITUALI I CERTIFIKACIJE
 
+## 📋 Table of Contents
+
+- [📘 DAN 3 - SCRUM ULOGE, RITUALI I CERTIFIKACIJE](#-dan-3---scrum-uloge-rituali-i-certifikacije)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [📋 **PREGLED SADRŽAJA**](#-pregled-sadržaja)
+  - [🎯 **CILJEVI UČENJA**](#-ciljevi-učenja)
+  - [⏰ **RASPORED PREDAVANJA**](#-raspored-predavanja)
+  - [⏰ **9:00-10:00 - SEKCIJA 1: ULOGE U SCRUMU**](#-900-1000---sekcija-1-uloge-u-scrumu)
+    - [**Slajd 33: Naslov sekcije 2.3 - Roles and rituals**](#slajd-33-naslov-sekcije-23---roles-and-rituals)
+    - [**Slajd 34: Uloge - Definicija**](#slajd-34-uloge---definicija)
+    - [**Slajd 35: Product Owner**](#slajd-35-product-owner)
+    - [**Slajd 36: Scrum Master**](#slajd-36-scrum-master)
+    - [**Slajd 37: Team Members**](#slajd-37-team-members)
+    - [**Slajd 38: Product Owner VS Scrum Master**](#slajd-38-product-owner-vs-scrum-master)
+    - [**Slajd 39: Organizacijska struktura**](#slajd-39-organizacijska-struktura)
+    - [**Slajd 40: Uloge Scrum Mastera - Detaljno**](#slajd-40-uloge-scrum-mastera---detaljno)
+    - [**Slajd 41: SM odnos s ostalima**](#slajd-41-sm-odnos-s-ostalima)
+  - [⏰ **10:00-10:15 - PAUZA ☕**](#-1000-1015---pauza-)
+  - [⏰ **10:15-11:00 - SEKCIJA 2: SCRUM RITUALI**](#-1015-1100---sekcija-2-scrum-rituali)
+    - [**Slajd 42: Rituali - Definicija**](#slajd-42-rituali---definicija)
+    - [**Slajd 43: Sprint Planning - Detalji**](#slajd-43-sprint-planning---detalji)
+    - [**Slajd 44: Sprint Planning - Dijagram**](#slajd-44-sprint-planning---dijagram)
+    - [**Slajd 44: Sprint Retrospective**](#slajd-44-sprint-retrospective)
+  - [⏰ **11:00-11:15 - CASE STUDY ☕**](#-1100-1115---case-study-)
+  - [⏰ **11:15-12:00 - SEKCIJA 3: SCRUM MASTER CERTIFIKACIJE**](#-1115-1200---sekcija-3-scrum-master-certifikacije)
+    - [**Slajd 51: Naslov sekcije 2.4 - Focus on Scrum Master certifications**](#slajd-51-naslov-sekcije-24---focus-on-scrum-master-certifications)
+    - [**Slajd 52: Pregled certifikacija**](#slajd-52-pregled-certifikacija)
+    - [**Slajd 53: 1. Certified ScrumMaster® (CSM)**](#slajd-53-1-certified-scrummaster-csm)
+    - [**Slajd 54: 2. Professional Scrum Master™ (PSM)**](#slajd-54-2-professional-scrum-master-psm)
+    - [**Slajd 55: 3. SAFe® Scrum Master (SSM)**](#slajd-55-3-safe-scrum-master-ssm)
+    - [**Slajd 56: 4. Scrum Master Certified (SMC®)**](#slajd-56-4-scrum-master-certified-smc)
+    - [**Slajd 57: Usporedna tablica certifikacija**](#slajd-57-usporedna-tablica-certifikacija)
+    - [**Slajd 58: Kako odabrati pravu certifikaciju**](#slajd-58-kako-odabrati-pravu-certifikaciju)
+  - [⏰ **12:00-12:30 - SEKCIJA 4: PRAKTIČNA VJEŽBA + RECAP MODULA**](#-1200-1230---sekcija-4-praktična-vježba--recap-modula)
+  - [📝 **RECAP - CIJELI AGILE MODUL**](#-recap---cijeli-agile-modul)
+  - [✅ **PITANJA ZA PROVJERU RAZUMIJEVANJA**](#-pitanja-za-provjeru-razumijevanja)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: "Tko sam ja?" - Uloge kviz (10 min)**](#backup-aktivnost-1-tko-sam-ja---uloge-kviz-10-min)
+    - [**BACKUP AKTIVNOST 2: Retrospektiva aktivnost - "4Ls" (15 min)**](#backup-aktivnost-2-retrospektiva-aktivnost---4ls-15-min)
+    - [**BACKUP AKTIVNOST 3: Case Study - SM u akciji (15 min)**](#backup-aktivnost-3-case-study---sm-u-akciji-15-min)
+    - [**BACKUP AKTIVNOST 4: Kreiranje agende za Sprint Planning (10 min)**](#backup-aktivnost-4-kreiranje-agende-za-sprint-planning-10-min)
+    - [**BACKUP AKTIVNOST 5: Certifikacijski plan (10 min)**](#backup-aktivnost-5-certifikacijski-plan-10-min)
+    - [**BACKUP AKTIVNOST 6: "Prošli, sadašnji, budući Scrum Master" refleksija (7 min)**](#backup-aktivnost-6-prošli-sadašnji-budući-scrum-master-refleksija-7-min)
+    - [**BACKUP AKTIVNOST 7: Scrum Terminologija Bingo (10 min)**](#backup-aktivnost-7-scrum-terminologija-bingo-10-min)
+  - [📚 **DODATNI RESURSI ZA FACILITATORA**](#-dodatni-resursi-za-facilitatora)
+  - [🎉 **ZAVRŠETAK AGILE MODULA**](#-završetak-agile-modula)
+
+---
+
 ## **PREDAVANJE: Scrum u praksi - Uloge, rituali i put do certifikacije**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
 **PDF MATERIJAL:** AGILE_2_v2.pdf (Slajdovi 33-55)  
@@ -273,6 +322,8 @@ Zamislite restoran:
 - **Scrum Master** = Osigurava da kuhinja radi glatko (kako kuhamo)
 - **Team** = Kuhari koji pripremaju jela
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: "Tko sam ja?" - Uloge kviz](#backup-aktivnost-1-tko-sam-ja---uloge-kviz-10-min) — Facilitator čita opise ponašanja, grupe pogađaju o kojoj je ulozi (PO, SM, Team Member); odlično odmah nakon što su sve 3 uloge i usporedba PO vs SM svježe u pamćenju.
+
 ---
 
 ### **Slajd 39: Organizacijska struktura**
@@ -387,6 +438,8 @@ _"[Dijagram pokazuje SM u centru s vezama: Stakeholder → Explain Agile, Produc
 - Pomaže poboljšati prakse
 - Facilitira komunikaciju"
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Case Study - SM u akciji](#backup-aktivnost-3-case-study---sm-u-akciji-15-min) — Studentice rješavaju realni SM scenarij (kasni sprint, frustrirani developer, PO koji želi dodati zadatke); direktna primjena svih 8 SM funkcija i odnosa s raznim dionicima koje smo upravo obradili.
+
 ---
 
 ## ⏰ **10:00-10:15 - PAUZA ☕**
@@ -499,6 +552,8 @@ _"[Dijagram: Backlog → Sprint Planning Meeting → Sprint Backlog]"_
 **Vizualno:**
 Zamislite da imate veliku gomilu post-it papirića (Backlog). Na Sprint Planningu odabirete koje ćete staviti na Sprint Board."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Kreiranje agende za Sprint Planning](#backup-aktivnost-4-kreiranje-agende-za-sprint-planning-10-min) — U parovima definiraju trajanje, govornike i outpute za dvotjedni sprint; direktna primjena toka Backlog → Planning Meeting → Sprint Backlog koji smo upravo vidjeli na dijagramu.
+
 ---
 
 ### **Slajd 44: Sprint Retrospective**
@@ -553,6 +608,10 @@ Retrospektiva je srce **kontinuiranog poboljšanja** (Kaizen). Bez nje, tim pona
 **Česta pitanja:**
 Q: "Što ako se netko boji reći istinu?"
 A: "SM mora stvoriti 'safe space'. Retrospektiva nije za kažnjavanje, nego za učenje. Ako ljudi ne govore iskreno, SM mora raditi na povjerenju."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Retrospektiva aktivnost - "4Ls"](#backup-aktivnost-2-retrospektiva-aktivnost---4ls-15-min) — Studentice primjenjuju 4Ls (Liked, Learned, Lacked, Longed for) na cijeli Agile modul; odlično dok je START-STOP-CONTINUE format retrospektive još svjež.
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 3: Case Study - SM u akciji](#backup-aktivnost-3-case-study---sm-u-akciji-15-min) — Rješavanje realnog SM scenarija koji obuhvata i rituale i uloge; dobra integrativna aktivnost na kraju Sekcije 2.
 
 ---
 
@@ -821,6 +880,10 @@ Većina početnika odabire PSM I zbog cijene. CSM je dobar ako tvrtka plaća (co
 Q: "Mogu li dobiti posao bez certifikacije?"
 A: "Da! Iskustvo je važnije. Ali certifikacija pomaže doći do prvog intervjua."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Certifikacijski plan](#backup-aktivnost-5-certifikacijski-plan-10-min) — Studentice planiraju osobni put do SM certifikacije ili biraju alternativnu Agile ulogu; prirodan nastavak upravo obrađenog vodiča za odabir prave certifikacije.
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 6: "Prošli, sadašnji, budući Scrum Master" refleksija](#backup-aktivnost-6-prošli-sadašnji-budući-scrum-master-refleksija-7-min) — Osobna refleksija o SM vještinama koje već posjeduju i koje trebaju razviti; odlično kao closing aktivnost za certifikacijski blok.
+
 ---
 
 # ⏰ **12:00-12:30 - SEKCIJA 4: PRAKTIČNA VJEŽBA + RECAP MODULA**
@@ -886,6 +949,10 @@ A: "Da! Iskustvo je važnije. Ali certifikacija pomaže doći do prvog intervjua
 
 **Ključna poruka:**
 Agile nije samo metodologija - to je **mindset**. Kontinuirano poboljšanje, suradnja, adaptacija.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Scrum Terminologija Bingo](#backup-aktivnost-7-scrum-terminologija-bingo-10-min) — Zabavna provjera cjelokupne Scrum terminologije iz sva tri dana modula; idealan energizer za kraj predavanja.
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 1: "Tko sam ja?" - Uloge kviz](#backup-aktivnost-1-tko-sam-ja---uloge-kviz-10-min) — Brzi kviz uloga ako grupe nisu imale prilike odraditi ga ranije; dobra rekapitulacija pred kraj.
 
 ---
 

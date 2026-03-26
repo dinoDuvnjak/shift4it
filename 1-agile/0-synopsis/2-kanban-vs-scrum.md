@@ -1,5 +1,56 @@
 # 📘 DAN 2 - KANBAN VS SCRUM I AGILE U PRAKSI
 
+## 📋 Table of Contents
+
+- [📘 DAN 2 - KANBAN VS SCRUM I AGILE U PRAKSI](#-dan-2---kanban-vs-scrum-i-agile-u-praksi)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [📋 **PREGLED SADRŽAJA**](#-pregled-sadržaja)
+  - [🎯 **CILJEVI UČENJA**](#-ciljevi-učenja)
+  - [⏰ **9:00-10:00 - SEKCIJA 1: KANBAN VS SCRUM - SLIČNOSTI**](#-900-1000---sekcija-1-kanban-vs-scrum---sličnosti)
+    - [**Slajd 6: Naslovni slajd**](#slajd-6-naslovni-slajd)
+    - [**Slajd 7: Naslov sekcije 2.1 - Kanban and Scrum compared**](#slajd-7-naslov-sekcije-21---kanban-and-scrum-compared)
+    - [**Slajd 8: Kanban VS Scrum - Uvod**](#slajd-8-kanban-vs-scrum---uvod)
+    - [**Slajd 9: Sličnost 1 - Ploča (Board)**](#slajd-9-sličnost-1---ploča-board)
+    - [**Slajd 10: Sličnost 2 - Post-it kartice**](#slajd-10-sličnost-2---post-it-kartice)
+    - [**Slajd 11: Sličnost 3 - Stupci (Columns) i napredak**](#slajd-11-sličnost-3---stupci-columns-i-napredak)
+    - [**Slajd 12: Sličnost 4 - ToDo, Doing, Done stupci**](#slajd-12-sličnost-4---todo-doing-done-stupci)
+    - [**Slajd 13: Sličnost 5 - Različite kategorije kartica**](#slajd-13-sličnost-5---različite-kategorije-kartica)
+    - [**Slajd 14: Anatomija Agile ploče**](#slajd-14-anatomija-agile-ploče)
+    - [**Slajd 15: Karakteristike Kanban ploče**](#slajd-15-karakteristike-kanban-ploče)
+    - [**Slajd 16: Karakteristike Scrum ploče**](#slajd-16-karakteristike-scrum-ploče)
+  - [⏰ **10:00-10:15 - PAUZA ☕**](#-1000-1015---pauza-)
+  - [⏰ **10:15-11:00 - SEKCIJA 2: KANBAN VS SCRUM - RAZLIKE**](#-1015-1100---sekcija-2-kanban-vs-scrum---razlike)
+    - [**Slajd 17: Kanban VS Scrum - WIP limiti**](#slajd-17-kanban-vs-scrum---wip-limiti)
+    - [**Slajd 18: Kanban VS Scrum - Vlasništvo (Owners)**](#slajd-18-kanban-vs-scrum---vlasništvo-owners)
+    - [**Slajd 19: Kanban VS Scrum - Devotion zadacima**](#slajd-19-kanban-vs-scrum---devotion-zadacima)
+    - [**Slajd 20: Kanban VS Scrum - Promjene tijekom iteracije**](#slajd-20-kanban-vs-scrum---promjene-tijekom-iteracije)
+    - [**Slajd 21: Kanban VS Scrum - Hitnosti (Urgencies)**](#slajd-21-kanban-vs-scrum---hitnosti-urgencies)
+    - [**Slajd 22: Kanban VS Scrum - Uloge**](#slajd-22-kanban-vs-scrum---uloge)
+    - [**Slajd 23: Kanban VS Scrum - Rokovi (Due Dates)**](#slajd-23-kanban-vs-scrum---rokovi-due-dates)
+    - [**Slajd 24: Kanban VS Scrum - Prioriteti**](#slajd-24-kanban-vs-scrum---prioriteti)
+    - [**Slajd 25: Kanban VS Scrum - Modifikacije**](#slajd-25-kanban-vs-scrum---modifikacije)
+    - [**Slajd 26: Kanban VS Scrum - Best for... (Najbolje za...)**](#slajd-26-kanban-vs-scrum---best-for-najbolje-za)
+  - [⏰ **11:00-11:15 - PAUZA ☕**](#-1100-1115---pauza-)
+  - [⏰ **11:15-12:00 - SEKCIJA 3: AGILE U NE-RAZVOJNIM PROCESIMA**](#-1115-1200---sekcija-3-agile-u-ne-razvojnim-procesima)
+    - [**Slajd 27: Naslov sekcije 2.2 - Agile in 'non-development' processes**](#slajd-27-naslov-sekcije-22---agile-in-non-development-processes)
+    - [**Slajd 29-32: Klasifikacija procesa (Stalk i Hout)**](#slajd-29-32-klasifikacija-procesa-stalk-i-hout)
+    - [**Slajd 32: Primjeri procesa koji se mogu upravljati Agileom**](#slajd-32-primjeri-procesa-koji-se-mogu-upravljati-agileom)
+  - [⏰ **12:00-12:30 - SEKCIJA 4: PRAKTIČNA VJEŽBA + RECAP**](#-1200-1230---sekcija-4-praktična-vježba--recap)
+  - [📝 **RECAP - Ključne točke dana (5 min)**](#-recap---ključne-točke-dana-5-min)
+  - [✅ **PITANJA ZA PROVJERU RAZUMIJEVANJA**](#-pitanja-za-provjeru-razumijevanja)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: Quiz natjecanje (10 min)**](#backup-aktivnost-1-quiz-natjecanje-10-min)
+    - [**BACKUP AKTIVNOST 2: "Scrum ili Kanban?" scenario igra (10 min)**](#backup-aktivnost-2-scrum-ili-kanban-scenario-igra-10-min)
+    - [**BACKUP AKTIVNOST 3: Dizajn WIP limita (7 min)**](#backup-aktivnost-3-dizajn-wip-limita-7-min)
+    - [**BACKUP AKTIVNOST 4: Mapiranje osobnog procesa (15 min)**](#backup-aktivnost-4-mapiranje-osobnog-procesa-15-min)
+    - [**BACKUP AKTIVNOST 5: "Što bi se dogodilo ako..." (10 min)**](#backup-aktivnost-5-što-bi-se-dogodilo-ako-10-min)
+    - [**BACKUP AKTIVNOST 6: Trello demo (15 min)**](#backup-aktivnost-6-trello-demo-15-min)
+    - [**BACKUP AKTIVNOST 7: Refleksija i dijeljenje (5 min)**](#backup-aktivnost-7-refleksija-i-dijeljenje-5-min)
+  - [📚 **DODATNI RESURSI ZA FACILITATORA**](#-dodatni-resursi-za-facilitatora)
+  - [🔮 **NAJAVA SUTRA (Dan 3)**](#-najava-sutra-dan-3)
+
+---
+
 ## **PREDAVANJE: Agile Frameworks - Kanban i Scrum u usporedbi + Primjena u različitim procesima**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
 **PDF MATERIJAL:** AGILE_2_v2.pdf (Slajdovi 1-32)  
@@ -37,6 +88,9 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
+# ⏰ **9:00-10:00 - SEKCIJA 1: KANBAN VS SCRUM - SLIČNOSTI**
+
+---
 
 ### **Slajd 6: Naslovni slajd**
 Jučer smo prošle temelje Agile pristupa - zašto je nastao, koja je filozofija iza njega, i zašto je tako važan u modernom IT svijetu.
@@ -146,6 +200,8 @@ Fizičke ploče su još uvijek popularne jer:
 **Česta pitanja:**
 Q: "Zašto bi itko koristio fizičku ploču kad ima digitalne alate?"
 A: "Remote timovi moraju koristiti digitalne. Ali fizičke ploče imaju psihološki efekt - pomicanje kartice rukom stvara veći osjećaj postignuća. Mnogi timovi koji rade u istom uredu preferiraju fizičke ploče."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Trello demo](#backup-aktivnost-6-trello-demo-15-min) — Praktična demonstracija digitalne Kanban ploče u Trellu (kreiranje boarda, stupaca, kartica, oznaka); odlična nadopuna upravo obrađene razlike između fizičkih i digitalnih ploča.
 
 ---
 
@@ -338,6 +394,8 @@ Npr: "Kao kupac, želim filtrirati proizvode po cijeni kako bih našao/la proizv
 - "Je li do sada sve jasno?"
 - "Ima li netko pitanja o osnovnim elementima?"
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Mapiranje osobnog procesa](#backup-aktivnost-4-mapiranje-osobnog-procesa-15-min) — Svaka studentica mapira vlastiti tjedni proces (priprema za ispit, planiranje putovanja...) na Kanban board s WIP limitima; odlična primjena anatomije ploče dok su elementi stupaca, kartica i swim lanes još svježi.
+
 ---
 
 ### **Slajd 15: Karakteristike Kanban ploče**
@@ -381,6 +439,8 @@ Ako imam limit 3 u "In Progress" i već imam 3 kartice tamo:
 **Česta pitanja:**
 Q: "Što ako imam hit zadatak a WIP je pun?"
 A: "Onda prvo završite nešto drugo ili stavite nešto 'on hold'. WIP limit tjera tim da donese svjesnu odluku o prioritetima."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Dizajn WIP limita](#backup-aktivnost-3-dizajn-wip-limita-7-min) — Studentice odlučuju koji WIP limit postaviti za tim od 5 osoba i diskutiraju trade-offove (WIP=2 vs WIP=5 vs WIP=10); direktna primjena koncepta WIP limita upravo objašnjenog na Kanban ploči.
 
 ---
 
@@ -702,6 +762,12 @@ Mnogi timovi koriste **Scrumban** - kombinaciju oba pristupa."
 - **Kanban:** IT support tim koji odgovara na tickete
 - **Scrumban:** Tim koji razvija novu funkcionalnost ali mora i održavati postojeću
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: "Scrum ili Kanban?" scenario igra](#backup-aktivnost-2-scrum-ili-kanban-scenario-igra-10-min) — Studentice glasaju Scrum ili Kanban za 5 realnih scenarija (support tim, mobilna app, marketing...); direktna primjena upravo obrađenih razlika u tablici "Kada koristiti što".
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 1: Quiz natjecanje](#backup-aktivnost-1-quiz-natjecanje-10-min) — Timsko natjecanje u pitanjima iz cijele sekcije sličnosti i razlika; odličan energizer i provjera razumijevanja pred pauzu.
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 5: "Što bi se dogodilo ako..."](#backup-aktivnost-5-što-bi-se-dogodilo-ako-10-min) — Diskusija o posljedicama lošeg korištenja oba alata (bez WIP limita, sprint koji se neprestano mijenja...); produbljivanje razumijevanja zašto ova pravila postoje.
+
 ---
 
 ## ⏰ **11:00-11:15 - PAUZA ☕**
@@ -770,6 +836,8 @@ Stalk i Hout su autori knjige "Competing Against Time" (1990) koji su definirali
 6. **Legal** - praćenje compliance zadataka
 
 Ključ je **vizualizacija procesa** i **praćenje toka** kroz faze."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Mapiranje osobnog procesa](#backup-aktivnost-4-mapiranje-osobnog-procesa-15-min) — Svaka studentica mapira vlastiti tjedni proces (npr. priprema za ispit), identificira bottlenecke i predlaže Kanban rješenje; direktna primjena Agile principa na ne-razvojni proces upravo prikazan.
 
 ---
 
@@ -844,6 +912,10 @@ KARTICE: Junior UX Designer @Startup1, Mid Designer @Agency2...
 
 **Pitanje za razmišljanje:**
 "Gdje biste VI mogli primijeniti Kanban ili Scrum u svom životu ili budućem poslu?"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: "Što bi se dogodilo ako..."](#backup-aktivnost-5-što-bi-se-dogodilo-ako-10-min) — Diskusija o posljedicama: što ako Scrum tim stalno dodaje zadatke mid-sprint, što ako Kanban nema WIP limite itd.; produbljivanje razumijevanja kroz analizu posljedica.
+>
+> 💡 **Ili:** [BACKUP AKTIVNOST 7: Refleksija i dijeljenje](#backup-aktivnost-7-refleksija-i-dijeljenje-5-min) — Kratka osobna refleksija o najzanimljivijem konceptu dana i gdje bi primijenili Agile; prirodan i miran zaključak predavanja.
 
 ---
 
