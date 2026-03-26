@@ -224,7 +224,7 @@ Svaki tim ima 5 minuta. Svaka studentica odgovara na 3 pitanja:
 - Svaki tim prikazuje što je završio (**Demo**)
 - 3 pitanja za retro:
   - Što je išlo dobro?
-  - Što je išlo loše?
+  - Što je išlo loše?git s
   - Što mijenjamo?
 - Facilitatorica kao PO **"prihvaća"** ili **"vraća"** stories
 
