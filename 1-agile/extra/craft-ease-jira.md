@@ -244,3 +244,14 @@ Svaki tim ima 5 minuta. Svaka studentica odgovara na 3 pitanja:
 ---
 
 *SHIFT4IT Program | CraftEase Završni Projekt | Dani 15–18*
+
+
+
+
+dizajn:
+1. sketching
+2. user flow
+3. sitemap
+4. wireframing
+5. prototyping
+6. feedback

@@ -1,5 +1,56 @@
 # 📘 DAN 4 - USABILITY HEURISTICS (BASTIEN & SCAPIN)
 
+## 📋 Table of Contents
+
+- [PREDAVANJE: Evaluacija Interfacea kroz 8 Heurističkih Kriterija](#predavanje-evaluacija-interfacea-kroz-8-heuristi%C4%8Dkih-kriterija)
+- [🎯 Ciljevi učenja](#-ciljevi-u%C4%8Denja)
+- [⏰ Raspored predavanja](#-raspored-predavanja)
+- [9:00–9:15 · Uvod u Usability Heuristics](#-900-915-15-min---uvod-u-usability-heuristics)
+  - [Slajd 108: Usability Principles](#slajd-108-usability-principles)
+  - [Slajd 109: How we focus (Visual Illusions)](#slajd-109-how-we-focus-visual-illusions)
+  - [Slajd 110-111: Visual Illusions (Checkerboard)](#slajd-110-111-visual-illusions-checkerboard)
+  - [Slajd 112: Ergonomic criteria contribute to experience](#slajd-112-ergonomic-criteria-contribute-to-experience)
+- [9:15–9:30 · Bastien & Scapin Framework](#-915-930-15-min---bastien--scapin-framework)
+  - [Slajd 113: Usable?](#slajd-113-usable)
+  - [Slajd 114: Heuristics Definition](#slajd-114-heuristics-definition)
+  - [Slajd 115: Easy approach to be implemented](#slajd-115-easy-approach-to-be-implemented)
+  - [Slajd 116: Limiting approach by subjectivity](#slajd-116-limiting-approach-by-subjectivity)
+- [9:30–10:00 · Kriterij 1: Guidance (Vođenje)](#-930-1000-30-min---kriterij-1-guidance-vo%C4%91enje)
+  - [Slajd 120: Bastien & Scapin - Summary Table](#slajd-120-bastien--scapin---summary-table)
+  - [Slajd 124: 01. Guidance](#slajd-124-01-guidance)
+  - [Slajd 127: Fold Concept](#slajd-127-fold-concept)
+  - [Slajd 128: White Space](#slajd-128-white-space)
+  - [Slajd 130-132: Hierarchy of Information](#slajd-130-132-hierarchy-of-information)
+- [10:00–10:15 · Pauza ☕](#-1000-1015-15-min---pauza-)
+- [10:15–10:35 · Kriterij 2: Workload](#-1015-1035-20-min---kriterij-2-workload)
+  - [Slajd 171: 02. Workload](#slajd-171-02-workload)
+  - [Slajd 175-176: Chunking & Hick's Law](#slajd-175-176-chunking--hicks-law)
+  - [Slajd 177-180: Minimal Actions & Fitts' Law](#slajd-177-180-minimal-actions--fitts-law)
+- [10:35–11:00 · Kriterij 3 & 4: Explicit Control & Adaptability](#-1035-1100-25-min---kriterij-3--4-explicit-control--adaptability)
+  - [Slajd 189: 03. Explicit Control](#slajd-189-03-explicit-control)
+  - [Slajd 198: 04. Adaptability](#slajd-198-04-adaptability)
+- [11:00–11:15 · Pauza ☕](#-1100-1115-15-min---pauza-)
+- [11:15–11:45 · Kriterij 5: Error Management](#-1115-1145-30-min---kriterij-5-error-management)
+  - [Slajd 208: 05. Error Management](#slajd-208-05-error-management)
+- [11:45–12:00 · Kriterij 6, 7, 8: Consistency, Meaning, Compatibility](#-1145-1200-15-min---kriterij-6-7-8-consistency-meaning-compatibility)
+  - [Slajd 218: 06. Consistency](#slajd-218-06-consistency)
+  - [Slajd 232: 07. Meaning of the Codes](#slajd-232-07-meaning-of-the-codes)
+  - [Slajd 245: 08. Compatibility](#slajd-245-08-compatibility)
+- [12:00–12:25 · Practical Heuristic Evaluation Exercise](#-1200-1225-25-min---practical-heuristic-evaluation-exercise)
+  - [Slajd 170: Exercise - Evaluacija Website-a](#slajd-170-exercise---evaluacija-website-a)
+- [12:25–12:30 · Recap & Closure](#-1225-1230-5-min---recap--closure)
+- [🔄 Backup Aktivnosti](#-backup-aktivnosti)
+  - [BA1: Heuristic Speed Evaluation](#backup-aktivnost-1-heuristic-speed-evaluation-10-min)
+  - [BA2: Error Message Rewriting](#backup-aktivnost-2-error-message-rewriting-15-min)
+  - [BA3: Consistency Audit](#backup-aktivnost-3-consistency-audit-15-min)
+  - [BA4: Adaptability Brainstorm](#backup-aktivnost-4-adaptability-brainstorm-10-min)
+  - [BA5: Gestalt + Heuristics Connection](#backup-aktivnost-5-gestalt--heuristics-connection-10-min)
+  - [BA6: Heuristic Bingo](#backup-aktivnost-6-heuristic-bingo-15-min)
+  - [BA7: Before/After Comparison](#backup-aktivnost-7-beforeafter-comparison-10-min)
+- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+
+---
+
 ## **PREDAVANJE: Evaluacija Interfacea kroz 8 Heurističkih Kriterija**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)
 **PDF MATERIJAL:** 2 & 3.Principles of design and ergonomics-1.pdf (završetak)
@@ -597,6 +648,8 @@ Sve iste veličine, iste boje = korisnik ne zna gdje gledati = LOŠE GUIDANCE.
 
 Hijerarhija je core guidance tool - bez nje, users su lost u sea of content.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Before/After Comparison](#backup-aktivnost-7-beforeafter-comparison-10-min) — analiziraj before/after redesign primjere (Old Reddit, Airbnb) kroz prizmu Guidance kriterija.
+
 ---
 
 ## ⏰ **10:00-10:15 (15 min) - PAUZA ☕**
@@ -995,6 +1048,8 @@ A: "Defaults su KEY. Dobri defaults rade za većinu. Customization je OPTIONAL z
 - **Beginners se žale da je complicated**: Možda advanced features nisu skrivene. Use progressive disclosure.
 - **Experts se žale da je slow**: Dodaj shortcuts i advanced options.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Adaptability Brainstorm](#backup-aktivnost-4-adaptability-brainstorm-10-min) — brainstorm kako dizajnirati PM dashboard koji je adaptabilan za beginners, experts i različite screen sizes.
+
 ---
 
 ## ⏰ **11:00-11:15 (15 min) - PAUZA ☕**
@@ -1211,6 +1266,8 @@ A: "Still budi empatičan. 'Something went wrong on our end. We're working to fi
 - **High form abandonment**: Možda previše errors, frustrirajuće poruke. Improve validation i messaging.
 - **Support tickets o 'broken' features**: Možda error messages nisu jasne. Users ne razumiju što je problem.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Error Message Rewriting](#backup-aktivnost-2-error-message-rewriting-15-min) — prepiši loše error poruke ("Error 404", "Invalid input") u jasne, korisne i empatične poruke.
+
 ---
 
 ## ⏰ **11:45-12:00 (15 min) - KRITERIJ 6, 7, 8: CONSISTENCY, MEANING, COMPATIBILITY**
@@ -1267,6 +1324,8 @@ Konzistentne forme = easily recognized patterns.
 📚 **FACILITATOR NOTES:**
 
 Design Systems su manifestacija consistency - libraries of reusable components s defined styles.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Consistency Audit](#backup-aktivnost-3-consistency-audit-15-min) — auditi odabrani website tražeći inconsistencies u bojama, buttonima, tipografiji i ikonama.
 
 ---
 
@@ -1376,6 +1435,8 @@ Don't break conventions bez dobrog razloga!
 📚 **FACILITATOR NOTES:**
 
 Compatibility je o empathy - razumijevanje user's perspective i design accordingly.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Heuristic Speed Evaluation](#backup-aktivnost-1-heuristic-speed-evaluation-10-min) — warm-up prije glavne vježbe: identificiraj heuristic violations na 5 screenshotova u 2 min po screenshotu.
 
 ---
 
@@ -1569,6 +1630,10 @@ Ovo će vam pomoći internalize heuristics!"
 - [ ] Setup Figma shared files
 - [ ] Review Information Architecture content
 - [ ] Plan user research activities
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Gestalt + Heuristics Connection](#backup-aktivnost-5-gestalt--heuristics-connection-10-min) — poveži Gestalt principe iz Dana 3 s Bastien & Scapin kriterijima (Proximity → Guidance, Similarity → Consistency...).
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Heuristic Bingo](#backup-aktivnost-6-heuristic-bingo-15-min) — fun recap igra: facilitator opisuje koncept, studentice označavaju termin na bingo kartici.
 
 ---
 
