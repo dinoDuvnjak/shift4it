@@ -82,20 +82,6 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   SEKCIJA 1: Uloge u Scrumu (60 min)
-10:00-10:15  PAUZA ☕
-10:15-11:00  SEKCIJA 2: Scrum rituali (45 min)
-11:00-11:15  PAUZA ☕
-11:15-12:00  SEKCIJA 3: Scrum Master certifikacije (45 min)
-12:00-12:30  SEKCIJA 4: Praktična vježba + Recap modula (30 min)
-```
-**Ukupno efektivno vrijeme: 180 min (3h)**
-
----
-
 # ⏰ **9:00-10:00 - SEKCIJA 1: ULOGE U SCRUMU**
 
 ---
