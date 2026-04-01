@@ -36,30 +36,11 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   SEKCIJA 1: Što je backlog i kako ga kreirati (60 min)
-10:00-10:15  PAUZA ☕
-10:15-11:00  SEKCIJA 2: Granularnost kartica - Hijerarhija (45 min)
-11:00-11:15  PAUZA ☕
-11:15-12:00  SEKCIJA 3: MoSCoW + Praktična vježba (45 min)
-12:00-12:30  SEKCIJA 4: Grupna vježba + Recap (30 min)
-```
-**Ukupno efektivno vrijeme: 180 min (3h)**
-
----
-
 # ⏰ **9:00-10:00 - SEKCIJA 1: ŠTO JE BACKLOG I KAKO GA KREIRATI**
 
 ---
 
 ### **Slajd 1: Naslovni slajd sekcije 3.1**
-
-**Notes iz PDF-a:**
-_"3.1 How to create a backlog (2.5 hours)"_
-
-**Što reći studentima (2 min):**
 
 "Dobro došle na četvrti dan Agile modula!
 
@@ -76,12 +57,7 @@ Do kraja dana znat ćete **napisati korisničke priče (User Stories)** i **orga
 
 ---
 
-### **Slajd 2: What is a backlog?**
-
-**Notes iz PDF-a:**
-_"A prioritized list of features, enhancements, bug fixes, tasks, etc. Owned and maintained by the Product Owner. Evolving document - it is never complete. Provides a single source of requirements for any changes to be made to the product."_
-
-**Što reći studentima (8 min):**
+### **Slajd 8: What is a backlog?**
 
 "**Što je Product Backlog?**
 
@@ -139,12 +115,7 @@ A: "Varira - od 20 do nekoliko stotina. Važno je da su gornje stavke detaljne i
 
 ---
 
-### **Slajd 3: Components of a backlog item**
-
-**Notes iz PDF-a:**
-_"Title - Brief summary. Description - Detailed explanation or user story. Acceptance Criteria - Conditions to consider the story 'done'. Priority - Order of importance. Estimation - Effort required (e.g. story points, hours)."_
-
-**Što reći studentima (10 min):**
+### **Slajd 9: Components of a backlog item**
 
 "Svaka stavka u backlogu mora imati **5 ključnih komponenti**. Ovo je kao **recept** - bez svih sastojaka, nećete dobiti željeni rezultat.
 
@@ -267,12 +238,7 @@ Nacrtaj piramidu s 4 razine i primjerima za svaku razinu.
 
 ---
 
-### **Slajd 6: How to create a backlog - 6 koraka**
-
-**Notes iz PDF-a:**
-_"1. Start with high-level goals - What problems are we solving? 2. Write user stories - Use the format: 'As a [user], I want [feature] so that [benefit].' 3. Break down epics into smaller stories. 4. Prioritize based on business value and urgency. 5. Estimate effort with the team. 6. Review and refine regularly (Backlog Grooming/Refinement)."_
-
-**Što reći studentima (12 min):**
+### **Slajd 11: How to create a backlog - 6 koraka**
 
 "Sada kada znamo strukturu, pogledajmo **6 koraka za kreiranje backloga:**
 
@@ -319,12 +285,7 @@ User Story format je KLJUČAN! Ponovite ga nekoliko puta:
 
 ---
 
-### **Slajd 7: Common mistakes to avoid**
-
-**Notes iz PDF-a:**
-_"Having vague or overly detailed stories. Not involving the team in backlog refinement. Ignoring technical debt or bugs. Letting the backlog grow without pruning."_
-
-**Što reći studentima (8 min):**
+### **Slajd 13: Common mistakes to avoid**
 
 "Prije nego idemo na vježbu, pogledajmo **4 česte greške** koje timovi rade:
 
@@ -360,7 +321,7 @@ Backlog je kao hladnjak - ako ne čistiš redovito, imat ćeš hranu koja je ist
 
 ---
 
-### **Slajd 8: Grupna vježba - EduTrack scenarij**
+### **Slajd 14: Grupna vježba - EduTrack scenarij**
 
 **Notes iz PDF-a:**
 _"Scenario: EduTrack is an initiative to create a web-based classroom management platform designed to simplify administrative tasks for teachers, improve student engagement, and provide real-time insights into academic progress."_
@@ -391,7 +352,7 @@ Ovaj scenarij ćemo koristiti za sve vježbe danas i sutra!"
 
 ---
 
-### **Slajd 9: Grupna vježba - Upute**
+### **Slajd 15: Grupna vježba - Upute**
 
 **Notes iz PDF-a:**
 _"Exercise: Think of 5 features or needs students/teachers might have. Instructions: In small groups, write 5 user stories using the format: 'As a [student, teachers], I want [feature] so that [benefit].' Assign a priority (1–5) and a rough estimate (e.g. 1–3 points). Present your mini backlog to the class."_
@@ -437,12 +398,7 @@ Predloži im da razmisle o:
 
 ---
 
-### **Slajd 10-11: Savjeti za kreiranje backloga**
-
-**Notes iz PDF-a:**
-_"At the beginning, building the backlog will be very difficult! Sometimes you build cards that are too 'big' (you realise this when a card remains in the 'doing' state for too long). Other times you go into too much detail (you can tell if a card transits the board for too short a time). Tip: divide the cards so that they never last more than 4 hours, i.e. half the working day."_
-
-**Što reći studentima (5 min):**
+### **Slajd 16: Savjeti za kreiranje backloga**
 
 "Završimo ovu sekciju s nekoliko **praktičnih savjeta**:
 
@@ -478,12 +434,7 @@ Zašto?
 
 ---
 
-### **Slajd 12: Naslovni slajd sekcije 3.2**
-
-**Notes iz PDF-a:**
-_"3.2 How to manage card granularity (2.5 hours)"_
-
-**Što reći studentima (2 min):**
+### **Slajd 17: Naslovni slajd sekcije 3.2**
 
 "Dobrodošle nazad!
 
@@ -497,12 +448,7 @@ Pronalaženje prave mjere je vještina koja dolazi s praksom!"
 
 ---
 
-### **Slajd 13: Different granularities - Dijagram**
-
-**Notes iz PDF-a:**
-_"[Vizualni dijagram pokazuje dvije razine granularnosti - jedna s Epics → User Stories → Tasks, druga samo s User Stories → Tasks]"_
-
-**Što reći studentima (8 min):**
+### **Slajd 18: Different granularities - Dijagram**
 
 "Pogledajmo dva pristupa organizaciji backloga:
 
@@ -543,12 +489,7 @@ Nacrtaj oba pristupa jedan pored drugog da studentice vide razliku.
 
 ---
 
-### **Slajd 14-15: WBS vs RBS**
-
-**Notes iz PDF-a:**
-_"WBS (Waterfall): Breakdown of the project from the WORK to be performed. RBS (Agile): Breakdown of the project from REQUIREMENTS / FEATURES of the OUTPUT."_
-
-**Što reći studentima (10 min):**
+### **Slajd 18-19: WBS vs RBS**
 
 "Ovo je **ključna razlika** između Waterfall i Agile razmišljanja!
 
@@ -602,12 +543,7 @@ Oba su validna, ali Agile preferira RBS jer:
 
 ---
 
-### **Slajd 16-17: Feature vs Epic**
-
-**Notes iz PDF-a:**
-_"Feature: describes a solution and/or answer to a given requirement. Epic: large body of work that can be broken down into a series of smaller stories."_
-
-**Što reći studentima (5 min):**
+### **Slajd 20-21: Feature vs Epic**
 
 "Čest izvor zabune: **Feature vs Epic**
 
@@ -629,12 +565,7 @@ U praksi, mnogi timovi koriste ove termine naizmjence - važno je da **vaš tim 
 
 ---
 
-### **Slajd 18-19: Epic vs User Story**
-
-**Notes iz PDF-a:**
-_"Epic: Big, coarse-grained, sketchy. User Stories: Small, detailed, specific. Each Epic is an expression of a requirement and is very similar to a story (but bigger and more complex)."_
-
-**Što reći studentima (8 min):**
+### **Slajd 20-21: Epic vs User Story**
 
 "Još jedna važna razlika: **Epic vs User Story**
 
@@ -682,11 +613,6 @@ A: "Nema pravila - može biti 3, može biti 30. Ovisi o kompleksnosti."
 ---
 
 ### **Slajd 20: Task**
-
-**Notes iz PDF-a:**
-_"Task: a unit of work needed to realise a user story."_
-
-**Što reći studentima (5 min):**
 
 "Posljednja razina: **TASK**
 
@@ -764,11 +690,6 @@ _"[Vizualni dijagram pokazuje: Theme → Epic → Story → Task hijerarhiju]"_
 
 ### **Slajd 22: Three good reasons to use RBS**
 
-**Notes iz PDF-a:**
-_"1) Allows the team and the client to communicate using mutually understandable terms. 2) Allows prioritisation of work based on the customer's perceived value. 3) Keeps track of work against actual value produced."_
-
-**Što reći studentima (5 min):**
-
 "Zašto koristiti RBS (Agile) pristup? **3 dobra razloga:**
 
 **1. 🗣️ Zajednički jezik**
@@ -789,11 +710,6 @@ _"1) Allows the team and the client to communicate using mutually understandable
 ---
 
 ### **Slajd 23: MoSCoW Method**
-
-**Notes iz PDF-a:**
-_"MUST HAVE: Project cannot do without them. SHOULD HAVE: Must-haves over the long run. COULD HAVE: Low-cost tweaking. WON'T HAVE: Get back to them at better days."_
-
-**Što reći studentima (12 min):**
 
 "**MoSCoW metoda** je jednostavan način prioritizacije backloga. Ime dolazi od prvih slova kategorija:
 
@@ -845,11 +761,6 @@ Klijent želi SVE kao 'Must Have'. Objasni da ako je sve kritično, ništa nije 
 ---
 
 ### **Slajd 24-25: Tips za kreiranje backloga**
-
-**Notes iz PDF-a:**
-_"When creating backlogs, start with the largest features and then break them down over time. This allows the customer not to go into detail until it is really necessary."_
-
-**Što reći studentima (5 min):**
 
 "Još nekoliko savjeta za praksu:
 
