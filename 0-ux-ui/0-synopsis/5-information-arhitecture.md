@@ -1,12 +1,5 @@
 # 📘 DAN 5 - INFORMATION ARCHITECTURE
 
-## **PREDAVANJE: Information Architecture (Informacijska Arhitektura)**
-**TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
-**PDF MATERIJAL:** Information Architecture.pdf  
-**BROJ STUDENTICA:** 8-30
-
----
-
 ## 🎯 **CILJEVI UČENJA:**
 
 Na kraju ovog predavanja, studentice će moći:
@@ -19,20 +12,6 @@ Na kraju ovog predavanja, studentice će moći:
 6. Kreirati low-fidelity wireframe za homepage aplikacije
 7. Razlikovati različite tipove navigacije (top, side, dropdown, breadcrumb...)
 8. Provesti peer review wireframe-a s konstruktivnim feedbackom
-
----
-
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   Teorija - Uvod u IA, Principi, How to Create
-10:00-10:15  PAUZA ☕
-10:15-11:00  Taxonomy & Classification - Post-it vježba (CraftEase)
-11:00-11:15  PAUZA ☕
-11:15-12:00  Information Mapping + Low-Fi Wireframes vježba
-12:00-12:15  Peer Review & Adjustments
-12:15-12:30  Zaključak & Pitanja
-```
 
 ---
 
@@ -57,11 +36,6 @@ Danas ćemo raditi na vašem projektu **CraftEase** - web aplikaciji za DIY (Do-
 ## ⏰ **9:10-9:25 (15 min) - TEORIJA: UVOD U INFORMATION ARCHITECTURE**
 
 ### **Slajd 3: Summary**
-
-**Notes iz PDF-a:**
-_"In this lesson, you will explore the fundamentals of Information Architecture (IA)—the practice of organizing, structuring, and labeling content in a clear and meaningful way."_
-
-**Što reći studentima (5 min):**
 
 Information Architecture (skraćeno **IA**) je praksa organiziranja i strukturiranja sadržaja na jasan i smislen način.
 
@@ -107,11 +81,6 @@ A: Za manji projekt (5-10 stranica) možda 1-2 dana. Za veći projekt (50+ stran
 ---
 
 ### **Slajd 4: Introduction to Information Architecture**
-
-**Notes iz PDF-a:**
-_"Information architecture (IA) is the process by which content is organized and made readily available to users. IA focuses on organizing and structuring content to make it easily accessible."_
-
-**Što reći studentima (10 min):**
 
 **Definicija IA:**
 Information Architecture je proces kojim se sadržaj organizira i čini dostupnim korisnicima.
@@ -159,11 +128,6 @@ A: DA! Čak i za jednostavnu 3-page website. Možda ne treba detaljnog IA proces
 ---
 
 ### **Slajd 5: Introduction to Information Architecture - 3 Pillars**
-
-**Notes iz PDF-a:**
-_"Users: who are we talking to? Content: what information are we providing? Context: how will they interact with content?"_
-
-**Što reći studentima (5 min):**
 
 IA se temelji na **3 ključna elementa** (pokazati Venn dijagram na slajdu):
 
@@ -217,11 +181,6 @@ A: User research! Intervjui, anketiranje, analytics (gdje pristupaju vašem site
 
 ### **Slajd 6: Benefits of IA**
 
-**Notes iz PDF-a:**
-_"IA helps to: increase conversion rates, reinforce credibility, improve productivity, boost SEO, reduce customer service costs."_
-
-**Što reći studentima (5 min):**
-
 **Zašto ulagati vrijeme u IA? Evo 5 velikih benefita:**
 
 **1. Povećanje conversion rate-a** 💰
@@ -271,11 +230,6 @@ A: **Kontinuirani proces**! Kako vaš business raste, dodaje se sadržaj, mijenj
 
 ### **Slajd 7: 8 Principles of IA - Introduction**
 
-**Notes iz PDF-a:**
-_"Back in 2010, Dan Brown, the brain behind EightShapes, laid down eight principles for information architecture to guide designers in their choices."_
-
-**Što reći studentima (3 min):**
-
 2010. godine, **Dan Brown** (osnivač EightShapes studija) kreirao je **8 principa Information Architecture** koji pomažu designerima donositi dobre odluke o organizaciji sadržaja.
 
 Ovih 8 principa su kao "pravila igre" - pomoći će vam da ne napravite česte greške pri strukturiranju website-a ili aplikacije.
@@ -285,11 +239,6 @@ Idemo kroz svih 8!
 ---
 
 ### **Slajd 8: Principles 1-4**
-
-**Notes iz PDF-a:**
-_"1. The principle of objects, 2. The principle of choices, 3. The principle of disclosure, 4. The principle of exemplars."_
-
-**Što reći studentima (10 min):**
 
 **PRINCIP 1: OBJECTS (Objekti)** 🧩
 _"Content should be treated as a living, breathing thing. It has lifecycles, behaviors, and attributes."_
@@ -380,11 +329,6 @@ A: Grupiranje! Npr. "Elektronika" → Mobiteli, Laptopi, Kamere... svaka s primj
 ---
 
 ### **Slajd 9: Principles 5-8**
-
-**Notes iz PDF-a:**
-_"5. The principle of front doors, 6. The principle of multiple classifications, 7. The principle of focused navigation, 8. The principle of growth."_
-
-**Što reći studentima (7 min):**
 
 **PRINCIP 5: FRONT DOORS (Ulazna vrata)** 🚪
 _"Assume that at least 50% of users will use a different entry point than the home page."_
@@ -486,11 +430,6 @@ A: Ponudi 3-5 načina filtriranja/klasifikacije. Više od toga postaje overwhelm
 
 ### **Slajdovi 10-12: Step-by-Step Process**
 
-**Notes iz PDF-a:**
-_"8-step process: 1. Define stakeholders' goals, 2. Identify user goals, 3. Define site content areas, 4. Organize content into groups, 5. Create sitemap, 6. Outline navigation, 7. Label content, 8. Develop wireframes."_
-
-**Što reći studentima (15 min):**
-
 Sada kada znate principe, idemo vidjeti **konkretni proces** kako napraviti IA za projekt.
 
 **8 KORAKA:**
@@ -537,7 +476,7 @@ Proizvodi
 ---
 
 **KORAK 5: Kreiraj sitemap** 🗺️
-- Vizualna reprezentacija strukture site-a
+- Vizualna reprezentacija strukture site-a (figma-template)[https://www.figma.com/community/file/1205181403296341187/sitemap]
 - Prikaži parent-child odnose između stranica
 - Osiguraj logičnu navigaciju
 
@@ -559,7 +498,7 @@ Proizvodi
 
 ---
 
-**KORAK 8: Razvij wireframes** ✏️
+**KORAK 8: Razvij wireframes** ✏️  (figma-template)[https://www.figma.com/community/file/900479694578549256/mobile-wireframe-ui-kit]
 - Skiciraj page layout-e
 - Definiraj gdje ide menu, header, footer
 - Placeholderi za content
@@ -602,11 +541,6 @@ A: Za veće projekte DA. Za mali 5-page website možeš "preskočiti" formalni p
 
 ### **Slajd 13: Hierarchization**
 
-**Notes iz PDF-a:**
-_"Information hierarchy is all about organizing the content on your website in a way that makes it easy for users to navigate and understand."_
-
-**Što reći studentima (3 min):**
-
 **Information hierarchy** (informacijska hijerarhija) = organizacija sadržaja na način koji omogućuje korisnicima da lako navigiraju i razumiju.
 
 Hijerarhija znači: **što je važnije = viša razina**.
@@ -625,11 +559,6 @@ Homepage (razina 1)
 ---
 
 ### **Slajd 14-15: Navigation Types**
-
-**Notes iz PDF-a:**
-_"Types of Navigation: Top Navigation, Side Navigation, Dropdown Navigation, Full-Screen Navigation, Hamburger Menu, Gesture-Based Navigation, Bottom Bar Navigation, Breadcrumb Navigation."_
-
-**Što reći studentima (2 min):**
 
 Postoji **mnogo tipova navigacije**. Najčešći:
 
@@ -660,11 +589,6 @@ A: Ovisi o kontekstu! Nema "najboljeg" - ovisi o uređaju (mobile vs desktop), k
 ## ⏰ **10:20-11:00 (40 min) - HANDS-ON VJEŽBA: TAXONOMY & CLASSIFICATION**
 
 ### **Slajd 18: Taxonomy & Classification - Introduction**
-
-**Notes iz PDF-a:**
-_"Taxonomy, at its core, is a science dedicated to the process of classification. UX Taxonomy refers to the act of grouping information into relevant sets or categories."_
-
-**Što reći studentima (5 min):**
 
 **Taxonomy** = znanost klasifikacije. U UX-u, taxonomy znači grupiranje informacija u relevantne kategorije.
 
@@ -921,11 +845,6 @@ Ne mora biti "savršeno" - cilj je da studentice razumiju proces grupiranja i ka
 
 ### **Slajd 16: Breadcrumb - Introduction**
 
-**Notes iz PDF-a:**
-_"A breadcrumb is a secondary navigation aid that improves customer experience by helping users understand their location on a website or mobile application. The term 'breadcrumb' is borrowed from the story of 'Hansel and Gretel'."_
-
-**Što reći studentima (5 min):**
-
 **Breadcrumb navigation** (puteljak) = sekundarni navigation aid koji pokazuje korisniku **gdje se nalazi** na website-u.
 
 **Zašto se zove "breadcrumb"?**
@@ -975,11 +894,6 @@ A: **Gore, ispod glavnog menua** - to je standard. Korisnici očekuju ga tamo.
 ## ⏰ **11:25-11:35 (10 min) - TEORIJA: INFORMATION MAPPING (SITEMAP)**
 
 ### **Slajd 24-25: Information Mapping - Sitemap**
-
-**Notes iz PDF-a:**
-_"A sitemap is a structured visual representation of a website or app's content, showing the relationships between parent and child pages. It helps define the hierarchy and navigation flow."_
-
-**Što reći studentima (8 min):**
 
 **Sitemap** = vizualna reprezentacija strukture website-a ili app-a. Pokazuje kako su stranice povezane (parent-child odnosi).
 
@@ -1044,11 +958,6 @@ A: Za početni sitemap: stavi main pages. Za detailed sitemap: možeš dodati i 
 ## ⏰ **11:35-12:00 (25 min) - HANDS-ON VJEŽBA: LOW-FIDELITY WIREFRAME**
 
 ### **Slajd 26-27: Low-Fidelity Wireframes - Introduction**
-
-**Notes iz PDF-a:**
-_"A low-fidelity wireframe is a basic sketch of a website or an app's interface. It's a simplified version focusing on functionality rather than visual design."_
-
-**Što reći studentima (5 min):**
 
 **Low-fidelity wireframe** (skraćeno: **lo-fi wireframe**) = osnovna skica interface-a. Fokus na **funkcionalnost**, ne na vizualni dizajn.
 
@@ -1174,8 +1083,6 @@ Počnite!"
 
 ### **Slajd 29: Interactive Feedback - Peer Review**
 
-**Upute za studentice (2 min):**
-
 "Sada ćemo napraviti **peer review** - dat ćete feedback jedni drugima.
 
 **Kako:**
@@ -1226,8 +1133,6 @@ Počnite!"
 
 ### **Slajd 30: A Little Adjustment**
 
-**Upute za studentice (3 min):**
-
 "Na temelju feedback-a koji ste dobili, napravite **barem 2 izmjene** na svom wireframe-u da ga poboljšate.
 
 **[Timer: 3 minute za quick adjustments]**"
@@ -1240,8 +1145,6 @@ Počnite!"
 ## ⏰ **12:15-12:25 (10 min) - ZAKLJUČAK & RECAP**
 
 ### **Slajd 31: Conclusion**
-
-**Što reći studentima (5 min):**
 
 "Odličan posao danas! Prošli smo jako puno materijala.
 
