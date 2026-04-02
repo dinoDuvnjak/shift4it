@@ -1,5 +1,54 @@
 # 📘 DAN 5 - INFORMATION ARCHITECTURE
 
+## 📋 Table of Contents
+
+- [🎯 Ciljevi učenja](#-ciljevi-učenja)
+- [⏰ 9:00–9:10 · Uvod u dan](#-900-910-10-min---uvod-u-dan)
+- [⏰ 9:10–9:25 · Teorija: Uvod u Information Architecture](#-910-925-15-min---teorija-uvod-u-information-architecture)
+  - [Slajd 3: Summary](#slajd-3-summary)
+  - [Slajd 4: Introduction to Information Architecture](#slajd-4-introduction-to-information-architecture)
+  - [Slajd 5: Introduction to IA - 3 Pillars](#slajd-5-introduction-to-information-architecture---3-pillars)
+  - [Slajd 6: Benefits of IA](#slajd-6-benefits-of-ia)
+- [⏰ 9:25–9:45 · Teorija: 8 Principa Information Architecture](#-925-945-20-min---teorija-8-principa-information-architecture)
+  - [Slajd 7: 8 Principles of IA - Introduction](#slajd-7-8-principles-of-ia---introduction)
+  - [Slajd 8: Principles 1-4](#slajd-8-principles-1-4)
+  - [Slajd 9: Principles 5-8](#slajd-9-principles-5-8)
+- [⏰ 9:45–10:00 · Teorija: How to Create IA](#-945-1000-15-min---teorija-how-to-create-ia)
+  - [Slajdovi 10-12: Step-by-Step Process](#slajdovi-10-12-step-by-step-process)
+- [⏰ 10:00–10:15 · Pauza ☕](#-1000-1015-15-min---pauza-)
+- [⏰ 10:15–10:20 · Kratak uvod u Taxonomy](#-1015-1020-5-min---kratak-uvod-u-taxonomy)
+  - [Slajd 13: Hierarchization](#slajd-13-hierarchization)
+  - [Slajd 14-15: Navigation Types](#slajd-14-15-navigation-types)
+- [⏰ 10:20–11:00 · Hands-on vježba: Taxonomy & Classification](#-1020-1100-40-min---hands-on-vježba-taxonomy--classification)
+  - [Slajd 18: Taxonomy & Classification - Introduction](#slajd-18-taxonomy--classification---introduction)
+  - [CraftEase Projekt - Podsjetnik](#craftease-projekt---podsjetnik)
+  - [VJEŽBA: Post-it Taxonomy za CraftEase](#vježba-post-it-taxonomy-za-craftease)
+  - [Korak 1: Brainstorm Content (7 min)](#korak-1-brainstorm-content-7-min)
+  - [Korak 2: Group Similar Ideas (10 min)](#korak-2-group-similar-ideas-10-min)
+  - [Korak 3: Define Main Categories (8 min)](#korak-3-define-main-categories-8-min)
+  - [Korak 4: Refine Subcategories (8 min)](#korak-4-refine-subcategories-8-min)
+  - [Korak 5: Validate & Adjust (2 min)](#korak-5-validate--adjust-2-min)
+- [⏰ 11:00–11:15 · Pauza ☕](#-1100-1115-15-min---pauza-)
+- [⏰ 11:15–11:25 · Teorija: Navigation & Breadcrumb](#-1115-1125-10-min---teorija-navigation--breadcrumb)
+  - [Slajd 16: Breadcrumb - Introduction](#slajd-16-breadcrumb---introduction)
+- [⏰ 11:25–11:35 · Teorija: Information Mapping (Sitemap)](#-1125-1135-10-min---teorija-information-mapping-sitemap)
+  - [Slajd 24-25: Information Mapping - Sitemap](#slajd-24-25-information-mapping---sitemap)
+- [⏰ 11:35–12:00 · Hands-on vježba: Low-Fidelity Wireframe](#-1135-1200-25-min---hands-on-vježba-low-fidelity-wireframe)
+  - [Slajd 26-27: Low-Fidelity Wireframes - Introduction](#slajd-26-27-low-fidelity-wireframes---introduction)
+  - [VJEŽBA: Design CraftEase Homepage (Low-Fi Wireframe)](#vježba-design-craftease-homepage-low-fi-wireframe)
+- [⏰ 12:00–12:15 · Peer Review & Adjustments](#-1200-1215-15-min---peer-review--adjustments)
+  - [Slajd 29: Interactive Feedback - Peer Review](#slajd-29-interactive-feedback---peer-review)
+  - [Slajd 30: A Little Adjustment](#slajd-30-a-little-adjustment)
+- [⏰ 12:15–12:25 · Zaključak & Recap](#-1215-1225-10-min---zaključak--recap)
+  - [Slajd 31: Conclusion](#slajd-31-conclusion)
+- [⏰ 12:25–12:30 · Pitanja i Zaključak](#-1225-1230-5-min---pitanja-i-zaključak)
+  - [Slajd 32: Questions](#slajd-32-questions)
+- [🔄 Backup Aktivnosti](#-backup-aktivnosti)
+- [🌐 Eksterni resursi](#-eksterni-resursi)
+- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+
+---
+
 ## 🎯 **CILJEVI UČENJA:**
 
 Na kraju ovog predavanja, studentice će moći:
@@ -424,6 +473,8 @@ A: Ponudi 3-5 načina filtriranja/klasifikacije. Više od toga postaje overwhelm
 📖 **Linkovi za dublje razumijevanje:**
 - [Dan Brown's 8 Principles - Medium Article](https://medium.com/@izharul/dan-browns-eight-useful-principles-of-information-architecture-b31bd019917d)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: IA Critique - Analiza Postojećeg Website-a](#backup-aktivnost-2-ia-critique---analiza-postojećeg-website-a-15-min) — primijenite naučene IA principe na real-world website odmah nakon 8 principa.
+
 ---
 
 ## ⏰ **9:45-10:00 (15 min) - TEORIJA: HOW TO CREATE IA**
@@ -528,6 +579,8 @@ A: Za veće projekte DA. Za mali 5-page website možeš "preskočiti" formalni p
 **Troubleshooting:**
 - **Problem**: Studentice u koraku 4 (organize content) ne znaju kako grupirati.
   **Rješenje**: Preporuči Post-it metodu (što ćemo raditi danas!) ili online tool kao Miro za card sorting.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: "Find It Fast" Game - IA Scavenger Hunt](#backup-aktivnost-5-find-it-fast-game---ia-scavenger-hunt-15-min) — live testiranje IA principa na realnom website-u, kao energizer pred pauzu.
 
 ---
 
@@ -833,6 +886,8 @@ Ako nešto nije jasno ili je na krivom mjestu → **ajustirajte**!"
 **Cilj vježbe:**
 Ne mora biti "savršeno" - cilj je da studentice razumiju proces grupiranja i kategorizacije. Real-world scenario: radile bi card sorting s pravim korisnicima.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Card Sorting - Alternative CraftEase Taxonomy](#backup-aktivnost-1-card-sorting---alternative-craftease-taxonomy-15-min) — ako je taxonomy vježba završena prerano, probajte alternativni digitalni pristup u Miro ili Optimal Workshop.
+
 ---
 
 ## ⏰ **11:00-11:15 (15 min) - PAUZA ☕**
@@ -888,6 +943,8 @@ A: **Gore, ispod glavnog menua** - to je standard. Korisnici očekuju ga tamo.
 
 📖 **Linkovi za dublje razumijevanje:**
 - [Breadcrumb Navigation Best Practices - Smashing Magazine](https://www.smashingmagazine.com/2022/04/breadcrumbs-ux-design/)
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Navigation Design Variants](#backup-aktivnost-4-navigation-design-variants-10-min) — skicirajte 3 navigation varijante za CraftEase odmah nakon teorije o navigaciji.
 
 ---
 
@@ -952,6 +1009,8 @@ A: Za početni sitemap: stavi main pages. Za detailed sitemap: možeš dodati i 
 📖 **Linkovi za dublje razumijevanje:**
 - [Diagrams.net Tutorial](https://www.diagrams.net/)
 - [Udemy Sekcija 4: Sitemaps](https://uxmentor.me/sitemaps-the-beginners-guide/)
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Sitemap Speed Challenge](#backup-aktivnost-3-sitemap-speed-challenge-10-min) — brza vježba crtanja sitemap-a za pekaru, kao zagrijavanje za IA razmišljanje.
 
 ---
 
@@ -1077,6 +1136,8 @@ Počnite!"
 - **Problem**: Ne zna odakle početi.
   **Rješenje**: "Počni odozgo: Logo i menu na vrh. Onda pitaj se: Što korisnik treba vidjeti prvo? To je tvoja Hero sekcija."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Wireframe Iteration - Mobile Version](#backup-aktivnost-6-wireframe-iteration---mobile-version-15-min) — adaptirajte desktop wireframe za mobile odmah dok je wireframe svjež.
+
 ---
 
 ## ⏰ **12:00-12:15 (15 min) - PEER REVIEW & ADJUSTMENTS**
@@ -1194,6 +1255,8 @@ Nastavit ćete razvijati vaš CraftEase projekt kroz sljedeća predavanja - ovo 
 **Resursi su na slajdu 33** - provjerite linkove za dublje učenje.
 
 Vidimo se sljedeći put! 🎉"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: IA Horror Stories - Discuss Bad Examples](#backup-aktivnost-7-ia-horror-stories---discuss-bad-examples-10-min) — zaključna diskusija o lošim IA primjerima iz prakse.
 
 ---
 

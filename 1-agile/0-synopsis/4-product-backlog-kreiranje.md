@@ -1,5 +1,47 @@
 # 📘 DAN 4 - PRODUCT BACKLOG: KREIRANJE I GRANULARNOST
 
+## 📋 Table of Contents
+
+- [PREDAVANJE: Kako kreirati i organizirati Product Backlog](#predavanje-kako-kreirati-i-organizirati-product-backlog)
+- [📋 Pregled sadržaja](#-pregled-sadr%C5%BEaja)
+- [🎯 Ciljevi učenja](#-ciljevi-u%C4%8Denja)
+- [⏰ Raspored predavanja](#-raspored-predavanja)
+- [Sekcija 3.1 — Kreiranje Product Backloga](#slajd-1-naslovni-slajd-sekcije-31)
+  - [Slajd 1: Naslovni slajd sekcije 3.1](#slajd-1-naslovni-slajd-sekcije-31)
+  - [Slajd 2: What is a backlog?](#slajd-2-what-is-a-backlog)
+  - [Slajd 3: Components of a backlog item](#slajd-3-components-of-a-backlog-item)
+  - [Slajd 4-5: How to create a backlog - Hijerarhija](#slajd-4-5-how-to-create-a-backlog---hijerarhija)
+  - [Slajd 6: How to create a backlog - 6 koraka](#slajd-6-how-to-create-a-backlog---6-koraka)
+  - [Slajd 7: Common mistakes to avoid](#slajd-7-common-mistakes-to-avoid)
+  - [Slajd 8: Grupna vježba - EduTrack scenarij](#slajd-8-grupna-vje%C5%BEba---edutrack-scenarij)
+  - [Slajd 9: Grupna vježba - Upute](#slajd-9-grupna-vje%C5%BEba---upute)
+  - [Slajd 10-11: Savjeti za kreiranje backloga](#slajd-10-11-savjeti-za-kreiranje-backloga)
+- [Sekcija 3.2 — Granularnost Backlog Itema](#slajd-12-naslovni-slajd-sekcije-32)
+  - [Slajd 12: Naslovni slajd sekcije 3.2](#slajd-12-naslovni-slajd-sekcije-32)
+  - [Slajd 13: Different granularities - Dijagram](#slajd-13-different-granularities---dijagram)
+  - [Slajd 14-15: WBS vs RBS](#slajd-14-15-wbs-vs-rbs)
+  - [Slajd 16-17: Feature vs Epic](#slajd-16-17-feature-vs-epic)
+  - [Slajd 18-19: Epic vs User Story](#slajd-18-19-epic-vs-user-story)
+  - [Slajd 20: Task](#slajd-20-task)
+  - [Slajd 21: Relations between different cards](#slajd-21-relations-between-different-cards)
+  - [Slajd 22: Three good reasons to use RBS](#slajd-22-three-good-reasons-to-use-rbs)
+  - [Slajd 23: MoSCoW Method](#slajd-23-moscow-method)
+  - [Slajd 24-25: Tips za kreiranje backloga](#slajd-24-25-tips-za-kreiranje-backloga)
+  - [Slajd 26: Epic Cards by Screenful (opciono)](#slajd-26-epic-cards-by-screenful-opciono)
+- [📝 Recap dana](#-recap-dana-10-min)
+- [❓ Pitanja za provjeru razumijevanja](#-pitanja-za-provjeru-razumijevanja)
+- [🔄 Backup Aktivnosti](#-backup-aktivnosti)
+  - [BA1: User Story Challenge](#backup-aktivnost-1-user-story-challenge-10-min)
+  - [BA2: Backlog Refinement simulacija](#backup-aktivnost-2-backlog-refinement-simulacija-15-min)
+  - [BA3: MoSCoW debate](#backup-aktivnost-3-moscow-debate-10-min)
+  - [BA4: Epic razbijanje](#backup-aktivnost-4-epic-razbijanje-10-min)
+  - [BA5: Acceptance Criteria radionica](#backup-aktivnost-5-acceptance-criteria-radionica-15-min)
+  - [BA6: Backlog Item Card Design](#backup-aktivnost-6-backlog-item-card-design-10-min)
+  - [BA7: Quick Quiz - Kahoot stil](#backup-aktivnost-7-quick-quiz---kahoot-stil-5-min)
+- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+
+---
+
 ## **PREDAVANJE: Kako kreirati i organizirati Product Backlog**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
 **PDF MATERIJAL:** AGILE_3_v2.pdf (Slajdovi 1-26)  
