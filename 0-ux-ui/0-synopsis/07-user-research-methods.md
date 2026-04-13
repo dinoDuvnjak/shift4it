@@ -1,5 +1,60 @@
 # 📘 DAN 7 - USER RESEARCH METHODS
 
+## 📋 **Table of Contents**
+
+- [📘 DAN 7 - USER RESEARCH METHODS](#-dan-7---user-research-methods)
+  - [**PREDAVANJE: Uvod u User Research i metode istraživanja korisnika**](#predavanje-uvod-u-user-research-i-metode-istraživanja-korisnika)
+  - [📊 **ANALIZA SADRŽAJA**](#-analiza-sadržaja)
+  - [🎯 **CILJEVI UČENJA:**](#-ciljevi-učenja)
+  - [⏰ **9:00-10:00 - SEKCIJA 1: UVOD U USER RESEARCH**](#-900-1000---sekcija-1-uvod-u-user-research)
+    - [**Slajd 1: User Research & Testing (naslovnica)**](#slajd-1-user-research--testing-naslovnica)
+    - [**Slajd 2: Introduction**](#slajd-2-introduction)
+    - [**Slajd 3: Summary**](#slajd-3-summary)
+    - [**Slajd 4: Understanding Usability Testing Through Usability of Fruits**](#slajd-4-understanding-usability-testing-through-usability-of-fruits)
+    - [**Slajd 5: Lessons from Usability of Fruits Video**](#slajd-5-lessons-from-usability-of-fruits-video)
+    - [**Slajd 6: Lexicon**](#slajd-6-lexicon)
+    - [**Slajd 7: Before we start**](#slajd-7-before-we-start)
+    - [**Slajd 8: How choosing user feedback method? (prazan matrix)**](#slajd-8-how-choosing-user-feedback-method-prazan-matrix)
+    - [**Slajd 9: How choosing user feedback method? (ispunjen matrix)**](#slajd-9-how-choosing-user-feedback-method-ispunjen-matrix)
+    - [**Slajd 10: 3 types of goals**](#slajd-10-3-types-of-goals)
+    - [**Slajd 11: From opinion to facts**](#slajd-11-from-opinion-to-facts)
+    - [**Slajd 12: UX as a process**](#slajd-12-ux-as-a-process)
+  - [⏰ **10:15-11:00 - SEKCIJA 2: RAZUMIJEVANJE KORISNIKA**](#-1015-1100---sekcija-2-razumijevanje-korisnika)
+    - [**Slajd 13-15: User Voice Techniques, Questionnaires, Card Sorting**](#slajd-13-15-user-voice-techniques-questionnaires-card-sorting)
+    - [**Slajd 16: Understanding your users**](#slajd-16-understanding-your-users)
+    - [**Slajd 17: User Needs Investigation Canvas (UNIC) - objašnjenje**](#slajd-17-user-needs-investigation-canvas-unic---objašnjenje)
+    - [**Slajd 18: UNIC Canvas - primjer (Waze)**](#slajd-18-unic-canvas---primjer-waze)
+    - [**Slajd 19: Exercise - UNIC Canvas**](#slajd-19-exercise---unic-canvas)
+  - [⏰ **11:15-12:10 - SEKCIJA 3: PRIPREMA ZA TESTIRANJE**](#-1115-1210---sekcija-3-priprema-za-testiranje)
+    - [**Slajd 20: Section 1 - Prepare yourself and control your environment**](#slajd-20-section-1---prepare-yourself-and-control-your-environment)
+    - [**Slajd 21: Test plan**](#slajd-21-test-plan)
+    - [**Slajd 22-23: Heuristics - Nielsen's Heuristics**](#slajd-22-23-heuristics---nielsens-heuristics)
+    - [**Slajd 24-25: Exercise - Test plan**](#slajd-24-25-exercise---test-plan)
+    - [**Slajd 26: Classic usability test**](#slajd-26-classic-usability-test)
+    - [**Slajd 27: Recruiting the right users**](#slajd-27-recruiting-the-right-users)
+    - [**Slajd 28: Recording**](#slajd-28-recording)
+    - [**Slajd 29: Tips and tricks**](#slajd-29-tips-and-tricks)
+    - [**Slajd 30: Example - Classic User Tests**](#slajd-30-example---classic-user-tests)
+    - [**Slajd 31: 10 Heuristics for Observing Behavioral Reactions**](#slajd-31-10-heuristics-for-observing-behavioral-reactions)
+    - [**Slajd 32-34: Online test**](#slajd-32-34-online-test)
+    - [**Slajd 35-37: Guerrilla Testing**](#slajd-35-37-guerrilla-testing)
+    - [**Slajd 38-43: Neurosciences (Biometrics, Eye-tracking)**](#slajd-38-43-neurosciences-biometrics-eye-tracking)
+  - [⏰ **12:10-12:30 - SEKCIJA 4: RECAP & PITANJA**](#-1210-1230---sekcija-4-recap--pitanja)
+    - [📝 **RECAP DANA 7**](#-recap-dana-7)
+    - [⏰ **PITANJA ZA PROVJERU RAZUMIJEVANJA**](#-pitanja-za-provjeru-razumijevanja)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: Heuristic Evaluation u praksi (15 min)**](#backup-aktivnost-1-heuristic-evaluation-u-praksi-15-min)
+    - [**BACKUP AKTIVNOST 2: Think Aloud vježba (10 min)**](#backup-aktivnost-2-think-aloud-vježba-10-min)
+    - [**BACKUP AKTIVNOST 3: Persona Speed Dating (15 min)**](#backup-aktivnost-3-persona-speed-dating-15-min)
+    - [**BACKUP AKTIVNOST 4: "Spot the Problem" (10 min)**](#backup-aktivnost-4-spot-the-problem-10-min)
+    - [**BACKUP AKTIVNOST 5: Analiza konkurencije (20 min)**](#backup-aktivnost-5-analiza-konkurencije-20-min)
+    - [**BACKUP AKTIVNOST 6: Pain Point Mapping (15 min)**](#backup-aktivnost-6-pain-point-mapping-15-min)
+    - [**BACKUP AKTIVNOST 7: UX Quiz Kahoot (10 min)**](#backup-aktivnost-7-ux-quiz-kahoot-10-min)
+  - [📚 **DODATNI RESURSI ZA FACILITATORA**](#-dodatni-resursi-za-facilitatora)
+  - [🌐 **EKSTERNI RESURSI**](#-eksterni-resursi)
+
+---
+
 ## **PREDAVANJE: Uvod u User Research i metode istraživanja korisnika**
 **TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
 **PDF MATERIJAL:** 6-user-research-testing.pdf (Slajdovi 1-43)  
@@ -499,6 +554,8 @@ Nacrtaj krug na ploči s fazama. Naglasi da strelice idu u oba smjera - možemo 
 Q: "Što ako nemamo vremena za testiranje?"
 A: Uvijek ima vremena za barem neki oblik testiranja. Čak i 5 minuta testiranja s kolegom je bolje od ničega.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: "Spot the Problem" (10 min)](#backup-aktivnost-4-spot-the-problem-10-min) — brzi energizer na kraju Sekcije 1: studentice gledaju screenshotove aplikacija i traže usability probleme dok su im metode istraživanja svježe.
+
 ---
 
 
@@ -539,6 +596,8 @@ Za detaljnije objašnjenje user research metoda:
 - Udemy tečaj: "Complete Web Designer"
 - Section: User Research Basics
 - Lekcije o interview tehnikama i survey dizajnu
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Persona Speed Dating (15 min)](#backup-aktivnost-3-persona-speed-dating-15-min) — timovi kreiraju mini-persone i "upoznaju" jedni druge u rolama, direktno nakon metoda za razumijevanje korisnika (Slajd 13-15).
 
 ---
 
@@ -687,6 +746,8 @@ Pogledajmo konkretan primjer - **Waze** aplikaciju za navigaciju:
 - Rad u parovima (diskusija, više ideja)
 - Rad u grupama (timski rad, ali može biti kaotično)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Analiza konkurencije (20 min)](#backup-aktivnost-5-analiza-konkurencije-20-min) — odlična nadopuna UNIC Canvas vježbe: studentice analiziraju konkurentske aplikacije istog tipa i traže što je dobro, a što nedostaje.
+
 ---
 
 # ⏰ **11:15-12:10 - SEKCIJA 3: PRIPREMA ZA TESTIRANJE**
@@ -780,6 +841,8 @@ Grupiraj heuristike u kategorije:
 **Česta pitanja:**
 Q: "Trebamo li poznavati sve 10 napamet?"
 A: Ne napamet, ali trebate znati da postoje i kako ih pronaći. Možete imati checklist uz sebe.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Heuristic Evaluation u praksi (15 min)](#backup-aktivnost-1-heuristic-evaluation-u-praksi-15-min) — primijenite svih 10 heuristika na stvarnu web stranicu odmah dok su teorijski svježe, idealno prije Exercise - Test plan.
 
 ---
 
@@ -976,6 +1039,8 @@ Facilitatori PREVIŠE pričaju. Cilj je promatrati korisnika, ne objašnjavati m
 - Ispitivač sjedi sa strane
 - Koristi screen recording software
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Think Aloud vježba (10 min)](#backup-aktivnost-2-think-aloud-vježba-10-min) — u parovima vježbajte think aloud protokol odmah nakon što je klasični usability test objašnjen (Slajd 26-28).
+
 ---
 
 ### **Slajd 31: 10 Heuristics for Observing Behavioral Reactions**
@@ -1077,6 +1142,8 @@ Brzo, jeftino, "na terenu" testiranje.
 **Primjer iz prakse:**
 Na slajdu je primjer guerrilla testa iz Bruxelleskog metroa - testiranje ticket automata sa stvarnim putnicima.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Pain Point Mapping (15 min)](#backup-aktivnost-6-pain-point-mapping-15-min) — osobna iskustva frustrirajućih aplikacija kao most prema guerrilla testiranju: uočavate probleme iz vlastite perspektive korisnika.
+
 ---
 
 ### **Slajd 38-43: Neurosciences (Biometrics, Eye-tracking)**
@@ -1109,6 +1176,8 @@ Ove metode zahtijevaju posebnu opremu i ekspertizu. Za početak, klasični test 
 📚 **FACILITATOR NOTES:**
 
 **Ovo je "nice to have" tema.** Studentice trebaju znati da postoji, ali ne trebaju znati detalje. Možeš dati kao handout za self-study.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: UX Quiz Kahoot (10 min)](#backup-aktivnost-7-ux-quiz-kahoot-10-min) — zabavna provjera znanja cijelog dana kao energizer na početku Sekcije 4, prije finalnog recapa.
 
 ---
 
