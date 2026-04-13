@@ -13,48 +13,6 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-'''
-9:00-10:00   (60 min)  Design Systems Uvod (Slajdovi 1-12)
-10:00-10:15  (15 min)  PAUZA ☕
-10:15-11:00  (45 min)  Conducting DS Project + VJEŽBA 1 (Slajdovi 13-22)
-11:00-11:15  (15 min)  PAUZA ☕
-11:15-12:00  (45 min)  Prototyping Types + VJEŽBA 2 (Slajdovi 48-59)
-12:00-12:30  (30 min)  Resources Overview + Recap + Q&A
-'''
-
-
-**Ukupno:** 3h efektivnog rada (bez pauza)
-
-**Napomena:** Slajdovi 23-47 (File structure details, Tips & Tricks) su **opcioni** - koristiti kao backup materijal ili za self-study.
-
----
-
-## 📚 **MATERIJALI POTREBNI ZA PREDAVANJE:**
-
-**Za facilitatora:**
-- Laptop s Figma pristupom
-- Projektor za live demo
-- Browser tabovi otvoreni:
-  - https://atlassian.design/
-  - https://m3.material.io/
-  - https://polaris.shopify.com/
-  - https://www.zalando.com (za inventory demo)
-- Figma file za vježbe (kreirati prije predavanja)
-
-**Za studentice:**
-- Laptop s Figma pristupom (svaka studentica)
-- Figma account (besplatni)
-- Papir i olovka za sketching
-
-**Handout materijali:**
-- PDF s Resources (slajdovi 60-66)
-- Link na Figma practice file
-- Lista design systema za istraživanje
-
----
-
 ## 📖 **STRUKTURA PDF-a:**
 
 **PDF sadrži 66 slajdova organiziranih u sekcije:**
@@ -86,13 +44,6 @@ Na kraju ovog predavanja, studentice će moći:
 ---
 
 ### **Slajd 1: Naslovna stranica - Design System & Prototyping**
-
-**Notes iz PDF-a:**
-_"Design System & Prototyping - Summary, Introduction to Design System, Conducting a Design System Project, Tips and Tricks, Different types of UI, Resources, Additional Reading"_
-
-**Što reći studentima (2 min):**
-
-"Dobro jutro! Danas imamo vrlo uzbudljiv dan - učimo o Design Systemima i Prototypingu.
 
 Design system je kao **'LEGO kutija'** za dizajnere i developere - skup komponenti koje možete ponovno koristiti da izgradite konzistentne proizvode brže i efikasnije.
 
@@ -203,7 +154,7 @@ A: Ne! Kao UX/UI dizajner, tvoj fokus je na dizajnu komponenti i dokumentaciji. 
 
 ---
 
-### **Slajd 3: Introduction to Design System**
+### **Slajd 4: Introduction to Design System**
 
 **Notes iz PDF-a:**
 _"Objective: Introduction to Design Systems and Prototyping in UX/UI. Key Takeaways: A design system is a structured set of guidelines, best practices, and reusable UI components. It ensures consistency, reduces redundancy, and creates a shared language for design and development teams. A well-implemented design system improves collaboration and efficiency."_
@@ -300,18 +251,7 @@ A: Core team (obično UX/UI dizajneri, frontend developeri, product owner). Odlu
 
 ---
 
-### **Slajd 4-5: The benefits of the design system**
-
-**Notes iz PDF-a (Slajd 4):**
-_"Objective: Define what a design system is and its core components. Key Takeaways: A design system is a toolbox for product teams, providing: Standardized components (buttons, inputs, typography). Guidelines for branding, UX, accessibility, and development. Patterns for consistent user experiences. It facilitates cross-team collaboration and scales design efficiently. Examples: Polaris (Shopify), Material Design (Google)"_
-
-**Dodatni notes iz PDF-a:**
-_"Benefits: Consistency of the user experience, A reinforced identity on all media and platforms, Save time and money, Centralized maintenance, Simplified communication within the team, Encourages co-creation, A system validated by the various experts (UX / UI / PO / Tech / Accessibility), It's a gain in terms of Consistency, Time and Money"_
-
-**Notes iz PDF-a (Slajd 5):**
-_"Objective: Highlight the advantages of using a design system. Key Benefits: ✅ Consistency across products and platforms. ✅ Time and cost savings (reducing redundant work). ✅ Faster development cycles with reusable components. ✅ Centralized maintenance, making updates easier. ✅ Improved communication between designers, developers, and stakeholders. Additional Reading: Design System ROI Calculator https://www.designsystems.com/"_
-
-**Što reći studentima (10 min):**
+### **Slajd 5-6: The benefits of the design system**
 
 "Hajmo detaljnije pogledati benefite design systema. Zašto kompanije ulažu vrijeme i resurse u njihovu izgradnju?
 
@@ -393,7 +333,7 @@ _"Objective: Highlight the advantages of using a design system. Key Benefits: �
 
 **Alat za izračun ROI:**
 
-Postoji Design System ROI Calculator na https://www.designsystems.com/ gdje možete unijeti:
+Postoji Design System ROI Calculator na [https://www.designsystems.com/](https://www.knapsack.cloud/calculator) gdje možete unijeti:
 - Broj dizajnera u timu
 - Broj developera
 - Broj projekata godišnje
@@ -478,18 +418,7 @@ A: Znakovi da ti treba:
 
 ---
 
-### **Slajd 6-9: Examples - Atlassian, Carbon, Polaris**
-
-**Notes iz PDF-a (Slajd 6-7 - Atlassian):**
-_"Examples - Atlassian: https://atlassian.design/ - Rules of use, design, code, editorial - Components - Patterns - Brand - Foundations. Objective: Showcase real-world design systems. Key Takeaways: Large companies maintain public design systems for scalability and efficiency. Example systems: Atlassian – Focuses on foundations, components, design tokens. IBM Carbon – Emphasizes accessibility, development, and data visualization. Shopify Polaris – Built for e-commerce experiences. Design tokens are scalable variables for colors, typography, and spacing."_
-
-**Notes iz PDF-a (Slajd 8 - Carbon):**
-_"Examples - Carbon: Rules of use, design, code, accessibility - Designing - Developing - Contributing - Migrating - Guidelines - Components - Patterns - Community assets - Data visualization"_
-
-**Notes iz PDF-a (Slajd 9 - Polaris):**
-_"Examples - Polaris (Shopify): https://polaris.shopify.com/"_
-
-**Što reći studentima (15 min):**
+### **Slajd 7-10: Examples - Atlassian, Carbon, Polaris**
 
 "Hajmo pogledati konkretne primjere design systema iz realnog svijeta. Pokazat ću vam tri različita pristupa.
 
@@ -691,11 +620,6 @@ A: Ovisi o tvom projektu:
 
 ### **Slajd 10: Some principles of a design system**
 
-**Notes iz PDF-a:**
-_"Some principles of a design system: The design system is never finished, it is built and evolves with the product. To be successful, you have to start small. The design system is not just about designers, it is a full-fledged product that needs a team, referents, a vision and rules. Everyone's collaboration is the key point that defines a good design system. Objective: Explain the core principles behind a design system. Key Takeaways: A design system is never truly finished; it evolves with the product. It requires dedicated ownership, including UX, UI, developers, and product managers. Collaboration and governance are essential for long-term adoption and consistency. Recommended Reading: Atomic Design by Brad Frost https://bradfrost.com/blog/post/atomic-web-design/"_
-
-**Što reći studentima (10 min):**
-
 "Sada kada smo vidjeli primjere, hajmo razgovarati o **principima** design systema. Ovo su ključne stvari koje morate razumjeti:
 
 **PRINCIP 1: Design system nikada nije gotov**
@@ -886,15 +810,7 @@ A: Možete:
 
 ---
 
-### **Slajd 11-12: Roles & Responsibilities + Core Team**
-
-**Notes iz PDF-a (Slajd 11):**
-_"Roles & Responsibilities: Core team - It sets up the system and its vision. It validates what enters and leaves the system. She actively involves others. Product team (UX, UI and Dev) - They are the first users of the system. They centralize daily, with the help of the core team, their knowledge, common assets and tools. If they are also contributors, they must be aware of the priorities of each team and have a good overview. They all share a common philosophy, viewpoints and principles related to the system. Stakeholders - They monitor and educate everyone on the objectives and progress related to the design system. They bring new perspectives and different points of view. They support various ideas and initiatives. Customers and end users - They monitor and educate everyone on the objectives and progress related to the design system. They bring new perspectives and different points of view. They support various ideas and initiatives. Objective: Identify key stakeholders in a design system. Key Roles: Core Team: Defines the system, validates new components, maintains consistency. Product Team: First adopters of the system, contribute to improvements. Developers & Designers: Implement, iterate, and refine components. Stakeholders (PMs, Accessibility Experts): Ensure system adoption across teams. Why is this important? Having clear ownership and processes ensures scalability and consistency."_
-
-**Notes iz PDF-a (Slajd 12):**
-_"Who should be part of your core team? Roles: Product Owner (Keeping a product vision), Developers (Validate technical feasibility), UX Researcher (Maintain consistency with the results of user studies), UX Designer (Producing what works through multiple feedbacks), Accessibility expert (Ensuring compliance with accessibility criteria), Communication Team (Guarantor of the corporate branding)"_
-
-**Što reći studentima (8 min):**
+### **Slajd 12-13: Roles & Responsibilities + Core Team**
 
 "Hajmo razgovarati o ulogama i odgovornostima u design system projektu. Tko radi što?
 
@@ -1094,11 +1010,6 @@ Junior dizajneri mogu biti contributors i učiti od core tima.
 
 ### **Slajd 13: Conducting a Design System project**
 
-**Notes iz PDF-a:**
-_"Conducting a Design System project. Objective: Outline the process of creating a design system. Step-by-Step Approach: 1⃣ Inventory of existing components & branding assets 2⃣ Definition of experience principles & alignment across teams 3⃣ Prioritization of components based on value & impact 4⃣ Implementation & documentation 5⃣ Measuring success with KPIs. Helpful Resources: Interface Inventory Guide by Brad Frost https://bradfrost.com/blog/post/interface-inventory/"_
-
-**Što reći studentima (5 min):**
-
 "Sada kada razumijete što je design system i tko radi na njemu, hajmo vidjeti **kako se zapravo kreira design system**. Ovo je step-by-step proces.
 
 **PROCES KREIRANJA DESIGN SYSTEMA:**
@@ -1253,12 +1164,7 @@ A: To je normalno! Većina kompanija ima inconsistencies. To je razlog zašto ra
 
 ---
 
-### **Slajd 14-18: Alignment (Inventory, Experience Principles, Roles, Prioritization, Success Metrics)**
-
-**Notes iz PDF-a (Slajd 14-18):**
-_"1. Alignment - Inventory: To have an overview of the patterns (components, recurring functionalities in your system) based on existing product and chosen baseline framework. To collect all branding assets (recurring branding elements, icons, colors...) most used in the world of products and then prioritize them. Needed to organize workshops with the different teams. Experience principles: [same text]. Roles & process: Identify and understand each person's roles precisely and their associated tasks. When we talk about design systems, we often distinguish between 4 types of roles: 'sponsors', 'guarantors', 'contributors' and 'consumers'. The roles will be distributed following the chosen implementation process. Result: we know how you want to work & manage you design system. Prioritization of components: Prioritize components by value (most frequent and easy to develop) in order to get the product backlog and a prioritization of the elements to be documented in the design system. We will either re-use & transform some existing components or build new ones essential to compose your design system MVP (Minimum Viable Product). How do you measure your success? Define the main objectives of the design system, whether internal or external, and then associate them with precise measurement indicators. Define the key success factors of your design system is paramount. It is thanks to this that you will then be able to measure the value and success of the system with the right indicators."_
-
-**Što reći studentima (8 min):**
+### **Slajd 15-19: Alignment (Inventory, Experience Principles, Roles, Prioritization, Success Metrics)**
 
 "Hajmo detaljnije pogledati **Alignment fazu** - ovo je priprema prije nego počnete graditi design system.
 
@@ -1444,13 +1350,9 @@ A: Dobri KPIs su:
 
 ---
 
-### **Slajd 19-21: Inventory and file structure + Breaking down interfaces**
+### **Slajd 20-22: Inventory and file structure + Breaking down interfaces**
 
 **Notes iz PDF-a (Slajd 19-21):**
-_"2. Inventory and file structure - Inventory: Make an exhaustive list of interface elements. Deconstruct current/future interfaces into smaller pieces. Check the consistency of interface elements / styles. Prepare a blank file (in any tool to paste screenshots into). By screen/feature, take screenshots of interface elements. Categorize screenshots (eg: buttons, form elements, headers, ...). Breaking down interfaces [Atomic Design diagram]"_
-
-**Što reći studentima (5 min):**
-
 "Sada ćemo vidjeti **kako konkretno napraviti inventory**. Ovo je praktičan proces koji možete primijeniti odmah.
 
 **INVENTORY PROCES - 3 KORAKA:**
@@ -1633,11 +1535,6 @@ A: Da! Postoje tools kao što su:
 
 ### **Slajd 22: EXERCISE - Make the inventory of a website homepage**
 
-**Notes iz PDF-a:**
-_"EXERCISE: Make the inventory of a website homepage. Students are free to choose a homepage."_
-
-**Što reći studentima (2 min):**
-
 "Sada ćemo primijeniti što smo naučili u **praktičnoj vježbi**!
 
 **VJEŽBA 1: INTERFACE INVENTORY**
@@ -1804,12 +1701,7 @@ Rješenje: "Odlično! Sada:
 
 ---
 
-### **Slajdovi 23-31: File structure details (OPCIONO - brzi overview ako ima vremena)**
-
-**Notes iz PDF-a:**
-_"Example: zalando - Organizations, Modules/Features, Ions, Design tokens, Atoms, Components, Molecules, Patterns. Hierarchy. File structure of your DS: Styles (texts, colors, effects), Ions, Components, Atoms/molecules, Complex components/modules, Organizations. Light Styles, Dark Styles, Swap bookstores. 1 file only vs 1 style file + 1 component file vs 1 style file + 1 file per component."_
-
-**Što reći studentima (5 min - SAMO AKO IMA VREMENA):**
+### **Slajdovi 28-32: File structure details (OPCIONO - brzi overview ako ima vremena)**
 
 "Brzo ćemo pogledati kako organizirati design system u Figmi.
 
@@ -1870,12 +1762,7 @@ Pripremi PDF s slajdovima 23-31 i daj studentima za self-study.
 
 ---
 
-### **Slajd 48: Different types of UI**
-
-**Notes iz PDF-a:**
-_"Different types of UI. Objective: Explain different types of prototyping in UX/UI. Types of Prototypes: 1⃣ Low-fidelity wireframes – Quick sketches for early concept validation. 2⃣ High-fidelity wireframes – More detailed, focusing on layout and structure. 3⃣ Interactive prototypes – Simulated user interactions and flows. Why is this important? Helps validate ideas before development, reducing costly rework. More on Prototyping: Figma Prototyping Guide"_
-
-**Što reći studentima (5 min):**
+### **Slajd 49: Different types of UI**
 
 "Sada prelazimo na drugi dio dana - **Prototyping**!
 
@@ -2003,11 +1890,6 @@ A:
 
 ### **Slajd 49: DISCUSSION - What types of UI formats do you know?**
 
-**Notes iz PDF-a:**
-_"DISCUSSION: What types of UI formats do you know? Which ones to use in which circumstances?"_
-
-**Što reći studentima (5 min):**
-
 "Prije nego detaljno prođemo kroz svaki tip, hajmo napraviti brzu diskusiju.
 
 **PITANJE 1: Koje tipove UI formata znate?**
@@ -2066,11 +1948,6 @@ Ne reci "Krivo!". Umjesto toga:
 ---
 
 ### **Slajd 50-58: Zoning, Low-fi wireframe, High-fi wireframe, Interactive prototyping**
-
-**Notes iz PDF-a (Slajd 50-58):**
-_"Zoning: Spatial schematization of the interface. Focus: order of elements, occupation of format, structure. Reco. tools: paper, board, post-it. Interaction: static. Benefits: Economical ++, Fast ++, Designer more inclined to change ++, Character in progress acquired for stakeholders, Ideal for co-design. Disadvantages: Not sufficient in itself, Discussions still rely heavily on imagination, Feedback not always integrable/realistic, Be comfortable with a pencil. Low-fi wireframe: Black & white model taking into account the functional scope. Focus: role of zones, proportions, hierarchy visual, quantity of content, completeness. Reco. tools: paper, wireframing software. Interaction: static or sequential. Benefits: Economical +, Fast +, Less pressure on testers, Designer more inclined to change +. Disadvantages: Feedback not always integrable/realistic, Stakeholders may think this is a final deliverable, Important Testing Presentation ++. High-fi wireframe: Detailed model very close to the rendering final visual. Focus: understanding of the content, brand fit, hierarchy visual. Reco. tools: wireframing software. Interaction: static or sequential or animated. Benefits: Reliable results +, Flow Integration +, More realistic tester behavior, Refining phase: no worries about the realization for the designer. Disadvantages: Designer not inclined to modification, Preparation of testing material +, Approximate simulation of interactions, Important Testing Presentation +. Interactive prototyping: Model more or less close to the rendering final visual and functional. Focus: understanding flow, interactions, affordance, validation of scenarios. Reco. tools: prototyping software, HTML. Interaction: sequential and/or animated. Benefits: Reliable results +, Light testing contextualization (if High-Fidelity) +, Refining phase: no worries about the realization for the designer. Disadvantages: Designer not inclined to modification, Need resources (Dev) to simulate interactions if we want to go further, Risk of bug, Presentation/validation of important testing +. What? When? Take into account: The subject to be tested, The work context, His personal skills, His personal preferences. Lo-Fidelity Interactive: Crucial and inexpensive step. Interactive High-Fidelity: Essential on large-scale projects before any development. Note: It is not mandatory to combine all types of prototypes on the same project."_
-
-**Što reći studentima (15 min):**
 
 "Hajmo detaljno proći kroz svaki tip UI deliverable-a. Za svaki ću vam reći: što je, prednosti, mane, i kada ga koristiti.
 
@@ -2324,11 +2201,6 @@ A: Da! Figma podržava:
 ---
 
 ### **Slajd 59: Practice - Figma Prototyping**
-
-**Notes iz PDF-a:**
-_"Practice: Go to figma file and practice in Figma. pages Figma, base, option, type of interactions => demonstration of the basics in Figma then page Exercise 1: Tell us a story using shapes only (please) => manipulation of basic shapes in Figma to create a story to present pages overlays => demonstration then page Exercise 2: create something (a screen) with overlays pages interactive components, variables => demonstration then page Exercise 3: we just ask you to create links for a prototype"_
-
-**Što reći studentima (2 min):**
 
 "Sada ćemo primijeniti što smo naučili u **Figma prototyping vježbi**!
 
@@ -3155,18 +3027,3 @@ Brzo kreirati interaktivni prototype u Figmi.
 - [ ] Kreiraj Figma template za vježbe unaprijed
 - [ ] Pripremi backup screenshots ako internet ne radi
 - [ ] Razmisli o dodatnim hands-on vježbama
-
-**Feedback studentica:**
-
-_(Bilježi feedback nakon predavanja)_
-
----
-
-**VERZIJA:** 1.0  
-**DATUM KREIRANJA:** 2025-02-08  
-**ZADNJE AŽURIRANO:** 2025-02-08  
-**STATUS:** Ready for use
-
----
-
-**🎯 KRAJ SINOPSISA - DAN 6**
