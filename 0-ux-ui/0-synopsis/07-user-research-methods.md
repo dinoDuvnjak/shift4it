@@ -51,42 +51,11 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   (60 min)  SEKCIJA 1: Uvod u User Research
-                       - Što je usability testing
-                       - Metode prikupljanja feedbacka
-                       - Tipovi ciljeva istraživanja
-
-10:00-10:15  (15 min)  PAUZA ☕
-
-10:15-11:00  (45 min)  SEKCIJA 2: Razumijevanje korisnika
-                       - UNIC Canvas objašnjenje
-                       - VJEŽBA: Popunjavanje UNIC Canvas
-
-11:00-11:15  (15 min)  PAUZA ☕
-
-11:15-12:10  (55 min)  SEKCIJA 3: Priprema za testiranje
-                       - Test plan
-                       - Nielsen-ove heuristike
-                       - Tipovi testiranja (classic, online, guerrilla)
-
-12:10-12:30  (20 min)  SEKCIJA 4: Recap & Pitanja
-```
-
----
-
 # ⏰ **9:00-10:00 - SEKCIJA 1: UVOD U USER RESEARCH**
 
 ---
 
 ### **Slajd 1: User Research & Testing (naslovnica)**
-
-**Notes iz PDF-a:**
-_"[Naslovni slajd - nema dodatnih notesa]"_
-
-**Što reći studentima (2 min):**
 
 Dobrodošle na sedmi dan našeg UX/UI modula! Danas ulazimo u jednu od najvažnijih tema u dizajnu - **User Research & Testing**.
 
@@ -113,11 +82,6 @@ User research je sistematičan proces prikupljanja informacija o korisnicima - t
 
 ### **Slajd 2: Introduction**
 
-**Notes iz PDF-a:**
-_"Pristupačnost nije samo o inkluziji, već je i prava poslovna prilika. Može pomoći u dosezanju više korisnika, poboljšanju SEO-a i smanjenju troškova razvoja na duge staze."_
-
-**Što reći studentima (3 min):**
-
 Prije nego krenemo s metodama istraživanja, važno je razumjeti zašto uopće radimo user research:
 
 1. **Pristupačnost = Više korisnika**
@@ -143,11 +107,6 @@ A: Zato što ljudi često ne znaju što žele dok ne vide rješenje. Henry Ford 
 
 ### **Slajd 3: Summary**
 
-**Notes iz PDF-a:**
-_"[Pregled sadržaja: 0. Introduction, 1. Prepare yourself and control your environment, 2. Create your test protocol and follow it, 3. Analyze, 4. Make a report]"_
-
-**Što reći studentima (2 min):**
-
 Evo pregleda što ćemo proći kroz sljedeća dva dana:
 
 **DANAS (Dan 7):**
@@ -167,11 +126,6 @@ Na kraju ova dva dana, imat ćete sve alate potrebne za provođenje user testira
 ---
 
 ### **Slajd 4: Understanding Usability Testing Through Usability of Fruits**
-
-**Notes iz PDF-a:**
-_"Ovdje predstavljamo koncept user testiranja. Za uvođenje ovog koncepta, oslanjamo se na video koji prikazuje testiranje korisnika korištenjem voća."_
-
-**Što reći studentima (8 min):**
 
 Sada ćemo pogledati jedan zabavan video koji objašnjava usability testing na vrlo kreativan način - kroz **testiranje voća**!
 
@@ -212,11 +166,6 @@ Video "Usability of Fruit" je klasik u UX zajednici. Prikazuje ljude kako pokuš
 ---
 
 ### **Slajd 5: Lessons from Usability of Fruits Video**
-
-**Notes iz PDF-a:**
-_"Ovdje debriefiramo video o testiranju korisnika s voćem."_
-
-**Što reći studentima (8 min):**
 
 **Što smo naučili iz videa?**
 
@@ -264,11 +213,6 @@ Pitaj studentice: "Možete li se sjetiti aplikacije koja ima dobru affordance? A
 
 ### **Slajd 6: Lexicon**
 
-**Notes iz PDF-a:**
-_"Svrha ovog slajda je objasniti glavne principe vezane uz user feedback. Raspravljat ćemo o tome što su persone i što podrazumijeva povratna informacija korisnika."_
-
-**Što reći studentima (7 min):**
-
 Prije nego nastavimo, definirajmo dva ključna pojma:
 
 **📌 PERSONA**
@@ -309,11 +253,6 @@ A: Obično 3-5 za jedan proizvod. Previše persona znači da ne možete zadovolj
 ---
 
 ### **Slajd 7: Before we start**
-
-**Notes iz PDF-a:**
-_"Polaznice se moli da podijele metode prikupljanja povratnih informacija korisnika koje poznaju. U modu smo brainstorminga."_
-
-**Što reći studentima (8 min):**
 
 **🧠 BRAINSTORMING AKTIVNOST**
 
@@ -356,11 +295,6 @@ Grupirajte post-ite po sličnosti i kratko komentirajte svaku grupu.
 
 ### **Slajd 8: How choosing user feedback method? (prazan matrix)**
 
-**Notes iz PDF-a:**
-_"Ovaj slajd koristi flipped classroom pristup. Zamolite sudionike da brainstormaju i pokušaju ispuniti prazan matrix na temelju onoga što znaju ili zamišljaju."_
-
-**Što reći studentima (5 min):**
-
 Sada ćemo napraviti vježbu koja će vam pomoći razumjeti **kada koristiti koju metodu**.
 
 **PRIKAZ MATRICE:**
@@ -384,11 +318,6 @@ I dva aspekta:
 ---
 
 ### **Slajd 9: How choosing user feedback method? (ispunjen matrix)**
-
-**Notes iz PDF-a:**
-_"Ovdje je ispunjeni matrix. Usporedite ga s onim što su sudionici predložili. Odvojite vrijeme za objašnjenje svake metode i kada je najrelevantnija."_
-
-**Što reći studentima (12 min):**
 
 Evo ispunjenog matrixa! Pogledajmo kako se vaši odgovori slažu.
 
@@ -438,11 +367,6 @@ A: Nema jedne najbolje. Ovisi o tome što istražuješ i koje resurse imaš.
 ---
 
 ### **Slajd 10: 3 types of goals**
-
-**Notes iz PDF-a:**
-_"Ovdje objašnjavamo tri tipa povratnih informacija korisnika. Generativne povratne informacije nam omogućuju brainstormanje rješenja na temelju potreba korisnika. Zatim, evaluativne povratne informacije prikupljaju mišljenja korisnika o rješenju. Konačno, hibridni način je mješavina oba."_
-
-**Što reći studentima (8 min):**
 
 Postoje **tri tipa ciljeva** kada radimo user research:
 
@@ -507,11 +431,6 @@ A: Prioritiziraj evaluativno ako već imaš proizvod, generativno ako tek počin
 
 ### **Slajd 11: From opinion to facts**
 
-**Notes iz PDF-a:**
-_"U digitalnom projektu, važno je oslanjati se na povratne informacije korisnika umjesto na mišljenja projektnog tima."_
-
-**Što reći studentima (5 min):**
-
 > "Najbolji dizajneri koriste činjenice kao vodilju. Teže je osporiti čvrste činjenice." - Sarah Doddy
 
 Ovo je jedna od **najvažnijih lekcija** u UX dizajnu:
@@ -546,11 +465,6 @@ U praksi, dizajneri često moraju "birati bitke". User research daje argumente z
 ---
 
 ### **Slajd 12: UX as a process**
-
-**Notes iz PDF-a:**
-_"Testiranje je prirodno faza dizajna i prije razvoja. Integrirano je u iterativnu petlju: napravi i nauči."_
-
-**Što reći studentima (5 min):**
 
 Pogledajmo gdje se testiranje uklapa u UX proces:
 
@@ -587,25 +501,12 @@ A: Uvijek ima vremena za barem neki oblik testiranja. Čak i 5 minuta testiranja
 
 ---
 
-## ☕ **10:00-10:15 - PAUZA**
-
-**Napomena za facilitatora:**
-- Podsjeti studentice da se vrate u 10:15
-- Iskoristi pauzu za pripremu materijala za UNIC Canvas vježbu
-- Provjeri da sve studentice imaju pristup Figmi ili papir za vježbu
-
----
 
 # ⏰ **10:15-11:00 - SEKCIJA 2: RAZUMIJEVANJE KORISNIKA**
 
 ---
 
 ### **Slajd 13-15: User Voice Techniques, Questionnaires, Card Sorting**
-
-**Notes iz PDF-a:**
-_"Ovdje govorimo o drugim metodama prikupljanja povratnih informacija korisnika, kao što su polu-strukturirani intervjui, standardizirani upitnici i card sorting."_
-
-**Što reći studentima (8 min):**
 
 Prođimo brzo kroz nekoliko dodatnih tehnika:
 
@@ -642,11 +543,6 @@ Za detaljnije objašnjenje user research metoda:
 ---
 
 ### **Slajd 16: Understanding your users**
-
-**Notes iz PDF-a:**
-_"Ovdje se objašnjava da, bez obzira na metodu koju koristimo, uvijek počinjemo opisujući tko su korisnici."_
-
-**Što reći studentima (5 min):**
 
 > "Bez obzira odakle kreneš, uvijek počni promatranjem i opisivanjem onoga što znaš o svojim korisnicima."
 
@@ -685,11 +581,6 @@ Koristite VIŠE izvora. Svaki izvor ima svoje prednosti i ograničenja. Kombinac
 
 ### **Slajd 17: User Needs Investigation Canvas (UNIC) - objašnjenje**
 
-**Notes iz PDF-a:**
-_"Canvas nam omogućuje da opišemo tko su korisnici. Radit ćemo vježbe temeljene na ovim canvasima."_
-
-**Što reći studentima (10 min):**
-
 Sada ćemo naučiti koristiti **UNIC Canvas** - alat za sistematično istraživanje potreba korisnika.
 
 **STRUKTURA UNIC CANVASA:**
@@ -721,11 +612,6 @@ Idealno bi bilo imati isprintan prazan UNIC Canvas za svaku studenticu ili pokaz
 
 ### **Slajd 18: UNIC Canvas - primjer (Waze)**
 
-**Notes iz PDF-a:**
-_"Ovaj canvas je primjer temeljen na Waze-u, mobilnoj navigacijskoj aplikaciji baziranoj na zajednici. Istraživanje se fokusira na specifične potrebe korisnika, pain points, motivacije i prepreke vezane uz navigaciju u stvarnom vremenu, posebno tijekom prazničnih putovanja ili na nepoznatim mjestima."_
-
-**Što reći studentima (7 min):**
-
 Pogledajmo konkretan primjer - **Waze** aplikaciju za navigaciju:
 
 **ISPUNJEN UNIC CANVAS ZA WAZE:**
@@ -755,11 +641,6 @@ Pogledajmo konkretan primjer - **Waze** aplikaciju za navigaciju:
 ---
 
 ### **Slajd 19: Exercise - UNIC Canvas**
-
-**Notes iz PDF-a:**
-_"U ovoj vježbi, sudionici će primijeniti UNIC Canvas na specifičan kontekst: Do It Yourself (DIY). Trebali bi zamisliti ili odabrati Personu koja se bavi DIY projektom i razmišljati o njihovom iskustvu."_
-
-✏️ **ZADATAK: UNIC Canvas - DIY kontekst**
 
 **Trajanje:** 15 minuta
 
@@ -808,24 +689,11 @@ _"U ovoj vježbi, sudionici će primijeniti UNIC Canvas na specifičan kontekst:
 
 ---
 
-## ☕ **11:00-11:15 - PAUZA**
-
-**Napomena za facilitatora:**
-- Pripremi materijale za sljedeću sekciju
-- Napiši Nielsen-ovih 10 heuristika na ploču (ako imaš vremena)
-
----
-
 # ⏰ **11:15-12:10 - SEKCIJA 3: PRIPREMA ZA TESTIRANJE**
 
 ---
 
 ### **Slajd 20: Section 1 - Prepare yourself and control your environment**
-
-**Notes iz PDF-a:**
-_"Pristupačnost nije samo o inkluziji, već je i prava poslovna prilika."_
-
-**Što reći studentima (2 min):**
 
 Sada ulazimo u praktični dio - **kako se pripremiti za usability testiranje**.
 
@@ -839,11 +707,6 @@ Proći ćemo kroz:
 ---
 
 ### **Slajd 21: Test plan**
-
-**Notes iz PDF-a:**
-_"Ova vježba ima za cilj pomoći sudionicima da strukturiraju usability test ispunjavanjem svake sekcije canvasa."_
-
-**Što reći studentima (8 min):**
 
 **TEST PLAN CANVAS** je alat za planiranje usability testa.
 
@@ -875,11 +738,6 @@ _"Ova vježba ima za cilj pomoći sudionicima da strukturiraju usability test is
 ---
 
 ### **Slajd 22-23: Heuristics - Nielsen's Heuristics**
-
-**Notes iz PDF-a:**
-_"Ovdje se objašnjava da prije provođenja user testova, prvo će se provesti faza audita jer je jeftinija i omogućuje rješavanje osnovnih problema koji bi ometali user testove."_
-
-**Što reći studentima (10 min):**
 
 Prije skupih user testova, možemo napraviti **heurističku evaluaciju** - brzu provjeru sučelja prema poznatim principima.
 
@@ -927,11 +785,6 @@ A: Ne napamet, ali trebate znati da postoje i kako ih pronaći. Možete imati ch
 
 ### **Slajd 24-25: Exercise - Test plan**
 
-**Notes iz PDF-a:**
-_"Kao vježbu, polaznice se traži da ispune prve dvije kutije s lijeve strane canvasa. Nastavak slajda 18 (DIY kontekst)."_
-
-✏️ **ZADATAK: Test plan - početak**
-
 **Trajanje:** 10 minuta
 
 **Upute:**
@@ -959,11 +812,6 @@ Povezati UNIC Canvas s test planom. Studentice vide kako jedno vodi u drugo.
 
 ### **Slajd 26: Classic usability test**
 
-**Notes iz PDF-a:**
-_"[Naslovni slajd za sekciju o klasičnom usability testiranju]"_
-
-**Što reći studentima (2 min):**
-
 Sada ćemo proći kroz **klasični usability test** - najčešći tip testiranja.
 
 Ovo je "zlatni standard" usability testiranja gdje:
@@ -974,11 +822,6 @@ Ovo je "zlatni standard" usability testiranja gdje:
 ---
 
 ### **Slajd 27: Recruiting the right users**
-
-**Notes iz PDF-a:**
-_"Prije pokretanja user testova, naravno trebamo regrutirati korisnike. Oslanjamo se na Persone, zato smo ranije ispunili UNIC Canvas."_
-
-**Što reći studentima (7 min):**
 
 **Regrutiranje pravih korisnika** je ključno za uspješan test.
 
@@ -1022,11 +865,6 @@ A: Testirajte s bilo kim tko nije radio na projektu. Čak i "krivi" korisnici ot
 
 ### **Slajd 28: Recording**
 
-**Notes iz PDF-a:**
-_"Snimanje je važan element za pregledavanje i dublju analizu testa. Naravno, ovo snimanje mora biti odobreno od korisnika."_
-
-**Što reći studentima (5 min):**
-
 **Snimanje testa** omogućuje dublju analizu i dijeljenje s timom.
 
 **⚠️ GDPR - OBVEZNO:**
@@ -1064,11 +902,6 @@ Za početak, dovoljan je Zoom/Google Meet s uključenim screen sharingom i snima
 ---
 
 ### **Slajd 29: Tips and tricks**
-
-**Notes iz PDF-a:**
-_"Što raditi tijekom user testa? Mjeriti što više, dati korisniku vremena, pitati da razmišljaju naglas, slušati, biti specifičan u zadacima, smiriti korisnika, dati kontekst."_
-
-**Što reći studentima (8 min):**
 
 **SAVJETI ZA PROVOĐENJE TESTA:**
 
@@ -1119,11 +952,6 @@ Facilitatori PREVIŠE pričaju. Cilj je promatrati korisnika, ne objašnjavati m
 
 ### **Slajd 30: Example - Classic User Tests**
 
-**Notes iz PDF-a:**
-_"Ovdje prikazujemo setup za klasične testove. Vidite laptop u sredini koji će koristiti sudionik. S desne strane je laptop za ispitivača zajedno s dodatnim monitorom."_
-
-**Što reći studentima (3 min):**
-
 **TIPIČAN SETUP ZA KLASIČNI TEST:**
 
 ```
@@ -1151,11 +979,6 @@ _"Ovdje prikazujemo setup za klasične testove. Vidite laptop u sredini koji će
 ---
 
 ### **Slajd 31: 10 Heuristics for Observing Behavioral Reactions**
-
-**Notes iz PDF-a:**
-_"Prikazana je tablica za promatranje izraza lica. Najvažniji je mrštenje jer ili označava da osoba ne razumije ili da je vrlo zainteresirana."_
-
-**Što reći studentima (5 min):**
 
 Osim riječi, promatrajte **neverbalne znakove**:
 
@@ -1185,11 +1008,6 @@ Ne tumači prejako! Pitaj korisnika: "Primijetila sam da ste se malo zamislili. 
 ---
 
 ### **Slajd 32-34: Online test**
-
-**Notes iz PDF-a:**
-_"Ovaj slajd ilustrira primjer udaljenog usability testa provedenog putem web meeting alata (Teams, Zoom, Google Meet, itd.) sa screen sharingom i web kamerom."_
-
-**Što reći studentima (5 min):**
 
 **ONLINE TESTIRANJE:**
 
@@ -1222,11 +1040,6 @@ Isto kao klasično, samo preko video poziva.
 ---
 
 ### **Slajd 35-37: Guerrilla Testing**
-
-**Notes iz PDF-a:**
-_"Guerrilla testiranje uključuje kreiranje kratkog test protokola i odlazak direktno na regrutiranje korisnika na terenu. Glavne prednosti su brzina i niski troškovi, ali nedostatak je smanjena preciznost."_
-
-**Što reći studentima (5 min):**
 
 **GUERRILLA TESTIRANJE:**
 
@@ -1267,11 +1080,6 @@ Na slajdu je primjer guerrilla testa iz Bruxelleskog metroa - testiranje ticket 
 ---
 
 ### **Slajd 38-43: Neurosciences (Biometrics, Eye-tracking)**
-
-**Notes iz PDF-a:**
-_"Korištenje neuroznanosti u user testiranju dodaje znanstvenu perspektivu testovima. Koriste se različite tehnike praćenja poput eye trackinga, analize lica, provodljivosti kože i otkucaja srca."_
-
-**Što reći studentima (5 min) - BRZI PREGLED:**
 
 **NAPREDNE METODE (za vašu informaciju):**
 
@@ -1537,7 +1345,3 @@ Za detaljnije razumijevanje user research metoda:
 - Nielsen Norman Group: https://www.nngroup.com/
 - UX Design.cc: https://uxdesign.cc/
 - Laws of UX: https://lawsofux.com/
-
----
-
-**KRAJ SINOPSISA - DAN 7** ✅
