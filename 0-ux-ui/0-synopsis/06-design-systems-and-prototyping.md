@@ -1,5 +1,49 @@
 # 📘 DAN 6 - DESIGN SYSTEM & PROTOTYPING
 
+## 📋 Table of Contents
+
+- [📘 DAN 6 - DESIGN SYSTEM & PROTOTYPING](#-dan-6---design-system--prototyping)
+  - [📋 **Table of Contents**](#-table-of-contents)
+  - [🎯 **CILJEVI UČENJA:**](#-ciljevi-učenja)
+  - [📖 **STRUKTURA PDF-a:**](#-struktura-pdf-a)
+  - [🎓 **DETALJNI PLAN PREDAVANJA:**](#-detaljni-plan-predavanja)
+  - [📍 **SEKCIJA 1: DESIGN SYSTEMS UVOD (60 min)**](#-sekcija-1-design-systems-uvod-60-min)
+    - [**Slajd 1: Naslovna stranica - Design System & Prototyping**](#-slajd-1-naslovna-stranica---design-system--prototyping)
+    - [**Slajd 2: Summary**](#-slajd-2-summary)
+    - [**Slajd 4: Introduction to Design System**](#-slajd-4-introduction-to-design-system)
+    - [**Slajd 5-6: The benefits of the design system**](#-slajd-5-6-the-benefits-of-the-design-system)
+    - [**Slajd 7-10: Examples - Atlassian, Carbon, Polaris**](#-slajd-7-10-examples---atlassian-carbon-polaris)
+    - [**Slajd 10: Some principles of a design system**](#-slajd-10-some-principles-of-a-design-system)
+    - [**Slajd 12-13: Roles & Responsibilities + Core Team**](#-slajd-12-13-roles--responsibilities--core-team)
+  - [☕ **PAUZA (10:00-10:15)**](#-pauza-1000-1015)
+  - [📍 **SEKCIJA 2: CONDUCTING DESIGN SYSTEM PROJECT (45 min)**](#-sekcija-2-conducting-design-system-project-45-min)
+    - [**Slajd 13: Conducting a Design System project**](#-slajd-13-conducting-a-design-system-project)
+    - [**Slajd 15-19: Alignment (Inventory, Experience Principles, Roles, Prioritization, Success Metrics)**](#-slajd-15-19-alignment-inventory-experience-principles-roles-prioritization-success-metrics)
+    - [**Slajd 20-22: Inventory and file structure + Breaking down interfaces**](#-slajd-20-22-inventory-and-file-structure--breaking-down-interfaces)
+    - [**Slajd 22: EXERCISE - Make the inventory of a website homepage**](#-slajd-22-exercise---make-the-inventory-of-a-website-homepage)
+    - [**Slajdovi 28-32: File structure details (OPCIONO - brzi overview ako ima vremena)**](#-slajdovi-28-32-file-structure-details-opciono---brzi-overview-ako-ima-vremena)
+  - [☕ **PAUZA (11:00-11:15)**](#-pauza-1100-1115)
+  - [📍 **SEKCIJA 3: PROTOTYPING TYPES (45 min)**](#-sekcija-3-prototyping-types-45-min)
+    - [**Slajd 49: Different types of UI**](#-slajd-49-different-types-of-ui)
+    - [**Slajd 49: DISCUSSION - What types of UI formats do you know?**](#-slajd-49-discussion---what-types-of-ui-formats-do-you-know)
+    - [**Slajd 50-58: Zoning, Low-fi wireframe, High-fi wireframe, Interactive prototyping**](#-slajd-50-58-zoning-low-fi-wireframe-high-fi-wireframe-interactive-prototyping)
+    - [**Slajd 59: Practice - Figma Prototyping**](#-slajd-59-practice---figma-prototyping)
+  - [📍 **SEKCIJA 4: RESOURCES & RECAP (30 min)**](#-sekcija-4-resources--recap-30-min)
+    - [**Slajd 60-66: Resources & Additional Reading**](#-slajd-60-66-resources--additional-reading)
+  - [🎯 **RECAP & ZAKLJUČAK (15 min)**](#-recap--zaključak-15-min)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: Design System Scavenger Hunt (15 min)**](#-backup-aktivnost-1-design-system-scavenger-hunt-15-min)
+    - [**BACKUP AKTIVNOST 2: Component Naming Game (10 min)**](#-backup-aktivnost-2-component-naming-game-10-min)
+    - [**BACKUP AKTIVNOST 3: Atomic Design Breakdown (15 min)**](#-backup-aktivnost-3-atomic-design-breakdown-15-min)
+    - [**BACKUP AKTIVNOST 4: Prototype Type Decision Tree (10 min)**](#-backup-aktivnost-4-prototype-type-decision-tree-10-min)
+    - [**BACKUP AKTIVNOST 5: Figma Component Variants Practice (20 min)**](#-backup-aktivnost-5-figma-component-variants-practice-20-min)
+    - [**BACKUP AKTIVNOST 6: Design System Audit (15 min)**](#-backup-aktivnost-6-design-system-audit-15-min)
+    - [**BACKUP AKTIVNOST 7: Quick Figma Prototyping Challenge (15 min)**](#-backup-aktivnost-7-quick-figma-prototyping-challenge-15-min)
+  - [🌐 **EKSTERNI RESURSI**](#-eksterni-resursi)
+  - [📝 **BILJEŠKE ZA FACILITATORA - POST-SESSION**](#-bilješke-za-facilitatora---post-session)
+
+---
+
 ## 🎯 **CILJEVI UČENJA:**
 
 Na kraju ovog predavanja, studentice će moći:
@@ -616,6 +660,8 @@ A: Ovisi o tvom projektu:
 - Ako ne rade, pripremi screenshots
 - Bookmark key pages (Foundations, Components, Tokens)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Design System Scavenger Hunt (15 min)](#-backup-aktivnost-1-design-system-scavenger-hunt-15-min) — studentice analiziraju Atlassian, Carbon ili Polaris direktno odmah nakon što su ih vidjele u predavanju.
+
 ---
 
 ### **Slajd 10: Some principles of a design system**
@@ -808,6 +854,8 @@ A: Možete:
 - [Design System Governance](https://medium.com/eightshapes-llc/design-system-governance-6f5e6e8e3c3d) - Nathan Curtis
 - [Building a Design System Team](https://www.invisionapp.com/inside-design/design-system-team/) - InVision
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Atomic Design Breakdown (15 min)](#-backup-aktivnost-3-atomic-design-breakdown-15-min) — primijenite Atomic Design metodologiju u grupama odmah nakon što je objašnjena (atoms → molecules → organisms na realnom screenshotu).
+
 ---
 
 ### **Slajd 12-13: Roles & Responsibilities + Core Team**
@@ -996,6 +1044,8 @@ Junior dizajneri mogu biti contributors i učiti od core tima.
 - [Building a Design System Team](https://www.invisionapp.com/inside-design/design-system-team/) - InVision
 - [Design System Governance](https://medium.com/eightshapes-llc/design-system-governance-6f5e6e8e3c3d) - Nathan Curtis
 - [Roles in a Design System](https://www.designbetter.co/design-systems-handbook/building-design-system-team) - InVision Handbook
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Design System Audit (15 min)](#-backup-aktivnost-6-design-system-audit-15-min) — pokažite screenshotove s inconsistencies kao motivacija zašto design system postoji, idealno tik prije pauze na kraju Sekcije 1.
 
 ---
 
@@ -1635,11 +1685,11 @@ Tvoj Figma file ili papir bi trebao izgledati ovako:
 ```
 WEBSITE: Zalando.com
 ORGANISMS:
-	1.	Header 	2.	Hero Banner 	3.	Category Grid 	4.	Product Carousel 	5.	Footer
+	1.	Header	2.	Hero Banner	3.	Category Grid	4.	Product Carousel	5.	Footer
 MOLECULES (iz Header):
-	1.	Logo + Brand name 	2.	Search bar (input + icon + button) 	3.	User menu (icon + dropdown) 	4.	Cart button (icon + badge)
+	1.	Logo + Brand name	2.	Search bar (input + icon + button)	3.	User menu (icon + dropdown)	4.	Cart button (icon + badge)
 ATOMS (iz Search bar):
-	1.	Input field 	2.	Search icon 	3.	Button 	4.	Placeholder text
+	1.	Input field	2.	Search icon	3.	Button	4.	Placeholder text
 
 ```
 
@@ -1699,6 +1749,8 @@ Rješenje: "Odlično! Sada:
 - [Interface Inventory Guide](https://bradfrost.com/blog/post/interface-inventory/)
 - Primjer: Zalando homepage analysis (slajdovi 23-26 u PDF-u)
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Component Naming Game (10 min)](#-backup-aktivnost-2-component-naming-game-10-min) — vježbajte semantic naming za komponente odmah nakon inventory vježbe dok je kontekst svjež.
+
 ---
 
 ### **Slajdovi 28-32: File structure details (OPCIONO - brzi overview ako ima vremena)**
@@ -1750,6 +1802,8 @@ Ovi slajdovi (23-31) su vrlo tehnički i detaljni. U 3h predavanju **nemaš vrem
 
 **Handout materijal:**
 Pripremi PDF s slajdovima 23-31 i daj studentima za self-study.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Figma Component Variants Practice (20 min)](#-backup-aktivnost-5-figma-component-variants-practice-20-min) — advanced Figma practice za kreiranje component variants, idealno kao priprema za finalni projekt.
 
 ---
 
@@ -2198,6 +2252,8 @@ A: Da! Figma podržava:
 - [Choosing the Right Fidelity](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices) - IxDF
 - [Figma Prototyping Basics](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma) - Official docs
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Prototype Type Decision Tree (10 min)](#-backup-aktivnost-4-prototype-type-decision-tree-10-min) — vježbajte odlučivanje koji tip prototypa koristiti u različitim scenarijima, direktno nakon što su objašnjeni svi tipovi.
+
 ---
 
 ### **Slajd 59: Practice - Figma Prototyping**
@@ -2422,6 +2478,8 @@ Rješenje: "Super! Sada:
 - [Figma Prototyping Guide](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma) - Official docs
 - [Smart Animate Tutorial](https://help.figma.com/hc/en-us/articles/360039818874-Create-advanced-animations-with-Smart-Animate) - Figma
 - [Overlay Tutorial](https://help.figma.com/hc/en-us/articles/360039818254-Create-interactive-overlays-with-prototyping) - Figma
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Quick Figma Prototyping Challenge (15 min)](#-backup-aktivnost-7-quick-figma-prototyping-challenge-15-min) — brzi challenge nakon Figma vježbe: studentice razmjenjuju laptope i testiraju prototype kolegice uz kratki feedback.
 
 ---
 
