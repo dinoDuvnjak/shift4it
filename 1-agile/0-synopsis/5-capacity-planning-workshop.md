@@ -1,5 +1,46 @@
 # 📘 DAN 5 - CAPACITY PLANNING I PRAKTIČNI WORKSHOP
 
+## 📋 Table of Contents
+
+- [📘 DAN 5 - CAPACITY PLANNING I PRAKTIČNI WORKSHOP](#-dan-5---capacity-planning-i-praktični-workshop)
+  - [📋 **PREGLED SADRŽAJA**](#-pregled-sadržaja)
+  - [🎯 **CILJEVI UČENJA:**](#-ciljevi-učenja)
+  - [⏰ **9:00-10:00 - SEKCIJA 1: CAPACITY PLANNING - TEORIJA**](#-900-1000---sekcija-1-capacity-planning---teorija)
+    - [**Slajd 27: Naslovni slajd sekcije 3.3**](#slajd-27-naslovni-slajd-sekcije-33)
+    - [**Slajd 28: Managing capacity planning - Problem**](#slajd-28-managing-capacity-planning---problem)
+    - [**Slajd 29: Što napraviti? Davanje težine ishodima**](#slajd-29-što-napraviti-davanje-težine-ishodima)
+    - [**Slajd 30-31: Giving weight to outcomes - Vrijednost**](#slajd-30-31-giving-weight-to-outcomes---vrijednost)
+    - [**Slajd 32-33: Giving weight to outcomes - Težina**](#slajd-32-33-giving-weight-to-outcomes---težina)
+    - [**Slajd 34: Giving weight to outcomes - Kapacitet**](#slajd-34-giving-weight-to-outcomes---kapacitet)
+    - [**Slajd 35: Pareto dijagram**](#slajd-35-pareto-dijagram)
+  - [⏰ **10:00-10:15 - PAUZA ☕**](#-1000-1015---pauza-)
+  - [⏰ **10:15-11:00 - SEKCIJA 2: FOCUS FACTOR I RELEASE PLAN**](#-1015-1100---sekcija-2-focus-factor-i-release-plan)
+    - [**Slajd 36: Establishing a release plan**](#slajd-36-establishing-a-release-plan)
+    - [**Slajd 37: Release plan - Primjer kalkulacije**](#slajd-37-release-plan---primjer-kalkulacije)
+    - [**Slajd 38-39: Rješenja za faktore koji limitiraju**](#slajd-38-39-rješenja-za-faktore-koji-limitiraju)
+    - [**Slajd 40: Focus Factor (FF)**](#slajd-40-focus-factor-ff)
+    - [**Slajd 41: What have we learnt?**](#slajd-41-what-have-we-learnt)
+  - [⏰ **11:00-11:15 - PAUZA ☕**](#-1100-1115---pauza-)
+  - [⏰ **11:15-12:15 - SEKCIJA 3: PRAKTIČNI WORKSHOP**](#-1115-1215---sekcija-3-praktični-workshop)
+    - [**Slajd 42-43: Praktični workshop - Scenarij**](#slajd-42-43-praktični-workshop---scenarij)
+    - [**Slajd 44-45: Workshop upute**](#slajd-44-45-workshop-upute)
+  - [⏰ **12:15-12:30 - RECAP MODULA + ZAVRŠNE RIJEČI**](#-1215-1230---recap-modula--završne-riječi)
+    - [**RECAP CIJELOG AGILE MODULA (10 min)**](#recap-cijelog-agile-modula-10-min)
+    - [**ZAVRŠNE RIJEČI (5 min)**](#završne-riječi-5-min)
+  - [❓ **PITANJA ZA PROVJERU RAZUMIJEVANJA**](#-pitanja-za-provjeru-razumijevanja)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: Sprint Planning simulacija (15 min)**](#backup-aktivnost-1-sprint-planning-simulacija-15-min)
+    - [**BACKUP AKTIVNOST 2: Focus Factor anketa (10 min)**](#backup-aktivnost-2-focus-factor-anketa-10-min)
+    - [**BACKUP AKTIVNOST 3: Release Plan izrada (15 min)**](#backup-aktivnost-3-release-plan-izrada-15-min)
+    - [**BACKUP AKTIVNOST 4: "Što može poći po zlu?" (10 min)**](#backup-aktivnost-4-što-može-poći-po-zlu-10-min)
+    - [**BACKUP AKTIVNOST 5: Velocity tracking vježba (10 min)**](#backup-aktivnost-5-velocity-tracking-vježba-10-min)
+    - [**BACKUP AKTIVNOST 6: Agile jeopardy (15 min)**](#backup-aktivnost-6-agile-jeopardy-15-min)
+    - [**BACKUP AKTIVNOST 7: Refleksija modula (10 min)**](#backup-aktivnost-7-refleksija-modula-10-min)
+  - [📚 **DODATNI RESURSI ZA FACILITATORA**](#-dodatni-resursi-za-facilitatora)
+  - [🏆 **ZAKLJUČAK MODULA**](#-zaključak-modula)
+
+---
+
 ## 📋 **PREGLED SADRŽAJA**
 
 **PDF slajdovi za ovaj dan:**
@@ -239,6 +280,8 @@ Nacrtaj horizontalnu liniju 'kapaciteta' i pokaži gdje se presijeca s karticama
 **Praktična implikacija:**
 Ako napraviš samo prvih nekoliko funkcionalnosti (najviše vrijednosti), korisnik će biti 80% zadovoljan. Ostalo je 'cherry on top'."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Velocity tracking vježba (10 min)](#backup-aktivnost-5-velocity-tracking-vježba-10-min) — studenti izračunaju prosječnu velocity iz 4 prošla sprinta i procijene kapacitet sljedećeg, direktna veza s Pareto principom dok su prioritizacija i kapacitet svježi.
+
 ---
 
 # ⏰ **10:00-10:15 - PAUZA ☕**
@@ -320,6 +363,8 @@ Ako auto može ići 200 km/h, ne znači da će prosječna brzina putovanja biti 
 **Pitanje za studentice:**
 "Koliko vremena zapravo radite kad imate 8-satni radni dan? Računajući pauze, mailove, sastanke..."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: "Što može poći po zlu?" (10 min)](#backup-aktivnost-4-što-može-poći-po-zlu-10-min) — grupe liste faktore koji mogu poremetiti sprint i predlažu mitigaciju, odmah nakon što je naive vs realna kalkulacija iz Slajda 37 svježa.
+
 ---
 
 ### **Slajd 38-39: Rješenja za faktore koji limitiraju**
@@ -344,6 +389,8 @@ Ako auto može ići 200 km/h, ne znači da će prosječna brzina putovanja biti 
 **RJEŠENJE 4: Uspostavi Focus Factor**
 - Realna procjena koliko od teoretskog kapaciteta se može iskoristiti
 - Ovo ćemo sad detaljno proći!"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Release Plan izrada (15 min)](#backup-aktivnost-3-release-plan-izrada-15-min) — studenti kreiraju release plan za 3 sprinta koristeći backlog iz workshopa, taman kad su rješenja za ograničavajuće faktore upravo obrađena.
 
 ---
 
@@ -446,6 +493,8 @@ Koristeći podatke iz PDF-a, izračunaj efektivni radni kapacitet:
 📚 **FACILITATOR NOTES:**
 Neka studentice same izračunaju, onda prođi rješenje. Ovo je fundamentalna vještina!
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Focus Factor anketa (10 min)](#backup-aktivnost-2-focus-factor-anketa-10-min) — svaka studentica izračuna vlastiti Focus Factor i anonimno dijeli, osobna refleksija dok je FF formula i kalkulacijska vježba sasvim svježa.
+
 ---
 
 ### **Slajd 41: What have we learnt?**
@@ -467,6 +516,8 @@ Neka studentice same izračunaju, onda prođi rješenje. Ovo je fundamentalna vj
 **4. Razumij KADA i AKO dodati EMERGENTNE FUNKCIONALNOSTI**
 - Novi zahtjevi će se pojaviti
 - Imaj proces za evaluaciju: ide li u ovaj sprint ili čeka?"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Sprint Planning simulacija (15 min)](#backup-aktivnost-1-sprint-planning-simulacija-15-min) — tim simulira Sprint Planning s backlogom od 10 Stories i kapacitetom 40 SP, savršen prijelaz sa 4 principia prema praktičnom workshopu.
 
 ---
 
@@ -632,6 +683,8 @@ Pogledajmo što sve sada znate:
 - Agile nije samo za developere - koristi se u marketingu, HR-u, dizajnu...
 - Ako vas zanima Scrum Master karijera, razmislite o certifikaciji!"
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Agile jeopardy (15 min)](#backup-aktivnost-6-agile-jeopardy-15-min) — zabavna provjera znanja iz cijelog 5-dnevnog modula u kategorijama Agile Fundamentals, Scrum, Kanban, Backlog i Capacity Planning.
+
 ---
 
 ### **ZAVRŠNE RIJEČI (5 min)**
@@ -661,6 +714,8 @@ Pogledajmo što sve sada znate:
 - Pratite Agile zajednicu online
 
 **Hvala na sudjelovanju!** Imate li pitanja o bilo čemu iz cijelog modula?"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Refleksija modula (10 min)](#backup-aktivnost-7-refleksija-modula-10-min) — svaka studentica odgovara na 4 pitanja (što sam naučila, što me iznenadilo, što ću primijeniti, o čemu želim znati više), lijepo simbolično zatvaranje cijelog Agile modula.
 
 ---
 
