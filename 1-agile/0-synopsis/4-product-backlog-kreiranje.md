@@ -222,12 +222,7 @@ A: "Relativna mjera kompleksnosti. 2 je duplo teže od 1. Nećemo ulaziti u deta
 
 ---
 
-### **Slajd 4-5: How to create a backlog - Hijerarhija**
-
-**Notes iz PDF-a:**
-_"TIP: You choose the granularity of the cards on your board. Example: SCOPE OF WORK: tender, EPIC: Technical documentation; Economic documentation; Administrative documentation, STORY: Completion of documents; Drafting of estimates, TASK: Completing Annex 1 and Annex 2, Creating economic simulation files"_
-
-**Što reći studentima (12 min):**
+### **Slajd 10-11: How to create a backlog - Hijerarhija**
 
 "Backlog ima **hijerarhiju** - od najvećeg do najmanjeg. Zamislite to kao **rusku babuška** - svaka lutka sadrži manju lutku unutra.
 
@@ -284,7 +279,7 @@ Nacrtaj piramidu s 4 razine i primjerima za svaku razinu.
 
 ---
 
-### **Slajd 11: How to create a backlog - 6 koraka**
+### **Slajd 12: How to create a backlog - 6 koraka**
 
 "Sada kada znamo strukturu, pogledajmo **6 koraka za kreiranje backloga:**
 
@@ -371,11 +366,6 @@ Backlog je kao hladnjak - ako ne čistiš redovito, imat ćeš hranu koja je ist
 
 ### **Slajd 14: Grupna vježba - EduTrack scenarij**
 
-**Notes iz PDF-a:**
-_"Scenario: EduTrack is an initiative to create a web-based classroom management platform designed to simplify administrative tasks for teachers, improve student engagement, and provide real-time insights into academic progress."_
-
-**Što reći studentima (3 min):**
-
 "Sada ćemo raditi **grupnu vježbu**! Ali prvo da upoznamo scenarij koji ćemo koristiti kroz ostatak Agile modula:
 
 **📚 EDUTRACK SCENARIJ:**
@@ -401,11 +391,6 @@ Ovaj scenarij ćemo koristiti za sve vježbe danas i sutra!"
 ---
 
 ### **Slajd 15: Grupna vježba - Upute**
-
-**Notes iz PDF-a:**
-_"Exercise: Think of 5 features or needs students/teachers might have. Instructions: In small groups, write 5 user stories using the format: 'As a [student, teachers], I want [feature] so that [benefit].' Assign a priority (1–5) and a rough estimate (e.g. 1–3 points). Present your mini backlog to the class."_
-
-✏️ **ZADATAK: Kreiranje mini Product Backloga (15 min)**
 
 **Cilj:** Primijeniti naučeno pisanje User Stories i prioritizaciju
 
@@ -615,7 +600,7 @@ U praksi, mnogi timovi koriste ove termine naizmjence - važno je da **vaš tim 
 
 ---
 
-### **Slajd 20-21: Epic vs User Story**
+### **Slajd 21: Epic vs User Story**
 
 "Još jedna važna razlika: **Epic vs User Story**
 
@@ -842,11 +827,6 @@ Klijent želi SVE kao 'Must Have'. Objasni da ako je sve kritično, ništa nije 
 ---
 
 ### **Slajd 26: Epic Cards by Screenful (opciono)**
-
-**Notes iz PDF-a:**
-_"Screenful's Epic allows you to: 1) Indicate which lists contain epic. 2) Assigning tasks to each epic. 3) Defining a synthetic version of the RBS."_
-
-**Što reći studentima (3 min):**
 
 "Kratko o alatima - postoje dodatci (power-ups) za Trello i druge alate koji pomažu s organizacijom:
 
