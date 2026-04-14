@@ -2,43 +2,47 @@
 
 ## 📋 Table of Contents
 
-- [PREDAVANJE: Kako kreirati i organizirati Product Backlog](#predavanje-kako-kreirati-i-organizirati-product-backlog)
-- [📋 Pregled sadržaja](#-pregled-sadr%C5%BEaja)
-- [🎯 Ciljevi učenja](#-ciljevi-u%C4%8Denja)
-- [⏰ Raspored predavanja](#-raspored-predavanja)
-- [Sekcija 3.1 — Kreiranje Product Backloga](#slajd-1-naslovni-slajd-sekcije-31)
-  - [Slajd 1: Naslovni slajd sekcije 3.1](#slajd-1-naslovni-slajd-sekcije-31)
-  - [Slajd 2: What is a backlog?](#slajd-2-what-is-a-backlog)
-  - [Slajd 3: Components of a backlog item](#slajd-3-components-of-a-backlog-item)
-  - [Slajd 4-5: How to create a backlog - Hijerarhija](#slajd-4-5-how-to-create-a-backlog---hijerarhija)
-  - [Slajd 6: How to create a backlog - 6 koraka](#slajd-6-how-to-create-a-backlog---6-koraka)
-  - [Slajd 7: Common mistakes to avoid](#slajd-7-common-mistakes-to-avoid)
-  - [Slajd 8: Grupna vježba - EduTrack scenarij](#slajd-8-grupna-vje%C5%BEba---edutrack-scenarij)
-  - [Slajd 9: Grupna vježba - Upute](#slajd-9-grupna-vje%C5%BEba---upute)
-  - [Slajd 10-11: Savjeti za kreiranje backloga](#slajd-10-11-savjeti-za-kreiranje-backloga)
-- [Sekcija 3.2 — Granularnost Backlog Itema](#slajd-12-naslovni-slajd-sekcije-32)
-  - [Slajd 12: Naslovni slajd sekcije 3.2](#slajd-12-naslovni-slajd-sekcije-32)
-  - [Slajd 13: Different granularities - Dijagram](#slajd-13-different-granularities---dijagram)
-  - [Slajd 14-15: WBS vs RBS](#slajd-14-15-wbs-vs-rbs)
-  - [Slajd 16-17: Feature vs Epic](#slajd-16-17-feature-vs-epic)
-  - [Slajd 18-19: Epic vs User Story](#slajd-18-19-epic-vs-user-story)
-  - [Slajd 20: Task](#slajd-20-task)
-  - [Slajd 21: Relations between different cards](#slajd-21-relations-between-different-cards)
-  - [Slajd 22: Three good reasons to use RBS](#slajd-22-three-good-reasons-to-use-rbs)
-  - [Slajd 23: MoSCoW Method](#slajd-23-moscow-method)
-  - [Slajd 24-25: Tips za kreiranje backloga](#slajd-24-25-tips-za-kreiranje-backloga)
-  - [Slajd 26: Epic Cards by Screenful (opciono)](#slajd-26-epic-cards-by-screenful-opciono)
-- [📝 Recap dana](#-recap-dana-10-min)
-- [❓ Pitanja za provjeru razumijevanja](#-pitanja-za-provjeru-razumijevanja)
-- [🔄 Backup Aktivnosti](#-backup-aktivnosti)
-  - [BA1: User Story Challenge](#backup-aktivnost-1-user-story-challenge-10-min)
-  - [BA2: Backlog Refinement simulacija](#backup-aktivnost-2-backlog-refinement-simulacija-15-min)
-  - [BA3: MoSCoW debate](#backup-aktivnost-3-moscow-debate-10-min)
-  - [BA4: Epic razbijanje](#backup-aktivnost-4-epic-razbijanje-10-min)
-  - [BA5: Acceptance Criteria radionica](#backup-aktivnost-5-acceptance-criteria-radionica-15-min)
-  - [BA6: Backlog Item Card Design](#backup-aktivnost-6-backlog-item-card-design-10-min)
-  - [BA7: Quick Quiz - Kahoot stil](#backup-aktivnost-7-quick-quiz---kahoot-stil-5-min)
-- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+- [📘 DAN 4 - PRODUCT BACKLOG: KREIRANJE I GRANULARNOST](#-dan-4---product-backlog-kreiranje-i-granularnost)
+  - [**PREDAVANJE: Kako kreirati i organizirati Product Backlog**](#predavanje-kako-kreirati-i-organizirati-product-backlog)
+  - [📋 **PREGLED SADRŽAJA**](#-pregled-sadr%C5%BEaja)
+  - [🎯 **CILJEVI UČENJA:**](#-ciljevi-u%C4%8Denja)
+  - [⏰ **9:00-10:00 - SEKCIJA 1: ŠTO JE BACKLOG I KAKO GA KREIRATI**](#-900-1000---sekcija-1-što-je-backlog-i-kako-ga-kreirati)
+    - [**Slajd 1: Naslovni slajd sekcije 3.1**](#slajd-1-naslovni-slajd-sekcije-31)
+    - [**Slajd 8: What is a backlog?**](#slajd-8-what-is-a-backlog)
+    - [**Slajd 9: Components of a backlog item**](#slajd-9-components-of-a-backlog-item)
+    - [**Slajd 4-5: How to create a backlog - Hijerarhija**](#slajd-4-5-how-to-create-a-backlog---hijerarhija)
+    - [**Slajd 11: How to create a backlog - 6 koraka**](#slajd-11-how-to-create-a-backlog---6-koraka)
+    - [**Slajd 13: Common mistakes to avoid**](#slajd-13-common-mistakes-to-avoid)
+    - [**Slajd 14: Grupna vježba - EduTrack scenarij**](#slajd-14-grupna-vje%C5%BEba---edutrack-scenarij)
+    - [**Slajd 15: Grupna vježba - Upute**](#slajd-15-grupna-vje%C5%BEba---upute)
+    - [**Slajd 16: Savjeti za kreiranje backloga**](#slajd-16-savjeti-za-kreiranje-backloga)
+  - [⏰ **10:00-10:15 - PAUZA ☕**](#-1000-1015---pauza-)
+  - [⏰ **10:15-11:00 - SEKCIJA 2: GRANULARNOST KARTICA**](#-1015-1100---sekcija-2-granularnost-kartica)
+    - [**Slajd 17: Naslovni slajd sekcije 3.2**](#slajd-17-naslovni-slajd-sekcije-32)
+    - [**Slajd 18: Different granularities - Dijagram**](#slajd-18-different-granularities---dijagram)
+    - [**Slajd 18-19: WBS vs RBS**](#slajd-18-19-wbs-vs-rbs)
+    - [**Slajd 20-21: Feature vs Epic**](#slajd-20-21-feature-vs-epic)
+    - [**Slajd 20-21: Epic vs User Story**](#slajd-20-21-epic-vs-user-story)
+    - [**Slajd 20: Task**](#slajd-20-task)
+    - [**Slajd 21: Relations between different cards**](#slajd-21-relations-between-different-cards)
+  - [⏰ **11:00-11:15 - PAUZA ☕**](#-1100-1115---pauza-)
+  - [⏰ **11:15-12:00 - SEKCIJA 3: MOSCOW + PRAKTIČNA VJEŽBA**](#-1115-1200---sekcija-3-moscow--prakti%C4%8Dna-vje%C5%BEba)
+    - [**Slajd 22: Three good reasons to use RBS**](#slajd-22-three-good-reasons-to-use-rbs)
+    - [**Slajd 23: MoSCoW Method**](#slajd-23-moscow-method)
+    - [**Slajd 24-25: Tips za kreiranje backloga**](#slajd-24-25-tips-za-kreiranje-backloga)
+    - [**Slajd 26: Epic Cards by Screenful (opciono)**](#slajd-26-epic-cards-by-screenful-opciono)
+  - [⏰ **12:00-12:30 - SEKCIJA 4: GRUPNA VJEŽBA + RECAP**](#-1200-1230---sekcija-4-grupna-vje%C5%BEba--recap)
+    - [📝 **RECAP DANA (10 min)**](#-recap-dana-10-min)
+    - [❓ **PITANJA ZA PROVJERU RAZUMIJEVANJA**](#-pitanja-za-provjeru-razumijevanja)
+  - [🔄 **BACKUP AKTIVNOSTI**](#-backup-aktivnosti)
+    - [**BACKUP AKTIVNOST 1: User Story Challenge (10 min)**](#backup-aktivnost-1-user-story-challenge-10-min)
+    - [**BACKUP AKTIVNOST 2: Backlog Refinement simulacija (15 min)**](#backup-aktivnost-2-backlog-refinement-simulacija-15-min)
+    - [**BACKUP AKTIVNOST 3: MoSCoW debate (10 min)**](#backup-aktivnost-3-moscow-debate-10-min)
+    - [**BACKUP AKTIVNOST 4: Epic razbijanje (10 min)**](#backup-aktivnost-4-epic-razbijanje-10-min)
+    - [**BACKUP AKTIVNOST 5: Acceptance Criteria radionica (15 min)**](#backup-aktivnost-5-acceptance-criteria-radionica-15-min)
+    - [**BACKUP AKTIVNOST 6: Backlog Item Card Design (10 min)**](#backup-aktivnost-6-backlog-item-card-design-10-min)
+    - [**BACKUP AKTIVNOST 7: Quick Quiz - Kahoot stil (5 min)**](#backup-aktivnost-7-quick-quiz---kahoot-stil-5-min)
+  - [📚 **DODATNI RESURSI ZA FACILITATORA**](#-dodatni-resursi-za-facilitatora)
 
 ---
 
@@ -361,6 +365,8 @@ Zdravi backlog ima obično 50-100 stavki. Ako ima 300+, vjerojatno treba čišć
 **Analogija:**
 Backlog je kao hladnjak - ako ne čistiš redovito, imat ćeš hranu koja je istekla i ne znaš što imaš.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: User Story Challenge (10 min)](#backup-aktivnost-1-user-story-challenge-10-min) — studentice preformuliraju loše primjere u ispravne User Stories, idealno odmah nakon objašnjenja čestih grešaka (Slajd 13).
+
 ---
 
 ### **Slajd 14: Grupna vježba - EduTrack scenarij**
@@ -463,6 +469,8 @@ Zašto?
 - Češće vidite napredak
 - Motiviraniji ste kad pomičete kartice
 - Lakše je identificirati blokere"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: Backlog Item Card Design (10 min)](#backup-aktivnost-6-backlog-item-card-design-10-min) — studentice dizajniraju vizualni template za backlog karticu s pet komponenti, odlično kao završni akord Sekcije 1 prije pauze.
 
 ---
 
@@ -687,6 +695,8 @@ Developeri najbolje znaju kako tehnički implementirati Story."
 
 ### **Slajd 21: Relations between different cards**
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Epic razbijanje (10 min)](#backup-aktivnost-4-epic-razbijanje-10-min) — grupe razbijaju jedan Epic na što više validnih Stories, direktno primjena hijerarhije objašnjene u Slajd 20-21.
+
 **Notes iz PDF-a:**
 _"[Vizualni dijagram pokazuje: Theme → Epic → Story → Task hijerarhiju]"_
 
@@ -717,6 +727,8 @@ _"[Vizualni dijagram pokazuje: Theme → Epic → Story → Task hijerarhiju]"_
 **EPIC → STORY → TASK**
 - Ovo je najčešća struktura koju ćete koristiti
 - Svaka razina je detaljnija od prethodne"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Acceptance Criteria radionica (15 min)](#backup-aktivnost-5-acceptance-criteria-radionica-15-min) — pisanje kriterija prihvaćanja za konkretnu User Story, savršeno ukotvljuje strukturu stavke backlog itema prije druge pauze.
 
 ---
 
@@ -800,6 +812,8 @@ Kad radite s klijentom, MoSCoW je odličan jer:
 **Česta greška:**
 Klijent želi SVE kao 'Must Have'. Objasni da ako je sve kritično, ništa nije kritično.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: MoSCoW debate (10 min)](#backup-aktivnost-3-moscow-debate-10-min) — grupe argumentiraju svaki kvadrant za istu funkcionalnost, direktno nakon objašnjenja MoSCoW metode (Slajd 23).
+
 ---
 
 ### **Slajd 24-25: Tips za kreiranje backloga**
@@ -845,6 +859,8 @@ Nećemo ulaziti u detalje, ali znajte da **alati postoje** koji olakšavaju upra
 
 **Za vašu praksu:**
 Trello Basic je dovoljan za učenje. Napredne dodatke istražite kad vam zatreba."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Backlog Refinement simulacija (15 min)](#backup-aktivnost-2-backlog-refinement-simulacija-15-min) — studentice čiste "zastarjeli" backlog s 15 stavki, odlično kao uvod u wellness backlog prakse prije završne vježbe.
 
 ---
 
@@ -967,6 +983,8 @@ Sutra ćemo naučiti **Capacity Planning** - kako planirati rad prema kapacitetu
 **Viši level:**
 7. Kako bi prioritizirali funkcionalnosti za aplikaciju za dostavu hrane?
 8. Kada bi koristili 3-razinsku vs 2-razinsku hijerarhiju backloga?
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Quick Quiz - Kahoot stil (5 min)](#backup-aktivnost-7-quick-quiz---kahoot-stil-5-min) — zabavna provjera znanja cijelog dana kao završni energizer prije otpuštanja studentica.
 
 ---
 
