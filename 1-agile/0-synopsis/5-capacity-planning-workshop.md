@@ -1,13 +1,5 @@
 # 📘 DAN 5 - CAPACITY PLANNING I PRAKTIČNI WORKSHOP
 
-## **PREDAVANJE: Planiranje kapaciteta i izgradnja Agile ploče**
-**TRAJANJE:** 9:00-12:30 (3.5 sata, s pauzama)  
-**PDF MATERIJAL:** AGILE_3_v2.pdf (Slajdovi 27-45)  
-**BROJ STUDENTICA:** 8-30  
-**MODUL:** Agile Methodologies - Dan 5 (završni dan modula)
-
----
-
 ## 📋 **PREGLED SADRŽAJA**
 
 **PDF slajdovi za ovaj dan:**
@@ -32,30 +24,11 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   SEKCIJA 1: Capacity Planning - Teorija (60 min)
-10:00-10:15  PAUZA ☕
-10:15-11:00  SEKCIJA 2: Focus Factor i Release Plan (45 min)
-11:00-11:15  PAUZA ☕
-11:15-12:15  SEKCIJA 3: Praktični Workshop (60 min)
-12:15-12:30  Recap modula + Završne riječi (15 min)
-```
-**Ukupno efektivno vrijeme: 180 min (3h)**
-
----
-
 # ⏰ **9:00-10:00 - SEKCIJA 1: CAPACITY PLANNING - TEORIJA**
 
 ---
 
 ### **Slajd 27: Naslovni slajd sekcije 3.3**
-
-**Notes iz PDF-a:**
-_"3.3 How to manage capacity planning (2.5 hours)"_
-
-**Što reći studentima (3 min):**
 
 "Dobro došle na posljednji dan Agile modula!
 
@@ -74,11 +47,6 @@ Na kraju dana ćete izgraditi vlastitu Agile ploču i **demonstrirati sve što s
 ---
 
 ### **Slajd 28: Managing capacity planning - Problem**
-
-**Notes iz PDF-a:**
-_"Our normal customer demands the maximum in the shortest possible time, with the twofold result: Capacity saturation, Complex releases. Factors that very often result in: Frustrated teams, Increasing time to market."_
-
-**Što reći studentima (8 min):**
 
 "Pogledajmo **realnost IT projekata**:
 
@@ -123,11 +91,6 @@ Ovo je kao da netko kaže 'Napuni mi kamion s 10 tona robe, a kamion može nosit
 
 ### **Slajd 29: Što napraviti? Davanje težine ishodima**
 
-**Notes iz PDF-a:**
-_"1. Giving weight to outcomes. 2. Define a release plan."_
-
-**Što reći studentima (3 min):**
-
 "Rješenje ima **2 koraka:**
 
 **KORAK 1: Daj težinu ishodima (outcomes)**
@@ -145,11 +108,6 @@ Sada ćemo detaljno proći oba koraka!"
 ---
 
 ### **Slajd 30-31: Giving weight to outcomes - Vrijednost**
-
-**Notes iz PDF-a:**
-_"How important are features (CARDs) to each other? Which of them are most likely to achieve the desired OUTCOME value?"_
-
-**Što reći studentima (10 min):**
 
 "Prvi korak: **procijeni VRIJEDNOST** svake funkcionalnosti.
 
@@ -188,11 +146,6 @@ Nacrtaj 3 stupca i stavi primjere kartica u svaki.
 ---
 
 ### **Slajd 32-33: Giving weight to outcomes - Težina**
-
-**Notes iz PDF-a:**
-_"How much do the most important features weigh individually? Note: let the team make the estimates!"_
-
-**Što reći studentima (10 min):**
 
 "Drugi dio: **procijeni TEŽINU** (trud) svake funkcionalnosti.
 
@@ -238,11 +191,6 @@ A: "Varira po timu. Neki timovi definiraju 1 SP = 1 sat idealne rad, drugi 1 SP 
 
 ### **Slajd 34: Giving weight to outcomes - Kapacitet**
 
-**Notes iz PDF-a:**
-_"What is the actual production capacity available?"_
-
-**Što reći studentima (8 min):**
-
 "Sada dolazimo do **ključnog pitanja:**
 > Koliki je STVARNI kapacitet tima?
 
@@ -277,11 +225,6 @@ Nacrtaj horizontalnu liniju 'kapaciteta' i pokaži gdje se presijeca s karticama
 
 ### **Slajd 35: Pareto dijagram**
 
-**Notes iz PDF-a:**
-_"And with a Pareto diagram [representation of the degree of influence of certain variables on a phenomenon] we get that..."_
-
-**Što reći studentima (5 min):**
-
 "Možda ste čuli za **Pareto princip** (80/20 pravilo)?
 
 **U kontekstu backloga:**
@@ -310,11 +253,6 @@ Ako napraviš samo prvih nekoliko funkcionalnosti (najviše vrijednosti), korisn
 
 ### **Slajd 36: Establishing a release plan**
 
-**Notes iz PDF-a:**
-_"Release Plan: set of activities aimed at transforming requests into tested and functioning outputs. How to proportion the backlog according to the team's production capacity? Capacity planning: optimising productivity by managing available resources and skills needed for the Sprint."_
-
-**Što reći studentima (5 min):**
-
 "Sada kada znamo vrijednosti i težine, idemo na **Release Plan**.
 
 **Što je Release Plan?**
@@ -333,11 +271,6 @@ Cilj: **Realna planiranje** umjesto wishful thinking."
 ---
 
 ### **Slajd 37: Release plan - Primjer kalkulacije**
-
-**Notes iz PDF-a:**
-_"Example: a team of 6 people is asked to complete a series of activities estimated at 200 hours in 5 days. 1. Activity weight: 200h 2. Sprint duration: 5 days 3. Duration of working day: 8h 4. Team size: 6 persons. Total working capacity: 5*8*6 = 240h. But why then do we often end up in overload?"_
-
-**Što reći studentima (10 min):**
 
 "Pogledajmo **konkretan primjer:**
 
@@ -391,11 +324,6 @@ Ako auto može ići 200 km/h, ne znači da će prosječna brzina putovanja biti 
 
 ### **Slajd 38-39: Rješenja za faktore koji limitiraju**
 
-**Notes iz PDF-a:**
-_"So what to do? 1. Define the team configuration in advance. 2. Limiting the number of open contexts. 3. Foresee validation times. 4. Establishing a Focus Factor."_
-
-**Što reći studentima (8 min):**
-
 "Kako se nositi s ovim faktorima?
 
 **RJEŠENJE 1: Definiraj konfiguraciju tima unaprijed**
@@ -420,11 +348,6 @@ _"So what to do? 1. Define the team configuration in advance. 2. Limiting the nu
 ---
 
 ### **Slajd 40: Focus Factor (FF)**
-
-**Notes iz PDF-a:**
-_"Focus Factor (FF): estimation of how focused the team is. Average = 70%. A lower FF may mean that the team anticipates many disturbing factors or assumes that they have made over-optimistic estimates."_
-
-**Što reći studentima (12 min):**
 
 "**Focus Factor** je ključni koncept za realno planiranje!
 
@@ -527,11 +450,6 @@ Neka studentice same izračunaju, onda prođi rješenje. Ovo je fundamentalna vj
 
 ### **Slajd 41: What have we learnt?**
 
-**Notes iz PDF-a:**
-_"1. Renegotiating EFFORT based on SHARED UNDERSTANDING of VALUE (outcome-oriented) and according to PRODUCTIVITY of the TEAM. 2. Assess EFFECTIVE IMPACT of any ADDITIONAL RESOURCES. 3. Give PRIORITY to the backlog through a COHERENT RELEASE PLAN. 4. Understand if and when to add any EMERGING FEATURES to the backlog."_
-
-**Što reći studentima (5 min):**
-
 "Prije pauze, sumirajmo **4 ključna naučena principa:**
 
 **1. Pregovaranje o trudu na temelju DIJELJENOG RAZUMIJEVANJA VRIJEDNOSTI**
@@ -564,11 +482,6 @@ _"1. Renegotiating EFFORT based on SHARED UNDERSTANDING of VALUE (outcome-orient
 
 ### **Slajd 42-43: Praktični workshop - Scenarij**
 
-**Notes iz PDF-a:**
-_"EduTrack is an initiative to create a web-based classroom management platform... The web solution must be intuitive, scalable, and secure, focusing on user-friendly design and continuous adaptability through iterative feedback from teachers and students."_
-
-**Što reći studentima (3 min):**
-
 "Vrijeme je za **praktični rad**!
 
 Koristimo već poznati **EduTrack scenarij**:
@@ -591,9 +504,6 @@ Ako radite digitalno, link za Miro board: [facilitator upisuje link]"
 ---
 
 ### **Slajd 44-45: Workshop upute**
-
-**Notes iz PDF-a:**
-_"Exercise: Now you're ready to try to set up an Agile board! Based on the EduTrack scenario: Define workflows, Write user stories and tasks on cards, Manage work effectively."_
 
 ✏️ **WORKSHOP: Izgradnja Agile ploče (45 min)**
 
@@ -943,7 +853,3 @@ Studentice sada imaju:
 1. Isprobati Agile na osobnom projektu
 2. Razmisliti o Scrum certifikaciji
 3. Pratiti Agile zajednicu i učiti dalje
-
----
-
-**KRAJ SINOPSISA - DAN 5 (ZAVRŠNI DAN AGILE MODULA)** ✅
