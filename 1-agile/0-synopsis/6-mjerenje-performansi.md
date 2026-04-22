@@ -9,6 +9,24 @@
 
 ---
 
+## 📋 Sadržaj
+
+- [🎯 Ciljevi učenja](#-ciljevi-učenja)
+- [⏰ Raspored predavanja](#️-raspored-predavanja)
+- [📋 Pregled slajdova](#-pregled-slajdova-i-prioriteti)
+- [⏰ Sekcija 1: Velocity — Ključna metrika (9:00–10:00)](#️-900-1000---sekcija-1-velocity---ključna-metrika)
+- [⏰ Pauza (10:00–10:15)](#️-1000-1015---pauza-)
+- [⏰ Sekcija 2: Burndown & Burnup Charts (10:15–11:00)](#️-1015-1100---sekcija-2-burndown--burnup-charts)
+- [⏰ Pauza (11:00–11:15)](#️-1100-1115---pauza-)
+- [⏰ Sekcija 3: CFD, Epic Burndown & Control Chart (11:15–12:00)](#️-1115-1200---sekcija-3-cfd-epic-burndown--control-chart)
+- [⏰ Sekcija 4: Ostale metrike & Recap (12:00–12:30)](#️-1200-1230---sekcija-4-ostale-metrike--recap)
+- [❓ Pitanja za provjeru razumijevanja](#-pitanja-za-provjeru-razumijevanja)
+- [🔄 Backup aktivnosti](#-backup-aktivnosti)
+- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+- [🌐 Eksterni resursi](#-eksterni-resursi)
+
+---
+
 ## 🎯 **CILJEVI UČENJA:**
 
 Na kraju ovog predavanja, studentice će moći:
@@ -267,6 +285,8 @@ Focus Factor (FF) smo učili Dan 5. Podsjetnik: FF je postotak vremena koje tim 
 **Primjer iz prakse:**
 "Zamislite tim od 5 ljudi, 2-tjedni sprint. Teorijski: 5 × 10 dana × 8h = 400 sati. Ali stvarno: meetingi (40h), bolest (16h), support (30h)... Realno: ~250 sati. FF = 62.5%"
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Brainstorming - Što utječe na Velocity? (10 min)](#backup-aktivnost-5-brainstorming---što-utječe-na-velocity-10-min) — timski brainstorming dok je velocity tema svježa, odmah nakon što su razumjeli Focus Factor kao jednog od faktora.
+
 ---
 
 ## ⏰ **10:00-10:15 - PAUZA ☕**
@@ -376,6 +396,8 @@ Burndown rijetko prati idealnu liniju. Cilj je da **završi na nuli** na kraju s
 **Česta pitanja:**
 Q: "Zašto je stvarna linija nekad IZNAD planirane?"
 A: "Može značiti: (1) Dodali smo novi posao mid-sprint, (2) Podcijenjeni taskovi, (3) Blokade. Svaki od ovih zahtijeva drugačiju akciju."
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Analiza stvarnog Burndown Charta (10 min)](#backup-aktivnost-4-analiza-stvarnog-burndown-charta-10-min) — studentice analiziraju Example 2 iz PDF-a odmah dok je burndown čitanje svježe.
 
 ---
 

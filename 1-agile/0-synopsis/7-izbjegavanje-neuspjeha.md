@@ -9,6 +9,24 @@
 
 ---
 
+## 📋 Sadržaj
+
+- [🎯 Ciljevi učenja](#-ciljevi-učenja)
+- [⏰ Raspored predavanja](#️-raspored-predavanja)
+- [📋 Pregled slajdova](#-pregled-slajdova-i-prioriteti)
+- [⏰ Sekcija 1: Zašto Agile projekti propadaju? (9:00–10:00)](#️-900-1000---sekcija-1-zašto-agile-projekti-propadaju)
+- [⏰ Pauza (10:00–10:15)](#️-1000-1015---pauza-)
+- [⏰ Sekcija 2: Detaljni uzroci neuspjeha (10:15–11:00)](#️-1015-1100---sekcija-2-detaljni-uzroci-neuspjeha)
+- [⏰ Pauza (11:00–11:15)](#️-1100-1115---pauza-)
+- [⏰ Sekcija 3: Model za upravljanje promjenama (11:15–12:00)](#️-1115-1200---sekcija-3-model-za-upravljanje-promjenama)
+- [⏰ Sekcija 4: Adopcija vs. Transformacija & Recap (12:00–12:30)](#️-1200-1230---sekcija-4-adopcija-vs-transformacija--recap)
+- [❓ Pitanja za provjeru razumijevanja](#-pitanja-za-provjeru-razumijevanja)
+- [🔄 Backup aktivnosti](#-backup-aktivnosti)
+- [📚 Dodatni resursi za facilitatora](#-dodatni-resursi-za-facilitatora)
+- [🌐 Eksterni resursi](#-eksterni-resursi)
+
+---
+
 ## 🎯 **CILJEVI UČENJA:**
 
 Na kraju ovog predavanja, studentice će moći:
