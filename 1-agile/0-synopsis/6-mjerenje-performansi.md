@@ -76,7 +76,7 @@ Danas ćemo naučiti **ključne metrike** koje svaki Agile tim koristi."
 
 ---
 
-### **Slajd 3: Velocity - Ključna metrika (definicija)**
+### **Slajd 7: Velocity - Ključna metrika (definicija)**
 
 **Notes iz PDF-a:**
 _"Velocity: measure of the amount of work a team manages to complete during a single cycle/sprint. It is calculated for each cycle, summing up the effort (in hours or points) expended to complete the 'done' cards."_
@@ -120,7 +120,7 @@ A: "NE! Story pointi su subjektivni - svaki tim ima svoju 'kalibaciju'. Tim A s 
 
 ---
 
-### **Slajd 4: Velocity - Dijagram procesa**
+### **Slajd 8: Velocity - Dijagram procesa**
 
 **Notes iz PDF-a:**
 _"The team pulls their desired number of stories into the current sprint. Each user story includes an estimated number of 'points' as a measure of effort required to complete. User stories that are not completely done at the end of the sprint do not count toward velocity, and are carried into the next sprint. Teams can also pull stories from the top of the product backlog if they finish the full sprint backlog early."_
@@ -171,7 +171,7 @@ A: "To je gaming the system! Velocity nije za natjecanje. Product Owner i Scrum 
 
 ---
 
-### **Slajd 5: Velocity Chart**
+### **Slajd 9: Velocity Chart**
 
 **Notes iz PDF-a:**
 _"Shows workflow speed and team workload per sprint. Allows you to do forecasts for the future."_
@@ -229,7 +229,7 @@ Velocity chart nije za kažnjavanje tima! To je **alat za razgovor**. Ako veloci
 
 ---
 
-### **Slajd 6: Velocity Chart - Requirements & Tips**
+### **Slajd 10: Velocity Chart - Requirements & Tips**
 
 **Notes iz PDF-a:**
 _"Requirements: Definition of work units (effort) for each task and duration of sprints. Continuous communication between team members on completed/to-be-completed tasks. At the end of each sprint, analysis of the number of completed work units. Note: An actual velocity lower than the estimated one may denote: FF too high, Optimistic estimates. Tip: to increase team velocity, start the retrospective from the 'blocked' cards."_
@@ -275,7 +275,7 @@ Focus Factor (FF) smo učili Dan 5. Podsjetnik: FF je postotak vremena koje tim 
 
 ## ⏰ **10:15-11:00 - SEKCIJA 2: BURNDOWN & BURNUP CHARTS**
 
-### **Slajd 7: Burndown Chart - Definicija**
+### **Slajd 11: Burndown Chart - Definicija**
 
 **Notes iz PDF-a:**
 _"Graphical representation of the work required to complete a project. Usually the remaining work (or backlog) is indicated on the vertical axis and the time on the horizontal axis. The diagram represents a time series of tasks to be completed. It is useful for predicting when the work will be completed."_
@@ -559,7 +559,7 @@ A: "Dobar: Klijent vidi demo, ima bolju ideju, dodaje vrijednost. Loš: Klijent 
 
 ---
 
-### **Slajd 24-25: Control Chart**
+### **Slajd 18-19: Control Chart**
 
 **Notes iz PDF-a:**
 _"It highlights the cycle time of the cards, i.e. the time between 'doing' and 'done'. In an ideal situation, all cards/issues should be below the red line (average cycle time). In general: Short cycle time → High productivity. Constant cycle time → predictable delivery times. The ideal situation is therefore to have teams with short cycle times and constant cycle times."_
