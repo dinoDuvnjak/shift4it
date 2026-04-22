@@ -80,7 +80,7 @@ Danas ćemo naučiti prepoznati **7 glavnih uzroka** neuspjeha i **kako ih izbje
 
 ---
 
-### **Slajd 2: Typical causes of failure - Statistika**
+### **Slajd 22: Typical causes of failure - Statistika**
 
 **Notes iz PDF-a:**
 _"A study conducted on more than 4,000 individuals highlighted the main causes of Agile failure. Company culture continues to dominate the top causes of failed Agile projects with company philosophy or culture at odds with core Agile values at 46%, and lack of management support for cultural transition at 38%."_
@@ -130,7 +130,7 @@ Ako studentice kažu "Ali mi smo početnice, nemamo iskustva s kulturom organiza
 
 ---
 
-### **Slajd 3: Typical causes of failure - Uzroci 1-2**
+### **Slajd 23: Typical causes of failure - Uzroci 1-2**
 
 **Notes iz PDF-a:**
 _"1. Contrasting organisational culture: Understanding that agile impacts organisational values and facilitating transformation is the first step towards wider adoption of agile. 2. Lack of experience with the method: Investing in solid training in basic agile techniques and coaching for their correct application is money well spent."_
@@ -191,7 +191,7 @@ Razumijevanje da Agile nije samo 'nova metoda' nego **nova filozofija** je **prv
 
 ---
 
-### **Slajd 4: Typical causes of failure - Uzroci 3-4**
+### **Slajd 25: Typical causes of failure - Uzroci 3-4**
 
 **Notes iz PDF-a:**
 _"3. Poor support in cultural transition: Tangible and active involvement of all management is crucial for cultural transformation. 4. External pressure to Waterfall: Especially in large organisations, in order to facilitate coexistence between Agile and Waterfall teams, it is useful to involve people 'outside' Agile in meetings and to agree on mutual 'interfaces' for exchanging information."_
@@ -265,7 +265,7 @@ U parovima, pročitajte scenarij i identificirajte uzrok:
 
 ## ⏰ **10:15-11:00 - SEKCIJA 2: DETALJNI UZROCI NEUSPJEHA**
 
-### **Slajd 5: Typical causes of failure - Uzroci 5-7**
+### **Slajd 26: Typical causes of failure - Uzroci 5-7**
 
 **Notes iz PDF-a:**
 _"5. Organisational and/or communicational issues: The effectiveness of Agile depends on a broad and deep acquisition of values and principles at organisational level. 6. Team reluctance: Occurs when team members fear losing identity or control. 7. Insufficient training: Ensure that all those involved (including leaders) receive solid training on Agile."_
@@ -478,7 +478,7 @@ Nacrtaj tablicu na ploči i tijekom diskusije popunjavaj s primjerima studentica
 
 ## ⏰ **12:00-12:30 - SEKCIJA 4: ADOPCIJA VS. TRANSFORMACIJA & RECAP**
 
-### **Slajd 7-8: Agile adoption vs Agile transformation**
+### **Slajd 28-29: Agile adoption vs Agile transformation**
 
 **Notes iz PDF-a:**
 _"Agile adoption: use of tools and techniques in line with Agile principles. Agile transformation: process of evolution of the culture and nature of the organisation."_
