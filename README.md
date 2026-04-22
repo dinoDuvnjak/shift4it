@@ -4,6 +4,20 @@
 
 ---
 
+## 📋 Sadržaj
+
+- [⚡ Izmjene rasporeda](#-izmjene-rasporeda-revizija-40--opcija-b)
+- [Raspored](#raspored)
+  - [✅ Završeno](#-završeno)
+  - [📅 Predstojeće sesije](#-predstojeće-sesije)
+- [🆕 CraftEase Projekt — Pregled](#-craftease-projekt--pregled)
+- [📚 PDF Materijali](#-pdf-materijali)
+- [🎯 Pedagoške metode](#-pedagoške-metode)
+- [⚙️ Alati](#️-alati)
+- [📝 Napomene za facilitatora](#-napomene-za-facilitatora)
+
+---
+
 ## ⚡ Izmjene rasporeda (Revizija 4.0 — Opcija B+)
 
 **Razlog:** Nadoknada propuštenih sesija + optimizacija sadržaja za PM profil studentica + 3 CraftEase sprinta.
