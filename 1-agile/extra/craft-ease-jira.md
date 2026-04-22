@@ -40,25 +40,31 @@
 **Projekt tip:** Scrum (ne Kanban)
 **Naziv projekta:** CraftEase - SHIFT4IT Bootcamp
 
-### Jira Accounti
+### Jira Setup
 
-| Account | Rola u Scrum-u | Tim | Aktivno u |
-|---|---|---|---|
-| `craftease-business` | Business Team | 3 studentice | Sprint 1–3 (tvoj modul) |
-| `craftease-design` | Design Team | 5 studentice | Sprint 1–3 (tvoj modul) |
-| `craftease-dev` | Dev Team | programerske studentice | Sprint 4+ (programerski modul) |
-| `facilitator` | **Product Owner** | Facilitatorica | cijeli projekt |
+**Jedan projekt, svi na njemu.**
 
-> **Napomena:** Facilitatorica je uvijek **Product Owner** — osoba koja definira što se gradi i zašto. Svaki tim ima **rotacijskog Scrum Mastera** — svaki sprint druga studentica vodi standup i Sprint Review za svoj tim.
+| Tko | Jira rola | Broj |
+|---|---|---|
+| Facilitatorica | Project Admin + **Product Owner** | 1 |
+| Business studentice | Member | 3 |
+| Design studentice | Member | 5 |
+| Dev studentice | Member | 3 |
 
-> **Dev Team logika:** Dev stories postoje u backlogu od početka, ali su **bez dodijeljenog sprinta** dok ne počne programerski modul. Tvoje PM studentice vide cijeli board — to je realna PM perspektiva. Dev ne može početi dok Business ne završi User Stories s Acceptance Criteria i Design ne završi wireframes. Taj handoff se događa prirodno na kraju Sprint 3.
+Svaka studentica kreira vlastiti Jira account (email) i facilitatorica ih poziva na **jedan zajednički projekt**. Timovi (Business / Design / Dev) nisu odvojeni accounti — to su samo oznake na Stories i Tasks unutar istog projekta.
+
+**Kako se razlikuju timovi u Jiri:**
+- Svaka Story/Task je dodijeljena konkretnoj osobi (Assignee)
+- Opcionalno: koristiti **Labels** (`business`, `design`, `dev`) za filtriranje po timu na boardu
+
+> **Napomena:** Facilitatorica je uvijek **Product Owner** — jedina koja "prihvaća" ili "vraća" Stories na Sprint Reviewu. Svaki tim ima **rotacijskog Scrum Mastera** — svaki sprint druga studentica vodi Sprint Planning i Review za svoj tim.
 
 ### Što facilitatorica pripremi PRIJE Sprint 1 (do 22.04):
 
 - [ ] Kreirati Jira projekt (tip: Scrum)
 - [ ] Dodati 3 Epica (vidi dolje)
 - [ ] Kreirati 3 sprinta s datumima (23.04 / 05.05 / 07.05)
-- [ ] Pozvati studentice na oba account-a
+- [ ] Pozvati sve studentice (11) na projekt — svaka dolazi s vlastitim Jira accountom
 - [ ] Kreirati početni backlog sa Stories za Sprint 1 (ili to rade studentice kao prvi zadatak u Sprint Planningu)
 - [ ] Otvoriti Figma projekt sa zajedničkim workspace-om za Design tim
 
@@ -128,6 +134,13 @@ Korisno pitanje za studentice: *"Koji je najmanji set screena koji bi pokazao kl
 > 💡 **Facilitator napomena:** User Stories u Sprint 1 su DRAFT — ne trebaju Acceptance Criteria još. To dolazi u Sprint 2. Format: *"Kao [tip korisnika], želim [akciju], kako bih [cilj]."*
 
 ### 🎨 Design Team
+
+**STORY — Postaviti Figma projekt** *(EPIC-2)*
+- TASK — Kreirati novi Figma projekt (Public — "Anyone with link can view/edit")
+- TASK — Podijeliti link s facilitatoricom i svim Design studenticama
+- TASK — Dodati početnu strukturu: Pages → `Benchmark`, `Persona`, `Sprint 2`, `Sprint 3`
+
+> 💡 **Facilitator napomena:** Ovo je prvi task u Sprint Planningu — bez ovoga Design tim ne može raditi kolaborativno. Public projekt znači da facilitatorica uvijek može vidjeti napredak bez posebnih pozivnica.
 
 **STORY — Benchmark analiza (3 konkurenta)** *(EPIC-1)*
 - TASK — Analizirati Home Depot / Hornbach (screenshoti + komentari u Figmi)
