@@ -39,30 +39,9 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-9:15    Uvod i motivacija - Zašto accessibility?
-9:15-10:00   Sekcija 1: ROI of Accessibility (45 min)
-10:00-10:15  ☕ PAUZA
-10:15-11:00  Sekcija 2: ROI nastavak + Veza s SEO/UX (45 min)
-11:00-11:15  ☕ PAUZA
-11:15-12:15  Sekcija 3: Legislativa i WCAG principi (60 min)
-12:15-12:30  Recap & Diskusija
-```
-
-**Ukupno efektivno vrijeme: 180 minuta (3 sata)**
-
----
-
 ## ⏰ **9:00-9:15 - UVOD I MOTIVACIJA**
 
 ### **Slajd 1: Introduction to Accessibility**
-
-**Notes iz PDF-a:**
-_"Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only..."_
-
-**Što reći studentima (3 min):**
 
 "Dobro jutro svima! Danas počinjemo s jednom od najvažnijih tema u UX/UI dizajnu - **accessibility** ili pristupačnost.
 
@@ -79,11 +58,6 @@ Sve to su situacije gdje accessibility rješenja pomažu SVIMA."
 
 ### **Slajd 2: Summary**
 
-**Notes iz PDF-a:**
-_"1. Return on Investment of Accessibility, 2. Legislation, 3. Auditing/Testing, 4. Manage, 5. Conclusions"_
-
-**Što reći studentima (2 min):**
-
 "Danas ćemo pokriti prve dvije velike teme:
 
 1. **ROI of Accessibility** - Zašto se accessibility isplati (poslovni razlozi)
@@ -98,12 +72,7 @@ Accessibility se često doživljava kao "dodatni trošak" ili "nešto što moram
 
 ---
 
-### **Slajd 3: Helen Keller citat**
-
-**Notes iz PDF-a:**
-_"The only thing worse than being blind is having sight but no vision." - Helen Keller_
-
-**Što reći studentima (3 min):**
+### **Slajd 4: Helen Keller citat**
 
 "Helen Keller je bila gluhoslijepa aktivistica iz 19. stoljeća. Ovaj njezin citat savršeno opisuje pristupačnost:
 
@@ -119,11 +88,6 @@ Accessibility nije charity - to je **dobro dizajniranje**."
 ---
 
 ### **Slajd 4: a11y?**
-
-**Notes iz PDF-a:**
-_"a11y stands for accessibility - diagram showing 11 letters between 'a' and 'y'"_
-
-**Što reći studentima (5 min):**
 
 "Vidjet ćete često skraćenicu **a11y** - što to znači?
 
@@ -155,12 +119,7 @@ A: "Može se izgovoriti 'ally' (saveznik) ili jednostavno 'accessibility'. Oboje
 
 ## ⏰ **9:15-10:00 - SEKCIJA 1: ROI OF ACCESSIBILITY**
 
-### **Slajd 5: ROI of Accessibility - Naslov**
-
-**Notes iz PDF-a:**
-_"Accessibility isn't just about inclusion, it's also a real business opportunity. It can help reach more users, improve SEO, and reduce development costs in the long run."_
-
-**Što reći studentima (3 min):**
+### **Slajd 6: ROI of Accessibility - Naslov**
 
 "Sada ulazimo u najvažniji dio za bilo koga tko radi u businessu - **ROI** ili Return on Investment.
 
@@ -175,17 +134,7 @@ Idemo detaljnije kroz svaku od ovih prednosti."
 
 ---
 
-### **Slajd 6: Beyond Disability**
-
-**Notes iz PDF-a:**
-_"Around 15% of the population has a disability. Yes, but:
-- Not everyone goes online/uses a smartphone
-- Not every handicap is a hindrance
-- Obstacles differ depending on the disability
-- 'Not my target audience'
-- 'Only 15%?'"_
-
-**Što reći studentima (8 min):**
+### **Slajd 7: Beyond Disability**
 
 "Kada kažemo '15% populacije ima invaliditet', mnogi odmah pomisle:
 
@@ -219,12 +168,7 @@ Zamoli studentice da zatvore oči i pokušaju otvoriti neku aplikaciju na mobite
 
 ---
 
-### **Slajd 7-8: Disability, and much more**
-
-**Notes iz PDF-a:**
-_"Beyond Disability, accessibility can support innovation: Accessibility features integrated into products and services solve unexpected problems."_
-
-**Što reći studentima (10 min):**
+### **Slajd 9-10: Disability, and much more**
 
 "Accessibility nije samo za osobe s invaliditetom - često je **pokretač inovacija** koje koristimo svi.
 
@@ -257,12 +201,8 @@ Očekivani odgovori:
 
 ---
 
-### **Slajd 9-12: Voice Interaction Timeline**
+### **Slajd 12: Voice Interaction Timeline**
 
-**Notes iz PDF-a:**
-_"1998: Dragon Speech-to-text, 2011: Samsung Smart TV, 2013: Tesla, 2013+: Dragon Pro. Accessibility has played a key role in the emergence and innovation of these voice technologies."_
-
-**Što reći studentima (8 min):**
 
 "Pogledajmo evoluciju glasovne interakcije:
 
@@ -292,11 +232,6 @@ Voice interaction je savršen primjer kako accessibility vodi inovaciju. Tehnolo
 
 ### **Slajd 13-14: Quality code + Machine interaction**
 
-**Notes iz PDF-a:**
-_"Quality code + semantics enables voice interaction and machine-machine interaction. Good quality code with clear semantics makes interactions more fluid, precise, and accessible."_
-
-**Što reći studentima (7 min):**
-
 "Ovdje dolazimo do važne veze između accessibility i **kvalitetnog koda**.
 
 **Zašto je semantički HTML važan?**
@@ -324,11 +259,6 @@ Accessibility i kvalitetan kod idu zajedno!"
 
 ### **Slajd 15: Gaze Interaction Timeline**
 
-**Notes iz PDF-a:**
-_"1986: LC Technologies, 2011: Eye Tribe, 2015: EyeWink. Accessibility has been a major catalyst in the development of gaze interaction technologies."_
-
-**Što reći studentima (5 min):**
-
 "Još jedan fascinantan primjer accessibility-driven inovacije: **gaze tracking** (praćenje pogleda).
 
 **1986 - LC Technologies**
@@ -344,12 +274,7 @@ Stephen Hawking je koristio sličnu tehnologiju za komunikaciju. Danas tu istu t
 
 ---
 
-### **Slajd 16: Accessibility is the NASA of the web**
-
-**Notes iz PDF-a:**
-_"The comparison highlights that accessibility represents exploration, innovation, and pushing boundaries within the digital universe."_
-
-**Što reći studentima (5 min):**
+### **Slajd 17: Accessibility is the NASA of the web**
 
 "'Accessibility je NASA weba' - što to znači?
 
@@ -380,12 +305,7 @@ Ova metafora pomaže repozicionirati accessibility od "dosadne obveze" do "uzbud
 
 ## ⏰ **10:15-11:00 - SEKCIJA 2: ROI NASTAVAK**
 
-### **Slajd 17: Google is the most famous blind man**
-
-**Notes iz PDF-a:**
-_"Google, through its products and services, has become a symbol of universal accessibility and inclusivity."_
-
-**Što reći studentima (7 min):**
+### **Slajd 18: Google is the most famous blind man**
 
 "'Google je najpoznatiji slijepac na svijetu' - provokativna izjava, ali točna!
 
@@ -419,12 +339,7 @@ Ovo je jedan od najjačih argumenata za accessibility u business kontekstu. Acce
 
 ---
 
-### **Slajd 18-23: WCAG Principles**
-
-**Notes iz PDF-a:**
-_"WCAG - Web Content Accessibility Guidelines. Four principles: Perceivable, Operable, Understandable, Robust (POUR)."_
-
-**Što reći studentima (15 min):**
+### **Slajd 19-23: WCAG Principles**
 
 "WCAG je globalni standard za web accessibility. Bazira se na 4 principa - **POUR**:
 
@@ -487,12 +402,7 @@ A: "Ne. AA je standard koji zakoni zahtijevaju. AAA je idealan cilj, ali nije uv
 
 ---
 
-### **Slajd 24: Additional reading WCAG**
-
-**Notes iz PDF-a:**
-_"WCAG Guidelines for Creating Accessible Web Design & Benefits of WCAG for Designers"_
-
-**Što reći studentima (2 min):**
+### **Slajd 25: Additional reading WCAG**
 
 "Ovo je link za vaše dodatno čitanje. Ne morate znati sve WCAG kriterije napamet - to ima 80+ kriterija!
 
@@ -509,12 +419,7 @@ Sutra ćemo raditi s alatima koji automatski provjeravaju WCAG compliance."
 
 ---
 
-### **Slajd 25-26: Cross-reference A11Y + Potential market**
-
-**Notes iz PDF-a:**
-_"More than a billion people worldwide live with a disability = vast untapped market potential. An accessible site = open doors to this diverse audience."_
-
-**Što reći studentima (7 min):**
+### **Slajd 26-27: Cross-reference A11Y + Potential market**
 
 "Sada idemo u konkretne poslovne brojke:
 
@@ -542,12 +447,7 @@ Korisnici NE napuštaju accessible stranice - ostaju duže, kupuju više, vraća
 
 ---
 
-### **Slajd 27-28: Cross-reference A11Y + SEO**
-
-**Notes iz PDF-a:**
-_"Search engines like Google reward websites that are accessible. These sites are propelled higher in search results."_
-
-**Što reći studentima (8 min):**
+### **Slajd 28-29: Cross-reference A11Y + SEO**
 
 "Accessibility i SEO idu ruku pod ruku. Evo zašto:
 
@@ -597,12 +497,7 @@ Otvori Chrome DevTools → Lighthouse → Run audit na bilo kojoj stranici. Poka
 
 ---
 
-### **Slajd 29-30: Crosscheck A11Y + Cost Dev**
-
-**Notes iz PDF-a:**
-_"Integrating accessibility into the development process from the outset is far more cost-effective than integrating it at the end."_
-
-**Što reći studentima (5 min):**
+### **Slajd 31-31: Crosscheck A11Y + Cost Dev**
 
 "Accessibility je jeftiniji ako ga planirate od početka!
 
@@ -635,11 +530,6 @@ Promjena kontrasta nakon launcha = redizajn cijelog UI sustava.
 
 ### **Slajd 31: Crosscheck A11Y + Brand Image**
 
-**Notes iz PDF-a:**
-_"Demonstrating commitment to inclusivity promotes positive perception of your brand."_
-
-**Što reći studentima (5 min):**
-
 "Brand image je možda najmanje mjerljiv, ali iznimno važan aspekt accessibility-ja.
 
 ### **INCLUSIVE BRANDS:**
@@ -664,11 +554,6 @@ Tvrtke koje su tužene zbog accessibility-ja:
 ---
 
 ### **Slajd 32-34: ROI Measurement**
-
-**Notes iz PDF-a:**
-_"Calculating the exact ROI of Web accessibility is complex, but several indicators offer valuable information: website traffic, conversion rates, bounce rate reduction, brand awareness."_
-
-**Što reći studentima (7 min):**
 
 "Kako mjeriti ROI accessibility-ja?
 
@@ -706,11 +591,6 @@ _"Calculating the exact ROI of Web accessibility is complex, but several indicat
 
 ### **Slajd 35: Legislation - Naslov**
 
-**Notes iz PDF-a:**
-_"Accessibility is not a constraint. It's a strategy."_
-
-**Što reći studentima (3 min):**
-
 "Sada ulazimo u možda manje zabavan, ali iznimno važan dio - **zakonodavstvo**.
 
 Zašto je ovo bitno za vas kao dizajnere?
@@ -724,12 +604,7 @@ Accessibility nije samo 'lijepa opcija' - postaje **zakonska obveza**."
 
 ---
 
-### **Slajd 36-38: Legislation for the Public Sector**
-
-**Notes iz PDF-a:**
-_"Timeline: 2010 - ADA proposal, 2012 - EU directive proposal, 2014 - German legislation, 2016 - EU adopts e-inclusion directive for public sector."_
-
-**Što reći studentima (8 min):**
+### **Slajd 37-3: Legislation for the Public Sector**
 
 "Accessibility zakonodavstvo se razvijalo postupno:
 
@@ -764,12 +639,7 @@ _"Timeline: 2010 - ADA proposal, 2012 - EU directive proposal, 2014 - German leg
 
 ---
 
-### **Slajd 39-41: Public Sites - The Obligation**
-
-**Notes iz PDF-a:**
-_"Publication of accessibility declaration: level of compliance, what parts are not accessible, improvements planned, how accessibility was tested, contact for difficulties."_
-
-**Što reći studentima (10 min):**
+### **Slajd 42: Public Sites - The Obligation**
 
 "Javne stranice MORAJU objaviti **accessibility declaration** (izjavu o pristupačnosti).
 
@@ -803,11 +673,6 @@ Postoji iznimka - ako bi accessibility bio **neproporcionalan teret** za organiz
 ---
 
 ### **Slajd 42-44: Legislation for Non-Public Sector**
-
-**Notes iz PDF-a:**
-_"June 28, 2025: companies will be impacted by the European Accessibility Act (EAA). Sectors: transportation, telephone, e-commerce, banking, e-books, audiovisual media."_
-
-**Što reći studentima (12 min):**
 
 "A sada najvažniji dio za vas - **privatni sektor**.
 
@@ -852,12 +717,7 @@ A: "EAA ima iznimke za mikro poduzeća (manje od 10 zaposlenih i manje od 2M EUR
 
 ---
 
-### **Slajd 45: France goes further**
-
-**Notes iz PDF-a:**
-_"France: RGAA aligned with WCAG 2.1 AA. Non-compliance fines up to €50,000. Regular audits required."_
-
-**Što reći studentima (5 min):**
+### **Slajd 47: France goes further**
 
 "Francuska je primjer kako neke zemlje idu dalje od EU minimuma.
 
@@ -880,11 +740,6 @@ Preporuka: **uvijek ciljajte WCAG 2.2 AA** - to pokriva većinu zakona."
 ---
 
 ### **Slajd 46-47: WebAIM's Hierarchy for Motivating Change**
-
-**Notes iz PDF-a:**
-_"Pyramid from bottom to top: Guilt, Punish, Require, Reward, Enlighten, Inspire. Most effective: Inspiration."_
-
-**Što reći studentima (8 min):**
 
 "Ova piramida pokazuje **što motivira organizacije** da implementiraju accessibility:
 
@@ -920,12 +775,7 @@ Najefektivnija strategija je kombinacija:
 
 ---
 
-### **Slajd 48: Accessibility is a state of mind**
-
-**Notes iz PDF-a:**
-_"Accessibility is a state of mind, not a checklist. True accessibility goes beyond technical requirements."_
-
-**Što reći studentima (5 min):**
+### **Slajd 49: Accessibility is a state of mind**
 
 "Završavamo današnji teoretski dio s najvažnijom porukom:
 
