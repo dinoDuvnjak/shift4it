@@ -86,7 +86,7 @@ A: "Da! Ako si naučila nešto novo ili misliš da možeš bolje, promijeni. Des
 
 ## ⏰ **9:10-9:30 (20 min) - IDEATE: SKETCH 5 RADICAL IDEAS**
 
-### **Slajd 24: Ideate - Generate alternatives to test**
+### **Slajd 27: Ideate - Generate alternatives to test**
 
 **Notes iz PDF-a:**
 _"Neka prepišu svoj problem statement na vrh stranice. Podsjeti ih da sada kreiraju rješenja za novi challenge koji su identificirali. Pitaj ih da skiciraju puno ideja za problem i pokušaju kreirati različite ideje. GO FOR VOLUME! Ovo je vrijeme za generiranje ideja, ne evaluaciju - možeš evaluirati ideje kasnije. Možeš čak predložiti prijateljsko natjecanje tko će smisliti najviše ideja - 'Vidimo možete li smisliti najmanje 7 ideja!' Podsjeti ih da ne dizajniraju nužno platformu; umjesto toga trebaju kreirati rješenja za problem statement koji su upravo kreirali."_
@@ -207,11 +207,6 @@ A: "Koristi 'What if' prompts - 'Što ako bi ovo bilo igra?', 'Što ako bi bilo 
 
 ### **Slajd 25-26: Boosting Ideation with Positive Emotional Granularity**
 
-**Notes iz PDF-a:**
-_"Ovdje su kartice pozitivnih emocija koje pomažu voditi dizajn i izazivati prijedloge ideja. Objasni kako koristiti emotion-based prompt cards."_
-
-**Što reći studentima (10 min):**
-
 "Sada ćemo naučiti tehniku koja će vam pomoći generirati još bolje ideje - **Emotional Granularity**.
 
 **Što je to?**
@@ -263,7 +258,7 @@ Umjesto da kažemo 'Želim da korisnik bude sretan', budimo precizniji:
 **Vaš zadatak:**
 Razmislite - koju emociju želite da vaš partner osjeća kada koristi vaše rješenje?"
 
-### **Slajd 27-28: Expanding Ideation with "What If" Prompts**
+### **Slajd 30-31: Expanding Ideation with "What If" Prompts**
 
 **Što reći studentima (5 min):**
 
@@ -815,11 +810,6 @@ Donesite vaše prototypes - testirat ćete ih s partnerom!"
 
 ### **Slajd 32-33: Don't cling to your solution + Share your solutions & capture feedback**
 
-**Notes iz PDF-a:**
-_"Moraš pustiti i ne držati se prečvrsto svog rješenja. Moraš prihvatiti da će biti izazvan od strane korisnika. Sada je vrijeme da podijeliš svoje skice s partnerom. Partner A, podijeli svoje skice s Partnerom B prvo, zatim ćemo reći kada se prebaciti nakon 4 minute. Provedi vrijeme slušajući reakcije i pitanja svog partnera. Ovo nije samo o validaciji tvojih ideja. Bori se protiv želje da objašnjavaš i braniš svoje ideje. Ovo je još jedna prilika da naučiš više o osjećajima i motivacijama svog partnera. Reci im da bilježe što se partneru sviđa/ne sviđa, kao i pitanja koja su se pojavila i nove ideje."_
-
-**Što reći studentima (5 min):**
-
 "Sada dolazimo do **TEST** faze - najvažnijeg dijela!
 
 **Prije nego počnete - VAŽNA LEKCIJA:**
@@ -984,7 +974,7 @@ A: "Ne tijekom - bilježi što bi promijenila. Mijenjat ćeš nakon testiranja."
 
 ## ⏰ **11:35-11:50 (15 min) - USABILITY TESTING THEORY**
 
-### **Slajd 37-38: Understanding Usability Testing Through Usability of Fruits**
+### **Slajd 40-41: Understanding Usability Testing Through Usability of Fruits**
 
 **Notes iz PDF-a:**
 _"Ovdje uvodimo koncept user testiranja. Da bismo uveli ovaj koncept, oslanjamo se na video koji pokazuje user testove koristeći voće."_
