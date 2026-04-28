@@ -207,6 +207,8 @@ Razumijevanje da Agile nije samo 'nova metoda' nego **nova filozofija** je **prv
 **Primjer iz prakse:**
 "Poznajem tvrtku koja je uvela Scrum, ali je direktor nastavio dolaziti na Daily Standup i pitati ljude 'Zašto ovo još nije gotovo?'. Tim se prestao iskreno javljati na standupu - postalo je izvještavanje šefu, ne koordinacija tima."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: "What Would You Do?" scenariji (10 min)](#backup-aktivnost-6-what-would-you-do-scenariji-10-min) — parovi diskutiraju stvarne situacije vezane uz uzroke 1-4, dok su suprotstavljena kultura i nedostatak iskustva upravo obrađeni.
+
 ---
 
 ### **Slajd 25: Typical causes of failure - Uzroci 3-4**
@@ -381,6 +383,8 @@ Svaka grupa dijeli svoje nalaze.
 **Ključna poruka:**
 Ovaj case study je TIPIČAN. Većina neuspješnih Agile implementacija izgleda ovako - djelomično, površno, bez podrške.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Mapiranje uzroka na vlastitu organizaciju (15 min)](#backup-aktivnost-3-mapiranje-uzroka-na-vlastitu-organizaciju-15-min) — individualna refleksija gdje svaka studentica ocjenjuje rizike za organizaciju koju poznaje, direktna primjena svih 7 uzroka.
+
 ---
 
 ## ⏰ **11:00-11:15 - PAUZA ☕**
@@ -459,6 +463,8 @@ Knoster model je jednostavan ali moćan. Možeš ga koristiti za bilo koju promj
 **Vizualizacija:**
 Nacrtaj tablicu na ploči i tijekom diskusije popunjavaj s primjerima studentica.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Knoster dijagnoza - Kviz (10 min)](#backup-aktivnost-2-knoster-dijagnoza---kviz-10-min) — facilitator čita scenarij, studentice pogađaju koji element nedostaje, brza i zabavna primjena modela koji je upravo objašnjen.
+
 ---
 
 ### **Primjena Knoster modela na Agile transformaciju (10 min)**
@@ -491,6 +497,8 @@ Nacrtaj tablicu na ploči i tijekom diskusije popunjavaj s primjerima studentica
 - Tim počne pa stane, počne pa stane
 - Dijagnoza: **Nedostaje AKCIJSKI PLAN**
 - Rješenje: Jasan roadmap s milestoneima"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 5: Kreiranje "Agile Readiness Checklist" (10 min)](#backup-aktivnost-5-kreiranje-agile-readiness-checklist-10-min) — grupe kreiraju checklist od 10 pitanja koji testira sve 5 Knoster elemenata, sinteza Sekcije 3.
 
 ---
 
@@ -550,6 +558,8 @@ _"Agile adoption: use of tools and techniques in line with Agile principles. Agi
 ✏️ **ZAVRŠNA DISKUSIJA (5 min):**
 "Razmislite o organizacijama koje poznajete (tvrtke, institucije, udruge). Mislite li da su sposobne za Agile transformaciju? Što bi im bilo najveći izazov?"
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 4: Debate - Adopcija ili Transformacija? (15 min)](#backup-aktivnost-4-debate---adopcija-ili-transformacija-15-min) — 2 grupe brane suprotne strane dok je razlika adopcija/transformacija upravo obrađena i pitanje svježe u glavi.
+
 ---
 
 ### **Recap & Završetak (10 min)**
@@ -581,6 +591,8 @@ _"Agile adoption: use of tools and techniques in line with Agile principles. Agi
 > Agile nije alat koji kupite. Agile je putovanje koje nikad ne završava.
 
 **PITANJA?**"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Roleplay - Uvjeravanje managera (15 min)](#backup-aktivnost-1-roleplay---uvjeravanje-managera-15-min) — parovi vježbaju argumentaciju za Agile, praktična primjena svega naučenog / ili [BACKUP AKTIVNOST 7: Refleksija - Moj Agile Mindset (5 min)](#backup-aktivnost-7-refleksija---moj-agile-mindset-5-min) za tiho, introspektivno zatvaranje dana.
 
 ---
 

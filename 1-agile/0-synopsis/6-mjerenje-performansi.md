@@ -446,6 +446,8 @@ _"[Primjer kada stvarnost ne prati plan - scope creep]"_
 **Ključna poruka:**
 Scope creep je **neprijatelj broj 1** za Agile timove. Burndown chart je **rani alarm** - ako linija ne pada, nešto nije u redu.
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 1: Crtanje vlastitog Burndown Charta (15 min)](#backup-aktivnost-1-crtanje-vlastitog-burndown-charta-15-min) — studentice sami nacrtaju sprint sa scope creepom, hands-on dok je "tužna stvarnost" upravo pokazana.
+
 ---
 
 ### **Slajd 17: Burnup Chart**
@@ -579,6 +581,8 @@ U Agile-u, scope creep NIJE uvijek loš! Klijent može promijeniti zahtjeve na t
 Q: "Kako razlikovati 'dobri' i 'loši' scope creep?"
 A: "Dobar: Klijent vidi demo, ima bolju ideju, dodaje vrijednost. Loš: Klijent stalno mijenja mišljenje, dodaje 'nice to have' bez prioriteta. Razlika je u VRIJEDNOSTI koju novo donosi."
 
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 7: Kreiranje metrika za fiktivni projekt (15 min)](#backup-aktivnost-7-kreiranje-metrika-za-fiktivni-projekt-15-min) — grupe definiraju Epice i metrike za mobilnu app, direktna veza s Epic Burndown i scope creep konceptima koji su upravo obrađeni.
+
 ---
 
 ### **Slajd 18-19: Control Chart**
@@ -635,6 +639,8 @@ Svaka točka iznad gornje granice je prilika za učenje:
 
 📚 **FACILITATOR NOTES:**
 Potakni kreativnost. Nema jednog točnog odgovora - cilj je da studentice povežu metrike s akcijama.
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 2: Quiz - Prepoznaj Problem s Metrike (10 min)](#backup-aktivnost-2-quiz---prepoznaj-problem-s-metrike-10-min) — brzi natjecateljski kviz koji testira sve 5 naučenih metrika, idealan prijelaz prema Sekciji 4.
 
 ---
 
@@ -693,6 +699,8 @@ Velocity pada. Brojevi kažu: 'Problem!' Retrospektiva kaže: 'Dva seniora su ot
 - ✅ Kvantitativno + kvalitativno = prava slika
 
 **PITANJA?**"
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 3: Roleplay - Retrospektiva oko metrika (15 min)](#backup-aktivnost-3-roleplay---retrospektiva-oko-metrika-15-min) — tim simulira retrospektivu s konkretnim metrikama, savršeno zatvaranje dana.
 
 ---
 
@@ -865,6 +873,8 @@ SMANJUJE: Scope creep, Blokade, Bolesti, Nejasni zahtjevi, Tehnički dug
 - [ ] Flipchart ili ploča za brainstorming
 - [ ] Timer za vježbe
 - [ ] Opcionalno: Slatkiši za Bingo nagradu
+
+> 💡 **Ako ostane vremena:** [BACKUP AKTIVNOST 6: "Metric Bingo" (5 min)](#backup-aktivnost-6-metric-bingo-5-min) — brza, energetska aktivnost za kraj predavanja, pojmovi iz cijelog dana.
 
 ---
 
