@@ -39,22 +39,6 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-9:15    Recap jučerašnjeg + Uvod u testiranje
-9:15-10:00   Sekcija 1: Automated Testing Tools (45 min)
-10:00-10:15  ☕ PAUZA
-10:15-11:00  Sekcija 2: Manual Testing + WCAG u praksi (45 min)
-11:00-11:15  ☕ PAUZA
-11:15-12:00  Sekcija 3: Accessibility u Figmi + Praktične vježbe (45 min)
-12:00-12:30  Manage, Conclusions, Recap
-```
-
-**Ukupno efektivno vrijeme: 180 minuta (3 sata)**
-
----
-
 ## ⏰ **9:00-9:15 - RECAP I UVOD**
 
 ### **Recap jučerašnjeg dana (8 min):**
@@ -109,9 +93,6 @@ Automatski alati su odlični za brzu provjeru, ali ne mogu zamijeniti ljudsku pr
 
 ### **Slajd 49: Auditing/Testing - Naslov**
 
-**Notes iz PDF-a:**
-_"There are different ways to check if a website is accessible: Automated tools – quick but only detect some issues. Manual testing – slower but finds more problems. User testing – the best way to understand real challenges."_
-
 **Što reći studentima (3 min):**
 
 "Sada ulazimo u praktični dio - alati za testiranje.
@@ -125,9 +106,6 @@ To je kao da imate spell-checker za tekst - pomoći će s pravopisom, ali neće 
 ---
 
 ### **Slajd 50-51: Supports and Levels**
-
-**Notes iz PDF-a:**
-_"WCAG has different conformance levels: A, AA, AAA. Most regulations require AA level."_
 
 **Što reći studentima (5 min):**
 
@@ -150,6 +128,34 @@ _"WCAG has different conformance levels: A, AA, AAA. Most regulations require AA
 - 32 na razini A
 - 24 na razini AA
 - 30 na razini AAA"
+
+Europska direktiva o pristupačnosti (poput Direktive (EU) 2016/2102) ne zahtijeva izričito označavanje web-stranica oznakom ili „bedžom” pristupačnosti.
+Međutim, zahtijeva da web-stranice i mobilne aplikacije javnog sektora objave javnu izjavu o pristupačnosti koja opisuje razinu usklađenosti, trenutačne napore i kontakt podatke za povratne informacije korisnika.
+Drugim riječima, iako formalna oznaka ili certifikat nisu obvezni, transparentnost i informiranje o pristupačnosti jesu, kako bi korisnici mogli razumjeti razinu pristupačnosti i znati kome se obratiti za podršku.
+Objava izjave o pristupačnosti dobar je način da organizacije i tvrtke pokažu koje napore ulažu, jer ona jasno prikazuje razinu usklađenosti, planirana poboljšanja i mogućnosti kontakta za korisnike.
+
+## **Slajd 59: Odabir datoteka**
+
+Sažetak:
+Fokusirajte se na stranice s velikim prometom i ključne stranice
+Obuhvatite različite vrste sadržaja i funkcionalnosti
+Prioritet dajte ključnim točkama korisničkog putovanja
+Ograničite se na upravljiv broj stranica koji je reprezentativan za cijelu web-stranicu
+Ovakav pristup osigurava da je vaša revizija temeljita i učinkovita, pružajući točan uvid u stanje pristupačnosti vaše web-stranice.
+
+
+
+Prilikom revizije pristupačnosti web-stranice, datoteke poput PDF-ova, Word dokumenata i drugog preuzimljivog sadržaja također su važni elementi za procjenu.
+
+Sažetak:
+Odaberite ključne i često korištene datoteke, osobito one koje pružaju važne informacije
+Obuhvatite različite formate i razine složenosti sadržaja
+Fokusirajte se na dokumente povezane s najposjećenijih stranica
+Osigurajte da zadovoljavaju standarde pristupačnosti poput WCAG-a za PDF/Office datoteke
+Uključivanje procjene sadržaja za preuzimanje osigurava cjelovit uvid u ukupnu pristupačnost vaše web-stranice i pomaže u učinkovitom određivanju prioriteta za poboljšanja.
+
+
+
 
 ---
 
@@ -427,7 +433,27 @@ Zato trebamo **ručno testiranje**!"
 
 ---
 
-## ⏰ **11:00-11:15 - PAUZA ☕**
+## ⏰ **11:00-11:15 - SIMULATION ☕**
+
+## SLAJD 68
+
+U kontekstu ciljeva pristupačnosti, simulacije poput NVDA, VoiceOver, Zoom i drugih alata koriste se za simuliranje načina na koji korisnici s različitim vrstama invaliditeta doživljavaju digitalni sadržaj.
+Ovi alati pomažu developerima, dizajnerima i testerima da razumiju koliko je web-stranica ili aplikacija pristupačna, oponašajući perspektivu korisnika s vizualnim, slušnim ili motoričkim poteškoćama.
+
+NVDA (NonVisual Desktop Access): besplatni čitač zaslona za Windows koji čita sadržaj naglas, pomažući u provjeri kako slabovidne osobe navigiraju i razumiju stranicu.
+VoiceOver: Appleov ugrađeni čitač zaslona za macOS i iOS uređaje, koristi se za testiranje iskustva korisnika s oštećenjem vida na Apple uređajima.
+Zoom: značajka pristupačnosti koja povećava sadržaj, korisna za osobe sa slabijim vidom kako bi se osiguralo da su tekst i elementi čitljivi pri različitim razinama uvećanja.
+Ostali alati: uključuju TalkBack (Android), ZoomText (uvećanje i čitanje) te sustave za sintezu govora.
+
+Njihova uloga u ciljevima pristupačnosti:
+Procjena upotrebljivosti: omogućuju provjeru je li sadržaj uočljiv, upravljiv i razumljiv korisnicima s invaliditetom.
+Identifikacija problema: pomažu u otkrivanju nedostajućih podrški, lošeg kontrasta, elemenata kojima se ne može navigirati ili zbunjujućih rasporeda.
+Unaprjeđenje dizajna: usmjeravaju prilagodbe kako bi se osigurala kompatibilnost i upotrebljivost za sve korisnike, posebno one koji ovise o pomoćnim tehnologijama.
+Zaključak:
+Korištenje ovih simulacija kao dijela procesa testiranja pomaže osigurati da digitalni sadržaj zaista zadovoljava standarde pristupačnosti, čineći proizvode inkluzivnima i upotrebljivima za sve, bez obzira na njihove sposobnosti.
+
+…<img width="1113" height="241" alt="image" src="https://github.com/user-attachments/assets/81fb4e92-b1c6-40a0-8e93-dab4082bb27a" />
+
 
 ---
 

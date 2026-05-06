@@ -84,11 +84,6 @@ U stvarnom svijetu, rijetko radite u 'čistom' Agile okruženju. Vaši klijenti,
 
 ### **Slajd 1-2: Creating the Gantt from cards**
 
-**Notes iz PDF-a:**
-_"Regardless of the approach taken, we are often asked to produce a project Gantt. With respect to Agile, we can try to do this by starting with the very cards on the board."_
-
-**Što reći studentima (15 min):**
-
 "**Gantt dijagram** - svi ste ga vidjele. One vodoravne trake koje pokazuju trajanje zadataka kroz vrijeme.
 
 **Problem:**
@@ -147,11 +142,6 @@ A: "Za komunikaciju s ostatkom organizacije. Stakeholderi trebaju vidjeti 'big p
 
 ### **Slajd 3-4: A digital tool: TeamGantt**
 
-**Notes iz PDF-a:**
-_"TeamGantt is a digital tool that allows you to: create, share, update Gantt; reorganise tasks; display all projects in one view; manage resources, control budget and make sure to avoid overload; create reports; check progress against plan and make projections; list tasks and schedule them; track activities."_
-
-**Što reći studentima (10 min):**
-
 "**TeamGantt** je alat specifično dizajniran za spajanje Agile-a i Gantt dijagrama.
 
 **Glavne funkcionalnosti:**
@@ -186,11 +176,6 @@ _"TeamGantt is a digital tool that allows you to: create, share, update Gantt; r
 
 ### **Slajd 5-6: A digital tool: EleGantt**
 
-**Notes iz PDF-a:**
-_"EleGantt is a digital tool that allows you to: display the Gantt directly in each board starting from the cards present; automatically update the Gantt based on changes to cards, lists, assignees; display dependencies between cards; display deadlines and send automatic reminders to the team; group, filter or reorder cards."_
-
-**Što reći studentima (10 min):**
-
 "**EleGantt** je specifično dizajniran kao **Trello Power-Up**.
 
 **Zašto je ovo cool?**
@@ -221,11 +206,6 @@ Ako već koristite Trello za vaš Kanban/Scrum board, EleGantt **automatski** ge
 ---
 
 ### **Slajd 7-8: A digital tool: OpenProject**
-
-**Notes iz PDF-a:**
-_"OpenProject is a project management digital tool that allows you to: create product and sprint backlogs; estimate activities in story points; use card templates; create burndown charts; track 'impediments' for sprints; assign and prioritise activities; display activities on calendar or board."_
-
-**Što reći studentima (10 min):**
 
 "**OpenProject** je **open-source** alternativa za Jiru i druge enterprise alate.
 
@@ -286,11 +266,6 @@ U parovima, popunite tablicu:
 
 ### **Slajd 9-10: Monitor overall progress / Sprint Goals**
 
-**Notes iz PDF-a:**
-_"How to monitor the progress of activities? Define Sprint Goals (max 3 or 5) and ask the PM to indicate the % achievement of each one. Sprint Goals: sub-goals corresponding to sets of cards (≈ Epic). Use Agile as a tool for the micro-management of the team (also in waterfall projects): Organise team work by weekly sprints and hold regular meetings; Keep the team's velocity under control; Use goals as milestones and evaluate overall progress by % of their completion."_
-
-**Što reći studentima (15 min):**
-
 "Kako pratiti napredak na **visokoj razini** kad imate mnogo kartica?
 
 **Odgovor: SPRINT GOALS**
@@ -338,11 +313,6 @@ _"How to monitor the progress of activities? Define Sprint Goals (max 3 or 5) an
 
 ### **Slajd 11-13: Scrum of Scrums**
 
-**Notes iz PDF-a:**
-_"How to apply Agile to projects involving many people? Scrum of scrum (general meaning): technique for applying Agile to large organisations. Scrum of scrum (specific meaning): meeting held regularly between the SM of each team to share information."_
-
-**Što reći studentima (15 min):**
-
 "Što kad imate **veliki projekt** s više timova? Klasičan Scrum radi za tim od 5-9 ljudi. Što ako ih je 50?
 
 **SCRUM OF SCRUMS**
@@ -388,11 +358,6 @@ Total: 7 Scrum Mastera
 ---
 
 ### **Slajd 14-15: Product/Project Scrum & Corporate Scrum**
-
-**Notes iz PDF-a:**
-_"Product/project scrum: 30-minute meeting, once a week where: 1. Each SM describes what the team did last week, what it will do in the current week and what obstacles it foresees. 2. SM share issues that affect all teams (e.g. related to integration). Corporate scrum: 15-30 minute plenary meeting, perhaps once a week where: 1. All team members receive news from the management. 2. 'Round-robin': in turn, one member reports what their team did last week, what they will do in the present week, and what problems they foresee. 3. Anyone else is free to add information or ask questions."_
-
-**Što reći studentima (15 min):**
 
 "Kako izgledaju ovi sastanci u praksi?
 
@@ -485,11 +450,6 @@ Formula: n(n-1)/2
 
 ### **Slajd 18-20: Virtual teams**
 
-**Notes iz PDF-a:**
-_"Virtual teams: case 1 - You opt for one big team, but observing who talks to whom during the sprint, you notice a division into 2 sub-teams. Case 2 - Three smaller teams are used, noting however that while the first and second interact frequently, the third remains isolated. Does this mean that the team size is wrong? Yes, if they are permanent. No, if they are temporary."_
-
-**Što reći studentima (10 min):**
-
 "**VIRTUALNI TIMOVI** - fenomen koji morate prepoznati!
 
 **SLUČAJ 1: Jedan veliki tim se 'raspada'**
@@ -525,11 +485,6 @@ Virtualni timovi NISU loši - oni pokazuju prirodnu strukturu. Formalizirajte ih
 ---
 
 ### **Slajd 21-22: Multiple Scrums - Sinkronizacija i Team Lead**
-
-**Notes iz PDF-a:**
-_"1. Synchronising Sprints: Advantages - Shared meetings, A single moment to redefine teams (between sprints), Fewer administrative tasks. 2. Appoint a Team Lead (Scrum Master of all teams): The Team Lead decides on the composition of the teams and their changes between several sprints. Note: before any change to the team, do not underestimate the so-called 'team gel' (bonds created by working in a team). What about part-time members? In general, a few full-time people are better than a larger team of part-time members."_
-
-**Što reći studentima (10 min):**
 
 "**KAKO KOORDINIRATI VIŠE TIMOVA?**
 
@@ -589,11 +544,6 @@ Part-time članovi:
 
 ### **Slajd 23-24: Scrum Team & Fire Team + Distributed Teams**
 
-**Notes iz PDF-a:**
-_"How to maintain the balance between planned and emerging activities? One solution is to create 2 types of teams: Scrum Team and Fire Team. Scrum Team: under the guidance of the PM carries out activities trying to prevent emergencies. Fire Team: support team dedicated to resolving emergencies and protecting against other disruptive elements. How to manage geographically distributed teams? If the effectiveness of Agile depends a lot on the intensive and direct collaboration of the team it is necessary that this can also be done remotely."_
-
-**Što reći studentima (10 min):**
-
 "**KAKO BALANSIRATI PLANIRANI I HITNI POSAO?**
 
 **Rješenje: SCRUM TEAM + FIRE TEAM**
@@ -639,11 +589,6 @@ Zašto? Jer 'mi vs oni' mentalitet je veći između timova nego unutar tima."
 
 ### **Slajd 25-26: Multiple Scrums - Alati za upravljanje**
 
-**Notes iz PDF-a:**
-_"Which tools should be used to manage multiple Scrums? Create a 'To Do List' board where, at each sprint, you move (or copy) cards from your personal boards. Create a 'board repository' to store project materials, resources (and cards) common to all members. If useful, create automatisms for recurring card movements (e.g. with Zapier or Butler)."_
-
-**Što reći studentima (5 min):**
-
 "**ALATI ZA UPRAVLJANJE VIŠE SCRUM TIMOVA**
 
 **Struktura ploča:**
@@ -678,11 +623,6 @@ Koristite Butler (Trello) ili Zapier za automatsko kopiranje kartica!"
 ## ⏰ **12:00-12:30 - SEKCIJA 4: SCRUM MASTER CHECKLIST & ZAVRŠNI RECAP**
 
 ### **Slajd 27-29: Scrum Master Checklist**
-
-**Notes iz PDF-a:**
-_"At the beginning of each Sprint: After Sprint planning, create a Sprint information document, print it out and hang it on the team's most prominent wall. Send an e-mail to all stakeholders announcing that the new sprint has started. Update the information document with the sprint statistics. Every day: Ensure that the Daily Scrum is started and finished on time. Ensure that cards are added/removed from the backlog only when necessary and that the PM is informed. Ensure that the sprint backlog and burndown are kept up to date by the team. Ensure that problems are resolved or reported to the PM. At the end of each Sprint: Make a demo of the Sprint open to everyone and announcing it 1-2 days in advance. Do a retrospective of the Sprint with the whole team and the PM. Update the Sprint statistics document."_
-
-**Što reći studentima (15 min):**
 
 "Završavamo s **praktičnim checklistom** za Scrum Master (ili bilo koga tko vodi Agile tim):
 

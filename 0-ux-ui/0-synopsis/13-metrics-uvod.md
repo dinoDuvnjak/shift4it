@@ -23,27 +23,6 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   SEKCIJA 1: Uvod u metrike i tracking tagove
-             - Slajdovi 1-9: Zašto metrike, tracking rješenja, analytics osnove
-             
-10:00-10:15  ☕ PAUZA
-
-10:15-11:00  SEKCIJA 2: Google Analytics - Povijest i instalacija
-             - Slajdovi 10-17: GA povijest, instalacija, protokol
-             
-11:00-11:15  ☕ PAUZA
-
-11:15-12:00  SEKCIJA 3: GDPR i privatnost podataka
-             - Slajdovi 18-23: GDPR compliance, consent, praktična vježba
-             
-12:00-12:30  SEKCIJA 4: GA4 Demo Account - Prve vježbe
-             - Slajdovi 24-25: Uvod u demo account, osnovne metrike
-             - Recap dana
-```
-
 **Ukupno efektivno vrijeme:** 180 min (3h)
 
 ---
@@ -90,11 +69,6 @@ Metrics (metrike) su kvantitativni podaci koji nam govore što korisnici rade na
 
 ### **Slajd 1: Metrics - Uvod**
 
-**Notes iz PDF-a:**
-_"Objective: Introduction to key metrics and their role in digital marketing analysis. Why is this important? Understanding website traffic and user behavior is essential for optimizing digital performance. 'You can't improve what you don't measure' – data-driven decisions help businesses grow. Analytics tools are more than just counters; they provide deep insights into visitor behavior."_
-
-**Što reći studentima (10 min):**
-
 "Metrike su **brojevi koji nam govore priču** o našim korisnicima. Ali te brojeve ne čitamo samo tako - trebamo alate za analizu, koje zovemo **analytics tools**.
 
 **Zašto su metrike važne?**
@@ -128,11 +102,6 @@ A: "Analytics prikuplja anonimne podatke o ponašanju, ne osobne informacije. Vi
 
 ### **Slajd 2: Tracking Tags - Lolaliza**
 
-**Notes iz PDF-a:**
-_"How many marketing tracking tags can you find on the lolaliza.com homepage? Websites use multiple tracking tags to collect user data for marketing and analytics. Understanding how many and which tags are present helps assess tracking intensity."_
-
-**Što reći studentima (5 min):**
-
 "Sada ćemo vidjeti kako web stranice u stvarnosti koriste tracking.
 
 **Tracking tagovi** su mali komadi koda koje web stranice instaliraju da bi pratile korisnike. Svaki tag šalje podatke nekom servisu - Google Analytics, Facebook, TikTok, itd.
@@ -161,11 +130,6 @@ Koristit ćemo Chrome ekstenziju **Ghostery** koja pokazuje sve tagove na strani
 
 ### **Slajd 3: Tracking Tags - Reuters**
 
-**Notes iz PDF-a:**
-_"How many marketing tracking tags can you find on the reuters.com homepage? Take any website after first verifying that there are numerous trackers installed."_
-
-**Što reći studentima (3 min):**
-
 "Pogledajmo sada **reuters.com** - veliki news portal.
 
 News stranice su poznate po velikom broju tagova jer:
@@ -178,11 +142,6 @@ Reuters tipično ima **30-50+ tracking tagova**."
 ---
 
 ### **Slajd 4: Tracking Tags - Zalando**
-
-**Notes iz PDF-a:**
-_"How many tracking tags can you find on the Zalando homepage? Take any website after first verifying that there are numerous trackers installed."_
-
-**Što reći studentima (3 min):**
 
 "**Zalando** je veliki e-commerce - kod njih tracking je ključan za:
 - Praćenje kupovnog ponašanja
@@ -197,11 +156,6 @@ Zalando vjerojatno ima **40-60+ tagova** zbog:
 ---
 
 ### **Slajd 5: Tracking Solutions - Pregled**
-
-**Notes iz PDF-a:**
-_"There are many tracking solutions available."_
-
-**Što reći studentima (5 min):**
 
 "Sada kada znamo da postoje tagovi, pogledajmo **tko su glavni igrači** u tracking industriji.
 
@@ -246,11 +200,6 @@ A: "Svaka platforma (Google, Facebook, TikTok) želi svoje podatke. Ako oglašav
 
 ### **Slajd 6: 200+ Tracking Solutions**
 
-**Notes iz PDF-a:**
-_"In 2024, there were more than 200 tracking solutions."_
-
-**Što reći studentima (3 min):**
-
 "Da, dobro ste vidjeli - postoji **više od 200 različitih tracking rješenja**!
 
 Ovo pokazuje koliko je tracking industrija velika i kompleksna. Ne morate znati sve - fokusirat ćemo se na najvažniji: **Google Analytics**.
@@ -264,11 +213,6 @@ Zašto Google Analytics?
 ---
 
 ### **Slajd 7: Analytics - Definicija**
-
-**Notes iz PDF-a:**
-_"Analytics are tools for measuring and analyzing website traffic. They're not just a counter for visitor numbers, but truly powerful marketing tools for analyzing and understanding what visitors do on a site. 1. YOU CAN'T IMPROVE WHAT YOU DON'T MEASURE 2. GOOD DATA IS THE FOUNDATION FOR MAKING SMART DECISIONS. 3. DATA WITHOUT CONTEXT IS MEANINGLESS."_
-
-**Što reći studentima (8 min):**
 
 "Sada kada razumijemo tracking, definirajmo što su **analytics alati**.
 
@@ -311,11 +255,6 @@ A: "Zamislite da vidite da je prosječno vrijeme na stranici 2 minute. Je li to 
 
 ### **Slajd 8: Analytics - Ograničenja**
 
-**Notes iz PDF-a:**
-_"These are not 100% accurate tools! Tracking 100% of data is impossible (Data Integrity problem). User leaves page too soon. The user uses AdBlockers. User blocks JS. Google Consent is enabled and the user has not accepted or refused cookies. Sampling or thresholding."_
-
-**Što reći studentima (8 min):**
-
 "⚠️ **Važno upozorenje:** Analytics alati NISU 100% točni!
 
 **Zašto ne možemo pratiti sve korisnike?**
@@ -356,11 +295,6 @@ A: "Trendovi i relativne usporedbe su još uvijek vrlo korisni. Ako vidite pad o
 ---
 
 ### **Slajd 9: Sampling vs Threshold**
-
-**Notes iz PDF-a:**
-_"Sampling is a method that allows Google Analytics to generate reports by examining only a representative portion of the data. Data Thresholding allows Google to withhold data in situations where the algorithm detects a potential risk of identifying a real-world person."_
-
-**Što reći studentima (7 min):**
 
 "Dva važna koncepta koja mogu utjecati na vaše podatke u GA4:
 
@@ -404,12 +338,7 @@ Ako radite s GA4 i vidite poruku "(other)" ili prazna polja, to je vjerojatno th
 
 # ⏰ **10:15-11:00 - SEKCIJA 2: GOOGLE ANALYTICS**
 
-### **Slajd 10: Google Analytics - Tržišni lider**
-
-**Notes iz PDF-a:**
-_"52% Sites around the world are tracked with Google Analytics. Facebook > 18%. Hotjar > 3%. Is it really free? From 25 million events per month, 50.000€ PER YEAR! When things are free and too good to be true, it's usually because you're the product."_
-
-**Što reći studentima (10 min):**
+### **Slajd 12: Google Analytics - Tržišni lider**
 
 "**Google Analytics** je apsolutni tržišni lider:
 
@@ -451,12 +380,7 @@ A: "Da! Matomo (ex-Piwik) je open-source alternativa koju možete hostati sami. 
 
 ---
 
-### **Slajd 11: Google Analytics - Povijest**
-
-**Notes iz PDF-a:**
-_"Today, we're talking about Google Analytics 4. It's the latest version of analytics offered by Google. It's a blend between the classic universal analytics and Firebase analytics. Now, everything is interconnected within one tool."_
-
-**Što reći studentima (8 min):**
+### **Slajd 13: Google Analytics - Povijest**
 
 "Kratka povijest Google Analytics-a:
 
@@ -495,12 +419,7 @@ GA4 je kompleksniji od stare verzije, ali i moćniji. Većina online tutoriala i
 
 ---
 
-### **Slajd 12: UTM Parametri**
-
-**Notes iz PDF-a:**
-_"UTM (Urchin Tracking Module) allows businesses to track marketing campaign performance. Different UTM parameters include: utm_source, utm_medium, utm_campaign, utm_term, utm_content."_
-
-**Što reći studentima (10 min):**
+### **Slajd 14: UTM Parametri**
 
 "**UTM parametri** su način da pratimo odakle dolaze posjetitelji kada kliknu na naše linkove.
 
@@ -555,12 +474,7 @@ A: "Ne! Postoji Google Campaign URL Builder koji to radi automatski. Kasnije će
 
 ---
 
-### **Slajd 13: GA4 Instalacija - Kod**
-
-**Notes iz PDF-a:**
-_"GA4 script (gtag.js) must be added to web pages. Data is processed with a 72-hour delay for complex insights. GA4 focuses on event-based tracking rather than session-based."_
-
-**Što reći studentima (7 min):**
+### **Slajd 15: GA4 Instalacija - Kod**
 
 "Kako se GA4 instalira na web stranicu?
 
@@ -602,7 +516,7 @@ A: "Ne nužno! Ali razumijevanje kako tracking radi pomaže u komunikaciji s dev
 
 ---
 
-### **Slajd 14: GA4 Instalacija - Dijagram**
+### **Slajd 16: GA4 Instalacija - Dijagram**
 
 **Notes iz PDF-a:**
 _"The installation of Google Analytics is done through a script added to your pages, which is then processed by Google's servers. After that, the data is analyzed and available on a dashboard. Google takes 72 hours to process complex data."_
@@ -664,11 +578,6 @@ Ovaj slajd je tu da pokaže da iza lijepog GA4 sučelja postoji tehnički protok
 
 ### **Slajd 17: Cookies - Kolačići**
 
-**Notes iz PDF-a:**
-_"All Google Analytics information is stored in a cookie on your computer (browser). On YOUR domain name, or on the doubleclick domain name (e.g. remarketing)."_
-
-**Što reći studentima (5 min):**
-
 "Gdje se čuvaju vaši analytics podaci? U **cookies** (kolačićima)!
 
 **Što je cookie?**
@@ -699,11 +608,6 @@ Ovo nas dovodi do sljedeće velike teme - **GDPR compliance**!"
 # ⏰ **11:15-12:00 - SEKCIJA 3: GDPR I PRIVATNOST**
 
 ### **Slajd 18: GDPR Compliance**
-
-**Notes iz PDF-a:**
-_"The General Data Protection Regulation (GDPR) is an EU law effective since May 2018. It aims to protect personal data and privacy of EU citizens. Key principles include: data minimization, explicit user consent, transparency, and the right to be forgotten."_
-
-**Što reći studentima (10 min):**
 
 "**GDPR** - General Data Protection Regulation je europski zakon koji štiti privatnost korisnika.
 
@@ -750,12 +654,7 @@ A: "Manje tvrtke obično dobiju upozorenja prije kazni. Ali dobra praksa je biti
 
 ---
 
-### **Slajd 19: Personal Identifying Information**
-
-**Notes iz PDF-a:**
-_"Any information that could identify a single person, even if encrypted, cannot be imported into Google Analytics. The GDPR requires Prior consent. Example: 122.195.25.144"_
-
-**Što reći studentima (5 min):**
+### **Slajd 21: Personal Identifying Information**
 
 "**Što su osobni podaci (PII)?**
 
@@ -780,12 +679,7 @@ Google Analytics **zabranjuje** unos PII-a u sustav! Ako to radite, kršite uvje
 
 ---
 
-### **Slajd 20: Što je Consent?**
-
-**Notes iz PDF-a:**
-_"Your consent must be obtained prior to the insertion or reading of cookies. Your consent must be informed. Your consent is valid only if you can exercise a real choice. Your consent must be specific. You must be able to withdraw your consent."_
-
-**Što reći studentima (8 min):**
+### **Slajd 22: Što je Consent?**
 
 "**Consent** (pristanak) ima specifična pravila pod GDPR-om:
 
@@ -854,12 +748,7 @@ Otprilike **30-50%** korisnika odbije analytics cookies. To znači da vaši poda
 
 ---
 
-### **Slajd 22: GDPR Praktična vježba**
-
-**Notes iz PDF-a:**
-_"Take a random site and check if it's GDPR compliant for your EU country. 15' + Debrief. Use Chrome. Addon: Analytics Debugger. Addon: EditThisCookie."_
-
-**Što reći studentima (2 min uvod):**
+### **Slajd 24: GDPR Praktična vježba**
 
 "Sada ćemo **praktično provjeriti** je li neka stranica GDPR compliant!
 
@@ -917,12 +806,7 @@ Ovu vježbu radimo zajedno kao demonstraciju, a vi ćete imati priliku sami ispr
 
 ---
 
-### **Slajd 23: Consent Technical Details (HANDOUT)**
-
-**Notes iz PDF-a:**
-_"Google Consent Status (G1xx) - G100: Consent for both ad_storage and analytics_storage is denied... etc."_
-
-**Što reći studentima (2 min):**
+### **Slajd 25: Consent Technical Details (HANDOUT)**
 
 "Ovaj slajd pokazuje tehničke detalje o consent statusima u GA4.
 
@@ -939,12 +823,7 @@ Ovaj slajd ćete dobiti kao PDF za referencu."
 
 # ⏰ **12:00-12:30 - SEKCIJA 4: GA4 DEMO**
 
-### **Slajd 24: GA4 Demo Account - Uvod**
-
-**Notes iz PDF-a:**
-_"Access to Google GA4 demo account. Here's an introduction to Google's demo case, which is available to everyone and involves the analytics of Google's online store."_
-
-**Što reći studentima (5 min):**
+### **Slajd 26: GA4 Demo Account - Uvod**
 
 "Sada dolazimo do **praktičnog dijela** - radimo u pravom Google Analytics 4!
 
@@ -978,12 +857,7 @@ Neka se upare s kolegicom koja ima.
 
 ---
 
-### **Slajd 25: GA4 Demo - Prva vježba**
-
-**Notes iz PDF-a:**
-_"In the Google DEMO account (GA4), get the following information (about September 2024): How many new users are there this month? The number of tablet purchases? How many sessions were generated by Organic Search? Which product was the most popular? What is the URL of the first page of the session? Most popular (after the homepage)? Looking at the traffic, what's the most popular source of traffic? What is the revenue of the product with the best add-to-cart rate per view? Which browser (and version) has a problematic engagement rate?"_
-
-**Što reći studentima (3 min uvod):**
+### **Slajd 27: GA4 Demo - Prva vježba**
 
 "Vaš prvi zadatak u GA4! Pronađite sljedeće podatke za **rujan 2024**:
 
