@@ -1,108 +1,5 @@
 # 📘 DAN 2 - LEADERSHIP I KOMUNIKACIJA U PROJEKTIMA
 
-## **PREDAVANJE: Leadership Skills & Effective Communication**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M1_PROJECT MANAGEMENT FUNDAMENTALS_7 hours.pdf (Slajdovi 27-56)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M1 Project Management Fundamentals  
-**DAN:** 2 od 2 (završni dan M1 modula)
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Objasniti** razliku između leadershipa i managementa u kontekstu projekata
-2. **Primijeniti** Maslowljevu teoriju motivacije za motiviranje članova tima
-3. **Demonstrirati** empatičko slušanje prema Coveyjevom pristupu
-4. **Koristiti** SBI model (Situation-Behavior-Impact) za davanje konstruktivnog feedbacka
-5. **Identificirati** 5 strategija upravljanja konfliktima i znati kada koristiti koju
-6. **Navesti** komponente komunikacijskog procesa i barijere učinkovitoj komunikaciji
-7. **Odabrati** pravu metodu komunikacije za različite projektne situacije
-8. **Analizirati** komunikacijske probleme u projektu i predložiti poboljšanja
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 27-56)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri
-- [ ] Timer za aktivnosti (može biti na mobitelu)
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Kartice za role-play scenarije (pripremljene unaprijed)
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-
-### **Digitalni materijali:**
-- [ ] John Case Study handout (Maslowljeva motivacija)
-- [ ] SBI Feedback Template
-- [ ] Sarah & James Conflict Scenario
-- [ ] Communication Breakdown Case Study
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi kartice za role-play scenarije
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju
-5. ✅ Pripremi flip chart s Maslowljevom piramidom (opcija)
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 27
-3. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-4. ✅ Postavi handoute na stolove
-5. ✅ Napiši na whiteboard: "Dan 2: Leadership & Komunikacija"
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:05    (5 min)   Recap Dana 1 + Uvod u Dan 2
-9:05-9:13    (8 min)   Facts about Leadership (Teorija)
-9:13-9:23    (10 min)  Maslow's Motivation Theory (Teorija)
-9:23-9:38    (15 min)  🎯 AKTIVNOST: John Case Study
-9:38-9:45    (7 min)   Covey's Listening Approach (Teorija)
-9:45-10:00   (15 min)  🎯 AKTIVNOST: Alex Scenario Role-Play
-10:00-10:10  (10 min)  ☕ PAUZA
-10:10-10:18  (8 min)   SBI Model za Feedback (Teorija)
-10:18-10:38  (20 min)  🎯 AKTIVNOST: Feedback Role-Play
-10:38-10:45  (7 min)   5 Strategija konflikata (Teorija)
-10:45-11:00  (15 min)  🎯 AKTIVNOST: Sarah & James Conflict
-11:00-11:05  (5 min)   ☕ KRATKA PAUZA
-11:05-11:15  (10 min)  Communication Components (Teorija)
-11:15-11:20  (5 min)   Communication Barriers (Teorija)
-11:20-11:30  (10 min)  Communication Methods (Teorija)
-11:30-11:55  (25 min)  🎯 AKTIVNOST: Communication Breakdown Case
-11:55-12:00  (5 min)   Zaključak modula + Q&A
-12:00        ---       Kraj Dana 2 i M1 modula
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 55 min | 31% |
-| 🟢 Praksa/Aktivnosti | 90 min | 50% |
-| ☕ Pauze | 15 min | 8% |
-| 📋 Admin (uvod/zaključak) | 20 min | 11% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:05 (5 min) - RECAP DANA 1 + UVOD**
 
 ## **Što reći studenticama:**
@@ -138,12 +35,7 @@ Ovaj recap služi da povežeš Dan 1 s Danom 2. Soft skills (leadership i komuni
 
 # ⏰ **9:05-9:13 (8 min) - FACTS ABOUT LEADERSHIP**
 
-### **Slajd 27-28: Facts about Leadership Skills**
-
-**Notes iz PDF-a:**
-_"Project manager je zapravo leader projekta, ne manager. Leadership u projektu uključuje: kreiranje komunikacijskih kanala, pomaganje drugima da dijele ideje, postavljanje rasporeda, evaluaciju napretka, povjerenje u tim."_
-
-## **Što reći studenticama (8 min):**
+### **Slajd 26-27: Facts about Leadership Skills**
 
 "Krenimo s važnom distinkcijom - **Leadership vs Management**.
 
@@ -203,12 +95,7 @@ A: "Ne nužno! PM ne mora biti najbolji developer. Mora znati koordinirati, komu
 
 # ⏰ **9:13-9:23 (10 min) - MASLOW'S MOTIVATION THEORY**
 
-### **Slajd 29-30: Maslow's Motivation Theory**
-
-**Notes iz PDF-a:**
-_"Maslowljeva hijerarhija potreba ima 5 razina: Physiological, Safety, Love & Belonging, Esteem, Self-Actualization. Ljudi su motivirani ispuniti niže potrebe prije nego se fokusiraju na više."_
-
-## **Što reći studenticama (10 min):**
+### **Slajd 28-29: Maslow's Motivation Theory**
 
 "Kako motivirati tim? Abraham Maslow nam je dao odgovor 1943. godine - i još uvijek vrijedi!
 
@@ -290,16 +177,6 @@ A: "Razgovorom! Pitaj: 'Kako si? Što te muči? Što bi ti pomoglo?' Slušaj pa�
 
 ## ✏️ **AKTIVNOST: Motivacijski plan za Johna**
 
-**Cilj:** Studentice primjenjuju Maslowljevu teoriju na stvarni scenarij
-
-**Trajanje:** 15 min
-
-**Materijali:** John Case Study handout
-
-### **Case Study:**
-
-*Pročitaj studenticama ili podijeli handout:*
-
 "**SITUACIJA:**
 John je software developer u fintech kompaniji koja radi na Agile projektu. U zadnje vrijeme njegova produktivnost je pala - propušta rokove, izbjegava timske sastanke, i predaje nekompletan kod.
 
@@ -363,12 +240,7 @@ Koristite tablicu:
 
 # ⏰ **9:38-9:45 (7 min) - COVEY'S LISTENING APPROACH**
 
-### **Slajd 32: Covey's Listening Approach**
-
-**Notes iz PDF-a:**
-_"Stephen Covey definira 5 razina slušanja: Ignoring, Pretending, Selective, Attentive, Empathic. Empatičko slušanje znači slušati s namjerom razumijevanja, ne odgovaranja."_
-
-## **Što reći studenticama (7 min):**
+### **Slajd 31: Covey's Listening Approach**
 
 "Kako je Sarah saznala što muči Johna? **Slušanjem!** Ali nije svako slušanje jednako.
 
@@ -426,16 +298,6 @@ A: "Bolje je reći: 'Vidim da je ovo važno. Možemo li razgovarati za 30 minuta
 # ⏰ **9:45-10:00 (15 min) - 🎯 AKTIVNOST: Alex Scenario Role-Play**
 
 ### **Slajd 33: Example of Empathic Listening**
-
-## ✏️ **AKTIVNOST: Vježba empatičkog slušanja**
-
-**Cilj:** Studentice vježbaju empatičko slušanje u parovima
-
-**Trajanje:** 15 min
-
-### **Scenarij:**
-
-*Pročitaj studenticama:*
 
 "**SITUACIJA:**
 Alex je član tima koji je u zadnje vrijeme tih na sastancima i propušta rokove. Kao project manager, primijetila si promjenu i želiš razgovarati s njim.
@@ -495,33 +357,9 @@ Alex je član tima koji je u zadnje vrijeme tih na sastancima i propušta rokove
 
 ---
 
-# ⏰ **10:00-10:10 (10 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlično ste radile! Zaslužile ste pauzu. ☕
-
-Imamo 10 minuta - iskoristite za kavu, WC, protegnite se.
-
-Vratite se u 10:10 - krenut ćemo s feedbackom i upravljanjem konfliktima!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi kartice za feedback role-play
-- Provjeri da imaš Sarah & James conflict scenario spreman
-- Odgovori na individualna pitanja ako ih ima
-
----
-
 # ⏰ **10:10-10:18 (8 min) - SBI MODEL ZA FEEDBACK**
 
-### **Slajd 34-39: The Importance of Feedback & SBI Model**
-
-**Notes iz PDF-a:**
-_"Feedback je esencijalan u projektnom okruženju. SBI model: Situation (opiši kontekst), Behavior (opiši ponašanje), Impact (objasni utjecaj)."_
-
-## **Što reći studenticama (8 min):**
+### **Slajd 33-34: The Importance of Feedback & SBI Model**
 
 "Sada prelazimo na jednu od najvažnijih leadership vještina - **davanje feedbacka**.
 
@@ -581,17 +419,7 @@ A: "Redovito! Ne čekaj godišnju evaluaciju. Mali, česti feedbacki su učinkov
 
 # ⏰ **10:18-10:38 (20 min) - 🎯 AKTIVNOST: Feedback Role-Play**
 
-### **Slajd 40: Role-Plays**
-
-## ✏️ **AKTIVNOST: Vježba davanja feedbacka (SBI)**
-
-**Cilj:** Studentice vježbaju davanje i primanje feedbacka koristeći SBI model
-
-**Trajanje:** 20 min
-
-### **Scenariji za role-play:**
-
-*Podijeli kartice s scenarijima ili pročitaj:*
+### **Slajd 39: Role-Plays**
 
 **SCENARIJ 1: Kasni kod**
 "Developer Ana je predala kod 2 dana nakon roka. Zbog toga je QA tim morao raditi prekovremeno da stigne testirati prije releasea."
@@ -661,12 +489,7 @@ _________________________
 
 # ⏰ **10:38-10:45 (7 min) - 5 STRATEGIJA KONFLIKATA**
 
-### **Slajd 41-44: Conflict Management Strategies**
-
-**Notes iz PDF-a:**
-_"5 strategija: Withdraw/Avoid, Smooth/Accommodate, Compromise, Force/Direct, Collaborate/Problem-Solve. Svaka ima svoje mjesto ovisno o situaciji."_
-
-## **Što reći studenticama (7 min):**
+### **Slajd 40-41: Conflict Management Strategies**
 
 "Konflikti su neizbježni u svakom timu. Pitanje nije HOĆE LI biti konflikata, već KAKO ćemo ih riješiti.
 
@@ -731,17 +554,7 @@ A: "Suradnja daje najbolje dugoročne rezultate, ali zahtijeva vrijeme. Za hitne
 
 # ⏰ **10:45-11:00 (15 min) - 🎯 AKTIVNOST: Sarah & James Conflict**
 
-### **Slajd 45: Conflict Scenario**
-
-## ✏️ **AKTIVNOST: Analiza konflikta i odabir strategije**
-
-**Cilj:** Studentice primjenjuju strategije upravljanja konfliktima na stvarni scenarij
-
-**Trajanje:** 15 min
-
-### **Scenarij:**
-
-*Pročitaj studenticama ili podijeli handout:*
+### **Slajd 44: Conflict Scenario**
 
 "**SITUACIJA:**
 Project manager Sarah postavila je tijesan rok za lansiranje novog softvera.
@@ -808,22 +621,9 @@ Pitaj: "Što će se dogoditi s timom ako ih natjerate da rade još više prekovr
 
 ---
 
-# ⏰ **11:00-11:05 (5 min) - ☕ KRATKA PAUZA**
-
-## **Što reći studenticama:**
-
-"Brzo se protegnite, popijte vode. Za 5 minuta krećemo s komunikacijom - kako učinkovito komunicirati u projektima!"
-
----
-
 # ⏰ **11:05-11:15 (10 min) - COMMUNICATION COMPONENTS**
 
 ### **Slajd 46-47: Understanding Communication Components**
-
-**Notes iz PDF-a:**
-_"Komponente komunikacije: Sender, Message, Channel, Receiver, Feedback, Noise. Pie chart: 7% riječi, 38% ton glasa, 55% govor tijela."_
-
-## **Što reći studenticama (10 min):**
 
 "Sada prelazimo na komunikaciju - možda najvažniju vještinu u projektnom menadžmentu!
 
@@ -898,12 +698,7 @@ A: "Budi jasan i koncizan. Koristi bullet points. Provjeri ton prije slanja. Kor
 
 # ⏰ **11:15-11:20 (5 min) - COMMUNICATION BARRIERS**
 
-### **Slajd 48: Communication Barriers**
-
-**Notes iz PDF-a:**
-_"4 vrste barijera: Physical (remote timovi, loša tehnologija), Language (žargon, kulturne razlike), Psychological (stres, predrasude), Information overload."_
-
-## **Što reći studenticama (5 min):**
+### **Slajd 47: Communication Barriers**
 
 "Što može poći po zlu u komunikaciji? Puno toga!
 
@@ -956,12 +751,7 @@ Sve to stvara savršenu oluju za komunikacijske probleme!
 
 # ⏰ **11:20-11:30 (10 min) - COMMUNICATION METHODS**
 
-### **Slajd 49-51: Communication Methods**
-
-**Notes iz PDF-a:**
-_"Metode: Email (formalna dokumentacija), Meetings (real-time diskusija), Reports (detaljni uvidi), Dashboards (vizualni prikaz napretka). Odabir metode ovisi o situaciji."_
-
-## **Što reći studenticama (10 min):**
+### **Slajd 50-51: Communication Methods**
 
 "Sada kada znamo barijere, kako odabrati PRAVU metodu komunikacije?
 
@@ -1025,17 +815,7 @@ A: "Ako ljudi nemaju vremena za 'pravi posao' zbog meetinga, previše je! Pravil
 
 # ⏰ **11:30-11:55 (25 min) - 🎯 AKTIVNOST: Communication Breakdown Case**
 
-### **Slajd 52-56: Case Study - Communication Breakdown**
-
-## ✏️ **AKTIVNOST: Analiza komunikacijskih problema i rješenja**
-
-**Cilj:** Studentice analiziraju stvarni scenarij komunikacijskog neuspjeha i predlažu poboljšanja
-
-**Trajanje:** 25 min
-
-### **Case Study:**
-
-*Podijeli handout ili pročitaj:*
+### **Slajd 53-56: Case Study - Communication Breakdown**
 
 "**POZADINA:**
 Tim za razvoj softvera dobio je zadatak isporučiti novi sustav za upravljanje klijentima u roku od 6 mjeseci.
