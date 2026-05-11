@@ -9,101 +9,7 @@
 
 ---
 
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Definirati** što je projekt i razlikovati projekt od operativnih aktivnosti
-2. **Objasniti** 5 faza životnog ciklusa projekta (Initiation → Planning → Execution → Monitoring → Closing)
-3. **Razlikovati** tri pristupa upravljanju projektima: predictive (Waterfall), adaptive (Agile) i hybrid
-4. **Identificirati** kada koristiti koji pristup ovisno o vrsti projekta
-5. **Navesti** 4 etička principa u projektnom menadžmentu (Honesty, Responsibility, Respect, Fairness)
-6. **Primijeniti** etičke principe na praktične scenarije iz IT industrije
-7. **Analizirati** kršenja etičkih principa kroz case study
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 1-26)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri
-- [ ] Timer za aktivnosti (može biti na mobitelu)
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Laptop/tablet (opcionalno, za research aktivnosti)
-- [ ] Printani handouti (dijeli facilitator)
-
-### **Digitalni materijali:**
-- [ ] SHIFT4IT Case Study handout
-- [ ] Metodologije usporedna tablica (prazna za popunjavanje)
-- [ ] Sarah Case Study assessment
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi whiteboard markere
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 1
-3. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-4. ✅ Postavi handoute na stolove
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:05    (5 min)   Uvod i dobrodošlica
-9:05-9:15    (10 min)  Što je projekt? (Teorija)
-9:15-9:30    (15 min)  🎯 AKTIVNOST: Primjeri projekata iz iskustva
-9:30-9:40    (10 min)  Projekt vs Operacije (Teorija)
-9:40-9:50    (10 min)  Životni ciklus projekta (Teorija)
-9:50-10:10   (20 min)  🎯 AKTIVNOST: SHIFT4IT Case Study
-10:10-10:20  (10 min)  ☕ PAUZA
-10:20-10:28  (8 min)   Predictive Approach - Waterfall (Teorija)
-10:28-10:40  (12 min)  🎯 AKTIVNOST: Office Building Case Study
-10:40-10:48  (8 min)   Adaptive Approach - Agile (Teorija)
-10:48-11:00  (12 min)  🎯 AKTIVNOST: Mobile Banking App Case Study
-11:00-11:08  (8 min)   Hybrid Approach (Teorija)
-11:08-11:20  (12 min)  🎯 AKTIVNOST: E-commerce Platform Case Study
-11:20-11:25  (5 min)   ☕ KRATKA PAUZA
-11:25-11:35  (10 min)  4 Etička principa (Teorija)
-11:35-11:50  (15 min)  🎯 AKTIVNOST: Etičke dileme u IT projektima
-11:50-12:00  (10 min)  🎯 ASSESSMENT: Sarah Case Study + Peer Review
-12:00        ---       Kraj Dana 1, najava Dana 2
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 54 min | 30% |
-| 🟢 Praksa/Aktivnosti | 96 min | 53% |
-| ☕ Pauze | 15 min | 8% |
-| 📋 Admin (uvod/zaključak) | 15 min | 9% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:05 (5 min) - UVOD I DOBRODOŠLICA**
-
-## **Što reći studenticama:**
-
-"Dobro došle na modul Project Management Fundamentals! 👋
 
 Danas ćemo naučiti:
 - Što je zapravo projekt i po čemu se razlikuje od svakodnevnog posla
@@ -117,23 +23,9 @@ Ima li netko iskustva s projektima - bilo kakvim? Možda fakultetski projekt, or
 
 *[Ako netko odgovori, kratko komentiraj i poveži s temom]*
 
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-Ovaj uvod služi da opustiš atmosferu i povežeš se sa studenticama. Ice-breaker pitanje o iskustvu s projektima pomaže da vidiš razinu grupe i da studentice počnu razmišljati o temi.
-
-**Troubleshooting:**
-- **Nitko ne odgovara na pitanje:** Bez panike! Reci: "Nije problem - do kraja dana ćemo svi imati puno primjera projekata!" i nastavi dalje.
-- **Netko priča predugo:** Lijepo prekini: "Odlično! Upravo takve primjere ćemo analizirati danas. Hvala ti što si podijelila!"
-
 ---
 
 # ⏰ **9:05-9:15 (10 min) - ŠTO JE PROJEKT?**
-
-### **Slajd 3-6: What is a Project?**
-
-**Notes iz PDF-a:**
-_"Projekt ima 5 elemenata: Need (potreba), Scope (opseg), Social, Europe, Smart. Projekt je kombinacija sna i plana - bez plana, san je samo želja."_
 
 ## **Što reći studenticama (10 min):**
 
@@ -218,9 +110,6 @@ A: "Projekt može biti i mali - npr. organizacija team-buildinga za tvrtku. Bitn
 **3. Share out (8 min):**
 "Hajdemo čuti nekoliko primjera! Tko želi podijeliti?"
 
-*[Zapisuj primjere na whiteboard dok studentice govore]*
-*[Za svaki primjer pitaj: "Koji su bili glavni izazovi?"]*
-
 📚 **FACILITATOR NOTES:**
 
 **Kako voditi diskusiju:**
@@ -246,12 +135,7 @@ A: "Projekt može biti i mali - npr. organizacija team-buildinga za tvrtku. Bitn
 
 # ⏰ **9:30-9:40 (10 min) - PROJEKT VS OPERACIJE**
 
-### **Slajd 7: What is Specific to a Project?**
-
-**Notes iz PDF-a:**
-_"Operacije su repetitivne i permanentne, dok su projekti jedinstveni i vremenski ograničeni."_
-
-## **Što reći studenticama (10 min):**
+### **Slajd 5: What is Specific to a Project?**
 
 "Sada kada znamo što je projekt, važno je razlikovati projekte od operacija.
 
@@ -307,12 +191,7 @@ A: "IT development ima puno projekata (novi produkti, features). IT support ima 
 
 # ⏰ **9:40-9:50 (10 min) - ŽIVOTNI CIKLUS PROJEKTA**
 
-### **Slajd 10: Project Life Cycle**
-
-**Notes iz PDF-a:**
-_"Projekt prolazi kroz 5 faza: Initiation → Planning → Execution → Monitoring → Closing"_
-
-## **Što reći studenticama (10 min):**
+### **Slajd 9: Project Life Cycle**
 
 "Svaki projekt, bio mali ili velik, prolazi kroz iste faze. To zovemo **životni ciklus projekta**.
 
@@ -380,7 +259,7 @@ A: "Project manager u dogovoru s timom i stakeholderima. Svaka faza ima 'deliver
 
 # ⏰ **9:50-10:10 (20 min) - 🎯 AKTIVNOST: SHIFT4IT Case Study**
 
-### **Slajd 11: Discussion - SHIFT4IT as a Project**
+### **Slajd 10: Discussion - SHIFT4IT as a Project**
 
 ## ✏️ **AKTIVNOST: Identificiranje faza na SHIFT4IT projektu**
 
@@ -452,33 +331,9 @@ Imate 10 minuta!"
 
 ---
 
-# ⏰ **10:10-10:20 (10 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlično ste radile! Zaslužile ste pauzu. ☕
-
-Imamo 10 minuta - iskoristite za kavu, WC, protegnite se.
-
-Vratite se u 10:20 - krenut ćemo s različitim metodologijama upravljanja projektima!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Provjeri da je prezentacija spremna za sljedeću sekciju
-- Provjeri imaš li handoute za aktivnosti s metodologijama
-- Odgovori na individualna pitanja ako ih ima
-
----
-
 # ⏰ **10:20-10:28 (8 min) - PREDICTIVE APPROACH (WATERFALL)**
 
-### **Slajd 15: Predictive Approach (Waterfall)**
-
-**Notes iz PDF-a:**
-_"Strukturirani i linearni pristup gdje se cijeli projekt planira unaprijed. Scope, cost i schedule jasno definirani na početku."_
-
-## **Što reći studenticama (8 min):**
+### **Slajd 12: Predictive Approach (Waterfall)**
 
 "Sada ćemo upoznati tri različita pristupa upravljanju projektima. Započnimo s najstarijim.
 
@@ -598,12 +453,7 @@ Objasni: "Zamislite da razvijamo software za banku koji mora proći regulatorne 
 
 # ⏰ **10:40-10:48 (8 min) - ADAPTIVE APPROACH (AGILE)**
 
-### **Slajd 17-18: Adaptive Approach (Agile)**
-
-**Notes iz PDF-a:**
-_"Fleksibilna i iterativna metodologija fokusirana na kontinuirano poboljšanje, suradnju i prilagodbu promjenjivim zahtjevima."_
-
-## **Što reći studenticama (8 min):**
+### **Slajd 14-15: Adaptive Approach (Agile)**
 
 "Sada prelazimo na potpuno drugačiji pristup - Agile! 🏃‍♀️
 
@@ -663,7 +513,7 @@ A: "Ima! Ali plan je fleksibilan. Planiramo detalje za sljedeći sprint, a za os
 
 # ⏰ **10:48-11:00 (12 min) - 🎯 AKTIVNOST: Mobile Banking App Case**
 
-### **Slajd 18: Adaptive Approach - Discussion**
+### **Slajd 15: Adaptive Approach - Discussion**
 
 ## ✏️ **AKTIVNOST: Zašto Agile za mobilnu aplikaciju?**
 
@@ -728,12 +578,7 @@ Svaki sprint: razvoj → testiranje → feedback → prilagodba"
 
 # ⏰ **11:00-11:08 (8 min) - HYBRID APPROACH**
 
-### **Slajd 19: Hybrid Approach**
-
-**Notes iz PDF-a:**
-_"Kombinacija predictive i adaptive pristupa, koristeći snage obaju metodologija prema specifičnim potrebama projekta."_
-
-## **Što reći studenticama (8 min):**
+### **Slajd 16: Hybrid Approach**
 
 "Što ako projekt ima i jasne i nejasne dijelove? Tu dolazi Hybrid! 🔀
 
@@ -789,7 +634,7 @@ A: "Može biti! Zato zahtijeva iskusan tim koji razumije obje metodologije. Nije
 
 # ⏰ **11:08-11:20 (12 min) - 🎯 AKTIVNOST: E-commerce Platform Case**
 
-### **Slajd 20: Hybrid Approach - Discussion**
+### **Slajd 17: Hybrid Approach - Discussion**
 
 ## ✏️ **AKTIVNOST: Koji pristup za koji dio?**
 
@@ -854,22 +699,9 @@ Studentice mogu imati različita mišljenja - to je ok! Npr. backend inventar mo
 
 ---
 
-# ⏰ **11:20-11:25 (5 min) - ☕ KRATKA PAUZA**
-
-## **Što reći studenticama:**
-
-"Brzo se protegnite, popijte vode. Za 5 minuta krećemo s etikom u projektnom menadžmentu - zašto je to važno i što se dogodi kad se etika zanemari!"
-
----
-
 # ⏰ **11:25-11:35 (10 min) - 4 ETIČKA PRINCIPA**
 
 ### **Slajd 23-24: 4 Principles of Ethics**
-
-**Notes iz PDF-a:**
-_"Četiri principa etike: Honesty (Poštenje), Responsibility (Odgovornost), Respect (Poštovanje), Fairness (Pravednost)"_
-
-## **Što reći studenticama (10 min):**
 
 "Sada prelazimo na nešto što se često zanemaruje, a izuzetno je važno - etika u projektnom menadžmentu!
 
@@ -1011,14 +843,6 @@ Pitaj: "Kako biste se vi osjećale da ste klijent/kolega u ovoj situaciji?"
 ### **Slajd 26: Assessment**
 
 ## ✏️ **ASSESSMENT: Sarah Case Study + Peer Review**
-
-**Cilj:** Provjera razumijevanja etičkih principa
-
-**Trajanje:** 10 min
-
-### **Case Study:**
-
-*Podijeli printani handout ili pročitaj:*
 
 "**Situacija 1:**
 Project manager Sarah vodi projekt razvoja softvera s strogim deadline-om. Svjesna je da je ključni milestone u riziku zbog nedostatka resursa, ali umjesto da to adresira, odlučuje ignorirati problem i ne informirati stakeholdere. Pretpostavlja da će tim 'nekako to riješiti' u zadnji čas. Rezultat: projekt je propustio deadline, što je naštetilo reputaciji tvrtke i frustriralo stakeholdere.
