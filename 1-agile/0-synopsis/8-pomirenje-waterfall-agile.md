@@ -24,21 +24,6 @@ Na kraju ovog predavanja, studentice će moći:
 
 ---
 
-## ⏰ **RASPORED PREDAVANJA:**
-
-```
-9:00-10:00   SEKCIJA 1: Kreiranje Gantta iz Agile kartica + Alati (60 min)
-10:00-10:15  PAUZA ☕
-10:15-11:00  SEKCIJA 2: Scrum of Scrums & Koordinacija (45 min)
-11:00-11:15  PAUZA ☕
-11:15-12:00  SEKCIJA 3: Upravljanje višestrukim Scrum timovima (45 min)
-12:00-12:30  SEKCIJA 4: Scrum Master Checklist & Završni Recap modula (30 min)
-```
-
-**Ukupno efektivno vrijeme:** 180 min (3h)
-
----
-
 ## 📋 **PREGLED SLAJDOVA I PRIORITETI:**
 
 **PDF sadrži ~30 slajdova za sekciju 4.3:**
@@ -85,6 +70,8 @@ U stvarnom svijetu, rijetko radite u 'čistom' Agile okruženju. Vaši klijenti,
 ### **Slajd 1-2: Creating the Gantt from cards**
 
 "**Gantt dijagram** - svi ste ga vidjele. One vodoravne trake koje pokazuju trajanje zadataka kroz vrijeme.
+
+https://hr.wikipedia.org/wiki/Ganttov_dijagram#/media/Datoteka:GanttChartAnatomy.png
 
 **Problem:**
 - Management traži Gantt
