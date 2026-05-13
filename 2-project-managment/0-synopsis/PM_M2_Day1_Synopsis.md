@@ -3,102 +3,7 @@
 ## **PREDAVANJE: Starting the Project - Project Charter & Stakeholder Roles**
 **TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
 **PDF MATERIJAL:** M2_STARTING THE PROJECT_6 hours.pdf (Slajdovi 1-22)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M2 Starting The Project  
-**DAN:** 1 od 2 (Dan 3 ukupno u programu)
 
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Definirati** što je Project Charter i objasniti njegovu svrhu u projektu
-2. **Objasniti** kako Project Charter autorizira projekt i daje ovlasti project manageru
-3. **Navesti** 10 ključnih elemenata koje svaki Project Charter mora sadržavati
-4. **Primijeniti** 6 best practices za kreiranje snažnog Project Charter-a
-5. **Analizirati** primjer Project Charter-a iz IT industrije (Chatbot projekt)
-6. **Identificirati** 4 ključne stakeholder uloge u projektu (Sponsor, PM, Team, Key Stakeholders)
-7. **Objasniti** odgovornosti svake stakeholder uloge
-8. **Povezati** Project Charter s prethodnim znanjem o životnom ciklusu projekta (M1)
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 1-22)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (4+ boja)
-- [ ] Timer za aktivnosti (može biti na mobitelu)
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Post-it notes (za stakeholder mapiranje aktivnost)
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] Laptop/tablet (opcionalno, za research)
-
-### **Digitalni materijali:**
-- [ ] Project Charter Template (prazan)
-- [ ] Chatbot Project Charter Analysis Worksheet
-- [ ] Stakeholder Identification Worksheet
-- [ ] SHIFT4IT Stakeholder Activity handout
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi whiteboard markere (minimalno 4 boje)
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju
-5. ✅ Pripremi Post-it notes za stakeholder aktivnost
-6. ✅ Napravi sebi "cheat sheet" s 10 elemenata Project Charter-a
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 1
-3. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-4. ✅ Postavi handoute na stolove
-5. ✅ Napiši na whiteboard: "M2 Dan 1: Starting the Project"
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:10    (10 min)  Recap M1 + Uvod u M2
-9:10-9:25    (15 min)  Što je Project Charter? (Teorija)
-9:25-9:45    (20 min)  🎯 AKTIVNOST: Zašto trebamo Project Charter?
-9:45-10:00   (15 min)  Uloga Charter-a u postavljanju ciljeva (Teorija)
-10:00-10:15  (15 min)  ☕ PAUZA
-10:15-10:35  (20 min)  Ključni elementi Project Charter-a (Teorija)
-10:35-10:50  (15 min)  Best Practices za Project Charter (Teorija)
-10:50-11:10  (20 min)  🎯 AKTIVNOST: Analiza Chatbot Project Charter
-11:10-11:25  (15 min)  ☕ PAUZA
-11:25-11:40  (15 min)  Tko su stakeholderi? + 4 ključne uloge (Teorija)
-11:40-11:55  (15 min)  🎯 AKTIVNOST: SHIFT4IT Stakeholder Identification
-11:55-12:00  (5 min)   Wrap-up + Najava Dana 2
-12:00        ---       Kraj Dana 1 M2
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 65 min | 36% |
-| 🟢 Praksa/Aktivnosti | 55 min | 31% |
-| ☕ Pauze | 30 min | 17% |
-| 📋 Admin (uvod/zaključak) | 30 min | 16% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
 
 # ⏰ **9:00-9:10 (10 min) - RECAP M1 + UVOD U M2**
 
@@ -144,12 +49,7 @@ Mnogi projekti propadaju jer nikad nisu bili formalno odobreni. Netko ima ideju,
 
 # ⏰ **9:10-9:25 (15 min) - ŠTO JE PROJECT CHARTER?**
 
-### **Slajd 4: What is a Project Charter?**
-
-**Notes iz PDF-a:**
-_"Project charter je formalni dokument koji autorizira projekt i daje high-level pregled svrhe, opsega, ciljeva i ključnih stakeholdera. Služi kao temelj za planiranje i izvršenje projekta."_
-
-## **Što reći studenticama (8 min):**
+### **Slajd 5: What is a Project Charter?**
 
 "Zamislite da želite pokrenuti startup. Imate odličnu ideju za aplikaciju. Što vam treba?
 
@@ -177,12 +77,7 @@ Project Charter je kao **"rodni list" projekta**. Kao što dijete bez rodnog lis
 
 ---
 
-### **Slajd 5: How a Project Charter Authorizes and Defines the Project?**
-
-**Notes iz PDF-a:**
-_"1. Služi kao službeno odobrenje od leadership/sponzora. 2. Daje jasnu definiciju ciljeva, deliverables-a i ograničenja. 3. Uspostavlja autoritet project managera za alokaciju resursa i donošenje odluka."_
-
-## **Što reći studenticama (7 min):**
+### **Slajd 6: How a Project Charter Authorizes and Defines the Project?**
 
 "Pogledajmo detaljnije KAKO Project Charter pokreće projekt:
 
@@ -236,14 +131,6 @@ A: "Charter može biti jednostavniji - čak i jedan page document. Bitno je da p
 ## ✏️ **AKTIVNOST: Projekti bez Charter-a - Što može poći po zlu?**
 
 **Cilj:** Studentice razumiju važnost Project Charter-a kroz analizu problema koji nastaju bez njega
-
-**Trajanje:** 20 min
-
-**Format:** Grupna diskusija + brainstorming
-
-### **Uvod u aktivnost (2 min):**
-
-*Reci studenticama:*
 
 "Zamislite da ste developer u IT tvrtki. Šef vam kaže: 'Hej, trebamo novu aplikaciju za praćenje vremena. Počni raditi.'
 
@@ -311,11 +198,6 @@ Dodaj challenge: "Koje od ovih problema ste vi osobno iskusile na nekom projektu
 
 ### **Slajd 6-7: Role of the Project Charter in Setting Objectives and Scope**
 
-**Notes iz PDF-a:**
-_"Charter ima 6 uloga: 1) Definira ciljeve, 2) Uspostavlja opseg, 3) Identificira stakeholdere, 4) Postavlja high-level timeline i budget, 5) Vodi alignment projekta s organizacijskim ciljevima, 6) Dobro strukturiran charter osigurava jasnoću, alignment i odgovornost."_
-
-## **Što reći studenticama (15 min):**
-
 "Sada kada znamo ŠTO je charter, pogledajmo KOJE su njegove uloge detaljnije.
 
 📋 **6 ULOGA PROJECT CHARTER-A:**
@@ -377,33 +259,9 @@ A: "Stavite procjenu s rangom: '100.000€ - 150.000€'. Preciznije brojke dola
 
 ---
 
-# ⏰ **10:00-10:15 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlično ste radile! Zaslužile ste pauzu. ☕
-
-Imamo 15 minuta - iskoristite za kavu, WC, protegnite se.
-
-Vratite se u 10:15 - krenut ćemo s konkretnim elementima Project Charter-a!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Provjeri da je prezentacija spremna za sljedeću sekciju (Slajd 8)
-- Pripremi handout s 10 elemenata charter-a
-- Odgovori na individualna pitanja ako ih ima
-
----
-
 # ⏰ **10:15-10:35 (20 min) - KLJUČNI ELEMENTI PROJECT CHARTER-A**
 
 ### **Slajd 8-9: Key Elements of a Project Charter**
-
-**Notes iz PDF-a:**
-_"10 ključnih elemenata: 1) Project Title & Overview, 2) Project Purpose & Business Case, 3) Project Objectives, 4) Scope Statement, 5) Key Stakeholders, 6) Roles & Responsibilities, 7) High-Level Timeline, 8) Budget & Resource Allocation, 9) Risks & Assumptions, 10) Approval & Authorization."_
-
-## **Što reći studenticama (20 min):**
 
 "Sada dolazimo do konkretnog - što točno sadrži Project Charter?
 
@@ -498,11 +356,6 @@ A: "Ne! Charter je HIGH-LEVEL dokument koji POKREĆE projekt. Project Plan je DE
 
 ### **Slajd 10-11: Best Practices for a Strong Project Charter**
 
-**Notes iz PDF-a:**
-_"6 best practices: 1) Keep it Concise, 2) Ensure Clarity & Alignment, 3) Define Measurable Objectives, 4) Set Realistic Scope & Constraints, 5) Identify Key Stakeholders Early, 6) Secure Formal Authorization."_
-
-## **Što reći studenticama (15 min):**
-
 "Sada kada znamo što charter sadrži, kako napisati DOBAR charter?
 
 ✅ **6 BEST PRACTICES:**
@@ -579,14 +432,6 @@ A: "Možeš dodati high-level tehničke odluke (npr. 'Koristit ćemo cloud infra
 ## ✏️ **AKTIVNOST: Analiza stvarnog Project Charter-a**
 
 **Cilj:** Studentice identificiraju 10 elemenata charter-a na stvarnom primjeru
-
-**Trajanje:** 20 min
-
-**Materijali:** Chatbot Project Charter primjer (Slajdovi 12-16) + Analysis Worksheet
-
-### **Kontekst:**
-
-*Pročitaj studenticama:*
 
 "Sada ćemo analizirati stvarni primjer Project Charter-a. Projekt je **AI Chatbot za korisničku podršku** - vrlo tipičan IT projekt.
 
@@ -695,31 +540,9 @@ Ovaj projekt ima za cilj razviti i implementirati AI chatbot za poboljšanje vre
 
 ---
 
-# ⏰ **11:10-11:25 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlična analiza! Sada znate kako izgleda pravi Project Charter.
-
-Imate 15 minuta pauze. Kad se vratimo, prelazimo na stakeholdere - ljude koji čine ili kvare svaki projekt!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi Post-it notes za stakeholder aktivnost
-- Provjeri slajd 17-20 (Stakeholder roles)
-- Pripremi SHIFT4IT stakeholder worksheet
-
----
-
 # ⏰ **11:25-11:40 (15 min) - TKO SU STAKEHOLDERI?**
 
-### **Slajd 17-18: Stakeholder Roles and Responsibilities**
-
-**Notes iz PDF-a:**
-_"Stakeholderi su pojedinci ili grupe koji imaju interes u projektu ili su njime pogođeni. Njihove uloge i odgovornosti variraju ovisno o razini uključenosti."_
-
-## **Što reći studenticama (5 min):**
+### **Slajd 20-21: Stakeholder Roles and Responsibilities**
 
 "Prelazimo na drugu veliku temu danas - **STAKEHOLDERI**.
 
@@ -749,11 +572,6 @@ Ako razvijate mobilnu aplikaciju za banku:
 ---
 
 ### **Slajd 19-20: Roles and Responsibilities for Key Stakeholders I & II**
-
-**Notes iz PDF-a:**
-_"Ključne uloge: 1) Project Sponsor, 2) Project Manager, 3) Project Team Members, 4) Key Stakeholders (Internal & External)."_
-
-## **Što reći studenticama (10 min):**
 
 "Pogledajmo 4 KLJUČNE uloge stakeholdera koje ćemo danas pokriti:
 
@@ -849,16 +667,6 @@ A: "PM identificira stakeholdere u Initiation fazi. Koristi se pitanje: 'Tko je 
 # ⏰ **11:40-11:55 (15 min) - 🎯 AKTIVNOST: SHIFT4IT Stakeholder Identification**
 
 ## ✏️ **AKTIVNOST: Identificiranje stakeholdera na poznatom projektu**
-
-**Cilj:** Studentice primjenjuju znanje o stakeholderima na projekt koji dobro poznaju - SHIFT4IT!
-
-**Trajanje:** 15 min
-
-**Materijali:** SHIFT4IT Stakeholder Worksheet
-
-### **Uvod (2 min):**
-
-*Reci studenticama:*
 
 "Najbolji način za razumjeti stakeholdere je primijeniti koncept na nešto što poznajemo.
 
