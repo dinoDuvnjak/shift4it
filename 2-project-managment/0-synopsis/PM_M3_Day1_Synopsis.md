@@ -1,102 +1,5 @@
 # 📘 DAN 5 - PROJECT MANAGEMENT PLAN & SCOPE STATEMENT
 
-## **PREDAVANJE: Komponente PMP-a i Definiranje Scope-a Projekta**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M3_PLANNING THE WORK_7 hours.pdf (Slajdovi 1-16)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M3 Planning The Work  
-**DAN:** 1 od 3 (Dan 5 ukupno u programu)
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Objasniti** što je Project Management Plan i zašto je ključan za uspjeh projekta
-2. **Nabrojati** 10 komponenti PMP-a i opisati svrhu svake
-3. **Analizirati** primjer PMP-a za IT projekt (HealthTrack Mobile App)
-4. **Razumjeti** međuovisnost scope-a, schedule-a i budgeta (Triple Constraint u planiranju)
-5. **Kreirati** Change Request Process za upravljanje promjenama
-6. **Napisati** jasan i koncizan Scope Statement za IT projekt
-7. **Primijeniti** 5 elemenata dobrog Scope Statement-a na praktičnom primjeru
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 1-16)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (minimalno 4 boje)
-- [ ] Timer za aktivnosti
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Post-it notes (za brainstorming aktivnosti)
-- [ ] Veliki papiri (A3 ili flipchart) za grupni rad
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] Materijali s M1 i M2 (za povezivanje koncepata)
-
-### **Digitalni materijali:**
-- [ ] PMP Components Checklist Template
-- [ ] Change Request Form Template
-- [ ] Scope Statement Template
-- [ ] EduTrack Case Study (iz PDF-a)
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi Post-it notes i markere za grupni rad
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju
-5. ✅ Pripremi EduTrack case study na velikom papiru
-6. ✅ Napravi sebi "cheat sheet" s 10 PMP komponenti
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 1
-3. ✅ Napiši na whiteboard: "M3 Dan 1: Planning The Work"
-4. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-5. ✅ Postavi handoute na stolove
-6. ✅ Nacrtaj Triple Constraint trokut na whiteboard (Scope-Time-Cost)
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:15    (15 min)  Recap M2 + Uvod u M3 Planning
-9:15-9:45    (30 min)  Što je Project Management Plan? (Teorija)
-9:45-10:10   (25 min)  PMP Example: HealthTrack Mobile App
-10:10-10:25  (15 min)  ☕ PAUZA
-10:25-11:00  (35 min)  🎯 AKTIVNOST: Change Management Plan
-11:00-11:15  (15 min)  ☕ PAUZA
-11:15-11:35  (20 min)  Scope Statement - Teorija + Primjer
-11:35-11:55  (20 min)  🎯 AKTIVNOST: Scope Statement za EduTrack
-11:55-12:00  (5 min)   Recap Dana 1 + Najava Dana 2
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 65 min | 36% |
-| 🎯 Praksa/Aktivnosti | 55 min | 31% |
-| ☕ Pauze | 30 min | 17% |
-| 📋 Admin (recap/uvod) | 30 min | 16% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:15 (15 min) - RECAP M2 + UVOD U M3**
 
 ## **Što reći studenticama:**
@@ -183,12 +86,7 @@ PMI istraživanja pokazuju da projekti s formalnim planom imaju 2x veću šansu 
 
 # ⏰ **9:15-9:45 (30 min) - ŠTO JE PROJECT MANAGEMENT PLAN?**
 
-### **Slajd 4: Project Management Plan**
-
-**Notes iz PDF-a:**
-_"A Project Management Plan is a formal document that defines how a project will be executed, monitored, and controlled. It consists of several key components."_
-
-## **Što reći studenticama (10 min):**
+### **Slajd 5: Project Management Plan**
 
 "Sada ulazimo u srž planiranja - **Project Management Plan (PMP)**.
 
@@ -257,10 +155,6 @@ A: "Project Sponsor odobrava, ali PM piše uz pomoć tima i stakeholdera."
 
 ### **Slajd 5-6: Components of a Project Management Plan I, II, III**
 
-**Notes iz PDF-a:**
-_"PMP sadrži: 1) Project Overview, 2) Scope Management Plan, 3) Schedule Management Plan, 4) Cost Management Plan, 5) Quality Management Plan, 6) Resource Management Plan, 7) Communication Management Plan, 8) Risk Management Plan, 9) Procurement Management Plan, 10) Stakeholder Management Plan."_
-
-## **Što reći studenticama (20 min):**
 
 "PMP ima **10 ključnih komponenti**. Idemo redom:
 
@@ -437,7 +331,7 @@ A: "PM koordinira, ali dijelovi se pišu s odgovornim osobama. Tech Lead piše t
 
 # ⏰ **9:45-10:10 (25 min) - PMP EXAMPLE: HEALTHTRACK MOBILE APP**
 
-### **Slajdovi 7-11: Project Management Plan Example**
+### **Slajdovi 9-13: Project Management Plan Example**
 
 **Notes iz PDF-a:**
 _"HealthTrack Mobile App - Develop a mobile app for tracking fitness and health metrics. Features: step tracking, calorie counting, workout logging."_
@@ -590,34 +484,9 @@ A: "Senior developer košta 5-10k€ mjesečno. 3 developera × 4 mjeseca = 60-1
 
 ---
 
-# ⏰ **10:10-10:25 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odličan pregled PMP-a! Sada znate što sve ulazi u plan projekta. ☕
-
-Imate 15 minuta pauze. Iskoristite za kavu, WC, protegnite se.
-
-Vratite se u 10:25 - radimo praktičnu vježbu o Change Managementu!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi slajd 12 (Group Exercise - Change Management)
-- Pripremi Change Request Form Template handout
-- Napiši na whiteboard: "Change Request Process"
-- Rasporedi grupe (3-4 osobe po grupi)
-
----
-
 # ⏰ **10:25-11:00 (35 min) - 🎯 AKTIVNOST: CHANGE MANAGEMENT PLAN**
 
 ### **Slajd 12: Group Exercise - Change Management**
-
-**Notes iz PDF-a:**
-_"Based on the PMP described above the trainees will: 1) Recognize the impact of changes in one area on the overall project. 2) Develop a change management plan to handle scope changes and their impact on schedule and budget."_
-
-## ✏️ **AKTIVNOST: Kreiranje Change Management Plan-a**
 
 **Cilj:** Studentice razumiju kako promjene u projektu utječu na scope, schedule i budget, te kreiraju proces za upravljanje promjenama
 
@@ -773,33 +642,9 @@ Krenimo!"
 
 ---
 
-# ⏰ **11:00-11:15 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlična aktivnost! Vidjele ste kako jedna 'mala' promjena može značajno utjecati na cijeli projekt. ☕
-
-Imate 15 minuta pauze.
-
-Vratite se u 11:15 - učimo o Scope Statement-u - kako jasno definirati ŠTO je uključeno u projekt!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi slajdove 14-16 (Scope Statement)
-- Pripremi Scope Statement Template handout
-- Napiši na whiteboard 5 elemenata Scope Statement-a
-
----
-
 # ⏰ **11:15-11:35 (20 min) - SCOPE STATEMENT - TEORIJA + PRIMJER**
 
-### **Slajd 14: How to Write a Clear and Concise Scope Statement**
-
-**Notes iz PDF-a:**
-_"A well-defined Scope Statement should include: 1) Project Objective, 2) Deliverables, 3) Scope Boundaries, 4) Constraints & Assumptions, 5) Acceptance Criteria."_
-
-## **Što reći studenticama (12 min):**
+### **Slajd 15: How to Write a Clear and Concise Scope Statement**
 
 "Sada ulazimo u jedan od NAJVAŽNIJIH dokumenata u planiranju - **Scope Statement**.
 
@@ -990,9 +835,6 @@ A: "Slično, ali Scope Statement je DETALJNIJI. Charter ima high-level scope, Sc
 # ⏰ **11:35-11:55 (20 min) - 🎯 AKTIVNOST: SCOPE STATEMENT ZA EDUTRACK**
 
 ### **Slajd 16: Exercise - Scope Statement**
-
-**Notes iz PDF-a:**
-_"Develop a scope statement for EduTrack - a web-based classroom management platform."_
 
 ## ✏️ **AKTIVNOST: Pisanje Scope Statement-a za EduTrack**
 
