@@ -1,133 +1,6 @@
 # 📘 DAN 4 - STAKEHOLDER MANAGEMENT I DONOŠENJE ODLUKA
 
-## **PREDAVANJE: Stakeholder Mapping, RACI Matrix & Decision Making**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M2_STARTING THE PROJECT_6 hours.pdf (Slajdovi 21-33)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M2 Starting The Project  
-**DAN:** 2 od 2 (Dan 4 ukupno u programu)
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Objasniti** preostale 4 stakeholder uloge (Clients, Functional Managers, Vendors, Regulators)
-2. **Koristiti** Power/Interest Grid za klasifikaciju stakeholdera u 4 kategorije
-3. **Razviti** engagement strategije za svaku kategoriju stakeholdera
-4. **Kreirati** RACI matricu za IT projekt s jasnim razgraničenjem uloga
-5. **Razlikovati** Authority, Responsibility i Accountability u projektnom kontekstu
-6. **Primijeniti** 3 modela donošenja odluka (Rational, Agile, Cost-Benefit Analysis)
-7. **Analizirati** scenarije donošenja odluka u IT projektima
-8. **Sintetizirati** znanje iz cijelog M2 modula
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 21-33)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (minimalno 4 boje)
-- [ ] Timer za aktivnosti
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Post-it notes (4 boje za Power/Interest Grid)
-- [ ] Veliki papir za RACI Matrix vježbu (A3 ili flipchart)
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] Materijali s Dana 1 M2 (stakeholder uloge)
-
-### **Digitalni materijali:**
-- [ ] Power/Interest Grid Template (prazan)
-- [ ] RACI Matrix Template (prazan)
-- [ ] EduTrack Case Study (iz PDF-a)
-- [ ] Decision Making Scenarios Worksheet
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi Post-it notes u 4 boje (za Power/Interest Grid)
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju
-5. ✅ Pripremi veliki papir/flipchart za RACI Matrix grupnu vježbu
-6. ✅ Napravi sebi "cheat sheet" s RACI definicijama
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 21
-3. ✅ Nacrtaj prazan Power/Interest Grid na whiteboard (ostaviti za aktivnost)
-4. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-5. ✅ Postavi handoute na stolove
-6. ✅ Napiši na whiteboard: "M2 Dan 2: Stakeholder Management & Decision Making"
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:15    (15 min)  Recap M2 Dan 1 + Uvod u Dan 2
-9:15-9:30    (15 min)  Preostale stakeholder uloge (5-8) (Teorija)
-9:30-9:45    (15 min)  Power/Interest Grid - Teorija
-9:45-10:10   (25 min)  🎯 AKTIVNOST: Stakeholder Mapping za IT projekt
-10:10-10:25  (15 min)  ☕ PAUZA
-10:25-10:45  (20 min)  RACI Matrix - Teorija + Primjeri
-10:45-11:10  (25 min)  🎯 AKTIVNOST: RACI Matrix za SHIFT4IT
-11:10-11:25  (15 min)  ☕ PAUZA
-11:25-11:40  (15 min)  Authority, Responsibility, Accountability (Teorija)
-11:40-11:50  (10 min)  3 modela donošenja odluka (Teorija)
-11:50-11:55  (5 min)   🎯 MINI-AKTIVNOST: Decision Making Scenarios
-11:55-12:00  (5 min)   Recap M2 Modula + Najava M3
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 65 min | 36% |
-| 🟢 Praksa/Aktivnosti | 55 min | 31% |
-| ☕ Pauze | 30 min | 17% |
-| 📋 Admin (recap/zaključak) | 30 min | 16% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:15 (15 min) - RECAP M2 DAN 1 + UVOD U DAN 2**
-
-## **Što reći studenticama:**
-
-"Dobro jutro i dobrodošle na završni dan M2 modula! 👋
-
-Jučer smo prošle važne teme - podsjetimo se:
-
-**Brzi kviz - tko se sjeća:**
-- Što je Project Charter? *(Formalni dokument koji autorizira projekt)*
-- Kojih 10 elemenata ima charter? *(Title, Purpose, Objectives, Scope, Stakeholders, Roles, Timeline, Budget, Risks, Approval)*
-- Koje 4 ključne stakeholder uloge smo naučile? *(Sponsor, PM, Team Members, Key Stakeholders)*
-
-Sjajno! Danas nadograđujemo to znanje s:
-
-🎯 **Što ćemo danas naučiti:**
-1. **Preostale stakeholder uloge** - Clients, Functional Managers, Vendors, Regulators
-2. **Power/Interest Grid** - alat za klasifikaciju stakeholdera
-3. **RACI Matrix** - tko je za što odgovoran u projektu
-4. **Authority vs Responsibility vs Accountability** - ključne razlike
-5. **3 modela donošenja odluka** - kako PM donosi odluke
-
-Zamislite to ovako:
-- Jučer smo naučile TKO su stakeholderi
-- Danas učimo KAKO ih mapirati i upravljati njima
-
-Ima li pitanja prije nego krenemo?"
 
 📚 **FACILITATOR NOTES:**
 
@@ -149,11 +22,6 @@ Loše upravljanje stakeholderima = nezadovoljni ljudi = problemi za projekt. RAC
 # ⏰ **9:15-9:30 (15 min) - PREOSTALE STAKEHOLDER ULOGE (5-8)**
 
 ### **Slajd 21-22: Roles and Responsibilities for Key Stakeholders III & IV**
-
-**Notes iz PDF-a:**
-_"Clients/End Users: Koriste finalni proizvod. Functional Managers: Nadgledaju odjele pogođene projektom. Vendors/Suppliers: Pružaju proizvode ili usluge. Regulators & Compliance Officers: Osiguravaju usklađenost s propisima."_
-
-## **Što reći studenticama (15 min):**
 
 "Jučer smo pokrili 4 ključne uloge. Danas dodajemo još 4 važne uloge koje srećete u IT projektima:
 
@@ -250,11 +118,6 @@ A: "Ovisi o projektu. Mali projekt možda ima 1-2 (hosting, design tool). Veliki
 
 ### **Slajd 23: Stakeholder Map (Power-Interest Grid)**
 
-**Notes iz PDF-a:**
-_"Stakeholder Map prikazuje Power i Interest svakog stakeholdera s pripadajućom Engagement Strategy."_
-
-## **Što reći studenticama (15 min):**
-
 "Sada kada znamo TKO su stakeholderi, pitanje je: KAKO ih prioritizirati?
 
 Ne možemo svima posvetiti istu pažnju - neki su važniji od drugih. Za to koristimo **Power/Interest Grid**.
@@ -349,10 +212,6 @@ A: "Na početku projekta detaljno, zatim review svakih mjesec dana ili kad dođe
 
 **Cilj:** Studentice primjenjuju Power/Interest Grid na realističan IT projekt
 
-**Trajanje:** 25 min
-
-**Materijali:** Power/Interest Grid Template handout, Post-it notes (4 boje), veliki papir/whiteboard
-
 ### **Kontekst projekta (2 min):**
 
 *Pročitaj studenticama:*
@@ -440,34 +299,9 @@ Pitaj: "Tko nedostaje na ovoj listi? Tko bi još mogao biti stakeholder?"
 
 ---
 
-# ⏰ **10:10-10:25 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlična aktivnost! Sada imate praktično iskustvo sa Stakeholder Mappingom. ☕
-
-Imate 15 minuta pauze. Iskoristite za kavu, WC, protegnite se.
-
-Vratite se u 10:25 - krenut ćemo s RACI Matrix-om - alatom koji će vam spasiti živce na svakom projektu!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Provjeri slajdove za RACI (27-28 u PDF-u)
-- Pripremi RACI Matrix Template handout
-- Napiši RACI akronim na whiteboard: R-A-C-I
-- Ako ima pitanja o prethodnoj aktivnosti, odgovori individualno
-
----
-
 # ⏰ **10:25-10:45 (20 min) - RACI MATRIX - TEORIJA + PRIMJERI**
 
-### **Slajd 27-28: Authority, Responsibility, Accountability**
-
-**Notes iz PDF-a:**
-_"Authority = pravo donošenja odluka. Responsibility = obaveza izvršenja zadataka. Accountability = obaveza odgovaranja za ishode. PM ima autoritet odobriti budget promjene. Team member je odgovoran za razvoj feature-a. PM je accountable za isporuku projekta na vrijeme."_
-
-## **Što reći studenticama (20 min):**
+### **Slajd 30-31: Authority, Responsibility, Accountability**
 
 "Prije nego uđemo u RACI Matrix, moramo razumjeti 3 ključna koncepta:
 
@@ -601,14 +435,6 @@ A: "Ovisi o projektu. Za mali projekt: 10-20 glavnih taskova. Za veliki projekt:
 
 **Cilj:** Studentice kreiraju RACI Matrix za poznati projekt - SHIFT4IT program u kojem sudjeluju!
 
-**Trajanje:** 25 min
-
-**Materijali:** RACI Matrix Template handout, veliki papir za grupni rad
-
-### **Kontekst (2 min):**
-
-*Reci studenticama:*
-
 "Najbolji način da naučite RACI je da ga primijenite na nešto poznato. SHIFT4IT program je projekt - ima ciljeve, timeline, budget i stakeholdere.
 
 Vaš zadatak: Kreirajte RACI Matrix za SHIFT4IT!"
@@ -690,30 +516,9 @@ Ako imaju poteškoća, fokusiraj se na samo 4 zadatka umjesto 8.
 
 ---
 
-# ⏰ **11:10-11:25 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odlično ste radile RACI Matrix! Sada imate praktični alat koji možete koristiti na svakom projektu. ☕
-
-Imate 15 minuta pauze. 
-
-Vratite se u 11:25 - završit ćemo s decision making modelima i recap-om cijelog M2 modula!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi slajdove za Decision Making (29-31)
-- Napravi brzi pregled - jesmo li u schedule-u?
-- Pripremi Decision Making Scenarios handout
-
----
-
 # ⏰ **11:25-11:40 (15 min) - AUTHORITY, RESPONSIBILITY, ACCOUNTABILITY - PRODUBLJIVANJE**
 
-### **Slajd 27-28: Authority, Responsibility, Accountability (detaljnije)**
-
-## **Što reći studenticama (15 min):**
+### **Slajd 30-31: Authority, Responsibility, Accountability (detaljnije)**
 
 "Već smo dotaknuli Authority, Responsibility i Accountability kod RACI-ja. Sada idemo dublje - jer razumijevanje ovih koncepata je KLJUČNO za PM-a.
 
@@ -787,11 +592,6 @@ A: "Authority je FORMALNA moć koja dolazi s pozicijom. Možeš imati moć utjec
 # ⏰ **11:40-11:50 (10 min) - 3 MODELA DONOŠENJA ODLUKA**
 
 ### **Slajd 29-31: Three Decision-making Models in IT Project Management**
-
-**Notes iz PDF-a:**
-_"3 modela: 1) Rational Decision-Making - strukturirane, data-driven odluke, 2) Agile Decision-Making - brze, iterativne odluke, 3) Cost-Benefit Analysis - financijske i resursne odluke."_
-
-## **Što reći studenticama (10 min):**
 
 "Zadnji teorijski dio - KAKO PM donosi odluke? Postoje 3 glavna modela:
 
@@ -890,14 +690,6 @@ A: "Ovisi o Authority. Tehničke odluke: Tech Lead. Budget odluke: PM ili Sponso
 ## ✏️ **MINI-AKTIVNOST: Koji model za koju situaciju?**
 
 **Cilj:** Brza provjera razumijevanja decision-making modela
-
-**Trajanje:** 5 min
-
-**Format:** Quick-fire odgovori
-
-### **Upute:**
-
-*Reci studenticama:*
 
 "Brzi kviz! Za svaki scenarij, recite koji model biste koristili. Dižite ruku kad znate!
 

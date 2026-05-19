@@ -1,106 +1,5 @@
 # 📘 DAN 6 - WORK BREAKDOWN STRUCTURE, SCHEDULING & BUDGET DEVELOPMENT
 
-## **PREDAVANJE: WBS Kreiranje, Scheduling Osnove i Budget Metode**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M3_PLANNING THE WORK_7 hours.pdf (Slajdovi 17-35)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M3 Planning The Work  
-**DAN:** 2 od 2 (Dan 6 ukupno u programu) - ZAVRŠNI DAN M3 MODULA
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Objasniti** što je Work Breakdown Structure (WBS) i zašto je ključan za planiranje projekta
-2. **Kreirati** WBS za IT projekt s 3 razine hijerarhije (Projekt → Faze → Zadaci)
-3. **Primijeniti** 100% Rule pri kreiranju WBS-a
-4. **Definirati** ključne scheduling termine (milestone, lead/lag time, float, Gantt chart)
-5. **Identificirati** utjecaj resursa na raspored projekta
-6. **Razlikovati** 3 metode budgetiranja (Top-Down, Bottom-Up, Three-Point)
-7. **Primijeniti** odgovarajuću metodu budgetiranja za različite scenarije
-8. **Integrirati** WBS, schedule i budget u cjeloviti plan projekta
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 17-35)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (minimalno 4 boje)
-- [ ] Timer za aktivnosti
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Post-it notes (za WBS Card Sorting aktivnost)
-- [ ] Veliki papiri (A3 ili flipchart) za grupni rad
-- [ ] Ljepljiva traka za postavljanje WBS struktura na zid
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] Materijali s M3 Dan 1 (Scope Statement za EduTrack)
-- [ ] Kalkulator (ili mobitel) za budget vježbu
-
-### **Digitalni materijali:**
-- [ ] WBS Template (handout)
-- [ ] WBS Dictionary Template (handout)
-- [ ] Gantt Chart Template (handout)
-- [ ] Budget Estimation Worksheet (handout)
-- [ ] EduTrack Case Study (kontinuitet iz M3 Dan 1)
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi Post-it notes i markere za WBS aktivnost
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju (slajdovi 17-35)
-5. ✅ Pripremi velike papire za WBS strukturu
-6. ✅ Napravi sebi "cheat sheet" s WBS primjerom i budget formulama
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 17
-3. ✅ Napiši na whiteboard: "M3 Dan 2: WBS + Scheduling + Budget"
-4. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-5. ✅ Postavi handoute na stolove
-6. ✅ Nacrtaj prazan WBS dijagram na whiteboard (projekt → faze → zadaci)
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:10    (10 min)  Recap M3 Dan 1 + Uvod u Dan 2
-9:10-9:30    (20 min)  Work Breakdown Structure (WBS) - Teorija
-9:30-10:10   (40 min)  🎯 AKTIVNOST: WBS za EduTrack + WBS Dictionary
-10:10-10:25  (15 min)  ☕ PAUZA
-10:25-10:45  (20 min)  Scheduling Terminology (Milestones, Lead/Lag, Gantt)
-10:45-11:15  (30 min)  🎯 AKTIVNOST: Gantt Chart + Resource Planning
-11:15-11:25  (10 min)  Budget Development Methods - Teorija
-11:25-11:50  (25 min)  🎯 AKTIVNOST: Budget Estimation za EduTrack
-11:50-12:00  (10 min)  Recap M3 Modula + Najava M4
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 50 min | 28% |
-| 🎯 Praksa/Aktivnosti | 95 min | 53% |
-| ☕ Pauze | 15 min | 8% |
-| 📋 Admin (recap/uvod) | 20 min | 11% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:10 (10 min) - RECAP M3 DAN 1 + UVOD U DAN 2**
 
 ## **Što reći studenticama:**
@@ -170,11 +69,6 @@ WBS je "kostur" projekta. Sve ostalo (schedule, budget, resursi) se gradi na WBS
 # ⏰ **9:10-9:30 (20 min) - WORK BREAKDOWN STRUCTURE (WBS) - TEORIJA**
 
 ### **Slajdovi 17-20: What is WBS? + Why is WBS Important?**
-
-**Notes iz PDF-a:**
-_"A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, manageable components. It visually organizes the project scope into phases, deliverables, and tasks, ensuring that all work is clearly defined."_
-
-## **Što reći studenticama (20 min):**
 
 "Ulazimo u jedan od NAJVAŽNIJIH alata u project managementu - **Work Breakdown Structure** ili skraćeno **WBS**.
 
@@ -380,9 +274,6 @@ A: "Zato je WBS 'živi dokument' - može se ažurirati. Ali svaka promjena mora 
 
 ### **Slajd 21: Exercise - Create WBS for EduTrack**
 
-**Notes iz PDF-a:**
-_"Create a WBS for the following hypothetical project: EduTrack - a web-based classroom management platform."_
-
 ## ✏️ **AKTIVNOST: Kreiranje WBS-a za EduTrack**
 
 **Cilj:** Studentice primjenjuju WBS koncept na IT projekt i kreiraju WBS Dictionary za odabrane work packages
@@ -570,33 +461,9 @@ Ako grupa koristi Post-it notes:
 
 ---
 
-# ⏰ **10:10-10:25 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odličan rad na WBS-u! Sada imate strukturu cijelog projekta. ☕
-
-Imate 15 minuta pauze. Pogledajte WBS-ove drugih grupa na zidu - možete dobiti ideje!
-
-Vratite se u 10:25 - učimo o **Scheduling** - kako staviti taskove u vrijeme!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi slajdove 22-28 (Scheduling Terminology)
-- Nacrtaj prazan Gantt Chart na whiteboard
-- Pripremi Gantt Chart Template handout
-
----
-
 # ⏰ **10:25-10:45 (20 min) - SCHEDULING TERMINOLOGY**
 
 ### **Slajdovi 22-28: Key Scheduling Terminology + Resource Impact**
-
-**Notes iz PDF-a:**
-_"Project Schedule: A detailed timeline outlining when project tasks and milestones will be completed. Milestone: A significant event or achievement in the project timeline."_
-
-## **Što reći studenticama (20 min):**
 
 "Sada kad imamo WBS, znamo ŠTO treba napraviti. Scheduling nam govori KADA!
 
@@ -949,11 +816,6 @@ Neka rade samo s 5 glavnih faza (Level 2), ne s pojedinačnim taskovima. Cilj je
 # ⏰ **11:15-11:25 (10 min) - BUDGET DEVELOPMENT METHODS - TEORIJA**
 
 ### **Slajdovi 30-33: Budget Development Methods**
-
-**Notes iz PDF-a:**
-_"Top-Down Budgeting: Senior management sets a total budget based on organizational goals, and the project manager allocates funds to different tasks. Bottom-Up Budgeting: The project team estimates costs for each individual task or activity, then sums them up. Three-Point Budgeting: Uses Optimistic, Most Likely, and Pessimistic estimates."_
-
-## **Što reći studenticama (10 min):**
 
 "Sada imamo WBS (ŠTO) i Schedule (KADA). Ostaje pitanje: **KOLIKO KOŠTA?**
 
