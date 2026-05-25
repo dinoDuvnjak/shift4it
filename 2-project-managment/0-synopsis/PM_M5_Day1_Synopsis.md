@@ -1,132 +1,8 @@
 # 📘 DAN 9 - ENDING THE PROJECT (ZAVRŠNI DAN PROGRAMA)
 
-## **PREDAVANJE: Project Closure, Final Reports i Celebration**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M5_ENDING THE PROJECT_4 hours.pdf  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M5 Ending The Project  
-**DAN:** 1 od 1 (Dan 9 ukupno u programu) - **ZAVRŠNI DAN CIJELOG PROGRAMA** 🎓
-
----
-
-## 🎉 **POSEBNA NAPOMENA - ZAVRŠNI DAN**
-
-Ovo je **POSLJEDNJI DAN** cijeloga 9-dnevnog Project Management programa!
-
-Danas imamo:
-- ✅ Učenje o Project Closure procesima
-- ✅ Praktične vježbe za završetak projekta
-- ✅ **GRAND RECAP** svih 5 modula (M1-M5)
-- ✅ **Refleksija** - što smo naučile, kako ćemo to primijeniti
-- ✅ **Celebration moment** - obilježavanje uspješnog završetka! 🎊
-
-**Ton dana:** Energičan, celebratorni, ali i praktičan. Studentice trebaju otići s osjećajem postignuća i jasnim planom za primjenu naučenog.
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Objasniti** svrhu i važnost formalnog zatvaranja projekta
-2. **Identificirati** 6 ključnih stakeholdera u procesu prihvaćanja projekta
-3. **Nabrojati** 6 kriterija za formalno prihvaćanje projekta od strane stakeholdera
-4. **Opisati** 7 koraka za efektivno zatvaranje ugovora
-5. **Kreirati** strukturu Final Project Report s 10 ključnih komponenti
-6. **Primijeniti** Lessons Learned proces za kontinuirano poboljšanje
-7. **Povezati** sve naučene koncepte iz svih 5 modula u cjelovitu PM metodologiju
-8. **Identificirati** osobne next steps za primjenu PM znanja u karijeri
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF M5)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (minimalno 4 boje)
-- [ ] Timer za aktivnosti
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Post-it notes (za Lessons Learned aktivnost)
-- [ ] Veliki papir za "PM Journey Map" recap
-- [ ] 🎊 Celebration elementi (opciono): konfeti, certifikati, čokoladice
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] **SVI materijali iz prethodnih 8 dana** - za Grand Recap
-- [ ] EduTrack Case Study dokumenti (kontinuitet kroz cijeli program)
-
-### **Digitalni materijali:**
-- [ ] Stakeholder Acceptance Checklist (handout)
-- [ ] Contract Closure Checklist (handout)
-- [ ] Final Report Template (handout)
-- [ ] PM Journey Recap Sheet (handout)
-- [ ] Personal Action Plan Template (handout)
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi veliki papir za "PM Journey Map" - nacrtaj timeline M1-M5
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju
-5. ✅ Pripremi celebration elemente (certifikate ako postoje, čokoladice)
-6. ✅ Napravi sebi pregled svih 5 modula za Grand Recap
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na naslovnici
-3. ✅ Napiši na whiteboard: "🎓 M5 Dan 9: ENDING THE PROJECT - ZAVRŠNI DAN!"
-4. ✅ Rasporedi stolove za grupni rad
-5. ✅ Postavi handoute na stolove
-6. ✅ Objesite PM Journey Map na zid
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s POSEBNIM entuzijazmom - ovo je ZAVRŠNI DAN! 🎉
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:10    (10 min)  🎉 Welcome + Energizer - ZAVRŠNI DAN!
-9:10-9:35    (25 min)  Project Closure + Stakeholder Acceptance (Slajdovi 1-9)
-9:35-9:55    (20 min)  🎯 AKTIVNOST: Stakeholder Acceptance Checklist
-9:55-10:10   (15 min)  Contract Closure Process (Slajdovi 10-16)
-10:10-10:25  (15 min)  ☕ PAUZA
-10:25-10:50  (25 min)  Final Project Report (Slajdovi 17-19) + Lessons Learned
-10:50-11:15  (25 min)  🎯 AKTIVNOST: Mini Final Report za EduTrack
-11:15-11:45  (30 min)  🎓 GRAND RECAP: PM Journey Through 5 Modules
-11:45-11:55  (10 min)  💫 Refleksija + Celebration Moment
-11:55-12:00  (5 min)   🚀 Closing + Next Steps
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 65 min | 36% |
-| 🎯 Praksa/Aktivnosti | 45 min | 25% |
-| 🎓 Recap/Refleksija | 40 min | 22% |
-| ☕ Pauze | 15 min | 8% |
-| 📋 Admin (uvod/closing) | 15 min | 8% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:10 (10 min) - WELCOME + ENERGIZER**
 
 ## **Što reći studenticama:**
-
-"Dobro jutro i DOBRODOŠLE na DEVETI I POSLJEDNJI DAN našeg Project Management programa! 🎉🎓
-
-*[Pauziraj, osmijeh, daj im trenutak da shvate]*
-
-Wow! Prošlo je 9 dana otkad smo se prvi put srele. Sjećate li se prvog dana? Možda ste bile nervozne, pitale se 'Hoću li ja to razumjeti?' - a sada ste OVDJE, na završnom danu!
 
 Danas učimo:
 - 📋 **Kako ZAVRŠITI projekt** - formalno zatvaranje
@@ -152,34 +28,11 @@ Vidite koliko ste toga naučile! 💪 A sada - naučimo kako sve to ZAVRŠITI!"
 
 ---
 
-📚 **FACILITATOR NOTES:**
-
-**Zašto ovakav uvod:**
-- Ovo je završni dan - ton mora biti celebratorni
-- Energizer "Moja PM Supermoć" odmah podsjeća na sve što su naučile
-- Gradi samopouzdanje prije učenja novih koncepata
-
-**Timing:**
-- 2 min: Uvodni govor
-- 5 min: Energizer (ako ima 10 studentica = 30 sek po osobi)
-- 3 min: Prijelaz na sadržaj
-
-**Ako studentice oklijevaju s odgovorima:**
-- Ti počni prva: "Ja sam najviše ponosna što sam naučila o Risk Managementu jer sad gledam projekte drugačije!"
-- Ponudi primjere iz gornje liste
-
----
-
 # ⏰ **9:10-9:35 (25 min) - PROJECT CLOSURE + STAKEHOLDER ACCEPTANCE**
 
 ## **Slajdovi 1-4: Uvod u Project Closure**
 
 ### **Slajd 3-4: Stakeholder Acceptance for Project Closure**
-
-**Notes iz PDF-a:**
-_"Successful stakeholder acceptance is a crucial component of project closure. By following the structured plan, we ensure: all deliverables meet expectations, outstanding issues are resolved, and stakeholders formally approve the project's completion."_
-
-**Što reći studenticama (8 min):**
 
 "Zamislite sljedeću situaciju:
 
@@ -256,11 +109,6 @@ A: "To je znak lošeg Scope Managementa (sjećate se M3!). Zato je važno imati 
 
 ### **Slajd 5: Stakeholder Acceptance Plan I.**
 
-**Notes iz PDF-a:**
-_"The purpose of a Stakeholder Acceptance Plan is to ensure that all project stakeholders formally accept the project's closure and confirm that all objectives, deliverables, and expectations have been met. Key Stakeholders: Project Sponsor, Clients/End Users, Project Team Members, Senior Management, Vendors and Suppliers."_
-
-**Što reći studenticama (7 min):**
-
 "**Tko su ključni stakeholderi za prihvaćanje projekta?**
 
 *[Nacrtaj na whiteboard]*
@@ -308,11 +156,6 @@ Za naš EduTrack projekt (web platforma za škole), tko bi trebao potpisati acce
 
 ### **Slajd 6: Stakeholder Acceptance Plan II. - Acceptance Criteria**
 
-**Notes iz PDF-a:**
-_"ACCEPTANCE CRITERIA: All project deliverables have been completed and approved. All agreed-upon success criteria have been satisfied. Any outstanding issues have been addressed or documented. Necessary training and knowledge transfer have been conducted. Compliance with all legal and regulatory requirements. Stakeholders have signed off on final acceptance documents."_
-
-**Što reći studenticama (5 min):**
-
 "**6 Kriterija za Acceptance - moraju SVI biti ispunjeni:**
 
 ✅ **1. Svi deliverables su završeni i odobreni**
@@ -358,11 +201,6 @@ Ovo je vaša checklista za svaki projekt!"
 ---
 
 ### **Slajdovi 7-9: Acceptance Process**
-
-**Notes iz PDF-a:**
-_"Acceptance Process: Final Review and Evaluation, Resolution of Outstanding Issues, Formal Sign-Off, Communication and Documentation, Transition and Handover, Lessons Learned and Continuous Improvement."_
-
-**Što reći studenticama (5 min):**
 
 "**6 Koraka Acceptance Procesa:**
 
@@ -496,11 +334,6 @@ Studentice primjenjuju naučene koncepte kreirajući realan Acceptance Checklist
 
 ### **Slajd 11: Project Closure Overview**
 
-**Notes iz PDF-a:**
-_"Project closure is the last phase of a project. It's when the project manager verifies that the client, stakeholder or customer has accepted the project deliverables. The project manager will review the entire project before closing it, rating performance and comparing that to the baseline."_
-
-**Što reći studenticama (5 min):**
-
 "Stakeholder acceptance je prvi korak. Sada dolazi **Contract Closure** - zatvaranje SVIH ugovora vezanih uz projekt.
 
 **Koji ugovori postoje u tipičnom IT projektu?**
@@ -536,11 +369,6 @@ ugovor     hosting     Contractors
 ---
 
 ### **Slajdovi 12-13: Contract Closure Checklist**
-
-**Notes iz PDF-a:**
-_"Contract Closure Checklists: Verify all deliverables and services have been provided. Confirm all invoices have been issued and payments received. Resolve any outstanding financial obligations. Conduct a final contract review. Obtain formal closure confirmation. Archive all contract-related documents. Notify stakeholders of contract closure."_
-
-**Što reći studenticama (5 min):**
 
 "**7 Koraka Contract Closure Checkliste:**
 
@@ -589,11 +417,6 @@ Zaboraviti na automatske pretplate! AWS, Heroku, API servisi se AUTOMATSKI obnav
 ---
 
 ### **Slajdovi 14-16: Processes for Closing Contracts Effectively**
-
-**Notes iz PDF-a:**
-_"Review Contract Terms, Verify Deliverables, Resolve Financial Matters, Obtain Stakeholder Sign-Off, Address Any Disputes, Archive Contract Documents, Conduct a Final Review, Communicate Closure."_
-
-**Što reći studenticama (5 min):**
 
 "**8 Koraka za Efektivno Zatvaranje Ugovora:**
 
@@ -657,33 +480,11 @@ A: "Obično PM office ili legal department. Za male timove - cloud storage s jas
 
 ---
 
-# ⏰ **10:10-10:25 (15 min) - PAUZA** ☕
-
-"Odlično! Stigle smo do pauze. 
-
-Do sada smo naučile:
-✅ Stakeholder Acceptance - tko, zašto, kako
-✅ Contract Closure - 7 koraka checkliste
-
-Nakon pauze:
-📊 Final Project Report
-🎯 Praktična vježba
-🎓 GRAND RECAP svih 5 modula!
-
-Vidimo se za 15 minuta! ☕"
-
----
-
 # ⏰ **10:25-10:50 (25 min) - FINAL PROJECT REPORT**
 
 ## **Slajdovi 17-19: Components of a Final Report**
 
 ### **Slajd 17-18: Final Report Components**
-
-**Notes iz PDF-a:**
-_"Components of a Final Report: Executive Summary, Project Objectives and Scope, Deliverables and Achievements, Project Timeline, Budget and Financial Summary, Challenges and Issues, Lessons Learned, Stakeholder Feedback, Recommendations and Next Steps, Appendices."_
-
-**Što reći studenticama (15 min):**
 
 "**Final Project Report** je SLUŽBENI dokument koji sumira CIJELI projekt. To je vaše 'naslijeđe' - dokument koji ostaje nakon vas.
 
@@ -796,11 +597,6 @@ LESSONS LEARNED TEMPLATE
 ---
 
 ### **Slajd 19-20: Final Report Resources**
-
-**Notes iz PDF-a:**
-_"TASK: Develop a Final Report for the EduTrack project."_
-
-**Što reći studenticama (5 min):**
 
 "Prije nego krenemo na vježbu, evo **Pro Tips za pisanje Final Report-a:**
 
