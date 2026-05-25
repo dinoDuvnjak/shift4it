@@ -1,194 +1,8 @@
 # 📘 DAN 8 - QUALITY, CHANGE & RISK MANAGEMENT
 
-## **PREDAVANJE: Quality Assurance, Change Management i Risk Management u IT Projektima**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M4_COMPLETING THE WORK_6 hours.pdf (Slajdovi 24-46)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M4 Completing The Work  
-**DAN:** 2 od 2 (Dan 8 ukupno u programu) - ZAVRŠNI DAN M4 MODULA
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Razlikovati** Quality Assurance (QA) od Quality Control (QC) i objasniti kada se koristi svaki pristup
-2. **Identificirati** 3 ključna PMI procesa za upravljanje kvalitetom (Plan, Manage, Control)
-3. **Kreirati** Quality Checklist za IT projekt s minimalno 10 stavki
-4. **Objasniti** 6 koraka Change Management procesa prema PMI smjernicama
-5. **Popuniti** Change Impact Assessment za IT projekt
-6. **Definirati** 4 strategije odgovora na rizike (Avoid, Mitigate, Transfer, Accept)
-7. **Kreirati** Risk Register s minimalno 5 rizika za IT projekt
-8. **Primijeniti** Probability x Impact matricu za prioritizaciju rizika
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 24-46)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (minimalno 4 boje)
-- [ ] Timer za aktivnosti
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Post-it notes (za Risk Identification aktivnost)
-- [ ] Veliki papiri (A3 ili flipchart) za grupni rad
-- [ ] Crveni, žuti i zeleni markeri za Risk Matrix
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] Materijali s M4 Dan 1 (Scope Change, CPM, EVM koncepti)
-- [ ] EduTrack Case Study dokumenti iz prethodnih dana
-
-### **Digitalni materijali:**
-- [ ] Quality Checklist Template (handout)
-- [ ] Change Impact Assessment Form (handout)
-- [ ] Risk Register Template (handout)
-- [ ] Probability x Impact Matrix (handout)
-- [ ] EduTrack Case Study (kontinuitet iz M3/M4)
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi Post-it notes i markere za Risk aktivnost
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju (slajdovi 24-46)
-5. ✅ Napravi sebi "cheat sheet" s QA vs QC razlikama i Risk Response strategijama
-6. ✅ Pripremi Probability x Impact matricu na velikom papiru
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 24
-3. ✅ Napiši na whiteboard: "M4 Dan 2: Quality + Change + Risk Management"
-4. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-5. ✅ Postavi handoute na stolove
-6. ✅ Nacrtaj praznu Risk Matrix na whiteboard (3x3 grid)
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:15    (15 min)  Recap M4 Dan 1 + Uvod u Dan 2
-9:15-9:40    (25 min)  Quality Assurance in PM - Teorija (QA vs QC, PMI procesi)
-9:40-10:05   (25 min)  🎯 AKTIVNOST: Quality Checklist za IT Projekt
-10:05-10:20  (15 min)  ☕ PAUZA
-10:20-10:40  (20 min)  Change Management - Teorija (PMI proces, CCB)
-10:40-11:00  (20 min)  🎯 AKTIVNOST: Change Impact Assessment
-11:00-11:25  (25 min)  Risk Management - Teorija (Identification, Assessment, Response)
-11:25-11:50  (25 min)  🎯 AKTIVNOST: Risk Register + Risk Matrix
-11:50-12:00  (10 min)  Recap M4 Modula + Najava M5
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 70 min | 39% |
-| 🎯 Praksa/Aktivnosti | 70 min | 39% |
-| ☕ Pauze | 15 min | 8% |
-| 📋 Admin (recap/uvod) | 25 min | 14% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
-# ⏰ **9:00-9:15 (15 min) - RECAP M4 DAN 1 + UVOD U DAN 2**
-
-## **Što reći studenticama:**
-
-"Dobro jutro i dobrodošle na osmi dan našeg programa - završni dan M4 modula! 👋
-
-Danas završavamo **M4: Completing The Work** i učimo tri iznimno važne teme za uspjeh svakog IT projekta.
-
----
-
-🔄 **Brzi Recap M4 Dan 1:**
-
-Jučer smo naučile kako PRATITI i KONTROLIRATI projekt:
-
-**1. Scope Change Management:**
-- Što se događa kad klijent traži 'još malo'? *(Schedule delays, Cost increase, Resource strain, Quality risks, Stakeholder conflicts)*
-- Koliko koraka ima Scope Change Management Plan? *(7: Identify → Assess → Review → Communicate → Implement → Monitor → Document)*
-
-**2. Schedule Tracking (CPM):**
-- Što je Critical Path? *(Najduži niz ovisnih taskova = minimalno trajanje projekta)*
-- Što znači Float = 0? *(Task nema fleksibilnosti - ako kasni, projekt kasni)*
-
-**3. Budget Tracking (EVM):**
-- Koje su 3 ključne vrijednosti? *(PV - Planned Value, EV - Earned Value, AC - Actual Cost)*
-- Što znači CPI < 1? *(Projekt troši više nego bi trebao - inefficient)*
-- Što znači SPI < 1? *(Projekt kasni - behind schedule)*
-
-Sjajno! 👏
-
----
-
-🎯 **Što nas čeka danas:**
-
-Danas učimo 3 ključne teme koje osiguravaju KVALITETU i SIGURNOST projekta:
-
-| Tema | Pitanje koje rješava |
-|------|----------------------|
-| **Quality Management** | Kako osigurati da deliverables zadovoljavaju standarde? |
-| **Change Management** | Kako strukturirano upravljati promjenama? |
-| **Risk Management** | Kako identificirati i odgovoriti na prijetnje projektu? |
-
-*[Nacrtaj na whiteboard]*
-```
-M4 Dan 1: TRACKING (Scope, Schedule, Budget)
-                    ↓
-M4 Dan 2: ASSURANCE (Quality, Change, Risk)
-                    ↓
-        = PROJEKT POD KONTROLOM! ✅
-```
-
-**Poveznica s M4 Dan 1:**
-- Jučer smo naučile PRATITI napredak (jesmo li na vrijeme? u budgetu?)
-- Danas učimo OSIGURATI kvalitetu i UPRAVLJATI promjenama i rizicima
-
-**Zašto je ovo važno:**
-- Projekt može biti na vrijeme i u budgetu, ali ako kvaliteta nije dobra - klijent neće biti zadovoljan!
-- Promjene su neizbježne - pitanje je kako ih kontrolirati
-- Rizici mogu uništiti projekt - bolje ih predvidjeti nego reagirati
-
-Ima li pitanja prije nego krenemo?"
-
-📚 **FACILITATOR NOTES:**
-
-**Za tvoje razumijevanje:**
-Današnje teme su o PREVENCIJI i KONTROLI. Quality Management osigurava da radimo stvari ISPRAVNO. Change Management osigurava da promjene ne unište projekt. Risk Management osigurava da smo SPREMNI za probleme.
-
-**Ključna poruka:**
-"Dobar PM ne samo da prati projekt - on AKTIVNO osigurava kvalitetu, kontrolira promjene i upravlja rizicima."
-
-**Poveznica s prethodnim modulima:**
-- M2: Stakeholder Management → Stakeholderi definiraju quality expectations
-- M3: Scope Statement → Scope definira što je "quality" za ovaj projekt
-- M4 Dan 1: Tracking → Tracking pokazuje probleme, Quality/Change/Risk ih rješavaju
-
-**Troubleshooting:**
-- **Studentice ne sjećaju M4 Dan 1:** Brzo podsjeti na EVM formule (CPI, SPI) i nastavi.
-- **Pitaju zašto toliko tema:** "Sve tri teme su povezane - kvaliteta, promjene i rizici utječu jedni na druge."
-
----
-
 # ⏰ **9:15-9:40 (25 min) - QUALITY ASSURANCE IN PM - TEORIJA**
 
-### **Slajdovi 24-33: Quality Assurance in Project Management**
-
-**Notes iz PDF-a:**
-_"Plan Quality Management involves identifying the quality requirements and standards for the project and its deliverables and determining how to achieve them."_
-
-## **Što reći studenticama (25 min):**
+### **Slajdovi 30-32: Quality Assurance in Project Management**
 
 "Prva tema danas: **Quality Management** - Kako osigurati da naš IT projekt isporučuje KVALITETNE deliverables?
 
@@ -492,33 +306,9 @@ Krenimo!"
 
 ---
 
-# ⏰ **10:05-10:20 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odličan rad na Quality Checklist-u! 👏
-
-Sada znate kako kreirati checklist koji sprječava quality probleme. Imate 15 minuta pauze.
-
-Vratite se u 10:20 - učimo o **Change Management** i kako strukturirano upravljati promjenama u projektu!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi slajdove 34-38 (Change Management)
-- Provjeri da studentice imaju Change Impact Assessment handout
-- Napiši na whiteboard: "Change Management = Kontrolirane promjene"
-
----
-
 # ⏰ **10:20-10:40 (20 min) - CHANGE MANAGEMENT - TEORIJA**
 
 ### **Slajdovi 34-38: Importance of Change Management in Projects**
-
-**Notes iz PDF-a:**
-_"PMI incorporates change management through integrated change control, which is primarily handled within the Project Integration Management knowledge area."_
-
-## **Što reći studenticama (20 min):**
 
 "Druga tema danas: **Change Management** - Kako upravljati promjenama bez da projekt izađe iz kontrole?
 
@@ -865,11 +655,6 @@ Krenimo!"
 # ⏰ **11:00-11:25 (25 min) - RISK MANAGEMENT - TEORIJA**
 
 ### **Slajdovi 39-44: Importance of Risk Management in Projects**
-
-**Notes iz PDF-a:**
-_"PMI outlines risk management as a structured approach in the PMBOK Guide. It is part of the Project Risk Management knowledge area, ensuring that projects proactively identify, analyze, and respond to risks."_
-
-## **Što reći studenticama (25 min):**
 
 "Treća i posljednja tema danas: **Risk Management** - Kako identificirati i odgovoriti na prijetnje projektu?
 

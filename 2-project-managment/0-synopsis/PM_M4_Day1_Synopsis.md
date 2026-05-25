@@ -1,105 +1,5 @@
 # 📘 DAN 7 - PROJECT EXECUTION MONITORING: SCOPE, SCHEDULE & BUDGET TRACKING
 
-## **PREDAVANJE: Kontrola Scope-a, Praćenje Rasporeda i EVM Metrika**
-**TRAJANJE:** 9:00-12:00 (3 sata, s pauzama)  
-**PDF MATERIJAL:** M4_COMPLETING THE WORK_6 hours.pdf (Slajdovi 1-23)  
-**BROJ STUDENTICA:** 5-30  
-**MODUL:** M4 Completing The Work  
-**DAN:** 1 od 2 (Dan 7 ukupno u programu)
-
----
-
-## 🎯 **CILJEVI UČENJA**
-
-Na kraju ovog predavanja, studentice će moći:
-
-1. **Identificirati** 5 glavnih utjecaja neplaniranih promjena scope-a na projekt
-2. **Primijeniti** strategije za prevenciju scope creep-a
-3. **Kreirati** Scope Change Management Plan za IT projekt
-4. **Objasniti** ključne tehnike praćenja rasporeda (Gantt, CPM, Milestones)
-5. **Izračunati** Critical Path za jednostavan IT projekt
-6. **Definirati** ključne EVM metrike (PV, EV, AC, CPI, SPI, CV, SV)
-7. **Analizirati** projekt performance koristeći EVM formule
-8. **Procijeniti** buduće troškove projekta (EAC, ETC)
-
----
-
-## 📋 **MATERIJALI POTREBNI ZA SESIJU**
-
-### **Za facilitatora:**
-- [ ] Laptop s prezentacijom (PDF slajdovi 1-23)
-- [ ] Projektor i platno
-- [ ] Whiteboard/flipchart + markeri (minimalno 4 boje)
-- [ ] Timer za aktivnosti
-- [ ] Printani handouti za sve studentice (vidi sekciju Student Handouts)
-- [ ] Kalkulatori (ili potvrditi da studentice imaju mobitele)
-- [ ] Post-it notes za Scope Change aktivnost
-- [ ] Veliki papiri (A3 ili flipchart) za grupni rad
-
-### **Za studentice:**
-- [ ] Bilježnica i olovka
-- [ ] Printani handouti (dijeli facilitator)
-- [ ] Kalkulator (ili mobitel) za EVM vježbu
-- [ ] Materijali s M3 (WBS, Schedule, Budget koncepti)
-
-### **Digitalni materijali:**
-- [ ] Scope Change Request Form Template (handout)
-- [ ] CPM Worksheet (handout)
-- [ ] EVM Calculation Sheet (handout)
-- [ ] EduTrack/HealthTrack Case Study (kontinuitet iz M3)
-
----
-
-## 🔧 **PRIPREMA PRIJE SESIJE**
-
-### **Dan prije:**
-1. ✅ Provjeri da projektor radi
-2. ✅ Printaj handoute (5-30 kopija ovisno o broju studentica)
-3. ✅ Pripremi kalkulatore ili potvrdi dostupnost mobitela
-4. ✅ Pregledaj cijeli synopsis i PDF prezentaciju (slajdovi 1-23)
-5. ✅ Napravi sebi "cheat sheet" s EVM formulama
-6. ✅ Pripremi CPM primjer za whiteboard
-
-### **30 minuta prije sesije:**
-1. ✅ Postavi laptop i projektor
-2. ✅ Otvori PDF na Slajdu 3
-3. ✅ Napiši na whiteboard: "M4 Dan 1: Scope + Schedule + Budget TRACKING"
-4. ✅ Rasporedi stolove za grupni rad (grupe od 3-4 osobe)
-5. ✅ Postavi handoute na stolove
-6. ✅ Napiši EVM formule na whiteboard (pokriveno za reveal later)
-
-### **5 minuta prije sesije:**
-1. ✅ Provjeri da je sve spremno
-2. ✅ Pripremi timer
-3. ✅ Dočekaj studentice s osmijehom! 😊
-
----
-
-## ⏰ **RASPORED PREDAVANJA**
-
-```
-9:00-9:15    (15 min)  Recap M3 + Uvod u M4 Modul
-9:15-9:35    (20 min)  Effects of Unplanned Scope Changes - Teorija
-9:35-10:05   (30 min)  🎯 AKTIVNOST: Scope Change Management Plan
-10:05-10:20  (15 min)  ☕ PAUZA
-10:20-10:45  (25 min)  Schedule Tracking Techniques (CPM, Gantt, Milestones)
-10:45-11:10  (25 min)  🎯 AKTIVNOST: Critical Path Method Calculation
-11:10-11:35  (25 min)  Budget Tracking - EVM Fundamentals
-11:35-11:55  (20 min)  🎯 AKTIVNOST: EVM Case Study Analysis
-11:55-12:00  (5 min)   Recap Dana + Najava M4 Dan 2
-```
-
-### **Statistika:**
-| Tip aktivnosti | Trajanje | Postotak |
-|----------------|----------|----------|
-| 📘 Teorija | 70 min | 39% |
-| 🎯 Praksa/Aktivnosti | 75 min | 42% |
-| ☕ Pauze | 15 min | 8% |
-| 📋 Admin (recap/uvod) | 20 min | 11% |
-| **UKUPNO** | **180 min** | **100%** |
-
----
-
 # ⏰ **9:00-9:15 (15 min) - RECAP M3 + UVOD U M4 MODUL**
 
 ## **Što reći studenticama:**
@@ -190,12 +90,7 @@ M4 je o 'reality check' - planovi su lijepi, ali stvarnost je drugačija. Ovaj m
 
 # ⏰ **9:15-9:35 (20 min) - EFFECTS OF UNPLANNED SCOPE CHANGES - TEORIJA**
 
-### **Slajdovi 3-8: Impact of Unplanned Scope Changes + Strategies**
-
-**Notes iz PDF-a:**
-_"Unplanned scope changes impact: 1. Schedule Delays, 2. Increased Costs, 3. Resource Strain, 4. Quality Risks, 5. Stakeholder Conflicts"_
-
-## **Što reći studenticama (20 min):**
+### **Slajdovi 5: Impact of Unplanned Scope Changes + Strategies**
 
 "Prva tema danas: **Što se događa kada klijent kaže 'možete li dodati još ovo malo'?**
 
@@ -264,7 +159,7 @@ UKUPNO: 6.500€+ dodatnih troškova'
 
 🛡️ **5 STRATEGIJA ZA PREVENCIJU SCOPE CREEP-a:**
 
-*[Prikaži slajd 5]*
+*[Prikaži slajd 6]*
 
 **1. 📝 DEFINE CLEAR PROJECT SCOPE**
 > Koristite detaljan Scope Statement s jasnim granicama
@@ -341,7 +236,7 @@ A: "U Agile: ide u backlog za sljedeći sprint. Nikad ne dodajemo u trenutni spr
 
 # ⏰ **9:35-10:05 (30 min) - 🎯 AKTIVNOST: SCOPE CHANGE MANAGEMENT PLAN**
 
-### **Slajdovi 9: Case Study - Uniform Production Project**
+### **Slajdovi 12: Case Study - Uniform Production Project**
 
 ## ✏️ **AKTIVNOST: Scope Change Request za IT Projekt**
 
@@ -482,33 +377,9 @@ Krenimo!"
 
 ---
 
-# ⏰ **10:05-10:20 (15 min) - ☕ PAUZA**
-
-## **Što reći studenticama:**
-
-"Odličan rad na Scope Change Request-u! 👏
-
-Sada znate kako strukturirano pristupiti promjenama. Imate 15 minuta pauze.
-
-Vratite se u 10:20 - učimo o **Schedule Tracking** i **Critical Path Method**!"
-
-📚 **FACILITATOR NOTES:**
-
-**Tijekom pauze:**
-- Pripremi slajdove 10-16 (Schedule Tracking)
-- Nacrtaj CPM network diagram na whiteboard (ili pripremi za crtanje)
-- Provjeri da studentice imaju kalkulatore za EVM
-
----
-
 # ⏰ **10:20-10:45 (25 min) - SCHEDULE TRACKING TECHNIQUES**
 
-### **Slajdovi 10-16: Techniques for Tracking Schedules + CPM**
-
-**Notes iz PDF-a:**
-_"5 key techniques: 1. Gantt Charts, 2. Critical Path Method (CPM), 3. Earned Value Management (EVM), 4. Milestone Tracking, 5. Agile Methodologies"_
-
-## **Što reći studenticama (25 min):**
+### **Slajdovi 13-14: Techniques for Tracking Schedules + CPM**
 
 "Sada prelazimo na drugu temu: **Kako pratiti je li projekt na vrijeme?**
 
@@ -574,6 +445,14 @@ NON-Critical: Documentation (ima 10 dana float-a)
 
 *Primjer:*
 'SPI = 0.8 znači da za svaki 1€ planiranog posla, napravili smo samo 0.80€ posla. Kasnimo 20%!'
+
+3. Detaljna analiza primjera (SPI = 0.8)Zamisli da radiš web stranicu. 
+Plan je bio da do danas završiš posao vrijedan 1.000 € (to je tvoj PV).
+Kad pogledaš što si stvarno napravio, shvatiš da si završio tek dio posla koji vrijedi 800 € (to je tvoj EV).
+Uvrštavamo u formulu:\(\text{SPI}=\frac{800}{1000}=0.8\)
+Što to znači u praksi?
+Financijski pogled: Za svaki planirani euro posla, ti si u stvarnosti "zaradio" (odradio) samo 80 centi. Ostalih 20 centi si "izgubio" u vremenu jer posao nije gotov.
+Vremenski pogled: Radiš brzinom od 80% od one koju si planirao. Zato kasniš točno 20% za planom (1.0 - 0.8 = 0.2, odnosno 20%).
 
 ---
 
@@ -804,12 +683,7 @@ U ovom slučaju, jer su oba puta jednaka, SVI taskovi su kritični!
 
 # ⏰ **11:10-11:35 (25 min) - BUDGET TRACKING - EVM FUNDAMENTALS**
 
-### **Slajdovi 17-23: EVM Techniques for Budget Tracking**
-
-**Notes iz PDF-a:**
-_"Earned Value Management (EVM) is a project management technique used to assess a project's performance by comparing the planned progress to the actual progress."_
-
-## **Što reći studenticama (25 min):**
+### **Slajdovi 23-29: EVM Techniques for Budget Tracking**
 
 "Treća tema danas: **Kako znamo jesmo li u budgetu?**
 
